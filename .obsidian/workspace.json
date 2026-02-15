@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5201070472cc529f",
+        "id": "a468a66a59ff513d",
         "type": "tabs",
         "children": [
           {
@@ -13,31 +13,142 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "03 – Resources/How-Tos and Tips/PARA Tips/PARA Recurring Behaviors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "PARA Recurring Behaviors"
             }
-          }
-        ]
-      },
-      {
-        "id": "a468a66a59ff513d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7124b9096aae9f6f",
+            "id": "9a1a80ec2aac62ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 – Projects/Ask sister to officiate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ask sister to officiate"
+            }
+          },
+          {
+            "id": "2d7e43cf4abdcc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 – Projects/Create a State Failure Emergency Response Plan.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Create a State Failure Emergency Response Plan"
+            }
+          },
+          {
+            "id": "e5e1c3b81d897abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 – Projects/Ask sister to officiate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ask sister to officiate"
+            }
+          },
+          {
+            "id": "a4bbb8bd71744d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 – Inbox/Recurring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recurring"
+            }
+          },
+          {
+            "id": "503dea4fd67043b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 – Inbox/Reading Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading Backlog"
+            }
+          },
+          {
+            "id": "c2981e3a99541f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 – Inbox/Life's Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Life's Work"
+            }
+          },
+          {
+            "id": "26fa86f1e198d833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 – Inbox/Recurring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recurring"
+            }
+          },
+          {
+            "id": "79e6ffd034743e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 – Projects/Ask sister to officiate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ask sister to officiate"
+            }
+          },
+          {
+            "id": "96d31fb77cbcad8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 – Inbox/Unorganized Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unorganized Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -70,11 +181,11 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -110,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "00 – Inbox/Unorganized Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Unorganized Tasks"
             }
           },
           {
@@ -185,8 +296,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +306,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7c2441164e15ea2e",
+  "active": "96d31fb77cbcad8b",
   "lastOpenFiles": [
-    "Welcome.md"
+    "03 – Resources/Bucket List/Bucket List.md",
+    "00 – Inbox/Unorganized Tasks.md",
+    "03 – Resources/Bucket List",
+    "00 – Inbox/Recurring.md",
+    "00 – Inbox/Reading Backlog.md",
+    "00 – Inbox/Untitled.md",
+    "03 – Resources/Web Development/Free Resources.md",
+    "03 – Resources/Web Development",
+    "02 – Areas/Disaster Preparedness/Disaster Preparedness.md",
+    "01 – Projects/Secondary Citizenship.md",
+    "01 – Projects/Build AI Training Plan.md",
+    "01 – Projects/Ask sister to officiate.md",
+    "02 – Areas/AI/AI.md",
+    "00 – Inbox/To Learn.md",
+    "03 – Resources/Food and Drink/Restaurants.md",
+    "03 – Resources/Food and Drink/Drinks.md",
+    "03 – Resources/History/Seattle/Regrading in Seattle - Wikipedia.md",
+    "03 – Resources/Food and Drink",
+    "03 – Resources/History/Seattle/Links.md",
+    "03 – Resources/Watches/Flieger Watches.md",
+    "03 – Resources/Quotes/Recurring/Old.md",
+    "03 – Resources/Quotes/Recurring/Current.md",
+    "03 – Resources/How-Tos and Tips/Obsidian Tips/Michael Nail Obsidian Notes.md",
+    "03 – Resources/How-Tos and Tips/PARA Tips/Configuring Obsidian for PARA.md",
+    "03 – Resources/How-Tos and Tips/PARA Tips/PARA Overview.md",
+    "03 – Resources/How-Tos and Tips/PARA Tips/PARA Recurring Behaviors.md",
+    "03 – Resources/Watches",
+    "00 – Inbox/Life's Work.md",
+    "01 – Projects/Cancel NYT and Provecho subscriptions.md",
+    "02 – Areas/Finances/Finances.md",
+    "03 – Resources/Quotes/Recurring",
+    "03 – Resources/Quotes",
+    "05 – Daily",
+    "02 – Areas/00 – Daily",
+    "98 – Dashboards",
+    "04 – Archive/Archived Projects",
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,21 @@
+---
+type: project
+area: AI
+status: paused
+due:
+energy:
+created: 2026-02-13
+---
+
+# Map internal AI tooling at work
+
+## Definition of Done
+(What must be true for this to be archived?)
+
+## Next Actions
+- [ ] 
+
+## Waiting On
+- [ ] 
+
+## Notes
