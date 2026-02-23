@@ -1,7 +1,7 @@
 ---
 type: area
 review: monthly
-owner: me
+owner: Jonathan D. Micklos
 created: 2026-02-14
 ---
 
@@ -12,6 +12,7 @@ created: 2026-02-14
 
 ## Recurring Responsibilities
 -
+
 
 ## 🟢 Active Projects
 

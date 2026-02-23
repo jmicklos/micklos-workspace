@@ -1,10 +1,6 @@
 Recurring Items: 
 * Weekly outing w/ Wan Ting
 * Birthdays
-	* Wan Ting
-	* Mom
-	* Dad
-	* Lauren
 	* Andrew
 	* Athul
 	* Gabe
@@ -31,4 +27,8 @@ Recurring Items:
 * Digital: 
 	* Search Internet for my Existence and Clean Up
 	* sudo nvram -c
-	* 
+* Winter Getaway
+* Tend to [Reading Backlog](obsidian://open?vault=micklos-workspace&file=03%20%E2%80%93%20Resources%2FReading%2FReading%20Backlog)
+* Tend to [Restaurants Backlog ](obsidian://open?vault=micklos-workspace&file=03%20%E2%80%93%20Resources%2FFood%20and%20Drink%2FRestaurants)
+* Tend to [Music Backlog](obsidian://open?vault=micklos-workspace&file=03%20%E2%80%93%20Resources%2FMusic%2FMusic%20Recommendations)
+* 

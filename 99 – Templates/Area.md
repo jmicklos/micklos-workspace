@@ -4,7 +4,7 @@ await tp.file.rename(title);
 %>---
 type: area
 review: monthly
-owner: me
+owner: Jonathan D. Micklos
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 

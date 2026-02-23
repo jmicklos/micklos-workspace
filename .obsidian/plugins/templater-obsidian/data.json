@@ -15,6 +15,10 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "03 – Resources/Relationships",
+      "template": "99 – Templates/Relationship.md"
+    },
+    {
       "folder": "01 – Projects",
       "template": "99 – Templates/Project.md"
     },

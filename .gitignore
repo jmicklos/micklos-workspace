@@ -1,0 +1,61 @@
+########################################
+# Obsidian — local machine state
+########################################
+
+# Workspace + UI state (device specific)
+.obsidian/workspace.json
+
+# Cache + runtime data
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Local plugin data that shouldn't sync
+.obsidian/plugins/*/data.json
+
+# Community plugin temp files
+.obsidian/plugins/*/cache/
+
+########################################
+# OS junk
+########################################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+########################################
+# Syncthing internal files
+########################################
+
+.stfolder
+.stignore
+.stversions/
+.sttmp*
+
+########################################
+# Backup / temp files
+########################################
+
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+########################################
+# Logs
+########################################
+
+*.log
+
+########################################
+# Trash folders
+########################################
+
+.trash/

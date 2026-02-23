@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
   "showInlineTitle": false,
-  "newFileFolderPath": "00 – Inbox"
+  "newFileFolderPath": "00 – Inbox",
+  "promptDelete": false
 }
