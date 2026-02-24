@@ -14,9 +14,9 @@ next-review: 2026-02-28
 I weigh 170 lbs
 
 ## Next Actions
-- [ ] Create weigh-in tracker
-- [ ] Create food tracker
-- [ ] Create activity tracker (gym / running)
+- [x] Create weigh-in tracker
+- [x] Create food tracker
+- [x] Create activity tracker (gym / running)
 - [ ] Institute new Morning Routine for Weightloss
 
 ## Waiting On

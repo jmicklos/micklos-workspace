@@ -2,7 +2,7 @@
 
 ```dataview
 // TABLE area, file.mtime AS "Last Updated"
-LIST
+LIST file.link
 FROM "01 – Projects"
 WHERE type = "project"
 AND status = "active"

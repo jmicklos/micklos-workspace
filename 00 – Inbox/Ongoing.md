@@ -9,8 +9,7 @@
 - [ ] Update Schwab autopay structure
 
 # Projects
-- 
-
+* 
 
 
 

@@ -14,8 +14,8 @@ next-review: 2026-02-28
 Lauren agrees to be the officiant
 
 ## Next Actions
-- [ ] Figure out silly gift
-- [ ] Get silly gift
+- [x] Figure out silly gift
+- [x] Get silly gift
 - [ ] Schedule time with Lauren
 - [ ] Visit and ask
 
