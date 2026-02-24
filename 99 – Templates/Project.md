@@ -5,7 +5,7 @@ await tp.file.rename(title);
 type: project
 area:
 status:
-next-review
+next-review: 
 due:
 energy:
 created: <% tp.date.now("YYYY-MM-DD") %>
