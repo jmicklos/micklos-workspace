@@ -8,7 +8,7 @@ created: 2026-03-31
 next-review: 2026-02-28
 ---
 
-# House – Finish Basement
+# Home – Finish Basement
 
 ## Definition of Done
 The basement is physically rentable
@@ -22,7 +22,7 @@ The basement is physically rentable
 	- [ ] Purchase
 	- [ ] Install
 - [ ] Sconces
-	- [ ] Purchase light bulbs
+	- [x] Purchase light bulbs
 	- [ ] Install them 
 - [ ] Paint
 	- [ ] Paint Trim

@@ -2,8 +2,10 @@
 - 
 
 ## Focus Today
-- 
-
+#### Quick Next Steps
+* 
+#### Less Quick Next Steps
+* 
 ## Projects to Move
 - 
 
