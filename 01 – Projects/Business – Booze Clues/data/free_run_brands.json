@@ -1,0 +1,2048 @@
+{
+  "source": "Free Run Wine Merchants",
+  "source_url": "https://freerunwinemerchants.com/explore-by-producer/",
+  "extracted_date": "2026-04-07",
+  "distributor": "Free Run Wine Merchants",
+  "brands": [
+    {
+      "name": "Julien Schaal",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Sophie Schaal",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château de Millet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Camille Mélinand",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Céline & Nicolas Hirsch",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château des Vergers",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Bonnet-Cotton",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Terres Dorées",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Les Roches Bleues",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Saint Cyr",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Elisa Guérin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Famille Dutraive",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Prunelle de Navacelle",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Yann Bertrand",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cassini",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château des Antonins",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château Le Chay",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château Lestage-Darquier Grand Poujeaux",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Naguelann Distillerie",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Alice et Olivier de Moor",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Boris Champy",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château de Fleys",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de la Mandelière",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Clos de la Roilette",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Cordier",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de l’Évêché",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Denis",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Feuillat-Juillot",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Fichet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Gonon",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Jean & Gilles Lafouge",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Pierre Amiot et Fils",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Pillot Laurent & Romain",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Rougeot Père et Fils",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Sérafin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Jacoulot",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Marcel Couturier",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Paul & Marie Jacqueson",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vitteaut-Alberti",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Alain Vincey",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Arthur Lelièvre",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Brocard Pierre",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Christian Gosset",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Éric Taillet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Fluteau",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Forget-Chauvet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Oudiette X Filles",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Philippe Gonet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Pierre Cellier",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Champagne Tarlant",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ulysse Collin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Waris-Larmandier",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bourgoin Cognac",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Saison Rum",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Reine de la Ville",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "T.O.S. Distillerie",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château Beauregard-Mirouze",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château d’Oupia",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Ancely",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Borie la Vitarèle",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de Majas",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de la Motte",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Sauvaire",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Matassa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Maison Antech",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Laurent Miquel",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mas des Cabres",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Petit Canet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tâcherons",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "A la Vôtre!",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Agnès & René Mosse",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château de Pasquette",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château l’Oiseliniere",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Châteaux du Breuil et de la Roche",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château du Hureau",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Deux Moulins",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine a Deux",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Bernard Baudry",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Daniel Reverdy",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de Bellevue",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de La Paleine",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de la Pépière",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de la Quilla",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Hauts Baigneux",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Hauts de Sanziers",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Mailloches",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine du Closel",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine du Haut Fresne",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Girard",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Luneau-Papin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Philippe Brocourt",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Serol",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Siret-Courtaud",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine St Nicolas",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Thomas & Fils",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Thomas-Labaille",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "François Cazin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "François et Julien Pinon",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Jean–François Mérieau",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Jean-Pascal Aubron",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Loïc Mahé",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Patrick Noël",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Sebastien Treuillet",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Valérie Forgues",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vignoble Malidain",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Clos Cibonne",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantarelle Gin de Provence",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château Routas",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Les Adrets",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Aléofane, Natacha Chave",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Des Garriguettes",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine la Ligière",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine l’Or de Line",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Marcel Richaud",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Notre Dame des Pallières",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Serre des Vignes",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Vallot",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Éric Texier",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Famille Mayard, Françoise Roumieux",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Camille et Mathieu Apffel",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Delalex",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine de Lucey",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Lupin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Renardat-Fâche",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Thierry Tissot",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château Combel-la-Serre",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château de Gaudou",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Château du Cayrou",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Clos Guirouilh",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine Barreau",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Galope",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Valérie Courrèges",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Badia alle Corti",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Torre dei Beati",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Az. Agr. San Martino",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Grifalco",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "L’Acino",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Colli di Lapio",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantine Lonardo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantine Luigi Maffini",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cà de Noci",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina di Sorbara",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Stoppa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Paltrinieri",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Giorgio Colutta",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Sangallo Distillery Cinque Terre (Amaro Camatti)",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ar.Pe.Pe.",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina La Perla di Marco Triacca",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tenuta di Tavignano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bixio Produttori",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "ViNiCa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Alessandro Veglio",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Angelo Negro",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Antica Torino",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Argalà",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Azienda Agricola 499",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Azienda Agricola Crus",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bassano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Borgo Maragliano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina Massara",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina Sociale di Gattinara",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cascina Preziosa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cieck",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Distilleria Gualco",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domenico Clerico",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ercole",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Giacomo Fenocchio",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Colombera",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Miraja",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Piane",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Luigi Giordano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mandirola 1913",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mauro Vergano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Muraje",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Oddero",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Paolo Conterno",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rapa Giovanni",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Roagna",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Roccheviberti",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tenuta il Nespolo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantine Cosimo Taurino",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Perrini",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina Santa Maria La Palma",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tenute Dettori",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Arianna Occhipinti",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Assuli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ayunta",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Castellucci Miano",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Vigne di Eli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Marco de Bartoli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Oynos",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Petraio",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Salvo Foti-I Vigneri",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tenuta delle Terre Nere",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Falkenstein",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Foradori",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "J. Hofstätter",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Brancatelli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Dievole",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Gianni Brunelli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Il Palazzone",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Istine",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Potazzine",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Podere San Cristoforo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Poggio Landi",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Principe Corsini",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Terenzi",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Uccelliera",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Voliero",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Antonelli",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Distilleria Alpe",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Boca Barrel",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Cantina Colli Euganei S.C.A.",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Col di Rocca",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Corte Sant’Alda",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Gabriella",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Gamba",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "L’Arco",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Colture",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Fraghe",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Le Morette",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Terre di Marca",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Barrialto",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodega Manuel Aragón",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodegas Luis Pérez",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "César Florido",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "El Maestro Sierra",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Cigarrera",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Meridiano Perdido",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Molino Real",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodegas Aragonesas",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Juanvi Viticultor",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ama Brewery",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ameztoi",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Destilerías Atxa (Acha) Vermouth",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Doniene Gorrondona",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Isastegi Sagardo Naturala",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Trabanco Sidra Natura",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Uriondo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Virgen de Lorea",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Xarmant",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Antoine Graillot & Raúl Pérez",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Suertes del Marques",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Viña del Bululú",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Viña Galana",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Alvar de Dios",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Garciarévalo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Malahierba",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Viña Sastre",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vinos Valtuille",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "7 PAMS",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Anna Espelt",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Avinyó Caves",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "BCN",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Can Xa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Celler Pardas",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Costers del Priorat",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mas Doix",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Miquel Pons",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Parés Baltà",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Succés Vinícola",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Adega Manuel Formigo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "D. Ventura",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Do Ferreiro",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Eido da Salgosa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Jose A Garcia",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ladeiras do Xil",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Shanela (Xanela)",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tiro al Blanco",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Viña Cartin",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Viñedos do Gabián",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mesquida Mora",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ca’n Verdura",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Genio Español",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Itxas Harri",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Luzador",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodegas Bhilar",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodegas Javier San Pedro Ortega",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Conde de Hervias",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Luberri",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ostatu",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Remelluri",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Milenrama",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bodegas Sentencia",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Kiki & Juan",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "La Comarcal",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Espaço Rural",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Casa de Darei",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Opta",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Quinta do Infantado",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Herdade de Gambia",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Aphros",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Quinta da Raza",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Karl Josef",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "A. Christmann",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Koehler-Ruprecht",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Carl Ehrhard",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Geyerhof",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Landhaus Mayer",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mayer am Pfarrplatz",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Weingut Lagler",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Weingut Lackner-Tinnacher",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "L’Alpage",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Muri Drinks",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Åhus Distillery",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vilinka",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Agrina",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Sagmeister",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vino Budimir",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ferdinand",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Nine Oaks Estate",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine des Tourelles",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Anthill Farms",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bedrock Wine Company",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "BREA Wine Co.",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Caraccioli Cellars",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Carte Blanche",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Center of Effort",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Clos Saron",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Corison",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Donkey & Goat",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Dry Canyon",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Fableist Wine Co.",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Field Recordings",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Forlorn Hope",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Idlewild",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Limerick Lane",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Margins Wine",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mommenpop",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mr. Brightside",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Once & Future",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "POE",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "R8 Wine Company",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rafael et Fils",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rhino",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rhys Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Skinner Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "So Far Out",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tin Barn",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Wade Cellars",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Arterberry Maresh",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ayoub",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Brandborg Vineyard & Winery",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Craft Wine Co. (Omero Cellars + Minimus Wines + Origin Wines)",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Domaine St. Laurent",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Dusky Goose",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Eola Hills",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "EZY TGR",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Idiot’s Grace",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Kelley Fox",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Limited +",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Lundeen",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ovum",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Sineann",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tan Fruit",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Winderlea",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Barter & Trade",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Claar Cellars",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Hyatt Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rasa Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Treveri Cellars",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Bimini",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "L Mawby",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "C. Cassis",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Death & Co",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Wigle",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Eden Ciders",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Iapetus",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Southwest Mountains Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Woody Creek Distillers",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Manly Spirits",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Chalk Hill",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Hugh Hamilton",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Karatta",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Smallfry",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tim Smith",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Tiny Paradoxes",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ben Haines Wine",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Best’s Great Western",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Hare & Tortoise",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Moorooduc Estate",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Alkoomi",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ashbrook Estate",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Black Cottage",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Fernhook Estate",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Vandal",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "False Bay Vineyards",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Arendsig",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Closilo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Ken Forrester",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Radford Dale",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Waterkloof",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Hermanuspietersfontein",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Finca Don Carlos",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Gouguenheim",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Hinojosa",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Revolution Wine Company",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Villard",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Reta",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Viñedos de Alcohuaz",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Baettig",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "El Pintor Tequila",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Flor De Luna Destilados",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Rezpiral",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mezcal Metiche",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Mezcal Legendario Domingo",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Aqará",
+      "category": "wine",
+      "wa_likely": true
+    },
+    {
+      "name": "Capurro",
+      "category": "wine",
+      "wa_likely": true
+    }
+  ]
+}

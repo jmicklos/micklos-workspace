@@ -1,0 +1,1713 @@
+{
+  "source": "Grape Expectations",
+  "source_url": "https://www.grapex.com/grape-washington/",
+  "extracted_date": "2026-04-07",
+  "distributor": "Grape Expectations",
+  "brands": [
+    {
+      "name": "Joseph Cattin",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Christophe Lapierre",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Catherine et Didier Tripoz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Laurent Martray",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine de Thulon",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Gérald Talmard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château L’Alouette",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Cantemerle",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Capde",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Carbonnieux",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château de Sales",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Giscours",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Chateau La Chapelle",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château La Commanderie",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Grimont",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Haut de la Becade",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Chateau Haut Jonset",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Jacques Noir",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château La Grande Clotte",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Magnan Figeac",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château de Panigon",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Plaisance",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Fourcas-Borie",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Guitignan",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Roc de Bécot",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Petit Serin",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Redon",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Chateau Tour Chaigneau",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Gonzague Maurice La Folie",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Famille Saby",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Laurent Mazeau (Château de Costis)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Cleyrac",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Côtes de Blaignan",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Galand",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Landié Les Sept Chenes Rouge",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Landié Les Sept Chenes Blanc",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Le Roc Bordeaux White",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Boissonneau",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Strong Arms Bordeaux Rouge",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Strong Arms Bordeaux Blanc",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bouchard Père et Fils",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Doreau",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Guy & Yvan Dufouleur",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "La Tour du Bois Bourgogne Blanc",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "La Tour du Bois Bourgogne Rouge",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lamblin et Fils",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Les Vignerons de Mancey",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Les Allies Sparkling Brut",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Brut",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Blanc de Blancs",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Brut Rosé",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Maison Michaut",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Moutard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mout’Hard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Nathalie & Gilles Févre",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Nuiton Beaunoy",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine R. Dubois & Fils",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Vincent Wengier",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Champagne A. Levasseur",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Champagne Charles Orban",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Champagne D’Armanville",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Champagne De Reyve",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Champagne Moutard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Santa Giulietta",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "ORSO",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Baud Génération 9",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Flores",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Lauriga",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Cabirau",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Delmas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine La Provenquière",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Pamponete Grapefruit Rosé",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Réserve de Marande",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Jean Perrier & Fils (Gilles)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château de Mauny",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château de Valmer",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Comte de la Chevaliere",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Bigonneau",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Brunet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine de Marcé",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine FL",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Pierre Riffault",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Gerard Fiou",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Masson-Blondelet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Henri Bourgeois",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Sancerre Blanc",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Sancerre Caillottes",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Sancerre Silex",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maison de Madeleine Terres Blanches",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maurice Bonnamy",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Nicolas Millet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "O+T",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Tête de Linotte",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vincent Doucet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vignerons de Saumur",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vignerons du Pallet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vignobles du Paradis",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ad Fines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "French Pool Toy",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Les Hauts Plateaux",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine de la Vieille Julienne",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine La Ligière",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Saint Galet",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine des Escaravailles",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine La Rocalière",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Heller Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mas des Flauzières",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château d’Arche",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Chateau d’Yquem",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Guiraud",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Château Roumieu",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Plaimont (YURA)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Domaine Vite Colte",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mauro Molino",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Roberto Voerzio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Oranz Vino Bianco",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Prima Pavé",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Petrussa",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Avignonesi",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Azienda Uggiano",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Col di Lamo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dievole",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "La Gerla",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viticcio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cantina Tudernum",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Colterenzio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vignamato",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Collefrisio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lunaria",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Valle Martello",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cantine San Marzano",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cignomoro",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Tenute Capaldo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Curatolo Arini (Villa Tonino)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Generazione Alessandro",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "LUNAGIA",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Tonino Frizzante",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Pinot Grigio Road",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Condes de Albarei",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Santiago Ruiz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Pazo Baión",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Alvarez de Toledo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vinos de Arganza (Século)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dibon",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bohigas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "GALEA",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "True Colours",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bitch Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Glop",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Dehesa La Granja",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viñas del Cénit",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Naia",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Raíces Ibéricas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Tinto Pesquera",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viña Gormaz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Duquesa de Valladolid",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Astarbe Sagardotegia",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Hiruzta",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Nodus",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Luis XIV",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Sierra Norte (Ananto)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Pirineos",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Anciano",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas LAN",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Valdemar",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viñedos Hermanos Hernáiz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cellers Unio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Tempranillo Road",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Barbadillo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Dios Baco",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas El Vinculo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Carchelo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodegas Luzón",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Casa Solar",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ego Bodegas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Finca Bacara (Time Waits For No One)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Southern Belle",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mendes & Symington",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Quinta de Roriz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Quinta do Vesúvio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Quinta Nova de Nossa Senhora do Carmo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Taboadella",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Casa Santos Lima",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "DFJ Vinhos",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "José Maria da Fonseca (Waterdog)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cartuxa Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Quinta da Fonte Souto",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Adega Ponte da Barca (“Este”)",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lisa Bona",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Q.S.S. Rare",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Leacock’s Madeira Wine Company",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "La Ferme Rouge",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Kolonne Null",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Wwe. Dr. H. Thanisch Erben Thanisch",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "St. Christopher",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Wiston Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Weingut Wohlmuth",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Proidl",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Weingut Felsner",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Weingut Helenental",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Gruber Röschitz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Schwarz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Weingut Esterházy",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Edoardo Miroglio",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dorgó Vineyard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Schloss Koblenz",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "BenMarco Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Benegas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Calle",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Cruzat",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Vistalba",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Y Cavas de Wenert",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cheval des Andes",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Estancia Los Cardones",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Luis Segundo Correas",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Marcelo Pelleriti",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Susana Balbo Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Tomero",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Un Mundo Chiquito",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viña Las Perdices",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Garage Wine Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Fitz Roy",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viu Manent",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Escudo Rojo – Baron Philippe de Rothschild",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viña Almaviva",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Elqui Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bodega Bouza",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Clos Henri",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Clouston & Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Decibel Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Giunta",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Gravel & Loam",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Misty Cove Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Greenstone Point",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Sherwood Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Paritua",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Clairault-Streicker Wine Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Das Juice",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "First Drop Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "The Other Right",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Woop Woop",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Langmeil Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Battle of Bosworth",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Culley Road",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Flegenheimer Bros",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Hither & Yon",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mr. Riggs",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Oliver’s Taranga",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Penny’s Hill",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Spring Seed",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Thomas Goss",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "The Chook",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Sidewood",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Unico Zelo",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Leogate Estate Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "See Saw Wine",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Barista Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Kershaw Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Klein Constantia Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Robertson Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Manotsuru,",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "’75 Wine Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Amulet Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Anarchist Wine Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "CADE",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Glassblower",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Grgich Hills",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Hindsight Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Hogwash",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Michael Pozzan Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Odette Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Obsidian Wine Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "PlumpJack",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Sinegal Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "David Bruce Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Viano Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Blagden Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ide Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Pedroncelli",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Williams Selyem",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Husch Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dancing Crow Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Glunz Family Winery & Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Klassen Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Sobon Estate",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Shenandoah Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Peirano Estate Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lockwood Vineyard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Oblivion,",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Alta Maria Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Au Bon Climat",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Native 9/Ranchos de Ontiveros",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Airfield Estates",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Baer Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bonair Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Entiat Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Five Star Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Foolhardy Vintners",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Gorman Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Guardian Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Isenhower Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Kontos Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lobo Hills Wine Co.",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lone Birch",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Orr Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Owen Roe",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Rasa Vineyards",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Sagemoor",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Time & Direction",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Valdemar Estates",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Benmar Wine",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "WeatherEye",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Brandborg Vineyard and Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Bennu",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Compton Family Wines",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cória Estates",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dionystic",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ermisch Family Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Golden Cluster",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Kelley Fox Wines,",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ken Wright Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Lorelle",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Maysara Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "On Wine Hill",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Ruby Vineyard",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Schaad Cellars",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Six Peaks Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "St. Innocent",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Vinous Obscura",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Mija Sangria,",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Dr Konstantin Frank Winery",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Wölffer Estate Farm",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Soleil",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Cantina Sangria",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "On The Water!",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Where is my Chablis? Making sense of the global shipping crisis",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Prosecco Rosé – Here’s the scoop",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Rhône Tariffs. Seriously?!?",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Geek Time: The Trinity",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "New Podcast Episode – Jean Claude Mas: “To produce wines that make you dream”",
+      "category": "wine",
+      "wa_confirmed": true
+    },
+    {
+      "name": "Terms and Conditions",
+      "category": "wine",
+      "wa_confirmed": true
+    }
+  ]
+}

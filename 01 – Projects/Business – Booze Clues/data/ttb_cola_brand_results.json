@@ -1,0 +1,3164 @@
+{
+  "source": "TTB COLA Registry (brand search)",
+  "extracted_date": "2026-04-07",
+  "note": "COLA records for major spirits brands. permit_no identifies the national importer.",
+  "brands_searched": 80,
+  "total_records": 346,
+  "unique_permits": [
+    "DSP-KY-12",
+    "NJ-I-15203",
+    "DSP-IN-1",
+    "DSP-WI-15013",
+    "DSP-KY-230",
+    "DSP-MD-20016",
+    "DSP-ID-21017",
+    "DC-I-21106",
+    "CA-I-21723",
+    "DSP-KY-67",
+    "DSP-MN-22",
+    "DC-I-21121",
+    "LA-I-21080",
+    "FL-I-21456",
+    "NY-I-21336",
+    "DSP-KY-15007",
+    "BR-IL-UDV-1",
+    "DSP-IL-58",
+    "PA-I-21231",
+    "TX-I-21227",
+    "NY-I-21645",
+    "DSP-KY-31",
+    "DC-I-21107",
+    "DSP-KY-20037",
+    "BR-IN-20217",
+    "LA-I-244",
+    "BWC-IN-21003",
+    "DSP-KY-113",
+    "DSP-KY-8",
+    "DSP-KY-62",
+    "DSP-KY-20022",
+    "IL-I-198",
+    "NY-I-114",
+    "NY-I-21165",
+    "CA-I-3223",
+    "OR-I-15039",
+    "NY-I-851",
+    "NY-I-15547",
+    "KY-I-409"
+  ],
+  "results": [
+    {
+      "ttb_id": "24009001000220",
+      "permit_no": "DSP-KY-12",
+      "serial": "240010",
+      "date": "01/22/2024",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "24009001000225",
+      "permit_no": "DSP-KY-12",
+      "serial": "240011",
+      "date": "01/22/2024",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "24030001000568",
+      "permit_no": "DSP-KY-12",
+      "serial": "240028",
+      "date": "02/21/2024",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "24030001000597",
+      "permit_no": "DSP-KY-12",
+      "serial": "240029",
+      "date": "01/31/2024",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25009001000129",
+      "permit_no": "DSP-KY-12",
+      "serial": "250021",
+      "date": "01/27/2025",
+      "fanciful_name": "COGNAC CASK FINISH",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25037001000234",
+      "permit_no": "DSP-KY-12",
+      "serial": "250091",
+      "date": "03/06/2025",
+      "fanciful_name": "EXTENDED CASK FINISH",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25051001000509",
+      "permit_no": "DSP-KY-12",
+      "serial": "250130",
+      "date": "03/12/2025",
+      "fanciful_name": "EXTENDED CASK FINISH",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25051001000518",
+      "permit_no": "DSP-KY-12",
+      "serial": "250131",
+      "date": "03/12/2025",
+      "fanciful_name": "EXTENDED CASK FINISH",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25064001000242",
+      "permit_no": "DSP-KY-12",
+      "serial": "250152",
+      "date": "03/06/2025",
+      "fanciful_name": "EXTENDED CASK FINISH",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "25153001000137",
+      "permit_no": "DSP-KY-12",
+      "serial": "250440",
+      "date": "06/03/2025",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "26009001000221",
+      "permit_no": "DSP-KY-12",
+      "serial": "260048",
+      "date": "01/09/2026",
+      "fanciful_name": "",
+      "brand_name": "1792",
+      "search_brand": "1792"
+    },
+    {
+      "ttb_id": "24072001000488",
+      "permit_no": "NJ-I-15203",
+      "serial": "242502",
+      "date": "03/20/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24092001000214",
+      "permit_no": "NJ-I-15203",
+      "serial": "242504",
+      "date": "04/12/2024",
+      "fanciful_name": "COLECCION",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24131001000540",
+      "permit_no": "NJ-I-15203",
+      "serial": "242509",
+      "date": "05/17/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000278",
+      "permit_no": "NJ-I-15203",
+      "serial": "242511",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000286",
+      "permit_no": "NJ-I-15203",
+      "serial": "242512",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000291",
+      "permit_no": "NJ-I-15203",
+      "serial": "242513",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000296",
+      "permit_no": "NJ-I-15203",
+      "serial": "242514",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000303",
+      "permit_no": "NJ-I-15203",
+      "serial": "242515",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24143001000308",
+      "permit_no": "NJ-I-15203",
+      "serial": "242516",
+      "date": "05/28/2024",
+      "fanciful_name": "RAUL DE NIEVES",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24176001000558",
+      "permit_no": "DSP-IN-1",
+      "serial": "242518",
+      "date": "06/27/2024",
+      "fanciful_name": "MARGARITA",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24178001000698",
+      "permit_no": "NJ-I-15203",
+      "serial": "242523",
+      "date": "07/02/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24192001000222",
+      "permit_no": "NJ-I-15203",
+      "serial": "242528",
+      "date": "07/11/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24207001000366",
+      "permit_no": "NJ-I-15203",
+      "serial": "242533",
+      "date": "07/30/2024",
+      "fanciful_name": "MILENIO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24212001000850",
+      "permit_no": "NJ-I-15203",
+      "serial": "242534",
+      "date": "08/02/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24241001000219",
+      "permit_no": "NJ-I-15203",
+      "serial": "242541",
+      "date": "09/10/2024",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24289001000349",
+      "permit_no": "DSP-IN-1",
+      "serial": "242550",
+      "date": "11/20/2024",
+      "fanciful_name": "MARGARITA",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24339001000608",
+      "permit_no": "NJ-I-15203",
+      "serial": "242557",
+      "date": "12/06/2024",
+      "fanciful_name": "COLECCION",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "25041001000163",
+      "permit_no": "NJ-I-15203",
+      "serial": "252568",
+      "date": "02/12/2025",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "25041001000173",
+      "permit_no": "NJ-I-15203",
+      "serial": "252569",
+      "date": "02/11/2025",
+      "fanciful_name": "BLANCO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "25041001000179",
+      "permit_no": "NJ-I-15203",
+      "serial": "252570",
+      "date": "02/11/2025",
+      "fanciful_name": "REPOSADO",
+      "brand_name": "1800",
+      "search_brand": "1800"
+    },
+    {
+      "ttb_id": "24155001000602",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240014",
+      "date": "06/07/2024",
+      "fanciful_name": "STRAWBERRY",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "24305001000206",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240039",
+      "date": "11/05/2024",
+      "fanciful_name": "STRAWBERRY & PINEAPPLE",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "24305001000214",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240040",
+      "date": "11/05/2024",
+      "fanciful_name": "LEMON & LIME",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "24305001000221",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240041",
+      "date": "11/05/2024",
+      "fanciful_name": "LEMON & RASPBERRY",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "24305001000225",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240042",
+      "date": "11/05/2024",
+      "fanciful_name": "STRAWBERRY & WATERMELON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "24346001000495",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240057",
+      "date": "12/12/2024",
+      "fanciful_name": "LEMON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25022001000756",
+      "permit_no": "DSP-KY-230",
+      "serial": "250022",
+      "date": "01/24/2025",
+      "fanciful_name": "LEMON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25022001000764",
+      "permit_no": "DSP-KY-230",
+      "serial": "250023",
+      "date": "01/24/2025",
+      "fanciful_name": "LEMON & LIME",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25022001000772",
+      "permit_no": "DSP-KY-230",
+      "serial": "250024",
+      "date": "01/24/2025",
+      "fanciful_name": "LEMON & RASPBERRY",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25022001000776",
+      "permit_no": "DSP-KY-230",
+      "serial": "250026",
+      "date": "01/24/2025",
+      "fanciful_name": "STRAWBERRY & PINEAPPLE",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25022001000785",
+      "permit_no": "DSP-KY-230",
+      "serial": "250027",
+      "date": "01/24/2025",
+      "fanciful_name": "STRAWBERRY & WATERMELON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25100001000818",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250037",
+      "date": "04/16/2025",
+      "fanciful_name": "LEMON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25127001000234",
+      "permit_no": "DSP-KY-230",
+      "serial": "250075",
+      "date": "05/07/2025",
+      "fanciful_name": "PEACH & MANGO",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25127001000241",
+      "permit_no": "DSP-KY-230",
+      "serial": "250076",
+      "date": "05/07/2025",
+      "fanciful_name": "STRAWBERRY & KIWI",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25129001000349",
+      "permit_no": "DSP-KY-230",
+      "serial": "250074",
+      "date": "05/13/2025",
+      "fanciful_name": "GRAPEFRUIT & CHERRY",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25129001000370",
+      "permit_no": "DSP-KY-230",
+      "serial": "250078",
+      "date": "05/15/2025",
+      "fanciful_name": "LEMON & YUZU",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25136001000352",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250060",
+      "date": "05/19/2025",
+      "fanciful_name": "GRAPEFRUIT",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25136001000359",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250061",
+      "date": "05/19/2025",
+      "fanciful_name": "STRAWBERRY",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25136001000366",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250062",
+      "date": "05/19/2025",
+      "fanciful_name": "PEACH",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "25136001000370",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250063",
+      "date": "05/19/2025",
+      "fanciful_name": "LEMON",
+      "brand_name": "-196",
+      "search_brand": "-196"
+    },
+    {
+      "ttb_id": "23365001000014",
+      "permit_no": "DSP-MD-20016",
+      "serial": "233123",
+      "date": "01/04/2024",
+      "fanciful_name": "",
+      "brand_name": "22 SALUTE",
+      "search_brand": "22 SALUTE"
+    },
+    {
+      "ttb_id": "23365001000015",
+      "permit_no": "DSP-MD-20016",
+      "serial": "233123",
+      "date": "01/31/2024",
+      "fanciful_name": "FIG-VANILLA BOURBON",
+      "brand_name": "22 SALUTE",
+      "search_brand": "22 SALUTE"
+    },
+    {
+      "ttb_id": "23365001000016",
+      "permit_no": "DSP-MD-20016",
+      "serial": "233123",
+      "date": "01/04/2024",
+      "fanciful_name": "COLD BREW COFFEE",
+      "brand_name": "22 SALUTE",
+      "search_brand": "22 SALUTE"
+    },
+    {
+      "ttb_id": "24241001000390",
+      "permit_no": "DSP-ID-21017",
+      "serial": "24002L",
+      "date": "09/09/2024",
+      "fanciful_name": "CHERRY LIMEADE",
+      "brand_name": "44 NORTH",
+      "search_brand": "44 NORTH"
+    },
+    {
+      "ttb_id": "24352001000290",
+      "permit_no": "DSP-ID-21017",
+      "serial": "24004L",
+      "date": "06/18/2025",
+      "fanciful_name": "THE FARMER'S BLOODY MARY",
+      "brand_name": "44 NORTH",
+      "search_brand": "44 NORTH"
+    },
+    {
+      "ttb_id": "23364001000013",
+      "permit_no": "DC-I-21106",
+      "serial": "230014",
+      "date": "01/03/2024",
+      "fanciful_name": "KENTUCKY SPIRIT PEWTER TOP",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000017",
+      "permit_no": "DC-I-21106",
+      "serial": "230015",
+      "date": "01/08/2024",
+      "fanciful_name": "TRADITION 14-YEAR",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000018",
+      "permit_no": "DC-I-21106",
+      "serial": "230016",
+      "date": "01/08/2024",
+      "fanciful_name": "FREEDOM",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000020",
+      "permit_no": "DC-I-21106",
+      "serial": "230017",
+      "date": "01/16/2024",
+      "fanciful_name": "BROWN LABEL",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000022",
+      "permit_no": "DC-I-21106",
+      "serial": "230018",
+      "date": "01/12/2024",
+      "fanciful_name": "DISTILLERS RESERVE 13-YEAR",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000023",
+      "permit_no": "DC-I-21106",
+      "serial": "230019",
+      "date": "01/08/2024",
+      "fanciful_name": "RARE BREED NCF",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "23364001000027",
+      "permit_no": "DC-I-21106",
+      "serial": "230020",
+      "date": "01/04/2024",
+      "fanciful_name": "MASTERS KEEP 17-YEAR",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24003001000076",
+      "permit_no": "DC-I-21106",
+      "serial": "240020",
+      "date": "01/03/2024",
+      "fanciful_name": "MASTERS KEEP 17-YEAR BOTTLED IN BOND",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24003001000096",
+      "permit_no": "DC-I-21106",
+      "serial": "240022",
+      "date": "01/05/2024",
+      "fanciful_name": "MASTERS KEEP ONE",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24003001000105",
+      "permit_no": "DC-I-21106",
+      "serial": "240024",
+      "date": "01/11/2024",
+      "fanciful_name": "MASTERS KEEP UNFORGOTTEN",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24003001000117",
+      "permit_no": "DC-I-21106",
+      "serial": "240025",
+      "date": "01/03/2024",
+      "fanciful_name": "MASTERS KEEP CORNERSTONE",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24008001000518",
+      "permit_no": "CA-I-21723",
+      "serial": "248255",
+      "date": "01/17/2024",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24008001000564",
+      "permit_no": "CA-I-21723",
+      "serial": "248256",
+      "date": "01/09/2024",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24009001000675",
+      "permit_no": "DC-I-21106",
+      "serial": "240028",
+      "date": "01/11/2024",
+      "fanciful_name": "FATHER AND SON",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24067001000197",
+      "permit_no": "DSP-KY-67",
+      "serial": "240003",
+      "date": "03/18/2024",
+      "fanciful_name": "JIMMY RUSSELL 70TH ANNIVERSARY RELEASE",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24156001000172",
+      "permit_no": "DSP-KY-67",
+      "serial": "240020",
+      "date": "06/07/2024",
+      "fanciful_name": "BEACON",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24163001000770",
+      "permit_no": "DSP-KY-67",
+      "serial": "240022",
+      "date": "06/12/2024",
+      "fanciful_name": "BEACON",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24295001000248",
+      "permit_no": "DSP-KY-67",
+      "serial": "240045",
+      "date": "10/23/2024",
+      "fanciful_name": "AGED 8 YEARS",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25084001000170",
+      "permit_no": "DSP-MN-22",
+      "serial": "250058",
+      "date": "03/25/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25085001000823",
+      "permit_no": "DC-I-21121",
+      "serial": "250001",
+      "date": "04/01/2025",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25112001000866",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT08",
+      "date": "05/08/2025",
+      "fanciful_name": "AGED 8 YEARS",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25168001000022",
+      "permit_no": "FL-I-21456",
+      "serial": "250416",
+      "date": "06/18/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25217001000794",
+      "permit_no": "LA-I-21080",
+      "serial": "25WTBL",
+      "date": "08/11/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25217001000800",
+      "permit_no": "LA-I-21080",
+      "serial": "251855",
+      "date": "08/07/2025",
+      "fanciful_name": "1855 RESERVE",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25219001000047",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT88",
+      "date": "08/11/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25224001000680",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT01",
+      "date": "08/20/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25232001000238",
+      "permit_no": "LA-I-21080",
+      "serial": "25WTTR",
+      "date": "08/25/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25258001000258",
+      "permit_no": "DSP-KY-67",
+      "serial": "250020",
+      "date": "09/16/2025",
+      "fanciful_name": "AUSTIN NICHOLS ARCHIVES GOLD FOIL EDITION",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25261001000105",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT12",
+      "date": "09/22/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25291001000023",
+      "permit_no": "NY-I-21336",
+      "serial": "250252",
+      "date": "11/19/2025",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25343001000111",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT17",
+      "date": "12/09/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25349001000218",
+      "permit_no": "LA-I-21080",
+      "serial": "25WT14",
+      "date": "12/17/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "25349001000222",
+      "permit_no": "LA-I-21080",
+      "serial": "25W12T",
+      "date": "12/17/2025",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "26013001000100",
+      "permit_no": "LA-I-21080",
+      "serial": "26WT13",
+      "date": "01/13/2026",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "26015001000203",
+      "permit_no": "LA-I-21080",
+      "serial": "26WTRY",
+      "date": "01/15/2026",
+      "fanciful_name": "",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "26065001000736",
+      "permit_no": "NY-I-21336",
+      "serial": "260156",
+      "date": "03/09/2026",
+      "fanciful_name": "8 YEARS OLD",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "26065001000738",
+      "permit_no": "NY-I-21336",
+      "serial": "260157",
+      "date": "03/09/2026",
+      "fanciful_name": "RARE BREED",
+      "brand_name": "WILD TURKEY",
+      "search_brand": "WILD TURKEY"
+    },
+    {
+      "ttb_id": "24093001000383",
+      "permit_no": "DSP-KY-230",
+      "serial": "240047",
+      "date": "04/12/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24155001000862",
+      "permit_no": "DSP-KY-230",
+      "serial": "240074",
+      "date": "06/04/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24194001000400",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240016",
+      "date": "07/15/2024",
+      "fanciful_name": "BOURBON & COLA",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24194001000404",
+      "permit_no": "DSP-WI-15013",
+      "serial": "240017",
+      "date": "07/15/2024",
+      "fanciful_name": "BOURBON & GINGER ALE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24212001000273",
+      "permit_no": "DSP-KY-230",
+      "serial": "240109",
+      "date": "08/06/2024",
+      "fanciful_name": "PINEAPPLE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24226001000462",
+      "permit_no": "DSP-KY-230",
+      "serial": "240115",
+      "date": "08/21/2024",
+      "fanciful_name": "BOURBON & COLA",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24228001000687",
+      "permit_no": "DSP-KY-230",
+      "serial": "240116",
+      "date": "08/24/2024",
+      "fanciful_name": "BOURBON & GINGER ALE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24241001000504",
+      "permit_no": "DSP-KY-230",
+      "serial": "240121",
+      "date": "09/10/2024",
+      "fanciful_name": "PINEAPPLE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24274001000152",
+      "permit_no": "DSP-KY-230",
+      "serial": "240129",
+      "date": "10/03/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000298",
+      "permit_no": "DSP-KY-230",
+      "serial": "240139",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000302",
+      "permit_no": "DSP-KY-230",
+      "serial": "240140",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000314",
+      "permit_no": "DSP-KY-230",
+      "serial": "240141",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000321",
+      "permit_no": "DSP-KY-230",
+      "serial": "240142",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000326",
+      "permit_no": "DSP-KY-230",
+      "serial": "240143",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000330",
+      "permit_no": "DSP-KY-230",
+      "serial": "240144",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24310001000332",
+      "permit_no": "DSP-KY-230",
+      "serial": "240145",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24340001000048",
+      "permit_no": "DSP-KY-230",
+      "serial": "240154",
+      "date": "12/09/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24352001000313",
+      "permit_no": "DSP-KY-230",
+      "serial": "240158",
+      "date": "12/18/2024",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25058001000089",
+      "permit_no": "DSP-KY-230",
+      "serial": "250047",
+      "date": "02/27/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25058001000092",
+      "permit_no": "DSP-KY-230",
+      "serial": "250048",
+      "date": "02/27/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25058001000093",
+      "permit_no": "DSP-KY-230",
+      "serial": "250049",
+      "date": "02/27/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25073001000103",
+      "permit_no": "DSP-KY-230",
+      "serial": "250051",
+      "date": "03/14/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25105001000219",
+      "permit_no": "DSP-KY-15007",
+      "serial": "25BEAM",
+      "date": "04/17/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25134001000750",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250030",
+      "date": "05/15/2025",
+      "fanciful_name": "ICED TEA",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25134001000758",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250029",
+      "date": "05/15/2025",
+      "fanciful_name": "LEMONADE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25143001000194",
+      "permit_no": "DSP-WI-15013",
+      "serial": "250031",
+      "date": "05/23/2025",
+      "fanciful_name": "HALF & HALF",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25149001000087",
+      "permit_no": "DSP-KY-230",
+      "serial": "250091",
+      "date": "05/30/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25154001000142",
+      "permit_no": "DSP-KY-230",
+      "serial": "250092",
+      "date": "06/03/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25199001000256",
+      "permit_no": "DSP-KY-230",
+      "serial": "250105",
+      "date": "07/21/2025",
+      "fanciful_name": "HALF & HALF",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25199001000259",
+      "permit_no": "DSP-KY-230",
+      "serial": "250106",
+      "date": "07/22/2025",
+      "fanciful_name": "BOURBON & LEMONADE",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25199001000265",
+      "permit_no": "DSP-KY-230",
+      "serial": "250107",
+      "date": "07/22/2025",
+      "fanciful_name": "BOURBON & ICED TEA",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25220001000177",
+      "permit_no": "DSP-KY-230",
+      "serial": "250122",
+      "date": "08/12/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25245001000204",
+      "permit_no": "DSP-KY-230",
+      "serial": "250141",
+      "date": "09/04/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25324001000790",
+      "permit_no": "DSP-KY-230",
+      "serial": "250150",
+      "date": "12/01/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "25345001000108",
+      "permit_no": "DSP-KY-230",
+      "serial": "250170",
+      "date": "12/11/2025",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "26030001000195",
+      "permit_no": "DSP-KY-230",
+      "serial": "260024",
+      "date": "02/05/2026",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "26030001000198",
+      "permit_no": "DSP-KY-230",
+      "serial": "260025",
+      "date": "02/05/2026",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "26030001000208",
+      "permit_no": "DSP-KY-230",
+      "serial": "260026",
+      "date": "02/05/2026",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "26076001000093",
+      "permit_no": "DSP-KY-230",
+      "serial": "260040",
+      "date": "03/17/2026",
+      "fanciful_name": "",
+      "brand_name": "JIM BEAM",
+      "search_brand": "JIM BEAM"
+    },
+    {
+      "ttb_id": "24204001000402",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "24R082",
+      "date": "08/16/2024",
+      "fanciful_name": "SLICED PEACH ON THE BEACH",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "24204001000408",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "24R079",
+      "date": "08/13/2024",
+      "fanciful_name": "SLICED BLACKBERRY MOJITO",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "24221001000197",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "24R081",
+      "date": "08/14/2024",
+      "fanciful_name": "SLICED JALAPENO PALOMA",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "24221001000199",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "24R080",
+      "date": "08/14/2024",
+      "fanciful_name": "SLICED CHILI LIME",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "24235001000162",
+      "permit_no": "DSP-IL-58",
+      "serial": "24R105",
+      "date": "09/04/2024",
+      "fanciful_name": "CHILI LIME",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "24361001000148",
+      "permit_no": "PA-I-21231",
+      "serial": "241017",
+      "date": "12/30/2024",
+      "fanciful_name": "",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25016001000067",
+      "permit_no": "DSP-IL-58",
+      "serial": "25R018",
+      "date": "01/16/2025",
+      "fanciful_name": "ORIGINAL SPICED RUM",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25036001000232",
+      "permit_no": "DSP-IL-58",
+      "serial": "25R038",
+      "date": "08/25/2025",
+      "fanciful_name": "ORIGINAL SPICED RUM",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25063001000182",
+      "permit_no": "TX-I-21227",
+      "serial": "25BB04",
+      "date": "03/11/2025",
+      "fanciful_name": "BLACK JAMAICA RUM",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25213001000382",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "25R131",
+      "date": "08/06/2025",
+      "fanciful_name": "SLICED STRAWBERRY COLADA",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25213001000447",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "25R129",
+      "date": "08/06/2025",
+      "fanciful_name": "SLICED PASSIONFRUIT COLADA",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25213001000467",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "25R128",
+      "date": "08/06/2025",
+      "fanciful_name": "SLICED MANGO COLADA",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "25213001000481",
+      "permit_no": "BR-IL-UDV-1",
+      "serial": "25R130",
+      "date": "08/06/2025",
+      "fanciful_name": "SLICED PINA COLADA",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "26026001000149",
+      "permit_no": "NY-I-21645",
+      "serial": "26R013",
+      "date": "02/24/2026",
+      "fanciful_name": "SQUEEZE",
+      "brand_name": "CAPTAIN MORGAN",
+      "search_brand": "CAPTAIN MORGAN"
+    },
+    {
+      "ttb_id": "21042001000578",
+      "permit_no": "DSP-KY-31",
+      "serial": "210016",
+      "date": "01/01/2024",
+      "fanciful_name": "SPICED CIDER",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "23334001000782",
+      "permit_no": "DC-I-21107",
+      "serial": "23EW23",
+      "date": "01/08/2024",
+      "fanciful_name": "KENTUCKY STRAIGHT BOURBON WHISKEY 23 YEARS OLD 107 PROOF",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24086001000775",
+      "permit_no": "DSP-KY-31",
+      "serial": "240026",
+      "date": "04/09/2024",
+      "fanciful_name": "PEPPERMINT WHITE CHOCOLATE EGG NOG",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24088001000829",
+      "permit_no": "DSP-KY-31",
+      "serial": "240030",
+      "date": "04/11/2024",
+      "fanciful_name": "OUTDOORSMAN",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24202001000089",
+      "permit_no": "NY-I-21336",
+      "serial": "240059",
+      "date": "07/24/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24205001000031",
+      "permit_no": "DSP-KY-20037",
+      "serial": "240104",
+      "date": "07/25/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24295001000183",
+      "permit_no": "DSP-KY-31",
+      "serial": "240099",
+      "date": "10/22/2024",
+      "fanciful_name": "EGG NOG",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000383",
+      "permit_no": "DSP-KY-31",
+      "serial": "240105",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000392",
+      "permit_no": "DSP-KY-31",
+      "serial": "240106",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000398",
+      "permit_no": "DSP-KY-31",
+      "serial": "240107",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000403",
+      "permit_no": "DSP-KY-31",
+      "serial": "240108",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000409",
+      "permit_no": "DSP-KY-31",
+      "serial": "240109",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24325001000413",
+      "permit_no": "DSP-KY-31",
+      "serial": "240110",
+      "date": "11/22/2024",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25079001000124",
+      "permit_no": "FL-I-21456",
+      "serial": "250253",
+      "date": "03/21/2025",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25108001000632",
+      "permit_no": "DC-I-21121",
+      "serial": "250003",
+      "date": "04/23/2025",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25248001000170",
+      "permit_no": "DSP-KY-31",
+      "serial": "250085",
+      "date": "09/10/2025",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25254001000096",
+      "permit_no": "DSP-KY-31",
+      "serial": "250087",
+      "date": "09/16/2025",
+      "fanciful_name": "BLACKBERRY",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25325001000103",
+      "permit_no": "DSP-KY-31",
+      "serial": "250108",
+      "date": "12/03/2025",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25325001000114",
+      "permit_no": "DSP-KY-31",
+      "serial": "250109",
+      "date": "12/03/2025",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "25325001000119",
+      "permit_no": "DSP-KY-31",
+      "serial": "250110",
+      "date": "12/03/2025",
+      "fanciful_name": "",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "26070001000169",
+      "permit_no": "DSP-KY-31",
+      "serial": "260019",
+      "date": "03/11/2026",
+      "fanciful_name": "BLACK",
+      "brand_name": "EVAN WILLIAMS",
+      "search_brand": "EVAN WILLIAMS"
+    },
+    {
+      "ttb_id": "24078001000784",
+      "permit_no": "BR-IN-20217",
+      "serial": "240077",
+      "date": "03/18/2024",
+      "fanciful_name": "ORIGINAL",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24078001000790",
+      "permit_no": "BR-IN-20217",
+      "serial": "240078",
+      "date": "03/18/2024",
+      "fanciful_name": "ORIGINAL",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24079001000240",
+      "permit_no": "BR-IN-20217",
+      "serial": "240079",
+      "date": "03/19/2024",
+      "fanciful_name": "ORIGINAL MALT",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24079001000244",
+      "permit_no": "BR-IN-20217",
+      "serial": "240080",
+      "date": "03/19/2024",
+      "fanciful_name": "ORIGINAL MALT",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24145001000181",
+      "permit_no": "BR-IN-20217",
+      "serial": "240180",
+      "date": "05/28/2024",
+      "fanciful_name": "ORIGINAL",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24290001000116",
+      "permit_no": "LA-I-244",
+      "serial": "240353",
+      "date": "10/17/2024",
+      "fanciful_name": "ORIGINAL",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24290001000122",
+      "permit_no": "LA-I-244",
+      "serial": "240354",
+      "date": "10/18/2024",
+      "fanciful_name": "HUNDRED",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "25248001000337",
+      "permit_no": "BR-IN-20217",
+      "serial": "250736",
+      "date": "09/10/2025",
+      "fanciful_name": "M. W. HERON",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "25248001000356",
+      "permit_no": "BR-IN-20217",
+      "serial": "250737",
+      "date": "09/10/2025",
+      "fanciful_name": "M. W. HERON",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "26064001000215",
+      "permit_no": "BWC-IN-21003",
+      "serial": "260292",
+      "date": "03/26/2026",
+      "fanciful_name": "",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "26064001000225",
+      "permit_no": "BWC-IN-21003",
+      "serial": "260293",
+      "date": "03/26/2026",
+      "fanciful_name": "",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "26076001000512",
+      "permit_no": "DSP-KY-113",
+      "serial": "260314",
+      "date": "03/18/2026",
+      "fanciful_name": "SOUR",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "26076001000543",
+      "permit_no": "DSP-KY-113",
+      "serial": "260315",
+      "date": "03/18/2026",
+      "fanciful_name": "SOUR",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "26084001000733",
+      "permit_no": "DSP-KY-113",
+      "serial": "260313",
+      "date": "03/26/2026",
+      "fanciful_name": "SOUR",
+      "brand_name": "SOUTHERN COMFORT",
+      "search_brand": "SOUTHERN COMFORT"
+    },
+    {
+      "ttb_id": "24008001000177",
+      "permit_no": "DSP-KY-230",
+      "serial": "240001",
+      "date": "01/09/2024",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "24047001000049",
+      "permit_no": "DSP-KY-230",
+      "serial": "240024",
+      "date": "02/23/2024",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "24290001000166",
+      "permit_no": "DSP-KY-230",
+      "serial": "240132",
+      "date": "10/17/2024",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "24353001000397",
+      "permit_no": "DSP-KY-230",
+      "serial": "240156",
+      "date": "12/20/2024",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "24353001000425",
+      "permit_no": "DSP-KY-230",
+      "serial": "240157",
+      "date": "12/19/2024",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25007001000838",
+      "permit_no": "DSP-KY-230",
+      "serial": "250001",
+      "date": "01/08/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25085001000195",
+      "permit_no": "DSP-KY-230",
+      "serial": "250056",
+      "date": "03/26/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25100001000468",
+      "permit_no": "DSP-KY-230",
+      "serial": "250064",
+      "date": "04/11/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25245001000184",
+      "permit_no": "DSP-KY-230",
+      "serial": "250140",
+      "date": "09/04/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25288001000246",
+      "permit_no": "DSP-KY-230",
+      "serial": "250148",
+      "date": "11/19/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "25328001000160",
+      "permit_no": "DSP-KY-230",
+      "serial": "250152",
+      "date": "12/01/2025",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "26028001000246",
+      "permit_no": "DSP-KY-230",
+      "serial": "260014",
+      "date": "01/29/2026",
+      "fanciful_name": "",
+      "brand_name": "KNOB CREEK",
+      "search_brand": "KNOB CREEK"
+    },
+    {
+      "ttb_id": "24050001000660",
+      "permit_no": "DSP-KY-8",
+      "serial": "24001L",
+      "date": "02/28/2024",
+      "fanciful_name": "LIMITED EDITION SMALL BATCH",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "24207001000388",
+      "permit_no": "DSP-KY-8",
+      "serial": "24002L",
+      "date": "08/28/2024",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "24207001000417",
+      "permit_no": "DSP-KY-8",
+      "serial": "24003L",
+      "date": "08/28/2024",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "24207001000432",
+      "permit_no": "DSP-KY-8",
+      "serial": "24004L",
+      "date": "08/22/2024",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "24297001000553",
+      "permit_no": "NY-I-21336",
+      "serial": "240097",
+      "date": "10/23/2024",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "24297001000617",
+      "permit_no": "NY-I-21336",
+      "serial": "240099",
+      "date": "10/23/2024",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25076001000196",
+      "permit_no": "DSP-KY-8",
+      "serial": "25001L",
+      "date": "03/17/2025",
+      "fanciful_name": "PRIVATE SELECTION",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25084001000462",
+      "permit_no": "DSP-KY-8",
+      "serial": "25002L",
+      "date": "03/26/2025",
+      "fanciful_name": "LIMITED EDITION SMALL BATCH",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25147001000900",
+      "permit_no": "DSP-KY-8",
+      "serial": "25003L",
+      "date": "05/29/2025",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25174001000230",
+      "permit_no": "DSP-KY-8",
+      "serial": "25004L",
+      "date": "07/14/2025",
+      "fanciful_name": "2026 ANTHOLOGY",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25202001000189",
+      "permit_no": "DSP-KY-8",
+      "serial": "25005L",
+      "date": "07/22/2025",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25202001000196",
+      "permit_no": "DSP-KY-8",
+      "serial": "25006L",
+      "date": "07/22/2025",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25295001000012",
+      "permit_no": "FL-I-21456",
+      "serial": "250572",
+      "date": "11/20/2025",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "25364001000514",
+      "permit_no": "DSP-KY-62",
+      "serial": "25007L",
+      "date": "01/05/2026",
+      "fanciful_name": "LIMITED EDITION SMALL BATCH",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "26019001000019",
+      "permit_no": "LA-I-21080",
+      "serial": "264RYL",
+      "date": "01/21/2026",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "26026001000943",
+      "permit_no": "DSP-KY-8",
+      "serial": "26001L",
+      "date": "01/29/2026",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "26041001000118",
+      "permit_no": "LA-I-21080",
+      "serial": "264R80",
+      "date": "02/11/2026",
+      "fanciful_name": "",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "26077001000974",
+      "permit_no": "DSP-KY-8",
+      "serial": "26002L",
+      "date": "03/19/2026",
+      "fanciful_name": "MIZUNARA CASK FINISH",
+      "brand_name": "FOUR ROSES",
+      "search_brand": "FOUR ROSES"
+    },
+    {
+      "ttb_id": "16323001000323",
+      "permit_no": "DSP-KY-15007",
+      "serial": "160061",
+      "date": "01/21/2025",
+      "fanciful_name": "FROM THE CELLARS OF LINCOLN HENDERSON",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "23053001000245",
+      "permit_no": "DSP-KY-20022",
+      "serial": "23S006",
+      "date": "11/25/2024",
+      "fanciful_name": "",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "23118001000821",
+      "permit_no": "DSP-KY-20022",
+      "serial": "23S021",
+      "date": "11/25/2024",
+      "fanciful_name": "CELLAR COLLECTION",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "23118001000833",
+      "permit_no": "DSP-KY-20022",
+      "serial": "23S022",
+      "date": "11/25/2024",
+      "fanciful_name": "CELLAR COLLECTION",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "23132001000537",
+      "permit_no": "DSP-KY-20022",
+      "serial": "23S036",
+      "date": "11/25/2024",
+      "fanciful_name": "CASK STRENGTH RYE",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "23310001000169",
+      "permit_no": "DSP-KY-20022",
+      "serial": "23S060",
+      "date": "11/25/2024",
+      "fanciful_name": "SINGLE BARREL",
+      "brand_name": "ANGEL'S ENVY",
+      "search_brand": "ANGEL'S ENVY"
+    },
+    {
+      "ttb_id": "25226001000635",
+      "permit_no": "DSP-KY-230",
+      "serial": "250127",
+      "date": "08/15/2025",
+      "fanciful_name": "COGNAC CASK FINISH RESERVE",
+      "brand_name": "BASIL HAYDEN",
+      "search_brand": "BASIL HAYDEN"
+    },
+    {
+      "ttb_id": "25230001000075",
+      "permit_no": "DSP-KY-230",
+      "serial": "250128",
+      "date": "08/22/2025",
+      "fanciful_name": "",
+      "brand_name": "BASIL HAYDEN",
+      "search_brand": "BASIL HAYDEN"
+    },
+    {
+      "ttb_id": "25248001000053",
+      "permit_no": "DSP-KY-230",
+      "serial": "250142",
+      "date": "09/10/2025",
+      "fanciful_name": "",
+      "brand_name": "BASIL HAYDEN",
+      "search_brand": "BASIL HAYDEN"
+    },
+    {
+      "ttb_id": "25336001000242",
+      "permit_no": "DSP-KY-230",
+      "serial": "250166",
+      "date": "12/08/2025",
+      "fanciful_name": "COGNAC CASK RESERVE",
+      "brand_name": "BASIL HAYDEN",
+      "search_brand": "BASIL HAYDEN"
+    },
+    {
+      "ttb_id": "24011001000462",
+      "permit_no": "IL-I-198",
+      "serial": "240003",
+      "date": "01/11/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24047001000264",
+      "permit_no": "IL-I-198",
+      "serial": "240025",
+      "date": "02/23/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24071001000498",
+      "permit_no": "IL-I-198",
+      "serial": "240044",
+      "date": "03/20/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24071001000542",
+      "permit_no": "IL-I-198",
+      "serial": "240045",
+      "date": "03/20/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24278001000189",
+      "permit_no": "IL-I-198",
+      "serial": "240131",
+      "date": "10/08/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24304001000336",
+      "permit_no": "IL-I-198",
+      "serial": "240133",
+      "date": "10/31/2024",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25045001000355",
+      "permit_no": "IL-I-198",
+      "serial": "250040",
+      "date": "02/14/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25079001000019",
+      "permit_no": "FL-I-21456",
+      "serial": "250244",
+      "date": "03/20/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25205001000651",
+      "permit_no": "IL-I-198",
+      "serial": "250116",
+      "date": "08/12/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25219001000506",
+      "permit_no": "IL-I-198",
+      "serial": "250121",
+      "date": "08/11/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000509",
+      "permit_no": "IL-I-198",
+      "serial": "250131",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000514",
+      "permit_no": "IL-I-198",
+      "serial": "250132",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000522",
+      "permit_no": "IL-I-198",
+      "serial": "250133",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000523",
+      "permit_no": "IL-I-198",
+      "serial": "250134",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000539",
+      "permit_no": "IL-I-198",
+      "serial": "250135",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000546",
+      "permit_no": "IL-I-198",
+      "serial": "250136",
+      "date": "08/28/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000555",
+      "permit_no": "IL-I-198",
+      "serial": "250137",
+      "date": "08/27/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25238001000566",
+      "permit_no": "IL-I-198",
+      "serial": "250138",
+      "date": "08/27/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25275001000457",
+      "permit_no": "NY-I-21336",
+      "serial": "250230",
+      "date": "11/17/2025",
+      "fanciful_name": "AGED 10 YEARS",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25328001000191",
+      "permit_no": "IL-I-198",
+      "serial": "250154",
+      "date": "12/01/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "25339001000645",
+      "permit_no": "IL-I-198",
+      "serial": "250169",
+      "date": "12/08/2025",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "26036001000757",
+      "permit_no": "NY-I-21336",
+      "serial": "260080",
+      "date": "02/10/2026",
+      "fanciful_name": "18 YEARS OLD",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "26040001000146",
+      "permit_no": "IL-I-198",
+      "serial": "260030",
+      "date": "02/11/2026",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "26057001000187",
+      "permit_no": "IL-I-198",
+      "serial": "260036",
+      "date": "02/27/2026",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "26083001000085",
+      "permit_no": "IL-I-198",
+      "serial": "260041",
+      "date": "03/24/2026",
+      "fanciful_name": "",
+      "brand_name": "LAPHROAIG",
+      "search_brand": "LAPHROAIG"
+    },
+    {
+      "ttb_id": "24057001000536",
+      "permit_no": "NY-I-114",
+      "serial": "240005",
+      "date": "03/04/2024",
+      "fanciful_name": "12",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "24200001000716",
+      "permit_no": "NY-I-114",
+      "serial": "240011",
+      "date": "07/22/2024",
+      "fanciful_name": "BOURBON BARREL MATURED NINTEEN",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25030001000020",
+      "permit_no": "FL-I-21456",
+      "serial": "250098",
+      "date": "02/03/2025",
+      "fanciful_name": "",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25063001000641",
+      "permit_no": "NY-I-114",
+      "serial": "250001",
+      "date": "03/19/2025",
+      "fanciful_name": "AGED 16 YEARS FORMULA ONE TEAM",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25072001000728",
+      "permit_no": "NY-I-114",
+      "serial": "250002",
+      "date": "03/18/2025",
+      "fanciful_name": "AGED 16 YEARS ASTON MARTIN FORMULA ONE TEAM",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25118001000707",
+      "permit_no": "NY-I-114",
+      "serial": "250003",
+      "date": "05/08/2025",
+      "fanciful_name": "14",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25210001000072",
+      "permit_no": "NY-I-114",
+      "serial": "250011",
+      "date": "07/30/2025",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25234001000059",
+      "permit_no": "NY-I-114",
+      "serial": "250020",
+      "date": "08/25/2025",
+      "fanciful_name": "AGED 14 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25234001000068",
+      "permit_no": "NY-I-114",
+      "serial": "250021",
+      "date": "08/25/2025",
+      "fanciful_name": "AGED 15 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25238001000109",
+      "permit_no": "NY-I-114",
+      "serial": "250022",
+      "date": "08/27/2025",
+      "fanciful_name": "AGED 18 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25282001000197",
+      "permit_no": "NY-I-114",
+      "serial": "250023",
+      "date": "11/18/2025",
+      "fanciful_name": "48 YEARS OLD 1976",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "25330001000601",
+      "permit_no": "NY-I-21336",
+      "serial": "250423",
+      "date": "12/04/2025",
+      "fanciful_name": "15",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "26029001000096",
+      "permit_no": "NY-I-114",
+      "serial": "260002",
+      "date": "01/30/2026",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "26063001000160",
+      "permit_no": "NY-I-114",
+      "serial": "260004",
+      "date": "03/06/2026",
+      "fanciful_name": "AGED 21 YEARS",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "26078001000658",
+      "permit_no": "NY-I-114",
+      "serial": "260008",
+      "date": "03/20/2026",
+      "fanciful_name": "16YR ASTON MARTIN",
+      "brand_name": "GLENFIDDICH",
+      "search_brand": "GLENFIDDICH"
+    },
+    {
+      "ttb_id": "24100001000347",
+      "permit_no": "NY-I-21165",
+      "serial": "240006",
+      "date": "05/07/2024",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24100001000360",
+      "permit_no": "NY-I-21165",
+      "serial": "240007",
+      "date": "05/02/2024",
+      "fanciful_name": "AGED 15 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24100001000368",
+      "permit_no": "NY-I-21165",
+      "serial": "240008",
+      "date": "05/02/2024",
+      "fanciful_name": "AGED 18 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24114001000914",
+      "permit_no": "CA-I-3223",
+      "serial": "240381",
+      "date": "04/29/2024",
+      "fanciful_name": "",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24128001000887",
+      "permit_no": "NY-I-21165",
+      "serial": "240012",
+      "date": "05/14/2024",
+      "fanciful_name": "AGED 56 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24313001000708",
+      "permit_no": "NY-I-21165",
+      "serial": "240038",
+      "date": "11/12/2024",
+      "fanciful_name": "AGED 16 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "25101001000230",
+      "permit_no": "NY-I-21165",
+      "serial": "250031",
+      "date": "04/11/2025",
+      "fanciful_name": "CASK STRENGTH HEATHER",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "25136001000144",
+      "permit_no": "NY-I-21165",
+      "serial": "250038",
+      "date": "05/19/2025",
+      "fanciful_name": "AGED 21 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "25136001000147",
+      "permit_no": "NY-I-21165",
+      "serial": "250039",
+      "date": "05/19/2025",
+      "fanciful_name": "AGED 25 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "25136001000154",
+      "permit_no": "NY-I-21165",
+      "serial": "250040",
+      "date": "05/19/2025",
+      "fanciful_name": "AGED 30 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26014001000280",
+      "permit_no": "NY-I-21165",
+      "serial": "260001",
+      "date": "01/14/2026",
+      "fanciful_name": "AGED 17 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26052001000136",
+      "permit_no": "NY-I-21336",
+      "serial": "260126",
+      "date": "02/23/2026",
+      "fanciful_name": "AGED 17 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26052001000139",
+      "permit_no": "NY-I-21336",
+      "serial": "260126",
+      "date": "02/24/2026",
+      "fanciful_name": "AGED 28 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26052001000146",
+      "permit_no": "NY-I-21336",
+      "serial": "260127",
+      "date": "02/23/2026",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26052001000147",
+      "permit_no": "NY-I-21336",
+      "serial": "260127",
+      "date": "02/23/2026",
+      "fanciful_name": "13 YEAR OLD",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "26063001000583",
+      "permit_no": "OR-I-15039",
+      "serial": "260220",
+      "date": "03/10/2026",
+      "fanciful_name": "SINGLE MALT SCOTCH WHISKY DISTILLED IN KIRKWALL",
+      "brand_name": "HIGHLAND PARK",
+      "search_brand": "HIGHLAND PARK"
+    },
+    {
+      "ttb_id": "24074001000155",
+      "permit_no": "NY-I-21645",
+      "serial": "24R029",
+      "date": "03/22/2024",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25034001000648",
+      "permit_no": "NY-I-21645",
+      "serial": "25R003",
+      "date": "02/04/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25036001000164",
+      "permit_no": "NY-I-21645",
+      "serial": "25R039",
+      "date": "02/06/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25079001000013",
+      "permit_no": "FL-I-21456",
+      "serial": "250242",
+      "date": "03/20/2025",
+      "fanciful_name": "THE DISTILLERS EDITION",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25097001000431",
+      "permit_no": "NY-I-21645",
+      "serial": "25R085",
+      "date": "04/24/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25114001000222",
+      "permit_no": "NY-I-21645",
+      "serial": "25R085",
+      "date": "04/24/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25192001000322",
+      "permit_no": "NY-I-21645",
+      "serial": "25R119",
+      "date": "07/14/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25211001000491",
+      "permit_no": "NY-I-21645",
+      "serial": "25R132",
+      "date": "07/31/2025",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "25319001000064",
+      "permit_no": "NY-I-21336",
+      "serial": "250386",
+      "date": "12/29/2025",
+      "fanciful_name": "AGED 16 YEARS",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "26007001000687",
+      "permit_no": "NY-I-21645",
+      "serial": "26R005",
+      "date": "01/13/2026",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "26013001000124",
+      "permit_no": "NY-I-21645",
+      "serial": "26R006",
+      "date": "01/13/2026",
+      "fanciful_name": "",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "26052001000153",
+      "permit_no": "NY-I-21336",
+      "serial": "260130",
+      "date": "02/23/2026",
+      "fanciful_name": "AGED 20 YEARS",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "26052001000154",
+      "permit_no": "NY-I-21336",
+      "serial": "260131",
+      "date": "02/24/2026",
+      "fanciful_name": "AGED 8 YEARS",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "26052001000156",
+      "permit_no": "NY-I-21336",
+      "serial": "260132",
+      "date": "02/23/2026",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "LAGAVULIN",
+      "search_brand": "LAGAVULIN"
+    },
+    {
+      "ttb_id": "24078001000663",
+      "permit_no": "NY-I-851",
+      "serial": "240063",
+      "date": "04/22/2024",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24162001000670",
+      "permit_no": "NY-I-851",
+      "serial": "240086",
+      "date": "07/18/2024",
+      "fanciful_name": "EUREKA!",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24169001000648",
+      "permit_no": "NY-I-851",
+      "serial": "240089",
+      "date": "06/21/2024",
+      "fanciful_name": "THE ABYSS",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24198001000673",
+      "permit_no": "NY-I-851",
+      "serial": "240101",
+      "date": "07/18/2024",
+      "fanciful_name": "SMOKIVERSE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24236001000375",
+      "permit_no": "NY-I-851",
+      "serial": "240134",
+      "date": "09/04/2024",
+      "fanciful_name": "ANTHOLOGY",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24247001000717",
+      "permit_no": "NY-I-851",
+      "serial": "240140",
+      "date": "10/09/2024",
+      "fanciful_name": "VINTAGE Y2K",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25094001000097",
+      "permit_no": "NY-I-15547",
+      "serial": "25J105",
+      "date": "04/04/2025",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25196001000207",
+      "permit_no": "NY-I-851",
+      "serial": "250119",
+      "date": "07/31/2025",
+      "fanciful_name": "DOLCE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25217001000590",
+      "permit_no": "OR-I-15039",
+      "serial": "250065",
+      "date": "08/07/2025",
+      "fanciful_name": "SINGLE CASK SCOTCH WHISKY THE ARDBEGIANS PICK #1",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25217001000599",
+      "permit_no": "OR-I-15039",
+      "serial": "250066",
+      "date": "08/06/2025",
+      "fanciful_name": "SINGLE CASK SCOTCH WHISKY DRAMMERS CLUB PICK #109",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25218001000526",
+      "permit_no": "OR-I-15039",
+      "serial": "250071",
+      "date": "08/06/2025",
+      "fanciful_name": "SINGLE CASK SCOTCH WHISKY DRAMMERS CLUB PICK #109",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25238001000297",
+      "permit_no": "NY-I-851",
+      "serial": "250129",
+      "date": "08/27/2025",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25238001000345",
+      "permit_no": "NY-I-851",
+      "serial": "250133",
+      "date": "08/27/2025",
+      "fanciful_name": "TRUDERNISH",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25238001000349",
+      "permit_no": "NY-I-851",
+      "serial": "250134",
+      "date": "08/28/2025",
+      "fanciful_name": "CORRYVRECKAN",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25259001000430",
+      "permit_no": "NY-I-851",
+      "serial": "250151",
+      "date": "09/18/2025",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25259001000472",
+      "permit_no": "NY-I-851",
+      "serial": "250152",
+      "date": "09/18/2025",
+      "fanciful_name": "UIGEADAIL",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25267001000501",
+      "permit_no": "NY-I-851",
+      "serial": "250168",
+      "date": "09/25/2025",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25281001000002",
+      "permit_no": "FL-I-21456",
+      "serial": "250551",
+      "date": "11/21/2025",
+      "fanciful_name": "",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25310001000266",
+      "permit_no": "NY-I-851",
+      "serial": "250187",
+      "date": "11/21/2025",
+      "fanciful_name": "TRUDERNISH",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25316001000359",
+      "permit_no": "NY-I-21336",
+      "serial": "250360",
+      "date": "12/16/2025",
+      "fanciful_name": "THE HAPPY TALES",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25316001000360",
+      "permit_no": "NY-I-21336",
+      "serial": "250361",
+      "date": "11/22/2025",
+      "fanciful_name": "DARK COVE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25319001000061",
+      "permit_no": "NY-I-21336",
+      "serial": "250383",
+      "date": "11/24/2025",
+      "fanciful_name": "VERY RARE 15 YEARS OLD",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25319001000062",
+      "permit_no": "NY-I-21336",
+      "serial": "250384",
+      "date": "11/24/2025",
+      "fanciful_name": "VERY RARE 14 YEARS OLD",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25330001000605",
+      "permit_no": "NY-I-21336",
+      "serial": "250424",
+      "date": "12/03/2025",
+      "fanciful_name": "LORD OF THE ISLES",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25348001000015",
+      "permit_no": "NY-I-21336",
+      "serial": "250475",
+      "date": "12/16/2025",
+      "fanciful_name": "SCORCH",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25348001000017",
+      "permit_no": "NY-I-21336",
+      "serial": "250476",
+      "date": "12/15/2025",
+      "fanciful_name": "UIGEADAIL",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25348001000019",
+      "permit_no": "NY-I-21336",
+      "serial": "250477",
+      "date": "01/14/2026",
+      "fanciful_name": "SPECTACULAR",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25348001000023",
+      "permit_no": "NY-I-21336",
+      "serial": "250478",
+      "date": "12/15/2025",
+      "fanciful_name": "SMOKIVERSE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "25348001000027",
+      "permit_no": "NY-I-21336",
+      "serial": "250479",
+      "date": "01/15/2026",
+      "fanciful_name": "CORRYVRECKAN",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26020001000376",
+      "permit_no": "NY-I-851",
+      "serial": "260022",
+      "date": "01/21/2026",
+      "fanciful_name": "WEE BEASTIE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26023001000268",
+      "permit_no": "NY-I-21336",
+      "serial": "260057",
+      "date": "02/17/2026",
+      "fanciful_name": "THE ULTIMATE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26074001000015",
+      "permit_no": "NY-I-21336",
+      "serial": "260179",
+      "date": "03/16/2026",
+      "fanciful_name": "ANTHOLOGY",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26074001000017",
+      "permit_no": "NY-I-21336",
+      "serial": "260180",
+      "date": "03/24/2026",
+      "fanciful_name": "25 YEARS OLD",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26074001000023",
+      "permit_no": "NY-I-21336",
+      "serial": "260182",
+      "date": "03/16/2026",
+      "fanciful_name": "AGED TEN YEARS",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "26090001000835",
+      "permit_no": "NY-I-851",
+      "serial": "260042",
+      "date": "04/01/2026",
+      "fanciful_name": "SEASMOKE",
+      "brand_name": "ARDBEG",
+      "search_brand": "ARDBEG"
+    },
+    {
+      "ttb_id": "24079001000167",
+      "permit_no": "NY-I-21645",
+      "serial": "24R032",
+      "date": "03/29/2024",
+      "fanciful_name": "",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "24310001000060",
+      "permit_no": "NY-I-21645",
+      "serial": "24R140",
+      "date": "11/06/2024",
+      "fanciful_name": "",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "25035001000577",
+      "permit_no": "NY-I-21645",
+      "serial": "25R013",
+      "date": "03/07/2025",
+      "fanciful_name": "LITTLE BAY",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "25035001000675",
+      "permit_no": "NY-I-21645",
+      "serial": "25R008",
+      "date": "02/05/2025",
+      "fanciful_name": "",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "25036001000281",
+      "permit_no": "NY-I-21645",
+      "serial": "25R009",
+      "date": "02/06/2025",
+      "fanciful_name": "",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "25097001000442",
+      "permit_no": "NY-I-21645",
+      "serial": "25R086",
+      "date": "04/08/2025",
+      "fanciful_name": "",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "25219001000158",
+      "permit_no": "NY-I-21645",
+      "serial": "25R138",
+      "date": "08/11/2025",
+      "fanciful_name": "15 YEAR OLD",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "26036001000698",
+      "permit_no": "NY-I-21336",
+      "serial": "260077",
+      "date": "02/10/2026",
+      "fanciful_name": "AGED 11 YEARS",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "26036001000731",
+      "permit_no": "NY-I-21336",
+      "serial": "260078",
+      "date": "02/11/2026",
+      "fanciful_name": "AGED 10 YEARS",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "26036001000733",
+      "permit_no": "NY-I-21336",
+      "serial": "260079",
+      "date": "02/10/2026",
+      "fanciful_name": "AGED 12 YEARS",
+      "brand_name": "OBAN",
+      "search_brand": "OBAN"
+    },
+    {
+      "ttb_id": "24074001000160",
+      "permit_no": "NY-I-21645",
+      "serial": "24R028",
+      "date": "03/22/2024",
+      "fanciful_name": "",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "25034001000725",
+      "permit_no": "NY-I-21645",
+      "serial": "25R006",
+      "date": "02/05/2025",
+      "fanciful_name": "",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "25035001000608",
+      "permit_no": "NY-I-21645",
+      "serial": "25R005",
+      "date": "02/10/2025",
+      "fanciful_name": "10 YEAR",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "25035001000645",
+      "permit_no": "NY-I-21645",
+      "serial": "25R007",
+      "date": "02/10/2025",
+      "fanciful_name": "STORM",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "25097001000481",
+      "permit_no": "NY-I-21645",
+      "serial": "25R088",
+      "date": "04/08/2025",
+      "fanciful_name": "",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "26023001000272",
+      "permit_no": "NY-I-21336",
+      "serial": "260058",
+      "date": "01/26/2026",
+      "fanciful_name": "XPEDITION OAK",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "26030001000209",
+      "permit_no": "NY-I-21645",
+      "serial": "26R018",
+      "date": "02/06/2026",
+      "fanciful_name": "MAGMA",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "26064001000370",
+      "permit_no": "NY-I-21645",
+      "serial": "26R023",
+      "date": "03/17/2026",
+      "fanciful_name": "",
+      "brand_name": "TALISKER",
+      "search_brand": "TALISKER"
+    },
+    {
+      "ttb_id": "24305001000109",
+      "permit_no": "KY-I-409",
+      "serial": "240056",
+      "date": "11/13/2024",
+      "fanciful_name": "CHANCELLOR",
+      "brand_name": "DIPLOMATICO",
+      "search_brand": "DIPLOMATICO"
+    },
+    {
+      "ttb_id": "24311001000192",
+      "permit_no": "KY-I-409",
+      "serial": "240057",
+      "date": "11/07/2024",
+      "fanciful_name": "SINGLE VINTAGE",
+      "brand_name": "DIPLOMATICO",
+      "search_brand": "DIPLOMATICO"
+    }
+  ]
+}

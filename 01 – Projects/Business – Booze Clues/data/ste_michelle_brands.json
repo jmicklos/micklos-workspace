@@ -1,0 +1,69 @@
+{
+  "source": "Chateau Ste. Michelle / SMWE",
+  "source_url": "https://www.smwe.com",
+  "extracted_date": "2026-04-07",
+  "distributor": "Chateau Ste. Michelle",
+  "note": "Self-distributing winery. Largest wine company in PNW.",
+  "brands": [
+    {
+      "name": "Chateau Ste. Michelle",
+      "category": "wine"
+    },
+    {
+      "name": "14 Hands",
+      "category": "wine"
+    },
+    {
+      "name": "Columbia Crest",
+      "category": "wine"
+    },
+    {
+      "name": "Eroica",
+      "category": "wine"
+    },
+    {
+      "name": "Col Solare",
+      "category": "wine"
+    },
+    {
+      "name": "Spring Valley Vineyard",
+      "category": "wine"
+    },
+    {
+      "name": "A to Z Wineworks",
+      "category": "wine"
+    },
+    {
+      "name": "Erath",
+      "category": "wine"
+    },
+    {
+      "name": "Rex Hill",
+      "category": "wine"
+    },
+    {
+      "name": "Conn Creek",
+      "category": "wine"
+    },
+    {
+      "name": "Patz & Hall",
+      "category": "wine"
+    },
+    {
+      "name": "Nicolas Feuillatte",
+      "category": "wine"
+    },
+    {
+      "name": "Antinori",
+      "category": "wine"
+    },
+    {
+      "name": "Stag's Leap Wine Cellars",
+      "category": "wine"
+    },
+    {
+      "name": "Northstar",
+      "category": "wine"
+    }
+  ]
+}

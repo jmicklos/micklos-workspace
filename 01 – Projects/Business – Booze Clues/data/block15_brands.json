@@ -1,0 +1,56 @@
+{
+  "source": "Block 15 Distribution",
+  "source_url": "https://www.block15distribution.com/brands",
+  "extracted_date": "2026-04-07",
+  "distributor": "Block 15 Distribution",
+  "brands": [
+    {
+      "name": "BLOCK 15 DISTRIBUTION",
+      "category": "beer"
+    },
+    {
+      "name": "Bespoken Coffee Roasters",
+      "category": "beer"
+    },
+    {
+      "name": "Block 15 Brewing",
+      "category": "beer"
+    },
+    {
+      "name": "ColdFire Brewing Company",
+      "category": "beer"
+    },
+    {
+      "name": "de Garde Brewing",
+      "category": "beer"
+    },
+    {
+      "name": "Ferment Brewing Co.",
+      "category": "beer"
+    },
+    {
+      "name": "Helvetia Cider Company",
+      "category": "beer"
+    },
+    {
+      "name": "Level Beer",
+      "category": "beer"
+    },
+    {
+      "name": "Wayfinder Beer",
+      "category": "beer"
+    },
+    {
+      "name": "AVAILABILTY",
+      "category": "beer"
+    },
+    {
+      "name": "PRESS",
+      "category": "beer"
+    },
+    {
+      "name": "Skip to Content",
+      "category": "beer"
+    }
+  ]
+}

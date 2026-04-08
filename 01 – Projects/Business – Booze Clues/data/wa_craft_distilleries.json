@@ -1,0 +1,752 @@
+{
+  "source": "WA Craft Distilleries (LCB)",
+  "extracted_date": "2026-04-07",
+  "type": "WA Craft Distilleries",
+  "total": 124,
+  "entries": [
+    {
+      "name": "2 BAR",
+      "city": "SEATTLE",
+      "phone": "2068011113",
+      "category": "spirits"
+    },
+    {
+      "name": "2 LOONS DISTILLERY",
+      "city": "LOON LAKE",
+      "phone": "5099980330",
+      "category": "spirits"
+    },
+    {
+      "name": "ADRIFT DISTILLERS",
+      "city": "LONG BEACH",
+      "phone": "5032987915",
+      "category": "spirits"
+    },
+    {
+      "name": "ADRIFT DISTILLERS",
+      "city": "LONG BEACH",
+      "phone": "5032987915",
+      "category": "spirits"
+    },
+    {
+      "name": "BATTLE CREST DISTILLARY",
+      "city": "BATTLE GROUND",
+      "phone": "9073504952",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLEWOOD DISTILLING",
+      "city": "LYNDEN",
+      "phone": "3603187720",
+      "category": "spirits"
+    },
+    {
+      "name": "BELLWETHER YARD",
+      "city": "HOQUIAM",
+      "phone": "2063867546",
+      "category": "spirits"
+    },
+    {
+      "name": "BLACK HERON SPIRITS",
+      "city": "WEST RICHLAND",
+      "phone": "5099429361",
+      "category": "spirits"
+    },
+    {
+      "name": "BLACK MOON BITTERS LLC",
+      "city": "SEATTLE",
+      "phone": "2068490846",
+      "category": "spirits"
+    },
+    {
+      "name": "BLACK RING SPIRITS",
+      "city": "PORT ORCHARD",
+      "phone": "3603169168",
+      "category": "spirits"
+    },
+    {
+      "name": "BLACK RING SPIRITS",
+      "city": "PORT ORCHARD",
+      "phone": "3603169168",
+      "category": "spirits"
+    },
+    {
+      "name": "BOWMAN ORCHARDS",
+      "city": "MOSES LAKE",
+      "phone": "4069823246",
+      "category": "spirits"
+    },
+    {
+      "name": "BROWN FAMILY SPIRITS",
+      "city": "WALLA WALLA",
+      "phone": "2062675252",
+      "category": "spirits"
+    },
+    {
+      "name": "CASH BUTTE DISTILLERY",
+      "city": "ROYAL CITY",
+      "phone": "2069142332",
+      "category": "spirits"
+    },
+    {
+      "name": "CAUDILL DISTILLERY",
+      "city": "PORT ANGELES",
+      "phone": "3604606172",
+      "category": "spirits"
+    },
+    {
+      "name": "CHAMBERS BAY DISTILLERY",
+      "city": "UNIVERSITY PLACE",
+      "phone": "2534055518",
+      "category": "spirits"
+    },
+    {
+      "name": "COPPER CAT DISTILLERY",
+      "city": "WOODINVILLE",
+      "phone": "8472462189",
+      "category": "spirits"
+    },
+    {
+      "name": "COPPERWORKS DISTILLING COMPANY",
+      "city": "SEATTLE",
+      "phone": "2065047604",
+      "category": "spirits"
+    },
+    {
+      "name": "CROOKED NECK SPIRITS",
+      "city": "WOODINVILLE",
+      "phone": "2067697800",
+      "category": "spirits"
+    },
+    {
+      "name": "CULTUS BAY DISTILLERY",
+      "city": "CLINTON",
+      "phone": "3605795632",
+      "category": "spirits"
+    },
+    {
+      "name": "CULTUS BAY DISTILLERY",
+      "city": "CLINTON",
+      "phone": "3605795632",
+      "category": "spirits"
+    },
+    {
+      "name": "CURTSON DISTILLERY",
+      "city": "SULTAN",
+      "phone": "7192874932",
+      "category": "spirits"
+    },
+    {
+      "name": "DOMINION DISTILLERY, LLC",
+      "city": "KETTLE FALLS",
+      "phone": "5096857228",
+      "category": "spirits"
+    },
+    {
+      "name": "DRY FLY DISTILLING INC",
+      "city": "SPOKANE",
+      "phone": "5094892112",
+      "category": "spirits"
+    },
+    {
+      "name": "DWINELL COUNTRY ALE",
+      "city": "GOLDENDALE",
+      "phone": "3123438607",
+      "category": "spirits"
+    },
+    {
+      "name": "ELK HEIGHTS DISTILLERY",
+      "city": "ELLENSBURG",
+      "phone": "5092011167",
+      "category": "spirits"
+    },
+    {
+      "name": "ELLENSBURG DISTILLERY",
+      "city": "ELLENSBURG",
+      "phone": "8052070388",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "FREMONT MISCHIEF",
+      "city": "SEATTLE",
+      "phone": "2065470838",
+      "category": "spirits"
+    },
+    {
+      "name": "GABRIELLI DISTILLERS",
+      "city": "VANCOUVER",
+      "phone": "5034212797",
+      "category": "spirits"
+    },
+    {
+      "name": "GABRIELLI DISTILLERS",
+      "city": "VANCOUVER",
+      "phone": "5034212797",
+      "category": "spirits"
+    },
+    {
+      "name": "GINKGO DISTILLERY",
+      "city": "MATTAWA",
+      "phone": "5099320082",
+      "category": "spirits"
+    },
+    {
+      "name": "GINKGO DISTILLERY",
+      "city": "MATTAWA",
+      "phone": "5099320082",
+      "category": "spirits"
+    },
+    {
+      "name": "GLACIER PEAK SPIRITS",
+      "city": "ROCKPORT",
+      "phone": "6268269877",
+      "category": "spirits"
+    },
+    {
+      "name": "GLENDALE SHEPHERD",
+      "city": "CLINTON",
+      "phone": "3605939935",
+      "category": "spirits"
+    },
+    {
+      "name": "GOAT VALLEY SHINE",
+      "city": "GRAHAM",
+      "phone": "2069791826",
+      "category": "spirits"
+    },
+    {
+      "name": "GR DISTILLERY",
+      "city": "BENTON CITY",
+      "phone": "5096276249",
+      "category": "spirits"
+    },
+    {
+      "name": "GRAPEWORKS DISTILLING",
+      "city": "ZILLAH",
+      "phone": "4254852437",
+      "category": "spirits"
+    },
+    {
+      "name": "HELL'S CANYON DISTILLERY",
+      "city": "ANATONE",
+      "phone": "2087462391",
+      "category": "spirits"
+    },
+    {
+      "name": "HELL'S CANYON DISTILLERY",
+      "city": "ANATONE",
+      "phone": "2087462391",
+      "category": "spirits"
+    },
+    {
+      "name": "HERITAGE DISTILLING COMPANY",
+      "city": "GIG HARBOR",
+      "phone": "2535090008",
+      "category": "spirits"
+    },
+    {
+      "name": "HERITAGE DISTILLING COMPANY",
+      "city": "GIG HARBOR",
+      "phone": "2535090008",
+      "category": "spirits"
+    },
+    {
+      "name": "HERITAGE DISTILLING COMPANY",
+      "city": "ROSLYN",
+      "phone": "2535090008",
+      "category": "spirits"
+    },
+    {
+      "name": "HETTERLEY'S XXX DISTILLED SPIRITS",
+      "city": "WALLA WALLA",
+      "phone": "5093862361",
+      "category": "spirits"
+    },
+    {
+      "name": "HETTERLEY'S XXX DISTILLED SPIRITS",
+      "city": "WALLA WALLA",
+      "phone": "5093862361",
+      "category": "spirits"
+    },
+    {
+      "name": "HETTERLEY'S XXX DISTILLED SPIRITS",
+      "city": "WALLA WALLA",
+      "phone": "5093862361",
+      "category": "spirits"
+    },
+    {
+      "name": "HETTERLEY'S XXX DISTILLED SPIRITS",
+      "city": "WALLA WALLA",
+      "phone": "5093862361",
+      "category": "spirits"
+    },
+    {
+      "name": "HIGHSIDE DISTILLING",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "4254179000",
+      "category": "spirits"
+    },
+    {
+      "name": "JAMES BAY DISTILLERS",
+      "city": "EVERETT",
+      "phone": "7039308453",
+      "category": "spirits"
+    },
+    {
+      "name": "JP TRODDEN",
+      "city": "SNOHOMISH",
+      "phone": "2063996291",
+      "category": "spirits"
+    },
+    {
+      "name": "KARMA DISTILLERY",
+      "city": "ENTIAT",
+      "phone": "5096825538",
+      "category": "spirits"
+    },
+    {
+      "name": "KING CIDER DISTILLERY",
+      "city": "VASHON",
+      "phone": "2068612774",
+      "category": "spirits"
+    },
+    {
+      "name": "LACHSELIAN WINE & SPIRITS",
+      "city": "SEATTLE",
+      "phone": "2066867210",
+      "category": "spirits"
+    },
+    {
+      "name": "LODGEPOLE DISTILLING",
+      "city": "SEATTLE",
+      "phone": "2067698393",
+      "category": "spirits"
+    },
+    {
+      "name": "MANSON DISTILLERY",
+      "city": "MANSON",
+      "phone": "5092932661",
+      "category": "spirits"
+    },
+    {
+      "name": "MAURY ISLAND WHISKEY",
+      "city": "VASHON",
+      "phone": "2066797323",
+      "category": "spirits"
+    },
+    {
+      "name": "MAURY ISLAND WHISKEY",
+      "city": "VASHON",
+      "phone": "2066797323",
+      "category": "spirits"
+    },
+    {
+      "name": "MOUNTAIN MEADOW DISTILLERY",
+      "city": "CHATTAROY",
+      "phone": "5098228903",
+      "category": "spirits"
+    },
+    {
+      "name": "MR. E'S",
+      "city": "MOSES LAKE",
+      "phone": "5094312103",
+      "category": "spirits"
+    },
+    {
+      "name": "NEVERMIND DISTILLERY",
+      "city": "EASTSOUND",
+      "phone": "4254443231",
+      "category": "spirits"
+    },
+    {
+      "name": "NIGHTSIDE DISTILLERY",
+      "city": "EDGEWOOD",
+      "phone": "2533771379",
+      "category": "spirits"
+    },
+    {
+      "name": "NIGHTSIDE DISTILLERY",
+      "city": "EDGEWOOD",
+      "phone": "2533771379",
+      "category": "spirits"
+    },
+    {
+      "name": "OAK CREEK BREWSTILLERY",
+      "city": "NACHES",
+      "phone": "5099694884",
+      "category": "spirits"
+    },
+    {
+      "name": "OAK CREEK BREWSTILLERY",
+      "city": "NACHES",
+      "phone": "5099694884",
+      "category": "spirits"
+    },
+    {
+      "name": "ODELO SPIRITS",
+      "city": "LOPEZ ISLAND",
+      "phone": "2035076469",
+      "category": "spirits"
+    },
+    {
+      "name": "OLD SOLDIER DISTILLERY",
+      "city": "TACOMA",
+      "phone": "2533766559",
+      "category": "spirits"
+    },
+    {
+      "name": "OLDE TYME SPIRITS",
+      "city": "CLAYTON",
+      "phone": "5098228977",
+      "category": "spirits"
+    },
+    {
+      "name": "OOMRANG",
+      "city": "STANWOOD",
+      "phone": "9149072281",
+      "category": "spirits"
+    },
+    {
+      "name": "ORCAS ISLAND DISTILLERY",
+      "city": "ORCAS",
+      "phone": "3603767077",
+      "category": "spirits"
+    },
+    {
+      "name": "PASAYTEN WHISKEY",
+      "city": "MAZAMA",
+      "phone": "5093414337",
+      "category": "spirits"
+    },
+    {
+      "name": "PHILLIPPI FRUIT COMPANY",
+      "city": "WENATCHEE",
+      "phone": "5096628522",
+      "category": "spirits"
+    },
+    {
+      "name": "PLEASANT HILL DISTILLERY",
+      "city": "KELSO",
+      "phone": "3604319308",
+      "category": "spirits"
+    },
+    {
+      "name": "PORT ANGELES DISTILLING COMPANY",
+      "city": "PORT ANGELES",
+      "phone": "3608089340",
+      "category": "spirits"
+    },
+    {
+      "name": "PORT TOWNSEND DISTILLERY",
+      "city": "PORT TOWNSEND",
+      "phone": "3603856899",
+      "category": "spirits"
+    },
+    {
+      "name": "PROBABLY SHOULDN'T DISTILLERY",
+      "city": "EVERSON",
+      "phone": "3604101632",
+      "category": "spirits"
+    },
+    {
+      "name": "QUARTZ MOUNTAIN DISTILLERS",
+      "city": "VANCOUVER",
+      "phone": "3609045627",
+      "category": "spirits"
+    },
+    {
+      "name": "RED BARN FARM",
+      "city": "REDMOND",
+      "phone": "4257653263",
+      "category": "spirits"
+    },
+    {
+      "name": "RED BARN FARM",
+      "city": "REDMOND",
+      "phone": "4257653263",
+      "category": "spirits"
+    },
+    {
+      "name": "RED BARN FARM",
+      "city": "REDMOND",
+      "phone": "4257653263",
+      "category": "spirits"
+    },
+    {
+      "name": "RED BRIDGE DISTILLERY LLC",
+      "city": "CLE ELUM",
+      "phone": "5094705403",
+      "category": "spirits"
+    },
+    {
+      "name": "RED BRIDGE DISTILLERY LLC",
+      "city": "CLE ELUM",
+      "phone": "5094705403",
+      "category": "spirits"
+    },
+    {
+      "name": "REDIVIVA DISTILLING",
+      "city": "WASHOUGAL",
+      "phone": "3608350922",
+      "category": "spirits"
+    },
+    {
+      "name": "REDIVIVA DISTILLING",
+      "city": "WASHOUGAL",
+      "phone": "3608350922",
+      "category": "spirits"
+    },
+    {
+      "name": "RUSTIC DISTILLERY",
+      "city": "COLLEGE PLACE",
+      "phone": "5095400346",
+      "category": "spirits"
+    },
+    {
+      "name": "SAN JUAN ISLAND DISTILLERY",
+      "city": "FRIDAY HARBOR",
+      "phone": "3603782606",
+      "category": "spirits"
+    },
+    {
+      "name": "SANDSTONE DISTILLERY",
+      "city": "TENINO",
+      "phone": "3602397272",
+      "category": "spirits"
+    },
+    {
+      "name": "SECOND CHANCE SPIRITS",
+      "city": "PROSSER",
+      "phone": "5093030646",
+      "category": "spirits"
+    },
+    {
+      "name": "SIDETRACK DISTILLERY",
+      "city": "KENT",
+      "phone": "2069635079",
+      "category": "spirits"
+    },
+    {
+      "name": "SILVER SPUR SPIRITS",
+      "city": "MONROE",
+      "phone": "3608052928",
+      "category": "spirits"
+    },
+    {
+      "name": "SOLAR SPIRITS DISTILLERY",
+      "city": "RICHLAND",
+      "phone": "3605815031",
+      "category": "spirits"
+    },
+    {
+      "name": "SOLAR SPIRITS DISTILLERY",
+      "city": "RICHLAND",
+      "phone": "3605815031",
+      "category": "spirits"
+    },
+    {
+      "name": "SOLAR SPIRITS DISTILLERY",
+      "city": "RICHLAND",
+      "phone": "3605815031",
+      "category": "spirits"
+    },
+    {
+      "name": "SPEED SHIFT DISTILLERY",
+      "city": "FERNDALE",
+      "phone": "3602238804",
+      "category": "spirits"
+    },
+    {
+      "name": "SPIRIT OF THE HIVE",
+      "city": "TWISP",
+      "phone": "3607903401",
+      "category": "spirits"
+    },
+    {
+      "name": "SPURGEON CREEK DISTILLERY",
+      "city": "OLYMPIA",
+      "phone": "3607904120",
+      "category": "spirits"
+    },
+    {
+      "name": "SWEDE HILL DISTILLERY",
+      "city": "YAKIMA",
+      "phone": "5099303499",
+      "category": "spirits"
+    },
+    {
+      "name": "TERRAMAR",
+      "city": "BOW",
+      "phone": "3605106757",
+      "category": "spirits"
+    },
+    {
+      "name": "THE DISTILLARIUM",
+      "city": "YAKIMA",
+      "phone": "5094243411",
+      "category": "spirits"
+    },
+    {
+      "name": "THE DISTILLARIUM",
+      "city": "YAKIMA",
+      "phone": "5094243411",
+      "category": "spirits"
+    },
+    {
+      "name": "THE DISTILLARIUM",
+      "city": "YAKIMA",
+      "phone": "5094243411",
+      "category": "spirits"
+    },
+    {
+      "name": "THE DISTILLARIUM",
+      "city": "YAKIMA",
+      "phone": "5094243411",
+      "category": "spirits"
+    },
+    {
+      "name": "THE DISTILLARIUM",
+      "city": "YAKIMA",
+      "phone": "5094243411",
+      "category": "spirits"
+    },
+    {
+      "name": "THE HARDWARE DISTILLERY CO.",
+      "city": "HOODSPORT",
+      "phone": "2063000877",
+      "category": "spirits"
+    },
+    {
+      "name": "TRADESMEN DISTILLERY",
+      "city": "AUBURN",
+      "phone": "2538389780",
+      "category": "spirits"
+    },
+    {
+      "name": "TRADESMEN DISTILLERY",
+      "city": "AUBURN",
+      "phone": "2538389780",
+      "category": "spirits"
+    },
+    {
+      "name": "WESTLAND",
+      "city": "SEATTLE",
+      "phone": "2063253051",
+      "category": "spirits"
+    },
+    {
+      "name": "WHISKEY TREE DISTILLING",
+      "city": "CARSON",
+      "phone": "5035606241",
+      "category": "spirits"
+    },
+    {
+      "name": "WILD SPIRITS DISTILLING",
+      "city": "PROSSER",
+      "phone": "5097971507",
+      "category": "spirits"
+    },
+    {
+      "name": "WILDWOOD SPIRITS CO.",
+      "city": "SEATTLE",
+      "phone": "4252698597",
+      "category": "spirits"
+    },
+    {
+      "name": "WILDWOOD SPIRITS CO.",
+      "city": "SEATTLE",
+      "phone": "4252698597",
+      "category": "spirits"
+    },
+    {
+      "name": "WILRIDGE",
+      "city": "YAKIMA",
+      "phone": "2063253051",
+      "category": "spirits"
+    },
+    {
+      "name": "WILRIDGE WINERY",
+      "city": "YAKIMA",
+      "phone": "2063253051",
+      "category": "spirits"
+    },
+    {
+      "name": "WISE FOOL SPIRITS",
+      "city": "SEATTLE",
+      "phone": "2066606007",
+      "category": "spirits"
+    },
+    {
+      "name": "WOODLAND MEADOW FARMS",
+      "city": "SNOHOMISH",
+      "phone": "4253678827",
+      "category": "spirits"
+    }
+  ]
+}

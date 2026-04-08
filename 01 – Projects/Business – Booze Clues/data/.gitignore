@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+package-lock.json
+*_screenshot.png
+*_page.html
+*_raw_text.txt
+ttb_cola_progress.json
+raw/
+ny_*.png

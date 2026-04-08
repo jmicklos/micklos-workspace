@@ -1,0 +1,124 @@
+{
+  "source": "Walton Beverage Co.",
+  "source_url": "https://www.waltonbeverage.com/alcohol/",
+  "extracted_date": "2026-04-07",
+  "distributor": "Walton Beverage Co.",
+  "brands": [
+    {
+      "name": "Walton Beverage",
+      "category": "beer"
+    },
+    {
+      "name": "OUR ALCOHOL SELECTION",
+      "category": "beer"
+    },
+    {
+      "name": "CRAFT BEER WASHINGTON",
+      "category": "beer"
+    },
+    {
+      "name": "CRAFT BEER OREGON",
+      "category": "beer"
+    },
+    {
+      "name": "HARD CIDER & Premium Wine",
+      "category": "beer"
+    },
+    {
+      "name": "Hard Seltzer  & Hard Kombucha",
+      "category": "beer"
+    },
+    {
+      "name": "premium malt & hard craft soda",
+      "category": "beer"
+    },
+    {
+      "name": "Non-Alcohol Craft",
+      "category": "beer"
+    },
+    {
+      "name": "CRAFT BEER OTHER STATES",
+      "category": "beer"
+    },
+    {
+      "name": "IMPORTS",
+      "category": "beer"
+    },
+    {
+      "name": "Skip to content",
+      "category": "beer"
+    },
+    {
+      "name": "Products",
+      "category": "beer"
+    },
+    {
+      "name": "Beverages",
+      "category": "beer"
+    },
+    {
+      "name": "Alcohol",
+      "category": "beer"
+    },
+    {
+      "name": "Snacks",
+      "category": "beer"
+    },
+    {
+      "name": "Services",
+      "category": "beer"
+    },
+    {
+      "name": "Food Service",
+      "category": "beer"
+    },
+    {
+      "name": "Vending",
+      "category": "beer"
+    },
+    {
+      "name": "Coffee",
+      "category": "beer"
+    },
+    {
+      "name": "Our Story",
+      "category": "beer"
+    },
+    {
+      "name": "Sponsorships",
+      "category": "beer"
+    },
+    {
+      "name": "Get In Touch",
+      "category": "beer"
+    },
+    {
+      "name": "Employment",
+      "category": "beer"
+    },
+    {
+      "name": "BEER",
+      "category": "beer"
+    },
+    {
+      "name": "HARD CIDER & LEMONADE",
+      "category": "beer"
+    },
+    {
+      "name": "HARD SELTZERS",
+      "category": "beer"
+    },
+    {
+      "name": "Privacy Policy",
+      "category": "beer"
+    },
+    {
+      "name": "Terms Of Use",
+      "category": "beer"
+    },
+    {
+      "name": "Cookie Policy",
+      "category": "beer"
+    }
+  ]
+}

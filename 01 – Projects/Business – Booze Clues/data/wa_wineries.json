@@ -1,0 +1,5918 @@
+{
+  "source": "WA Wineries (LCB)",
+  "extracted_date": "2026-04-07",
+  "type": "WA Wineries",
+  "total": 985,
+  "entries": [
+    {
+      "name": "14 ACRES VINEYARD & WINERY",
+      "city": "RIDGEFIELD",
+      "phone": "3609037118",
+      "category": "wine"
+    },
+    {
+      "name": "21 CELLARS",
+      "city": "TACOMA",
+      "phone": "2537520833",
+      "category": "wine"
+    },
+    {
+      "name": "2205 WINE COMPANY",
+      "city": "MANSON",
+      "phone": "2067956266",
+      "category": "wine"
+    },
+    {
+      "name": "3 DOG CIDER & BREWSTILLERY",
+      "city": "ETHEL",
+      "phone": "2085892984",
+      "category": "wine"
+    },
+    {
+      "name": "37 CELLARS",
+      "city": "LEAVENWORTH",
+      "phone": "5095488663",
+      "category": "wine"
+    },
+    {
+      "name": "4 WHISTLES WINERY",
+      "city": "ELTOPIA",
+      "phone": "5093922156",
+      "category": "wine"
+    },
+    {
+      "name": "425 CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2063000573",
+      "category": "wine"
+    },
+    {
+      "name": "ABANDONED ORCHARDS",
+      "city": "REDMOND",
+      "phone": "2062265665",
+      "category": "wine"
+    },
+    {
+      "name": "ABBE VINEYARD WINERY",
+      "city": "FEDERAL WAY",
+      "phone": "2063541371",
+      "category": "wine"
+    },
+    {
+      "name": "ABEJA",
+      "city": "WALLA WALLA",
+      "phone": "5095267400",
+      "category": "wine"
+    },
+    {
+      "name": "ABOVE THE CURVE VINEYARD",
+      "city": "PROSSER",
+      "phone": "2537977929",
+      "category": "wine"
+    },
+    {
+      "name": "ADAMANT CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095294161",
+      "category": "wine"
+    },
+    {
+      "name": "ADAMANT CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095294161",
+      "category": "wine"
+    },
+    {
+      "name": "ADAMS BENCH",
+      "city": "WOODINVILLE",
+      "phone": "2063311800",
+      "category": "wine"
+    },
+    {
+      "name": "ADRICE WINES",
+      "city": "WOODINVILLE",
+      "phone": "2063547243",
+      "category": "wine"
+    },
+    {
+      "name": "ADYTUM CELLARS",
+      "city": "ZILLAH",
+      "phone": "4254829030",
+      "category": "wine"
+    },
+    {
+      "name": "AIRFIELD ESTATES WINERY",
+      "city": "PROSSER",
+      "phone": "5098372401",
+      "category": "wine"
+    },
+    {
+      "name": "AIRFIELD ESTATES WINERY",
+      "city": "SUNNYSIDE",
+      "phone": "5097867401",
+      "category": "wine"
+    },
+    {
+      "name": "ALEXANDER THE GRAPE",
+      "city": "WEST RICHLAND",
+      "phone": "5099429850",
+      "category": "wine"
+    },
+    {
+      "name": "ALEXANDRIA NICOLE CELLARS",
+      "city": "PROSSER",
+      "phone": "5098323877",
+      "category": "wine"
+    },
+    {
+      "name": "ALEXANDRIA NICOLE CELLARS",
+      "city": "PROSSER",
+      "phone": "5098323877",
+      "category": "wine"
+    },
+    {
+      "name": "ALEXANDRIA NICOLE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "5098323877",
+      "category": "wine"
+    },
+    {
+      "name": "ALIA WINES",
+      "city": "SNOHOMISH",
+      "phone": "3607940421",
+      "category": "wine"
+    },
+    {
+      "name": "ALLI LANPHEAR VINEYARD",
+      "city": "VASHON",
+      "phone": "2067246274",
+      "category": "wine"
+    },
+    {
+      "name": "ALLUVIUM CELLARS LLC",
+      "city": "WOODINVILLE",
+      "phone": "4252207760",
+      "category": "wine"
+    },
+    {
+      "name": "ALPENFIRE",
+      "city": "PORT TOWNSEND",
+      "phone": "3603798915",
+      "category": "wine"
+    },
+    {
+      "name": "ALTA CELLARS WINERY",
+      "city": "MANSON",
+      "phone": "2066690695",
+      "category": "wine"
+    },
+    {
+      "name": "ALTON WINES",
+      "city": "WALLA WALLA",
+      "phone": "4258027090",
+      "category": "wine"
+    },
+    {
+      "name": "ALTON WINES",
+      "city": "WALLA WALLA",
+      "phone": "4258027090",
+      "category": "wine"
+    },
+    {
+      "name": "ALUVE",
+      "city": "WALLA WALLA",
+      "phone": "6622758260",
+      "category": "wine"
+    },
+    {
+      "name": "AMAURICE CELLARS",
+      "city": "KIRKLAND",
+      "phone": "4254662027",
+      "category": "wine"
+    },
+    {
+      "name": "AMAVI CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095253541",
+      "category": "wine"
+    },
+    {
+      "name": "AMAVI CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095253541",
+      "category": "wine"
+    },
+    {
+      "name": "AMELIA WYNN WINERY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2068428323",
+      "category": "wine"
+    },
+    {
+      "name": "AMERICOLD LOGISTICS",
+      "city": "WALLA WALLA",
+      "phone": "6784411450",
+      "category": "wine"
+    },
+    {
+      "name": "AMOS ROME VINEYARDS",
+      "city": "MANSON",
+      "phone": "2067073414",
+      "category": "wine"
+    },
+    {
+      "name": "ANALOG APERITIFS",
+      "city": "SEATTLE",
+      "phone": "8183957950",
+      "category": "wine"
+    },
+    {
+      "name": "ANCESTRY CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2069155631",
+      "category": "wine"
+    },
+    {
+      "name": "ANCESTRY CELLARS",
+      "city": "CHELAN",
+      "phone": "2069155631",
+      "category": "wine"
+    },
+    {
+      "name": "ANCIENT LAKE WINE COMPANY",
+      "city": "GEORGE",
+      "phone": "5097872022",
+      "category": "wine"
+    },
+    {
+      "name": "ANDREW WILL CELLARS",
+      "city": "VASHON",
+      "phone": "2064639227",
+      "category": "wine"
+    },
+    {
+      "name": "ANDREWS FAMILY VINEYARDS",
+      "city": "PROSSER",
+      "phone": "5097789028",
+      "category": "wine"
+    },
+    {
+      "name": "ANELARE",
+      "city": "BENTON CITY",
+      "phone": "5095218926",
+      "category": "wine"
+    },
+    {
+      "name": "ANICHE CELLARS",
+      "city": "COOK",
+      "phone": "8443449010",
+      "category": "wine"
+    },
+    {
+      "name": "ANTHONY CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2062409009",
+      "category": "wine"
+    },
+    {
+      "name": "ANTOLIN CELLARS",
+      "city": "YAKIMA",
+      "phone": "5098238229",
+      "category": "wine"
+    },
+    {
+      "name": "AQUILINI BRANDS",
+      "city": "WALLA WALLA",
+      "phone": "6048994917",
+      "category": "wine"
+    },
+    {
+      "name": "AQUILINI BRANDS USA",
+      "city": "BENTON CITY",
+      "phone": "6048994917",
+      "category": "wine"
+    },
+    {
+      "name": "ARBOR CREST WINE CELLARS",
+      "city": "SPOKANE",
+      "phone": "5099279463",
+      "category": "wine"
+    },
+    {
+      "name": "ARBOR CREST WINE CELLARS",
+      "city": "SPOKANE",
+      "phone": "5099279463",
+      "category": "wine"
+    },
+    {
+      "name": "ARCHEUS WINES",
+      "city": "RICHLAND",
+      "phone": "4803053908",
+      "category": "wine"
+    },
+    {
+      "name": "ARCHIBALD JAMES",
+      "city": "WENATCHEE",
+      "phone": "5096648136",
+      "category": "wine"
+    },
+    {
+      "name": "ARCHIPELAGO BEVERAGE COMPANY LLC",
+      "city": "FRIDAY HARBOR",
+      "phone": "5093074455",
+      "category": "wine"
+    },
+    {
+      "name": "ARENNESS CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5037562448",
+      "category": "wine"
+    },
+    {
+      "name": "ARGONNE CELLARS",
+      "city": "SNOQUALMIE",
+      "phone": "4252608602",
+      "category": "wine"
+    },
+    {
+      "name": "ARMOUR WINES, LLC",
+      "city": "WENATCHEE",
+      "phone": "5097419554",
+      "category": "wine"
+    },
+    {
+      "name": "ARMSTRONG FAMILY WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4259519187",
+      "category": "wine"
+    },
+    {
+      "name": "ARTISTRY",
+      "city": "KENNEWICK",
+      "phone": "5099488387",
+      "category": "wine"
+    },
+    {
+      "name": "ARV WINES",
+      "city": "MANSON",
+      "phone": "2067073414",
+      "category": "wine"
+    },
+    {
+      "name": "ASPENWOOD CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4258442233",
+      "category": "wine"
+    },
+    {
+      "name": "AUCLAIR WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4255018099",
+      "category": "wine"
+    },
+    {
+      "name": "AUGUST CIDER",
+      "city": "KINGSTON",
+      "phone": "2065528058",
+      "category": "wine"
+    },
+    {
+      "name": "AUGUST FOREST CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "AVENNIA",
+      "city": "WOODINVILLE",
+      "phone": "2069854344",
+      "category": "wine"
+    },
+    {
+      "name": "AVENNIA",
+      "city": "WOODINVILLE",
+      "phone": "2063909087",
+      "category": "wine"
+    },
+    {
+      "name": "AVENNIA",
+      "city": "BENTON CITY",
+      "phone": "2069854344",
+      "category": "wine"
+    },
+    {
+      "name": "AXELLE WINES",
+      "city": "WALLA WALLA",
+      "phone": "9712197170",
+      "category": "wine"
+    },
+    {
+      "name": "AZ LIVING",
+      "city": "MOSES LAKE",
+      "phone": "5097502778",
+      "category": "wine"
+    },
+    {
+      "name": "BABICK CELLARS",
+      "city": "ENUMCLAW",
+      "phone": "2536322444",
+      "category": "wine"
+    },
+    {
+      "name": "BACK 40 MEADERY",
+      "city": "ELK",
+      "phone": "5092029433",
+      "category": "wine"
+    },
+    {
+      "name": "BACKYARD CIDER",
+      "city": "WOODINVILLE",
+      "phone": "4257704606",
+      "category": "wine"
+    },
+    {
+      "name": "BACOVINO",
+      "city": "TUKWILA",
+      "phone": "2067757981",
+      "category": "wine"
+    },
+    {
+      "name": "BADER BEER & WINE SUPPLY",
+      "city": "VANCOUVER",
+      "phone": "3607501551",
+      "category": "wine"
+    },
+    {
+      "name": "BADGER MOUNTAIN VINEYARDS",
+      "city": "KENNEWICK",
+      "phone": "8006439463",
+      "category": "wine"
+    },
+    {
+      "name": "BAER WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2063697035",
+      "category": "wine"
+    },
+    {
+      "name": "BAINBRIDGE VINEYARDS",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2068429463",
+      "category": "wine"
+    },
+    {
+      "name": "BALBOA WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095290461",
+      "category": "wine"
+    },
+    {
+      "name": "BALTIC PORTER WORKS",
+      "city": "RICHLAND",
+      "phone": "8057487500",
+      "category": "wine"
+    },
+    {
+      "name": "BARDIC BREWING",
+      "city": "SPOKANE VALLEY",
+      "phone": "5097236105",
+      "category": "wine"
+    },
+    {
+      "name": "BARILI CELLARS",
+      "city": "SPOKANE",
+      "phone": "5099954077",
+      "category": "wine"
+    },
+    {
+      "name": "BARMANN CELLARS",
+      "city": "EVERSON",
+      "phone": "3603190847",
+      "category": "wine"
+    },
+    {
+      "name": "BARNARD GRIFFIN",
+      "city": "RICHLAND",
+      "phone": "5096270266",
+      "category": "wine"
+    },
+    {
+      "name": "BARRAGE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4257720384",
+      "category": "wine"
+    },
+    {
+      "name": "BARRECA VINEYARDS",
+      "city": "KETTLE FALLS",
+      "phone": "5097386155",
+      "category": "wine"
+    },
+    {
+      "name": "BARREL SPRINGS WINERY",
+      "city": "PROSSER",
+      "phone": "5097863166",
+      "category": "wine"
+    },
+    {
+      "name": "BARRISTER WINERY",
+      "city": "SPOKANE",
+      "phone": "5094559077",
+      "category": "wine"
+    },
+    {
+      "name": "BARTHOLOMEW WINERY",
+      "city": "KENNEWICK",
+      "phone": "2067555296",
+      "category": "wine"
+    },
+    {
+      "name": "BASALT CELLARS",
+      "city": "CLARKSTON",
+      "phone": "5097801701",
+      "category": "wine"
+    },
+    {
+      "name": "BASEL CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2064064437",
+      "category": "wine"
+    },
+    {
+      "name": "BATEAUX",
+      "city": "TOLEDO",
+      "phone": "3606070774",
+      "category": "wine"
+    },
+    {
+      "name": "BAYERNMOOR CELLARS",
+      "city": "STANWOOD",
+      "phone": "2062761487",
+      "category": "wine"
+    },
+    {
+      "name": "BEAUMONT CELLARS",
+      "city": "QUINCY",
+      "phone": "5097874872",
+      "category": "wine"
+    },
+    {
+      "name": "BEEHAVEN BEVERAGE",
+      "city": "EVERETT",
+      "phone": "2063551345",
+      "category": "wine"
+    },
+    {
+      "name": "BELLINGHAM CIDER COMPANY",
+      "city": "BELLINGHAM",
+      "phone": "3608201843",
+      "category": "wine"
+    },
+    {
+      "name": "BENSON VINEYARDS",
+      "city": "MANSON",
+      "phone": "5096870313",
+      "category": "wine"
+    },
+    {
+      "name": "BERGDORF CELLARS",
+      "city": "CASHMERE",
+      "phone": "5098609116",
+      "category": "wine"
+    },
+    {
+      "name": "BERGDORF CELLARS",
+      "city": "PESHASTIN",
+      "phone": "5095487638",
+      "category": "wine"
+    },
+    {
+      "name": "BERTELSEN WINERY",
+      "city": "MOUNT VERNON",
+      "phone": "4174455093",
+      "category": "wine"
+    },
+    {
+      "name": "BETHANY VINEYARD & WINERY",
+      "city": "RIDGEFIELD",
+      "phone": "3608873525",
+      "category": "wine"
+    },
+    {
+      "name": "BEYLA BREWERY",
+      "city": "SNOHOMISH",
+      "phone": "4258850929",
+      "category": "wine"
+    },
+    {
+      "name": "BIANCHI VINEYARDS",
+      "city": "EAST WENATCHEE",
+      "phone": "3608156167",
+      "category": "wine"
+    },
+    {
+      "name": "BIG CHILL WINES",
+      "city": "WOODINVILLE",
+      "phone": "2532226445",
+      "category": "wine"
+    },
+    {
+      "name": "BIG CHILL WINES",
+      "city": "WOODINVILLE",
+      "phone": "2532226445",
+      "category": "wine"
+    },
+    {
+      "name": "BIRD & BLOSSOM CIDERY LLC",
+      "city": "NORDLAND",
+      "phone": "5037089467",
+      "category": "wine"
+    },
+    {
+      "name": "BIVOUAC CELLARS, LLC",
+      "city": "CHELAN",
+      "phone": "7032681304",
+      "category": "wine"
+    },
+    {
+      "name": "BLACK HERON SPIRITS",
+      "city": "WEST RICHLAND",
+      "phone": "5099670781",
+      "category": "wine"
+    },
+    {
+      "name": "BLU LAGO WINERY",
+      "city": "CHELAN",
+      "phone": "2533709625",
+      "category": "wine"
+    },
+    {
+      "name": "BLUE MOUNTAIN CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095222566",
+      "category": "wine"
+    },
+    {
+      "name": "BLUE SKYE MEADERY",
+      "city": "SPANAWAY",
+      "phone": "2066049921",
+      "category": "wine"
+    },
+    {
+      "name": "BOATHOUSE CIDERWORKS",
+      "city": "EASTSOUND",
+      "phone": "3607087979",
+      "category": "wine"
+    },
+    {
+      "name": "BONAIR WINERY",
+      "city": "ZILLAH",
+      "phone": "5098296027",
+      "category": "wine"
+    },
+    {
+      "name": "BONTZU CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "4252053482",
+      "category": "wine"
+    },
+    {
+      "name": "BOOTH CANYON ORCHARD",
+      "city": "CARLTON",
+      "phone": "5099970063",
+      "category": "wine"
+    },
+    {
+      "name": "BOSMA ESTATE WINERY, LLC",
+      "city": "OUTLOOK",
+      "phone": "5099691818",
+      "category": "wine"
+    },
+    {
+      "name": "BOUCHARD LAKE WINERY",
+      "city": "KIRKLAND",
+      "phone": "4258035976",
+      "category": "wine"
+    },
+    {
+      "name": "BOUDREAUX CELLARS",
+      "city": "LEAVENWORTH",
+      "phone": "5095485858",
+      "category": "wine"
+    },
+    {
+      "name": "BOWMAN ORCHARDS",
+      "city": "MOSES LAKE",
+      "phone": "5097652944",
+      "category": "wine"
+    },
+    {
+      "name": "BRADY CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2067797772",
+      "category": "wine"
+    },
+    {
+      "name": "BRAINSTORM CELLARS",
+      "city": "WEST RICHLAND",
+      "phone": "5099496881",
+      "category": "wine"
+    },
+    {
+      "name": "BRIAN CARTER CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4258946376",
+      "category": "wine"
+    },
+    {
+      "name": "BROCKMEYER FAMILY WINES",
+      "city": "WALLA WALLA",
+      "phone": "7074795406",
+      "category": "wine"
+    },
+    {
+      "name": "BROKEN TRUST CELLARS",
+      "city": "PROSSER",
+      "phone": "7074904873",
+      "category": "wine"
+    },
+    {
+      "name": "BROOK & BULL",
+      "city": "WALLA WALLA",
+      "phone": "5095207701",
+      "category": "wine"
+    },
+    {
+      "name": "BROVO SPIRITS",
+      "city": "WOODINVILLE",
+      "phone": "2064962613",
+      "category": "wine"
+    },
+    {
+      "name": "BROVO SPIRITS",
+      "city": "WOODINVILLE",
+      "phone": "2064962613",
+      "category": "wine"
+    },
+    {
+      "name": "BROWNE FAMILY SPIRITS",
+      "city": "SPOKANE",
+      "phone": "2062675252",
+      "category": "wine"
+    },
+    {
+      "name": "BUCKMASTER CELLARS",
+      "city": "RICHLAND",
+      "phone": "5096271321",
+      "category": "wine"
+    },
+    {
+      "name": "BURKE VINEYARD",
+      "city": "ROYAL CITY",
+      "phone": "5097506962",
+      "category": "wine"
+    },
+    {
+      "name": "BURNT BRIDGE CELLARS",
+      "city": "VANCOUVER",
+      "phone": "3606000120",
+      "category": "wine"
+    },
+    {
+      "name": "BURNT RIDGE ORCHARDS",
+      "city": "ONALASKA",
+      "phone": "3609852873",
+      "category": "wine"
+    },
+    {
+      "name": "BUSHEL & BARREL CIDERHOUSE",
+      "city": "POULSBO",
+      "phone": "3606219004",
+      "category": "wine"
+    },
+    {
+      "name": "C.R. SANDIDGE WINES",
+      "city": "ORONDO",
+      "phone": "5096870722",
+      "category": "wine"
+    },
+    {
+      "name": "C3 CORRAL CREEK CELLARS",
+      "city": "CHELAN",
+      "phone": "5096788466",
+      "category": "wine"
+    },
+    {
+      "name": "CADENCE",
+      "city": "SEATTLE",
+      "phone": "2063819507",
+      "category": "wine"
+    },
+    {
+      "name": "CAIRDEAS WINERY",
+      "city": "MANSON",
+      "phone": "5096870555",
+      "category": "wine"
+    },
+    {
+      "name": "CALLAN CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4258295448",
+      "category": "wine"
+    },
+    {
+      "name": "CAMARADERIE CELLARS",
+      "city": "PORT ANGELES",
+      "phone": "3604173564",
+      "category": "wine"
+    },
+    {
+      "name": "CAMAS COVE CELLARS",
+      "city": "MOSES LAKE",
+      "phone": "5097659532",
+      "category": "wine"
+    },
+    {
+      "name": "CANA CELLARS",
+      "city": "NORTH BEND",
+      "phone": "2069157177",
+      "category": "wine"
+    },
+    {
+      "name": "CANOE RIDGE WINERY",
+      "city": "WALLA WALLA",
+      "phone": "2062675252",
+      "category": "wine"
+    },
+    {
+      "name": "CANVASBACK",
+      "city": "WALLA WALLA",
+      "phone": "7079637108",
+      "category": "wine"
+    },
+    {
+      "name": "CANVASBACK",
+      "city": "WALLA WALLA",
+      "phone": "5095401938",
+      "category": "wine"
+    },
+    {
+      "name": "CANYON MIST WINERY",
+      "city": "ELLENSBURG",
+      "phone": "5093403536",
+      "category": "wine"
+    },
+    {
+      "name": "CAPITAL CALL VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5152407500",
+      "category": "wine"
+    },
+    {
+      "name": "CAPRIO CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5419771724",
+      "category": "wine"
+    },
+    {
+      "name": "CAPSTONE CELLARS",
+      "city": "KELSO",
+      "phone": "3609518543",
+      "category": "wine"
+    },
+    {
+      "name": "CARL'S POND WINERY",
+      "city": "GIG HARBOR",
+      "phone": "2539062298",
+      "category": "wine"
+    },
+    {
+      "name": "CARPENTER CREEK WINERY",
+      "city": "MOUNT VERNON",
+      "phone": "3608486673",
+      "category": "wine"
+    },
+    {
+      "name": "CASAD VINEYARDS",
+      "city": "WOODINVILLE",
+      "phone": "2533154864",
+      "category": "wine"
+    },
+    {
+      "name": "CASCADE CELLARS",
+      "city": "MOSES LAKE",
+      "phone": "2069722010",
+      "category": "wine"
+    },
+    {
+      "name": "CASCADE CLIFFS VINEYARD & WINERY",
+      "city": "WISHRAM",
+      "phone": "5097671100",
+      "category": "wine"
+    },
+    {
+      "name": "CASHMERE PARTNERS",
+      "city": "REDMOND",
+      "phone": "2067154518",
+      "category": "wine"
+    },
+    {
+      "name": "CASTILLO DE FELICIANA",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "CASTLE & CROWN CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4252819440",
+      "category": "wine"
+    },
+    {
+      "name": "CATEGORY 5 CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2063308893",
+      "category": "wine"
+    },
+    {
+      "name": "CAVE B",
+      "city": "QUINCY",
+      "phone": "2062750490",
+      "category": "wine"
+    },
+    {
+      "name": "CAVELERO HILL CELLARS",
+      "city": "LAKE STEVENS",
+      "phone": "4253556800",
+      "category": "wine"
+    },
+    {
+      "name": "CAVU CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095406350",
+      "category": "wine"
+    },
+    {
+      "name": "CAYUSE VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "5095260686",
+      "category": "wine"
+    },
+    {
+      "name": "CEDAR RIVER BREWING COMPANY",
+      "city": "BURIEN",
+      "phone": "2062740207",
+      "category": "wine"
+    },
+    {
+      "name": "CEDAR RIVER CELLARS",
+      "city": "RENTON",
+      "phone": "2062292104",
+      "category": "wine"
+    },
+    {
+      "name": "CEDERGREEN CELLARS",
+      "city": "KIRKLAND",
+      "phone": "4258277244",
+      "category": "wine"
+    },
+    {
+      "name": "CEDERGREEN CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4258277244",
+      "category": "wine"
+    },
+    {
+      "name": "CEILI WINERY",
+      "city": "KENNEWICK",
+      "phone": "5094604180",
+      "category": "wine"
+    },
+    {
+      "name": "CELAENO WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4254179725",
+      "category": "wine"
+    },
+    {
+      "name": "CELLAR CIDERS",
+      "city": "SULTAN",
+      "phone": "9729537354",
+      "category": "wine"
+    },
+    {
+      "name": "CENTENNIAL CIDER",
+      "city": "ARLINGTON",
+      "phone": "4258702441",
+      "category": "wine"
+    },
+    {
+      "name": "CHAMBERS BAY DISTILLERY",
+      "city": "UNIVERSITY PLACE",
+      "phone": "2534055518",
+      "category": "wine"
+    },
+    {
+      "name": "CHANDLER REACH VINEYARDS",
+      "city": "BENTON CITY",
+      "phone": "4257478030",
+      "category": "wine"
+    },
+    {
+      "name": "CHANNEL MARKER",
+      "city": "SEATTLE",
+      "phone": "2067474717",
+      "category": "wine"
+    },
+    {
+      "name": "CHARLES & CHARLES",
+      "city": "SEATTLE",
+      "phone": "2063864747",
+      "category": "wine"
+    },
+    {
+      "name": "CHATEAU FAIRE LE PONT",
+      "city": "WENATCHEE",
+      "phone": "5096672004",
+      "category": "wine"
+    },
+    {
+      "name": "CHATEAU ROLLAT",
+      "city": "WOODINVILLE",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "CHATEAU STE VLADANY WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2064022645",
+      "category": "wine"
+    },
+    {
+      "name": "CHATEAU STE. MICHELLE",
+      "city": "WOODINVILLE",
+      "phone": "2027568984",
+      "category": "wine"
+    },
+    {
+      "name": "CHATEAU WOOFY",
+      "city": "EPHRATA",
+      "phone": "2062946141",
+      "category": "wine"
+    },
+    {
+      "name": "CHELAN RIDGE WINERY",
+      "city": "MANSON",
+      "phone": "2067868419",
+      "category": "wine"
+    },
+    {
+      "name": "CHELANCRAFT CIDER",
+      "city": "CHELAN",
+      "phone": "5096693000",
+      "category": "wine"
+    },
+    {
+      "name": "CHEVAL CELLARS",
+      "city": "MANSON",
+      "phone": "2063530603",
+      "category": "wine"
+    },
+    {
+      "name": "CHINA BEND VINEYARDS",
+      "city": "KETTLE FALLS",
+      "phone": "5097326123",
+      "category": "wine"
+    },
+    {
+      "name": "CHINOOK WINES",
+      "city": "PROSSER",
+      "phone": "5097862725",
+      "category": "wine"
+    },
+    {
+      "name": "CHIONYES WINES",
+      "city": "SPANAWAY",
+      "phone": "2538477860",
+      "category": "wine"
+    },
+    {
+      "name": "CHORUS FROG WINERY",
+      "city": "EDGEWOOD",
+      "phone": "2063106075",
+      "category": "wine"
+    },
+    {
+      "name": "CHOUETTE VINEYARDS LLC",
+      "city": "MANSON",
+      "phone": "2062295249",
+      "category": "wine"
+    },
+    {
+      "name": "CHUKAR CHERRY COMPANY",
+      "city": "PROSSER",
+      "phone": "5097862055",
+      "category": "wine"
+    },
+    {
+      "name": "CLAAR WINE GROUP",
+      "city": "PASCO",
+      "phone": "5095319463",
+      "category": "wine"
+    },
+    {
+      "name": "CLOQUALLUM VINEYARD",
+      "city": "SHELTON",
+      "phone": "3602928892",
+      "category": "wine"
+    },
+    {
+      "name": "CLOUDLIFT CELLARS",
+      "city": "SEATTLE",
+      "phone": "2066222004",
+      "category": "wine"
+    },
+    {
+      "name": "CLYZM WINES, LLC",
+      "city": "WHITE SALMON",
+      "phone": "8054236384",
+      "category": "wine"
+    },
+    {
+      "name": "CO DINN CELLARS",
+      "city": "SUNNYSIDE",
+      "phone": "5098402314",
+      "category": "wine"
+    },
+    {
+      "name": "COCKRELL BROTHERS HARD CIDER",
+      "city": "PUYALLUP",
+      "phone": "5099455768",
+      "category": "wine"
+    },
+    {
+      "name": "COEUR CAUSE",
+      "city": "WALLA WALLA",
+      "phone": "5093938239",
+      "category": "wine"
+    },
+    {
+      "name": "COL SOLARE WINERY",
+      "city": "BENTON CITY",
+      "phone": "4254153657",
+      "category": "wine"
+    },
+    {
+      "name": "COLUMBIA CREST WINERY",
+      "city": "PATERSON",
+      "phone": "5098752061",
+      "category": "wine"
+    },
+    {
+      "name": "COLUMBIA GORGE VINTNERS",
+      "city": "WASHOUGAL",
+      "phone": "3606875509",
+      "category": "wine"
+    },
+    {
+      "name": "COLUMBIA GORGE WINERY",
+      "city": "LYLE",
+      "phone": "5093652900",
+      "category": "wine"
+    },
+    {
+      "name": "COLUMBIA RIDGE WINERY",
+      "city": "RIDGEFIELD",
+      "phone": "3607873566",
+      "category": "wine"
+    },
+    {
+      "name": "COLUMBIA WINERY",
+      "city": "SUNNYSIDE",
+      "phone": "5037131791",
+      "category": "wine"
+    },
+    {
+      "name": "COMFORTS OF WHIDBEY",
+      "city": "LANGLEY",
+      "phone": "3602214912",
+      "category": "wine"
+    },
+    {
+      "name": "CONFLUENCE VINEYARDS",
+      "city": "RIDGEFIELD",
+      "phone": "3608872343",
+      "category": "wine"
+    },
+    {
+      "name": "CONTRIVANCE",
+      "city": "AUBURN",
+      "phone": "4258917533",
+      "category": "wine"
+    },
+    {
+      "name": "CONVERGENCE ZONE CELLARS",
+      "city": "RICHLAND",
+      "phone": "4252335638",
+      "category": "wine"
+    },
+    {
+      "name": "COOPER WINE COMPANY",
+      "city": "BENTON CITY",
+      "phone": "5097277100",
+      "category": "wine"
+    },
+    {
+      "name": "COPPER MOUNTAIN VINEYARDS",
+      "city": "OROVILLE",
+      "phone": "5094762762",
+      "category": "wine"
+    },
+    {
+      "name": "COPPERFIELD'S",
+      "city": "MATTAWA",
+      "phone": "5099322424",
+      "category": "wine"
+    },
+    {
+      "name": "COR CELLARS",
+      "city": "LYLE",
+      "phone": "5096370295",
+      "category": "wine"
+    },
+    {
+      "name": "CORE HERO HARD CIDER",
+      "city": "EDMONDS",
+      "phone": "2064099795",
+      "category": "wine"
+    },
+    {
+      "name": "CORLISS ESTATES",
+      "city": "WALLA WALLA",
+      "phone": "2538265372",
+      "category": "wine"
+    },
+    {
+      "name": "COTE BONNEVILLE",
+      "city": "SUNNYSIDE",
+      "phone": "5098377746",
+      "category": "wine"
+    },
+    {
+      "name": "COUGAR CREST ESTATE WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095295980",
+      "category": "wine"
+    },
+    {
+      "name": "COVALE CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "4258701657",
+      "category": "wine"
+    },
+    {
+      "name": "COVELLO WINES",
+      "city": "WALLA WALLA",
+      "phone": "8604027347",
+      "category": "wine"
+    },
+    {
+      "name": "COVENTRY VALE WINERY",
+      "city": "GRANDVIEW",
+      "phone": "5098824100",
+      "category": "wine"
+    },
+    {
+      "name": "COVENTRY VALE WINERY",
+      "city": "MATTAWA",
+      "phone": "5098824100",
+      "category": "wine"
+    },
+    {
+      "name": "COVINGTON CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "2533479463",
+      "category": "wine"
+    },
+    {
+      "name": "COYOTE CANYON WINERY",
+      "city": "PROSSER",
+      "phone": "5093910601",
+      "category": "wine"
+    },
+    {
+      "name": "CRAYELLE CELLARS",
+      "city": "CASHMERE",
+      "phone": "5096690772",
+      "category": "wine"
+    },
+    {
+      "name": "CROOKED ACRES",
+      "city": "UNDERWOOD",
+      "phone": "5038072533",
+      "category": "wine"
+    },
+    {
+      "name": "CROW HAVEN WINERY",
+      "city": "BOTHELL",
+      "phone": "4253441466",
+      "category": "wine"
+    },
+    {
+      "name": "CROWE WINES",
+      "city": "BENTON CITY",
+      "phone": "7072001970",
+      "category": "wine"
+    },
+    {
+      "name": "CUILLIN HILLS WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2069101722",
+      "category": "wine"
+    },
+    {
+      "name": "CULTURA WINE",
+      "city": "ZILLAH",
+      "phone": "5098290204",
+      "category": "wine"
+    },
+    {
+      "name": "CWC WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4254865959",
+      "category": "wine"
+    },
+    {
+      "name": "DAHLMAN CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4254207133",
+      "category": "wine"
+    },
+    {
+      "name": "DALSET",
+      "city": "BENTON CITY",
+      "phone": "2063103228",
+      "category": "wine"
+    },
+    {
+      "name": "DAMA WINES",
+      "city": "WALLA WALLA",
+      "phone": "5095252299",
+      "category": "wine"
+    },
+    {
+      "name": "DAMSEL CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2064652433",
+      "category": "wine"
+    },
+    {
+      "name": "DANCING FISH VINEYARDS",
+      "city": "FREELAND",
+      "phone": "4193049415",
+      "category": "wine"
+    },
+    {
+      "name": "DANCING FISH VINEYARDS",
+      "city": "WOODINVILLE",
+      "phone": "4193049415",
+      "category": "wine"
+    },
+    {
+      "name": "DANCING VINES VINEYARDS",
+      "city": "RICE",
+      "phone": "5096753263",
+      "category": "wine"
+    },
+    {
+      "name": "DARBY WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4252337879",
+      "category": "wine"
+    },
+    {
+      "name": "DARBY WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2069544700",
+      "category": "wine"
+    },
+    {
+      "name": "DAVEN LORE CELLARS",
+      "city": "PROSSER",
+      "phone": "5097810557",
+      "category": "wine"
+    },
+    {
+      "name": "DE LA LUZ WINES",
+      "city": "WALLA WALLA",
+      "phone": "4259492182",
+      "category": "wine"
+    },
+    {
+      "name": "DEAD CROW CELLARS",
+      "city": "EAST WENATCHEE",
+      "phone": "2067690814",
+      "category": "wine"
+    },
+    {
+      "name": "DEL ROSARIO FAMILY VINEYARDS",
+      "city": "PALISADES",
+      "phone": "7074299390",
+      "category": "wine"
+    },
+    {
+      "name": "DELILLE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "5037785469",
+      "category": "wine"
+    },
+    {
+      "name": "DELMAS",
+      "city": "WALLA WALLA",
+      "phone": "5413504599",
+      "category": "wine"
+    },
+    {
+      "name": "DES VOIGNE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2064783231",
+      "category": "wine"
+    },
+    {
+      "name": "DESCENDANT CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4253213253",
+      "category": "wine"
+    },
+    {
+      "name": "DESERT WIND WINERY",
+      "city": "PROSSER",
+      "phone": "5093462585",
+      "category": "wine"
+    },
+    {
+      "name": "DEUX SOLDATS ESTATE VINEYARD",
+      "city": "WALLA WALLA",
+      "phone": "5099569933",
+      "category": "wine"
+    },
+    {
+      "name": "DEVISON VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5097301343",
+      "category": "wine"
+    },
+    {
+      "name": "DEVIUM",
+      "city": "WALLA WALLA",
+      "phone": "5095253661",
+      "category": "wine"
+    },
+    {
+      "name": "DEVONA",
+      "city": "WALLA WALLA",
+      "phone": "5095401884",
+      "category": "wine"
+    },
+    {
+      "name": "DICHOTOMY VINEYARDS",
+      "city": "OUTLOOK",
+      "phone": "5096436450",
+      "category": "wine"
+    },
+    {
+      "name": "DIETRICH CELLARS",
+      "city": "BRUSH PRAIRIE",
+      "phone": "3609075899",
+      "category": "wine"
+    },
+    {
+      "name": "DILLON CELLARS LLC",
+      "city": "WALLA WALLA",
+      "phone": "2063074710",
+      "category": "wine"
+    },
+    {
+      "name": "DINEEN FAMILY VINEYARDS",
+      "city": "ZILLAH",
+      "phone": "2062764287",
+      "category": "wine"
+    },
+    {
+      "name": "DIP AND STRIKE WINERY",
+      "city": "VASHON",
+      "phone": "2062768543",
+      "category": "wine"
+    },
+    {
+      "name": "DISCOVERY CIDER COMPANY",
+      "city": "EPHRATA",
+      "phone": "2532739849",
+      "category": "wine"
+    },
+    {
+      "name": "DISTEFANO WINERY, LTD",
+      "city": "WOODINVILLE",
+      "phone": "4254451313",
+      "category": "wine"
+    },
+    {
+      "name": "DIZOLVE MEAD",
+      "city": "SEATTLE",
+      "phone": "4083862535",
+      "category": "wine"
+    },
+    {
+      "name": "DIZOLVE MEAD",
+      "city": "SEATTLE",
+      "phone": "4083862535",
+      "category": "wine"
+    },
+    {
+      "name": "DOHERTY CELLARS",
+      "city": "LYNNWOOD",
+      "phone": "4254091744",
+      "category": "wine"
+    },
+    {
+      "name": "DOLIO WINERY & VINEYARD",
+      "city": "BATTLE GROUND",
+      "phone": "3606870920",
+      "category": "wine"
+    },
+    {
+      "name": "DOMAINE MAGDALENA",
+      "city": "BENTON CITY",
+      "phone": "5099424204",
+      "category": "wine"
+    },
+    {
+      "name": "DOMAINE POUILLON",
+      "city": "LYLE",
+      "phone": "5093654100",
+      "category": "wine"
+    },
+    {
+      "name": "DOMANICO CELLARS",
+      "city": "SEATTLE",
+      "phone": "2064659406",
+      "category": "wine"
+    },
+    {
+      "name": "DOMANICO CELLARS",
+      "city": "PROSSER",
+      "phone": "2064659406",
+      "category": "wine"
+    },
+    {
+      "name": "DONA STELLA",
+      "city": "WAITSBURG",
+      "phone": "5095202382",
+      "category": "wine"
+    },
+    {
+      "name": "DOUBLE CANYON VINEYARDS",
+      "city": "WEST RICHLAND",
+      "phone": "7072600922",
+      "category": "wine"
+    },
+    {
+      "name": "DOUBLEBACK",
+      "city": "WALLA WALLA",
+      "phone": "5095253334",
+      "category": "wine"
+    },
+    {
+      "name": "DOVETAIL CELLARS",
+      "city": "VANCOUVER",
+      "phone": "5095206000",
+      "category": "wine"
+    },
+    {
+      "name": "DOWSETT FAMILY WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095208215",
+      "category": "wine"
+    },
+    {
+      "name": "DRAGON'S HEAD CIDER",
+      "city": "VASHON",
+      "phone": "2067243723",
+      "category": "wine"
+    },
+    {
+      "name": "DRU BRU",
+      "city": "CLE ELUM",
+      "phone": "2013902839",
+      "category": "wine"
+    },
+    {
+      "name": "DRUM ROLL WINE",
+      "city": "RENTON",
+      "phone": "2063308411",
+      "category": "wine"
+    },
+    {
+      "name": "DRY HUMOR CIDER CO",
+      "city": "LYNNWOOD",
+      "phone": "4129656200",
+      "category": "wine"
+    },
+    {
+      "name": "DUBINDIL WINERY",
+      "city": "SNOHOMISH",
+      "phone": "4255035086",
+      "category": "wine"
+    },
+    {
+      "name": "DUMAS STATION WINES",
+      "city": "DAYTON",
+      "phone": "5093828933",
+      "category": "wine"
+    },
+    {
+      "name": "DUNHAM CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095294685",
+      "category": "wine"
+    },
+    {
+      "name": "DUSTED VALLEY VINTERS",
+      "city": "WALLA WALLA",
+      "phone": "5093014470",
+      "category": "wine"
+    },
+    {
+      "name": "DUSTED VALLEY VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5093014470",
+      "category": "wine"
+    },
+    {
+      "name": "DUSTY CELLARS WINERY",
+      "city": "CAMANO ISLAND",
+      "phone": "3603872171",
+      "category": "wine"
+    },
+    {
+      "name": "DWINELL COUNTRY ALE",
+      "city": "GOLDENDALE",
+      "phone": "3123438607",
+      "category": "wine"
+    },
+    {
+      "name": "DYNASTY CELLARS",
+      "city": "BELLINGHAM",
+      "phone": "3607582958",
+      "category": "wine"
+    },
+    {
+      "name": "EAGLE HARBOR WINE COMPANY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2068424669",
+      "category": "wine"
+    },
+    {
+      "name": "EAGLE HAVEN WINERY",
+      "city": "SEDRO WOOLLEY",
+      "phone": "8182922764",
+      "category": "wine"
+    },
+    {
+      "name": "EAGLEMOUNT WINE AND CIDER",
+      "city": "PORT TOWNSEND",
+      "phone": "3607324084",
+      "category": "wine"
+    },
+    {
+      "name": "ECHOLANDS WINERY",
+      "city": "WALLA WALLA",
+      "phone": "9175332748",
+      "category": "wine"
+    },
+    {
+      "name": "EDWARD LYNNE CELLARS",
+      "city": "CAMANO ISLAND",
+      "phone": "3606294216",
+      "category": "wine"
+    },
+    {
+      "name": "EIGHT BELLS WINERY",
+      "city": "SEATTLE",
+      "phone": "2069096812",
+      "category": "wine"
+    },
+    {
+      "name": "EL CORAZON",
+      "city": "WALLA WALLA",
+      "phone": "5092405292",
+      "category": "wine"
+    },
+    {
+      "name": "ELD INLET BEVERAGE COMPANY",
+      "city": "RICHLAND",
+      "phone": "2069796467",
+      "category": "wine"
+    },
+    {
+      "name": "ELEGANTE' CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5096293735",
+      "category": "wine"
+    },
+    {
+      "name": "ELEVATE VINEYARDS",
+      "city": "ORONDO",
+      "phone": "2067798107",
+      "category": "wine"
+    },
+    {
+      "name": "ELEVATION CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4254832800",
+      "category": "wine"
+    },
+    {
+      "name": "ELEVEN WINERY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2067800905",
+      "category": "wine"
+    },
+    {
+      "name": "ELK HAVEN WINERY, LLC",
+      "city": "BENTON CITY",
+      "phone": "2068322931",
+      "category": "wine"
+    },
+    {
+      "name": "ELLO VINEYARDS",
+      "city": "BENTON CITY",
+      "phone": "7023253830",
+      "category": "wine"
+    },
+    {
+      "name": "ELSOM CELLARS",
+      "city": "SEATTLE",
+      "phone": "2063493244",
+      "category": "wine"
+    },
+    {
+      "name": "EMRYS BEER & MEAD WORKS",
+      "city": "LIBERTY LAKE",
+      "phone": "5096388612",
+      "category": "wine"
+    },
+    {
+      "name": "ENCHANTMENT CELLARS",
+      "city": "PESHASTIN",
+      "phone": "5094215077",
+      "category": "wine"
+    },
+    {
+      "name": "ENDLESS SOUND CELLARS",
+      "city": "OLYMPIA",
+      "phone": "3604514026",
+      "category": "wine"
+    },
+    {
+      "name": "ENGLISH ESTATE WINERY",
+      "city": "VANCOUVER",
+      "phone": "3607725141",
+      "category": "wine"
+    },
+    {
+      "name": "ENODAV WINE CO.",
+      "city": "PROSSER",
+      "phone": "5099641554",
+      "category": "wine"
+    },
+    {
+      "name": "ENTIAT WINES",
+      "city": "KETTLE FALLS",
+      "phone": "",
+      "category": "wine"
+    },
+    {
+      "name": "ERRANT CELLARS",
+      "city": "QUINCY",
+      "phone": "5092899660",
+      "category": "wine"
+    },
+    {
+      "name": "ESJA WINES LLC",
+      "city": "DUVALL",
+      "phone": "3603051177",
+      "category": "wine"
+    },
+    {
+      "name": "ESTELBROOK FARMS & VINEYARD",
+      "city": "WHITE SALMON",
+      "phone": "5039955404",
+      "category": "wine"
+    },
+    {
+      "name": "ESTHER BRICQUES WINERY & VINEYARD",
+      "city": "OROVILLE",
+      "phone": "5098463751",
+      "category": "wine"
+    },
+    {
+      "name": "ESTRIN ESTATES CELLARS",
+      "city": "ISSAQUAH",
+      "phone": "4253921131",
+      "category": "wine"
+    },
+    {
+      "name": "ETHREEWINES",
+      "city": "WOODINVILLE",
+      "phone": "3039173525",
+      "category": "wine"
+    },
+    {
+      "name": "EUPHORIC VINEYARDS, LLC",
+      "city": "CASHMERE",
+      "phone": "2487630204",
+      "category": "wine"
+    },
+    {
+      "name": "EVOKE WINERY",
+      "city": "UNDERWOOD",
+      "phone": "5414903026",
+      "category": "wine"
+    },
+    {
+      "name": "FAIRWINDS WINERY",
+      "city": "PORT TOWNSEND",
+      "phone": "3603856899",
+      "category": "wine"
+    },
+    {
+      "name": "FARMHAND WINERY",
+      "city": "KENNEWICK",
+      "phone": "5093087203",
+      "category": "wine"
+    },
+    {
+      "name": "FATCORK WINERY",
+      "city": "SEATTLE",
+      "phone": "2063037491",
+      "category": "wine"
+    },
+    {
+      "name": "FENCE POST CELLARS",
+      "city": "SEATTLE",
+      "phone": "2063009337",
+      "category": "wine"
+    },
+    {
+      "name": "FERMINT LLC",
+      "city": "BENTON CITY",
+      "phone": "5095791140",
+      "category": "wine"
+    },
+    {
+      "name": "FIDELITAS WINES",
+      "city": "BENTON CITY",
+      "phone": "5095517161",
+      "category": "wine"
+    },
+    {
+      "name": "FIDELITAS WINES",
+      "city": "RICHLAND",
+      "phone": "5095517161",
+      "category": "wine"
+    },
+    {
+      "name": "FIELDING HILLS",
+      "city": "CHELAN",
+      "phone": "5096705400",
+      "category": "wine"
+    },
+    {
+      "name": "FIERCE COUNTY CIDER",
+      "city": "PUYALLUP",
+      "phone": "4254350004",
+      "category": "wine"
+    },
+    {
+      "name": "FIGGINS ESTATE TOIL OREGON",
+      "city": "WALLA WALLA",
+      "phone": "5095268040",
+      "category": "wine"
+    },
+    {
+      "name": "FINIAL CELLARS",
+      "city": "POULSBO",
+      "phone": "3606203067",
+      "category": "wine"
+    },
+    {
+      "name": "FINN HILL WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2064094378",
+      "category": "wine"
+    },
+    {
+      "name": "FINNRIVER CIDERY",
+      "city": "CHIMACUM",
+      "phone": "3608219827",
+      "category": "wine"
+    },
+    {
+      "name": "FIVE STAR CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093014040",
+      "category": "wine"
+    },
+    {
+      "name": "FLETCHER BAY WINERY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2067809463",
+      "category": "wine"
+    },
+    {
+      "name": "FLETCHER BAY WINERY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2067809463",
+      "category": "wine"
+    },
+    {
+      "name": "FLOATING BALANCE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095203869",
+      "category": "wine"
+    },
+    {
+      "name": "FLORENCE CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "2067188747",
+      "category": "wine"
+    },
+    {
+      "name": "FOLKVANG BREWING",
+      "city": "SPOKANE VALLEY",
+      "phone": "5092020093",
+      "category": "wine"
+    },
+    {
+      "name": "FONTAINE ESTATES",
+      "city": "NACHES",
+      "phone": "5099728123",
+      "category": "wine"
+    },
+    {
+      "name": "FOOLHARDY VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "9175336275",
+      "category": "wine"
+    },
+    {
+      "name": "FOOLS PRAIRIE VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "5099927992",
+      "category": "wine"
+    },
+    {
+      "name": "FORGERON CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095229463",
+      "category": "wine"
+    },
+    {
+      "name": "FORSYTH FAMILY VINTNERS",
+      "city": "PROSSER",
+      "phone": "5098322810",
+      "category": "wine"
+    },
+    {
+      "name": "FORTUITY CELLARS",
+      "city": "WAPATO",
+      "phone": "4259223965",
+      "category": "wine"
+    },
+    {
+      "name": "FOUNDERS RESERVE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "3608236222",
+      "category": "wine"
+    },
+    {
+      "name": "FOUNDRY VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "5095290736",
+      "category": "wine"
+    },
+    {
+      "name": "FOUR FEATHERS WINE ESTATES",
+      "city": "PROSSER",
+      "phone": "",
+      "category": "wine"
+    },
+    {
+      "name": "FOUR LAKES CHELAN",
+      "city": "CHELAN",
+      "phone": "5096829028",
+      "category": "wine"
+    },
+    {
+      "name": "FOUR LAKES CHELAN",
+      "city": "MANSON",
+      "phone": "2062956950",
+      "category": "wine"
+    },
+    {
+      "name": "FREEHAND CELLARS",
+      "city": "WAPATO",
+      "phone": "4253413740",
+      "category": "wine"
+    },
+    {
+      "name": "FRUITLAND VALLEY VINEYARD",
+      "city": "FRUITLAND",
+      "phone": "5097223525",
+      "category": "wine"
+    },
+    {
+      "name": "FURION CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "4253148922",
+      "category": "wine"
+    },
+    {
+      "name": "GALLAGHERS' WHERE U-BREW",
+      "city": "EDMONDS",
+      "phone": "4257764209",
+      "category": "wine"
+    },
+    {
+      "name": "GARD VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5093462585",
+      "category": "wine"
+    },
+    {
+      "name": "GARD VINTNERS",
+      "city": "WOODINVILLE",
+      "phone": "5093462585",
+      "category": "wine"
+    },
+    {
+      "name": "GARDEN PATH FERMENTATION",
+      "city": "BURLINGTON",
+      "phone": "5125956263",
+      "category": "wine"
+    },
+    {
+      "name": "GARDENA CREEK WINERY",
+      "city": "TOUCHET",
+      "phone": "5093942630",
+      "category": "wine"
+    },
+    {
+      "name": "GARRISON CREEK CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "9149671155",
+      "category": "wine"
+    },
+    {
+      "name": "GENOA CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4252969660",
+      "category": "wine"
+    },
+    {
+      "name": "GENOA CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4252969660",
+      "category": "wine"
+    },
+    {
+      "name": "GFW, L.L.C.",
+      "city": "YAKIMA",
+      "phone": "5094949374",
+      "category": "wine"
+    },
+    {
+      "name": "GIBBONS LANE WINERY",
+      "city": "TENINO",
+      "phone": "3602648466",
+      "category": "wine"
+    },
+    {
+      "name": "GIFFORD HIRLINGER",
+      "city": "WALLA WALLA",
+      "phone": "5093019229",
+      "category": "wine"
+    },
+    {
+      "name": "GIG HARBOR WINE CO. LLC",
+      "city": "WALLA WALLA",
+      "phone": "2062284289",
+      "category": "wine"
+    },
+    {
+      "name": "GILBERT CELLARS",
+      "city": "YAKIMA",
+      "phone": "5097318456",
+      "category": "wine"
+    },
+    {
+      "name": "GIRL AND POP",
+      "city": "WALLA WALLA",
+      "phone": "5095208584",
+      "category": "wine"
+    },
+    {
+      "name": "GIRL MEETS DIRT",
+      "city": "EASTSOUND",
+      "phone": "3603756269",
+      "category": "wine"
+    },
+    {
+      "name": "GJALLERHORN WINESMITHS",
+      "city": "SNOHOMISH",
+      "phone": "3607226007",
+      "category": "wine"
+    },
+    {
+      "name": "GLACIAL LAKE MISSOULA WINE CO",
+      "city": "BLAINE",
+      "phone": "3603322097",
+      "category": "wine"
+    },
+    {
+      "name": "GLACIER PEAK WINERY",
+      "city": "ROCKPORT",
+      "phone": "6268269877",
+      "category": "wine"
+    },
+    {
+      "name": "GLACIER VIEW CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2067191331",
+      "category": "wine"
+    },
+    {
+      "name": "GOLDEN RIDGE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093011192",
+      "category": "wine"
+    },
+    {
+      "name": "GOLDEN RIDGE CELLARS WALLA WALLA, LLC",
+      "city": "WALLA WALLA",
+      "phone": "5093011192",
+      "category": "wine"
+    },
+    {
+      "name": "GOOD BUZZ BREWING CO",
+      "city": "CENTRALIA",
+      "phone": "9519239308",
+      "category": "wine"
+    },
+    {
+      "name": "GOOSE RIDGE VINEYARDS",
+      "city": "RICHLAND",
+      "phone": "5096276249",
+      "category": "wine"
+    },
+    {
+      "name": "GOOSE RIDGE WINERY",
+      "city": "BENTON CITY",
+      "phone": "2063409596",
+      "category": "wine"
+    },
+    {
+      "name": "GORGE CREST",
+      "city": "UNDERWOOD",
+      "phone": "5412387486",
+      "category": "wine"
+    },
+    {
+      "name": "GORMAN WINERY",
+      "city": "SNOHOMISH",
+      "phone": "2066052125",
+      "category": "wine"
+    },
+    {
+      "name": "GOUGER CELLARS",
+      "city": "RIDGEFIELD",
+      "phone": "3609094707",
+      "category": "wine"
+    },
+    {
+      "name": "GRAMERCY CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2065539177",
+      "category": "wine"
+    },
+    {
+      "name": "GRAMERCY CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2065539177",
+      "category": "wine"
+    },
+    {
+      "name": "GRAPEVINE ASSOCIATES",
+      "city": "UNDERWOOD",
+      "phone": "5094938700",
+      "category": "wine"
+    },
+    {
+      "name": "GRAVES CELLARS LLC",
+      "city": "WALLA WALLA",
+      "phone": "8657121919",
+      "category": "wine"
+    },
+    {
+      "name": "GREENBANK CIDERY",
+      "city": "COUPEVILLE",
+      "phone": "2066270382",
+      "category": "wine"
+    },
+    {
+      "name": "GREENWOOD CIDER COMPANY",
+      "city": "SEATTLE",
+      "phone": "3609612902",
+      "category": "wine"
+    },
+    {
+      "name": "GROSGRAIN VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "3232511385",
+      "category": "wine"
+    },
+    {
+      "name": "GUARDIAN CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "2066616733",
+      "category": "wine"
+    },
+    {
+      "name": "GUNPOWDER CREEK",
+      "city": "UNION GAP",
+      "phone": "8605029202",
+      "category": "wine"
+    },
+    {
+      "name": "HANATORO WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5413024966",
+      "category": "wine"
+    },
+    {
+      "name": "HARBINATOR WINES",
+      "city": "MUKILTEO",
+      "phone": "4252109799",
+      "category": "wine"
+    },
+    {
+      "name": "HARBINGER WINERY & BREW HOUSE",
+      "city": "PORT ANGELES",
+      "phone": "3604779863",
+      "category": "wine"
+    },
+    {
+      "name": "HARD HAT WINERY",
+      "city": "POULSBO",
+      "phone": "3606201729",
+      "category": "wine"
+    },
+    {
+      "name": "HARD HEIDI'S CIDER",
+      "city": "PORT ANGELES",
+      "phone": "3608082804",
+      "category": "wine"
+    },
+    {
+      "name": "HARD ROW TO HOE VINEYARDS",
+      "city": "MANSON",
+      "phone": "5096873000",
+      "category": "wine"
+    },
+    {
+      "name": "HARRY AND DAVID LLC",
+      "city": "PROSSER",
+      "phone": "5418643710",
+      "category": "wine"
+    },
+    {
+      "name": "HAT RACK WINES",
+      "city": "WALLA WALLA",
+      "phone": "2063660335",
+      "category": "wine"
+    },
+    {
+      "name": "HAVILAND WINERY",
+      "city": "WOODINVILLE",
+      "phone": "9492317742",
+      "category": "wine"
+    },
+    {
+      "name": "HAWKINS CELLARS",
+      "city": "UNDERWOOD",
+      "phone": "5034731706",
+      "category": "wine"
+    },
+    {
+      "name": "HEATHEN ESTATE WINERY",
+      "city": "VANCOUVER",
+      "phone": "3609934499",
+      "category": "wine"
+    },
+    {
+      "name": "HEATHEN ESTATE WINERY",
+      "city": "VANCOUVER",
+      "phone": "3606017454",
+      "category": "wine"
+    },
+    {
+      "name": "HEDGES FAMILY ESTATE",
+      "city": "BENTON CITY",
+      "phone": "5095883155",
+      "category": "wine"
+    },
+    {
+      "name": "HEISEN HOUSE VINEYARDS",
+      "city": "BATTLE GROUND",
+      "phone": "3607132359",
+      "category": "wine"
+    },
+    {
+      "name": "HENRY EARL ESTATES LLC",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "HERON BLUFF VINEYARD AND WINERY LLC",
+      "city": "BENTON CITY",
+      "phone": "5096280797",
+      "category": "wine"
+    },
+    {
+      "name": "HI-OASIS VINEYARD",
+      "city": "OROVILLE",
+      "phone": "5094762553",
+      "category": "wine"
+    },
+    {
+      "name": "HIEROPHANT MEADERY",
+      "city": "FREELAND",
+      "phone": "5092940134",
+      "category": "wine"
+    },
+    {
+      "name": "HIGHTOWER CELLARS",
+      "city": "BENTON CITY",
+      "phone": "5095882867",
+      "category": "wine"
+    },
+    {
+      "name": "HINZERLING WINERY",
+      "city": "PROSSER",
+      "phone": "5097862163",
+      "category": "wine"
+    },
+    {
+      "name": "HJELLUM WINES",
+      "city": "PASCO",
+      "phone": "5094382458",
+      "category": "wine"
+    },
+    {
+      "name": "HOGUE CELLARS",
+      "city": "PROSSER",
+      "phone": "5037131791",
+      "category": "wine"
+    },
+    {
+      "name": "HOLMES FAMILY WINERY",
+      "city": "WALLA WALLA",
+      "phone": "9062536317",
+      "category": "wine"
+    },
+    {
+      "name": "HOLMES FAMILY WINERY",
+      "city": "RICHLAND",
+      "phone": "2539066317",
+      "category": "wine"
+    },
+    {
+      "name": "HOLMES HARBOR CELLARS",
+      "city": "GREENBANK",
+      "phone": "3603313544",
+      "category": "wine"
+    },
+    {
+      "name": "HONEY DRAGON MEADERY",
+      "city": "TACOMA",
+      "phone": "2534957418",
+      "category": "wine"
+    },
+    {
+      "name": "HONEY MALCOM WINERY",
+      "city": "WOODINVILLE",
+      "phone": "3608017985",
+      "category": "wine"
+    },
+    {
+      "name": "HONEY MALCOM WINERY",
+      "city": "BREMERTON",
+      "phone": "3606208827",
+      "category": "wine"
+    },
+    {
+      "name": "HONEY MOON",
+      "city": "BELLINGHAM",
+      "phone": "3602235838",
+      "category": "wine"
+    },
+    {
+      "name": "HONEYSUCKLE MEADERY",
+      "city": "RAINIER",
+      "phone": "3604465699",
+      "category": "wine"
+    },
+    {
+      "name": "HOODSPORT WINERY",
+      "city": "HOODSPORT",
+      "phone": "3608779894",
+      "category": "wine"
+    },
+    {
+      "name": "HOQUETUS WINE COMPANY",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "HORAN ESTATES WINERY",
+      "city": "CASHMERE",
+      "phone": "5096705001",
+      "category": "wine"
+    },
+    {
+      "name": "HORIZON'S EDGE WINERY",
+      "city": "ZILLAH",
+      "phone": "5098296401",
+      "category": "wine"
+    },
+    {
+      "name": "HORSE HEAVEN WINE COMPANY",
+      "city": "PROSSER",
+      "phone": "5098944528",
+      "category": "wine"
+    },
+    {
+      "name": "HYATT VINEYARDS",
+      "city": "ZILLAH",
+      "phone": "5098296333",
+      "category": "wine"
+    },
+    {
+      "name": "ICICLE RIDGE WINERY",
+      "city": "PESHASTIN",
+      "phone": "5096704134",
+      "category": "wine"
+    },
+    {
+      "name": "ICICLE RIDGE WINERY",
+      "city": "PESHASTIN",
+      "phone": "5096704134",
+      "category": "wine"
+    },
+    {
+      "name": "ILWACO CIDER COMPANY",
+      "city": "ILWACO",
+      "phone": "3607832822",
+      "category": "wine"
+    },
+    {
+      "name": "INCLINE CIDER COMPANY",
+      "city": "AUBURN",
+      "phone": "5038304414",
+      "category": "wine"
+    },
+    {
+      "name": "ISENHOWER CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095267896",
+      "category": "wine"
+    },
+    {
+      "name": "ISSABELLA GRACE WINERY",
+      "city": "HOBART",
+      "phone": "4259416364",
+      "category": "wine"
+    },
+    {
+      "name": "ITA  WINES",
+      "city": "WALLA WALLA",
+      "phone": "2068505042",
+      "category": "wine"
+    },
+    {
+      "name": "J M CELLARS COMPANY",
+      "city": "WOODINVILLE",
+      "phone": "2063308668",
+      "category": "wine"
+    },
+    {
+      "name": "J. BOOKWALTER",
+      "city": "RICHLAND",
+      "phone": "5096275000",
+      "category": "wine"
+    },
+    {
+      "name": "JACOB WILLIAMS WINERY",
+      "city": "WISHRAM",
+      "phone": "5414906773",
+      "category": "wine"
+    },
+    {
+      "name": "JACQUOT FARM AND VINEYARD",
+      "city": "BRUSH PRAIRIE",
+      "phone": "3609072083",
+      "category": "wine"
+    },
+    {
+      "name": "JB NEUFELD",
+      "city": "ZILLAH",
+      "phone": "5098959979",
+      "category": "wine"
+    },
+    {
+      "name": "JESTER AND JUDGE",
+      "city": "STEVENSON",
+      "phone": "5306133942",
+      "category": "wine"
+    },
+    {
+      "name": "JETT WINES",
+      "city": "WALLA WALLA",
+      "phone": "7075474798",
+      "category": "wine"
+    },
+    {
+      "name": "JM CELLARS COMPANY",
+      "city": "SNOHOMISH",
+      "phone": "2063308668",
+      "category": "wine"
+    },
+    {
+      "name": "JONES OF WASHINGTON",
+      "city": "RICHLAND",
+      "phone": "5097873537",
+      "category": "wine"
+    },
+    {
+      "name": "JOSEPH CHRISTY VINEYARDS",
+      "city": "PLYMOUTH",
+      "phone": "5094661428",
+      "category": "wine"
+    },
+    {
+      "name": "JOTUNHEIM MEADERY",
+      "city": "BUCKLEY",
+      "phone": "2536539563",
+      "category": "wine"
+    },
+    {
+      "name": "JULIAN MARGOT WINERY",
+      "city": "SNOHOMISH",
+      "phone": "2629946900",
+      "category": "wine"
+    },
+    {
+      "name": "JWCJ WINES",
+      "city": "WALLA WALLA",
+      "phone": "5093021385",
+      "category": "wine"
+    },
+    {
+      "name": "K VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5095265230",
+      "category": "wine"
+    },
+    {
+      "name": "K VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5095265230",
+      "category": "wine"
+    },
+    {
+      "name": "K VINTNERS",
+      "city": "SEATTLE",
+      "phone": "5095265230",
+      "category": "wine"
+    },
+    {
+      "name": "KALAMAR WINERY",
+      "city": "SUMNER",
+      "phone": "2538629844",
+      "category": "wine"
+    },
+    {
+      "name": "KANA WINERY",
+      "city": "YAKIMA",
+      "phone": "5099655933",
+      "category": "wine"
+    },
+    {
+      "name": "KARMA VINEYARDS",
+      "city": "CHELAN",
+      "phone": "5096825538",
+      "category": "wine"
+    },
+    {
+      "name": "KARMA VINEYARDS",
+      "city": "ENTIAT",
+      "phone": "5096682751",
+      "category": "wine"
+    },
+    {
+      "name": "KARVALE WINES",
+      "city": "CHELAN",
+      "phone": "2063691355",
+      "category": "wine"
+    },
+    {
+      "name": "KASARI CELLARS",
+      "city": "SEDRO WOOLLEY",
+      "phone": "3602021788",
+      "category": "wine"
+    },
+    {
+      "name": "KASIA WINERY",
+      "city": "MONROE",
+      "phone": "4259410224",
+      "category": "wine"
+    },
+    {
+      "name": "KENDALL FARMS",
+      "city": "BENTON CITY",
+      "phone": "5098400368",
+      "category": "wine"
+    },
+    {
+      "name": "KERLOO CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2063490641",
+      "category": "wine"
+    },
+    {
+      "name": "KESTREL VINTNERS",
+      "city": "PROSSER",
+      "phone": "5097862675",
+      "category": "wine"
+    },
+    {
+      "name": "KEVIN WHITE WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2069925746",
+      "category": "wine"
+    },
+    {
+      "name": "KEYSTONE CELLARS",
+      "city": "ENTIAT",
+      "phone": "5097841369",
+      "category": "wine"
+    },
+    {
+      "name": "KHF INC.",
+      "city": "TOPPENISH",
+      "phone": "2069191367",
+      "category": "wine"
+    },
+    {
+      "name": "KING CIDER",
+      "city": "VASHON",
+      "phone": "2068612774",
+      "category": "wine"
+    },
+    {
+      "name": "KING LAKE CELLARS",
+      "city": "MONROE",
+      "phone": "3608055891",
+      "category": "wine"
+    },
+    {
+      "name": "KING'S POND VINEYARD AND WINERY LLC",
+      "city": "VANCOUVER",
+      "phone": "3609531489",
+      "category": "wine"
+    },
+    {
+      "name": "KINHAVEN",
+      "city": "WALLA WALLA",
+      "phone": "4257499612",
+      "category": "wine"
+    },
+    {
+      "name": "KIONA VINEYARDS WINERY",
+      "city": "BENTON CITY",
+      "phone": "5095886716",
+      "category": "wine"
+    },
+    {
+      "name": "KITZKE CELLARS",
+      "city": "RICHLAND",
+      "phone": "5095318474",
+      "category": "wine"
+    },
+    {
+      "name": "KLIPSUN",
+      "city": "WALLA WALLA",
+      "phone": "8474445594",
+      "category": "wine"
+    },
+    {
+      "name": "KLUDT FAMILY WINERY",
+      "city": "MANSON",
+      "phone": "5096873863",
+      "category": "wine"
+    },
+    {
+      "name": "KNIGHT HILL WINERY",
+      "city": "ZILLAH",
+      "phone": "5098655654",
+      "category": "wine"
+    },
+    {
+      "name": "KOBAYASHI WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5098628356",
+      "category": "wine"
+    },
+    {
+      "name": "KOI POND CELLARS",
+      "city": "LA CENTER",
+      "phone": "3602812716",
+      "category": "wine"
+    },
+    {
+      "name": "KONTOS CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093864471",
+      "category": "wine"
+    },
+    {
+      "name": "L'ECOLE NO 41",
+      "city": "LOWDEN",
+      "phone": "5095250940",
+      "category": "wine"
+    },
+    {
+      "name": "LA GARZA CELLARS",
+      "city": "MANSON",
+      "phone": "2068867959",
+      "category": "wine"
+    },
+    {
+      "name": "LAGANA CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5098760001",
+      "category": "wine"
+    },
+    {
+      "name": "LAGOM VINEYARDS",
+      "city": "EVERSON",
+      "phone": "3606711272",
+      "category": "wine"
+    },
+    {
+      "name": "LAGRIOTH",
+      "city": "MANSON",
+      "phone": "5094351813",
+      "category": "wine"
+    },
+    {
+      "name": "LAHT NEPPUR CELLARS",
+      "city": "WAITSBURG",
+      "phone": "5093376261",
+      "category": "wine"
+    },
+    {
+      "name": "LAKE CHELAN WINERY",
+      "city": "CHELAN",
+      "phone": "5096879463",
+      "category": "wine"
+    },
+    {
+      "name": "LAKE CHELAN WINERY",
+      "city": "MANSON",
+      "phone": "5096707495",
+      "category": "wine"
+    },
+    {
+      "name": "LAKE ROOSEVELT SHORES VINEYARD AND WINERY",
+      "city": "CRESTON",
+      "phone": "5096362012",
+      "category": "wine"
+    },
+    {
+      "name": "LALIIK",
+      "city": "BENTON CITY",
+      "phone": "5099429850",
+      "category": "wine"
+    },
+    {
+      "name": "LAMBSQUARTER WINE",
+      "city": "SEATTLE",
+      "phone": "2064862854",
+      "category": "wine"
+    },
+    {
+      "name": "LANDRY ENTERPRISES",
+      "city": "RIDGEFIELD",
+      "phone": "3609773655",
+      "category": "wine"
+    },
+    {
+      "name": "LANE VINEYARD & WINERY",
+      "city": "BRUSH PRAIRIE",
+      "phone": "3606078784",
+      "category": "wine"
+    },
+    {
+      "name": "LANTZ CELLARS",
+      "city": "EVERETT",
+      "phone": "4257702599",
+      "category": "wine"
+    },
+    {
+      "name": "LAPIERRE FARMS INC.",
+      "city": "ZILLAH",
+      "phone": "5097281323",
+      "category": "wine"
+    },
+    {
+      "name": "LARC HILL VINEYARD RANCH",
+      "city": "CHELAN",
+      "phone": "2064063106",
+      "category": "wine"
+    },
+    {
+      "name": "LAS PIEDRAS DE VALLE, LLC",
+      "city": "MOSES LAKE",
+      "phone": "5098558921",
+      "category": "wine"
+    },
+    {
+      "name": "LASHELLE WINES",
+      "city": "WOODINVILLE",
+      "phone": "4254176346",
+      "category": "wine"
+    },
+    {
+      "name": "LATAH CREEK WINE CELLARS",
+      "city": "SPOKANE VALLEY",
+      "phone": "5099260164",
+      "category": "wine"
+    },
+    {
+      "name": "LATERUS WINERY",
+      "city": "SNOHOMISH",
+      "phone": "4258900292",
+      "category": "wine"
+    },
+    {
+      "name": "LATTA WINES",
+      "city": "SEATTLE",
+      "phone": "2064661336",
+      "category": "wine"
+    },
+    {
+      "name": "LAWRELIN WINE COMPANY",
+      "city": "RICHLAND",
+      "phone": "5094393902",
+      "category": "wine"
+    },
+    {
+      "name": "LAWRENCE CELLARS LLC",
+      "city": "ELLENSBURG",
+      "phone": "5093462585",
+      "category": "wine"
+    },
+    {
+      "name": "LE DOUBBLE TROUBBLE WINE CO",
+      "city": "LYLE",
+      "phone": "9788461780",
+      "category": "wine"
+    },
+    {
+      "name": "LEO & LETO",
+      "city": "FREELAND",
+      "phone": "3607207036",
+      "category": "wine"
+    },
+    {
+      "name": "LEONETTI CELLAR",
+      "city": "WALLA WALLA",
+      "phone": "5095251428",
+      "category": "wine"
+    },
+    {
+      "name": "LEONY'S CELLARS",
+      "city": "ENUMCLAW",
+      "phone": "3605009942",
+      "category": "wine"
+    },
+    {
+      "name": "LES ROCHE WINES, INC",
+      "city": "WALLA WALLA",
+      "phone": "2066596477",
+      "category": "wine"
+    },
+    {
+      "name": "LIBERTY CIDERWORKS",
+      "city": "SPOKANE",
+      "phone": "5093211893",
+      "category": "wine"
+    },
+    {
+      "name": "LIBERTY LAKE WINE CELLARS",
+      "city": "LIBERTY LAKE",
+      "phone": "2088186350",
+      "category": "wine"
+    },
+    {
+      "name": "LIGHTHOUSE CELLARS",
+      "city": "BELLEVUE",
+      "phone": "7072279854",
+      "category": "wine"
+    },
+    {
+      "name": "LIVIN RIGHT WINES",
+      "city": "WOODINVILLE",
+      "phone": "2064592689",
+      "category": "wine"
+    },
+    {
+      "name": "LOCATI CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095201093",
+      "category": "wine"
+    },
+    {
+      "name": "LOCUS WINES",
+      "city": "SEATTLE",
+      "phone": "4258916072",
+      "category": "wine"
+    },
+    {
+      "name": "LOCUST CIDER",
+      "city": "WOODINVILLE",
+      "phone": "6467839267",
+      "category": "wine"
+    },
+    {
+      "name": "LOCUST CIDER",
+      "city": "GIG HARBOR",
+      "phone": "6467839267",
+      "category": "wine"
+    },
+    {
+      "name": "LODMELL CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2064094395",
+      "category": "wine"
+    },
+    {
+      "name": "LOMCEVAK CELLARS",
+      "city": "MANSON",
+      "phone": "5037049029",
+      "category": "wine"
+    },
+    {
+      "name": "LONG RIFLE WINERY",
+      "city": "PROSSER",
+      "phone": "5097862097",
+      "category": "wine"
+    },
+    {
+      "name": "LONG SHADOWS VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "2063660335",
+      "category": "wine"
+    },
+    {
+      "name": "LONGROCK CREEK",
+      "city": "PROSSER",
+      "phone": "7076901212",
+      "category": "wine"
+    },
+    {
+      "name": "LONGSHIP CELLARS",
+      "city": "RICHLAND",
+      "phone": "5095727652",
+      "category": "wine"
+    },
+    {
+      "name": "LOOKOUT POINT WINERY",
+      "city": "SELAH",
+      "phone": "5096985040",
+      "category": "wine"
+    },
+    {
+      "name": "LOOP DE LOOP WINES",
+      "city": "UNDERWOOD",
+      "phone": "5032989420",
+      "category": "wine"
+    },
+    {
+      "name": "LOPEZ ISLAND VINEYARDS",
+      "city": "LOPEZ ISLAND",
+      "phone": "3604683644",
+      "category": "wine"
+    },
+    {
+      "name": "LOST GIANTS CIDER COMPANY",
+      "city": "BELLINGHAM",
+      "phone": "3603039678",
+      "category": "wine"
+    },
+    {
+      "name": "LOVE THAT RED WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4254639014",
+      "category": "wine"
+    },
+    {
+      "name": "LOWKEY MEADERY",
+      "city": "WENATCHEE",
+      "phone": "5098856915",
+      "category": "wine"
+    },
+    {
+      "name": "LUPINE VINEYARDS",
+      "city": "MANSON",
+      "phone": "2069155862",
+      "category": "wine"
+    },
+    {
+      "name": "LUSHINGTON WINES",
+      "city": "LYLE",
+      "phone": "8049868476",
+      "category": "wine"
+    },
+    {
+      "name": "M & L PRODUCTION",
+      "city": "WALLA WALLA",
+      "phone": "5092403235",
+      "category": "wine"
+    },
+    {
+      "name": "MACH FLYNT",
+      "city": "MATTAWA",
+      "phone": "5551234567",
+      "category": "wine"
+    },
+    {
+      "name": "MACKEY VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "5099385833",
+      "category": "wine"
+    },
+    {
+      "name": "MADRONA BAY",
+      "city": "LYNNWOOD",
+      "phone": "5093809102",
+      "category": "wine"
+    },
+    {
+      "name": "MADRONE CELLARS & CIDERS",
+      "city": "FRIDAY HARBOR",
+      "phone": "9703192821",
+      "category": "wine"
+    },
+    {
+      "name": "MAISON BLEUE WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5035889463",
+      "category": "wine"
+    },
+    {
+      "name": "MALAGA SPRINGS WINERY",
+      "city": "MALAGA",
+      "phone": "5096638439",
+      "category": "wine"
+    },
+    {
+      "name": "MANA VINTNERS",
+      "city": "WOODINVILLE",
+      "phone": "5034496380",
+      "category": "wine"
+    },
+    {
+      "name": "MANSION CREEK CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2533706107",
+      "category": "wine"
+    },
+    {
+      "name": "MARCUS SOPHIA WINERY",
+      "city": "GRAHAM",
+      "phone": "4255912346",
+      "category": "wine"
+    },
+    {
+      "name": "MARGINALIA WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5092407611",
+      "category": "wine"
+    },
+    {
+      "name": "MARK RYAN WINERY",
+      "city": "WALLA WALLA",
+      "phone": "4254817070",
+      "category": "wine"
+    },
+    {
+      "name": "MARK RYAN WINERY",
+      "city": "WALLA WALLA",
+      "phone": "4254817070",
+      "category": "wine"
+    },
+    {
+      "name": "MARKET VINEYARDS",
+      "city": "RICHLAND",
+      "phone": "5093964798",
+      "category": "wine"
+    },
+    {
+      "name": "MARROWSTONE VINEYARDS",
+      "city": "NORDLAND",
+      "phone": "3603859608",
+      "category": "wine"
+    },
+    {
+      "name": "MARSHLAND ORCHARDS",
+      "city": "SNOHOMISH",
+      "phone": "3606689575",
+      "category": "wine"
+    },
+    {
+      "name": "MARTEDI WINERY",
+      "city": "WOODINVILLE",
+      "phone": "2068980589",
+      "category": "wine"
+    },
+    {
+      "name": "MARTHA'S VINEYARD OF SKAMANIA COUNTY",
+      "city": "WASHOUGAL",
+      "phone": "3609214432",
+      "category": "wine"
+    },
+    {
+      "name": "MARTIN-SCOTT WINERY CIRCLE 5 WINERY",
+      "city": "EAST WENATCHEE",
+      "phone": "5096693211",
+      "category": "wine"
+    },
+    {
+      "name": "MARTINEZ & MARTINEZ WINERY",
+      "city": "PROSSER",
+      "phone": "5098307427",
+      "category": "wine"
+    },
+    {
+      "name": "MARYHILL WINERY",
+      "city": "GOLDENDALE",
+      "phone": "5097731976",
+      "category": "wine"
+    },
+    {
+      "name": "MAS PETITE CHAPPELL",
+      "city": "ZILLAH",
+      "phone": "5098657227",
+      "category": "wine"
+    },
+    {
+      "name": "MASSET WINERY",
+      "city": "WAPATO",
+      "phone": "5099614094",
+      "category": "wine"
+    },
+    {
+      "name": "MAST YEAR CIDER",
+      "city": "DAYTON",
+      "phone": "5093809880",
+      "category": "wine"
+    },
+    {
+      "name": "MASTROGIANNIS DISTILLERY & WINERY",
+      "city": "LAKEWOOD",
+      "phone": "2063832463",
+      "category": "wine"
+    },
+    {
+      "name": "MATHIEU BRAVO CELLARS, LLC",
+      "city": "CLE ELUM",
+      "phone": "4257852764",
+      "category": "wine"
+    },
+    {
+      "name": "MATRANGA VINEYARDS",
+      "city": "LA CENTER",
+      "phone": "3606060712",
+      "category": "wine"
+    },
+    {
+      "name": "MATTEO WINES",
+      "city": "WOODINVILLE",
+      "phone": "2062953195",
+      "category": "wine"
+    },
+    {
+      "name": "MATTHEWS CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4259874810",
+      "category": "wine"
+    },
+    {
+      "name": "MAURY ISLAND WINERY",
+      "city": "VASHON",
+      "phone": "2064639482",
+      "category": "wine"
+    },
+    {
+      "name": "MCCREA CELLARS",
+      "city": "RAINIER",
+      "phone": "2069388643",
+      "category": "wine"
+    },
+    {
+      "name": "MCGREGOR MEAD",
+      "city": "WENATCHEE",
+      "phone": "5096653255",
+      "category": "wine"
+    },
+    {
+      "name": "MCKINLEY SPRINGS",
+      "city": "PROSSER",
+      "phone": "5098944528",
+      "category": "wine"
+    },
+    {
+      "name": "MELA BREWING CO.",
+      "city": "VANCOUVER",
+      "phone": "3609800785",
+      "category": "wine"
+    },
+    {
+      "name": "MELCHEMY",
+      "city": "CARSON",
+      "phone": "5094274527",
+      "category": "wine"
+    },
+    {
+      "name": "MERCER ESTATES",
+      "city": "PROSSER",
+      "phone": "5097862097",
+      "category": "wine"
+    },
+    {
+      "name": "MERRY CELLARS",
+      "city": "PULLMAN",
+      "phone": "5093384699",
+      "category": "wine"
+    },
+    {
+      "name": "METHOW TRADING COMPANY LLC",
+      "city": "PATEROS",
+      "phone": "5099896610",
+      "category": "wine"
+    },
+    {
+      "name": "METHOW VALLEY CIDER HOUSE",
+      "city": "WINTHROP",
+      "phone": "5093414354",
+      "category": "wine"
+    },
+    {
+      "name": "MICHAEL FLORENTINO CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4252812323",
+      "category": "wine"
+    },
+    {
+      "name": "MILBRANDT WINERY",
+      "city": "PROSSER",
+      "phone": "5099320030",
+      "category": "wine"
+    },
+    {
+      "name": "MILL HAUS",
+      "city": "EATONVILLE",
+      "phone": "2537202201",
+      "category": "wine"
+    },
+    {
+      "name": "MILL LANE WINERY",
+      "city": "TENINO",
+      "phone": "3604594999",
+      "category": "wine"
+    },
+    {
+      "name": "MISFIT ISLAND CIDER COMPANY",
+      "city": "LANGLEY",
+      "phone": "2134477269",
+      "category": "wine"
+    },
+    {
+      "name": "MISTRAL RANCH",
+      "city": "LYLE",
+      "phone": "7135829733",
+      "category": "wine"
+    },
+    {
+      "name": "MODERN NATURE WINES",
+      "city": "SHORELINE",
+      "phone": "2069495740",
+      "category": "wine"
+    },
+    {
+      "name": "MOMENTO CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "9545624307",
+      "category": "wine"
+    },
+    {
+      "name": "MONTE SCARLATTO ESTATE",
+      "city": "BENTON CITY",
+      "phone": "5095313081",
+      "category": "wine"
+    },
+    {
+      "name": "MONTGOMERY VINEYARDS",
+      "city": "SNOHOMISH",
+      "phone": "4254852141",
+      "category": "wine"
+    },
+    {
+      "name": "MOONBASE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "3145802764",
+      "category": "wine"
+    },
+    {
+      "name": "MOONLIGHT SPARKLING WINE CELLAR, LLC",
+      "city": "KENNEWICK",
+      "phone": "5097357237",
+      "category": "wine"
+    },
+    {
+      "name": "MOSQUITO FLEET WINERY",
+      "city": "BELFAIR",
+      "phone": "3602758727",
+      "category": "wine"
+    },
+    {
+      "name": "MOULTON FALLS WINERY",
+      "city": "YACOLT",
+      "phone": "3606864070",
+      "category": "wine"
+    },
+    {
+      "name": "MR E'S",
+      "city": "MOSES LAKE",
+      "phone": "5094312103",
+      "category": "wine"
+    },
+    {
+      "name": "MR. B'S MEADERY",
+      "city": "SEATTLE",
+      "phone": "2063554067",
+      "category": "wine"
+    },
+    {
+      "name": "MTN/ART",
+      "city": "BENTON CITY",
+      "phone": "5095218153",
+      "category": "wine"
+    },
+    {
+      "name": "MTR PRODUCTIONS",
+      "city": "WALLA WALLA",
+      "phone": "5093010631",
+      "category": "wine"
+    },
+    {
+      "name": "MULLAN ROAD CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "7079365221",
+      "category": "wine"
+    },
+    {
+      "name": "MULLAN ROAD CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "7079365221",
+      "category": "wine"
+    },
+    {
+      "name": "MVINYO WINERY",
+      "city": "GIG HARBOR",
+      "phone": "4257661446",
+      "category": "wine"
+    },
+    {
+      "name": "MYERS WINE COMPANY",
+      "city": "BENTON CITY",
+      "phone": "5094386883",
+      "category": "wine"
+    },
+    {
+      "name": "MYSTIC MEAD",
+      "city": "SPOKANE VALLEY",
+      "phone": "5095702704",
+      "category": "wine"
+    },
+    {
+      "name": "NARROWS BREWING COMPANY",
+      "city": "TACOMA",
+      "phone": "2533271400",
+      "category": "wine"
+    },
+    {
+      "name": "NASHI ORCHARDS",
+      "city": "VASHON",
+      "phone": "2067345551",
+      "category": "wine"
+    },
+    {
+      "name": "NASHI ORCHARDS",
+      "city": "VASHON",
+      "phone": "2067345551",
+      "category": "wine"
+    },
+    {
+      "name": "NAVARRE COULEE VINEYARDS, LLC",
+      "city": "MANSON",
+      "phone": "4062203639",
+      "category": "wine"
+    },
+    {
+      "name": "NEFF CELLARS",
+      "city": "PATEROS",
+      "phone": "5096798805",
+      "category": "wine"
+    },
+    {
+      "name": "NEU FLESSENOW CELLARS",
+      "city": "LEAVENWORTH",
+      "phone": "3608535448",
+      "category": "wine"
+    },
+    {
+      "name": "NIGHT WATCH WINES",
+      "city": "SUNNYSIDE",
+      "phone": "2063724881",
+      "category": "wine"
+    },
+    {
+      "name": "NOCKING POINT WINES",
+      "city": "WALLA WALLA",
+      "phone": "4065440739",
+      "category": "wine"
+    },
+    {
+      "name": "NOEL ESTATE VINEYARD",
+      "city": "UNION GAP",
+      "phone": "5099523088",
+      "category": "wine"
+    },
+    {
+      "name": "NORSK STRYKR",
+      "city": "PROSSER",
+      "phone": "5097862362",
+      "category": "wine"
+    },
+    {
+      "name": "NORTHSTAR",
+      "city": "WALLA WALLA",
+      "phone": "2068161454",
+      "category": "wine"
+    },
+    {
+      "name": "NORTHWEST CELLARS",
+      "city": "KIRKLAND",
+      "phone": "4258259463",
+      "category": "wine"
+    },
+    {
+      "name": "NOTA BENE CELLARS",
+      "city": "SEATTLE",
+      "phone": "2065260627",
+      "category": "wine"
+    },
+    {
+      "name": "NOVELTY HILL WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4254815502",
+      "category": "wine"
+    },
+    {
+      "name": "NOVIELLO VINEYARDS",
+      "city": "ORONDO",
+      "phone": "4256490353",
+      "category": "wine"
+    },
+    {
+      "name": "NW WINE COLLABORATIVE",
+      "city": "PROSSER",
+      "phone": "5099499463",
+      "category": "wine"
+    },
+    {
+      "name": "O'NEILL VINTNERS & DISTILLERS",
+      "city": "QUINCY",
+      "phone": "8312615365",
+      "category": "wine"
+    },
+    {
+      "name": "OAK TREE MANOR",
+      "city": "CENTRALIA",
+      "phone": "3608801155",
+      "category": "wine"
+    },
+    {
+      "name": "ODDSTOCK CIDER CO.",
+      "city": "ELLENSBURG",
+      "phone": "5096070545",
+      "category": "wine"
+    },
+    {
+      "name": "ODINS ALCHEMY BREWING",
+      "city": "TUMWATER",
+      "phone": "3602692249",
+      "category": "wine"
+    },
+    {
+      "name": "OFFSET CIDERWORKS",
+      "city": "MOUNTLAKE TERRACE",
+      "phone": "2063219521",
+      "category": "wine"
+    },
+    {
+      "name": "OKANAGAN SPECIALTY FRUITS, LLC",
+      "city": "EAST WENATCHEE",
+      "phone": "5406337904",
+      "category": "wine"
+    },
+    {
+      "name": "OLALLA WINES",
+      "city": "WOODINVILLE",
+      "phone": "2538514949",
+      "category": "wine"
+    },
+    {
+      "name": "OLALLA WINES",
+      "city": "OLALLA",
+      "phone": "2538514949",
+      "category": "wine"
+    },
+    {
+      "name": "OLDFIELD CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4258692020",
+      "category": "wine"
+    },
+    {
+      "name": "OLEQUA CELLARS",
+      "city": "BATTLE GROUND",
+      "phone": "3606668012",
+      "category": "wine"
+    },
+    {
+      "name": "OLYMPIC BLUFFS CIDERY",
+      "city": "PORT ANGELES",
+      "phone": "3606707206",
+      "category": "wine"
+    },
+    {
+      "name": "OLYMPIC CELLARS",
+      "city": "PORT ANGELES",
+      "phone": "3604520160",
+      "category": "wine"
+    },
+    {
+      "name": "ON BLENDED KNEE WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4257720622",
+      "category": "wine"
+    },
+    {
+      "name": "ON POINT CELLARS",
+      "city": "BREWSTER",
+      "phone": "5097331605",
+      "category": "wine"
+    },
+    {
+      "name": "ONE TREE HARD CIDER",
+      "city": "SPOKANE",
+      "phone": "5099790997",
+      "category": "wine"
+    },
+    {
+      "name": "ONE WINES INC",
+      "city": "CHELAN",
+      "phone": "5096822646",
+      "category": "wine"
+    },
+    {
+      "name": "OOMRANG",
+      "city": "STANWOOD",
+      "phone": "9149072281",
+      "category": "wine"
+    },
+    {
+      "name": "OPPEGAARD MEADERY LLC",
+      "city": "TUKWILA",
+      "phone": "4258760089",
+      "category": "wine"
+    },
+    {
+      "name": "ORCAS ISLAND WINERY",
+      "city": "EASTSOUND",
+      "phone": "5209919291",
+      "category": "wine"
+    },
+    {
+      "name": "ORCAS ISLE CIDER",
+      "city": "EASTSOUND",
+      "phone": "3609195977",
+      "category": "wine"
+    },
+    {
+      "name": "ORCAS WINE COMPANY",
+      "city": "EASTSOUND",
+      "phone": "3603765436",
+      "category": "wine"
+    },
+    {
+      "name": "ORENDA WINERY",
+      "city": "CARNATION",
+      "phone": "7209036869",
+      "category": "wine"
+    },
+    {
+      "name": "ORR WINES",
+      "city": "WOODINVILLE",
+      "phone": "9252129979",
+      "category": "wine"
+    },
+    {
+      "name": "OTIS KENYON WINE",
+      "city": "WOODINVILLE",
+      "phone": "2064654065",
+      "category": "wine"
+    },
+    {
+      "name": "OTT & HUNTER WINES",
+      "city": "CLINTON",
+      "phone": "2062277533",
+      "category": "wine"
+    },
+    {
+      "name": "OTT & HUNTER WINES",
+      "city": "CLINTON",
+      "phone": "2062277533",
+      "category": "wine"
+    },
+    {
+      "name": "OUTWEST WINES",
+      "city": "CHENEY",
+      "phone": "3609770304",
+      "category": "wine"
+    },
+    {
+      "name": "OVERBLUFF CELLARS",
+      "city": "SPOKANE",
+      "phone": "5099914781",
+      "category": "wine"
+    },
+    {
+      "name": "OWEN ROE ESTATE",
+      "city": "WAPATO",
+      "phone": "5036802686",
+      "category": "wine"
+    },
+    {
+      "name": "PAGE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2067697800",
+      "category": "wine"
+    },
+    {
+      "name": "PAHTO WINE CELLARS",
+      "city": "WHITE SALMON",
+      "phone": "5096375815",
+      "category": "wine"
+    },
+    {
+      "name": "PALACE CELLARS",
+      "city": "TACOMA",
+      "phone": "2536273883",
+      "category": "wine"
+    },
+    {
+      "name": "PALENCIA WINE COMPANY",
+      "city": "KENNEWICK",
+      "phone": "5098308479",
+      "category": "wine"
+    },
+    {
+      "name": "PALENCIA WINERY",
+      "city": "BENTON CITY",
+      "phone": "5098308479",
+      "category": "wine"
+    },
+    {
+      "name": "PALMERSTON CELLARS",
+      "city": "TACOMA",
+      "phone": "2537402687",
+      "category": "wine"
+    },
+    {
+      "name": "PALOUSE WINERY",
+      "city": "VASHON",
+      "phone": "2064639685",
+      "category": "wine"
+    },
+    {
+      "name": "PARADISOS DEL SOL",
+      "city": "ZILLAH",
+      "phone": "5098295590",
+      "category": "wine"
+    },
+    {
+      "name": "PAREJAS CELLARS",
+      "city": "GRANDVIEW",
+      "phone": "5099109844",
+      "category": "wine"
+    },
+    {
+      "name": "PAROUSIA CELLAR",
+      "city": "WALLA WALLA",
+      "phone": "2069548463",
+      "category": "wine"
+    },
+    {
+      "name": "PASEK CELLARS WINERY",
+      "city": "MOUNT VERNON",
+      "phone": "4259716025",
+      "category": "wine"
+    },
+    {
+      "name": "PASSING TIME WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4252136083",
+      "category": "wine"
+    },
+    {
+      "name": "PATTERSON CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4254434248",
+      "category": "wine"
+    },
+    {
+      "name": "PATTERSON CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "4254838600",
+      "category": "wine"
+    },
+    {
+      "name": "PEARL AND STONE WINE CO",
+      "city": "NORTH BEND",
+      "phone": "4253954011",
+      "category": "wine"
+    },
+    {
+      "name": "PEPPER BRIDGE WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095256502",
+      "category": "wine"
+    },
+    {
+      "name": "PERCIVAL CREEK BREWING",
+      "city": "TUMWATER",
+      "phone": "3605965666",
+      "category": "wine"
+    },
+    {
+      "name": "PERENNIAL VINTNERS",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2067802146",
+      "category": "wine"
+    },
+    {
+      "name": "PHILLIPPI FRUIT CO",
+      "city": "WENATCHEE",
+      "phone": "5096628522",
+      "category": "wine"
+    },
+    {
+      "name": "PINBALL CIDER",
+      "city": "SEATTLE",
+      "phone": "4157068281",
+      "category": "wine"
+    },
+    {
+      "name": "PINE LAKE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2063005210",
+      "category": "wine"
+    },
+    {
+      "name": "PINSTRIPE",
+      "city": "SEATTLE",
+      "phone": "2065521042",
+      "category": "wine"
+    },
+    {
+      "name": "PIOLET VINTNERS",
+      "city": "SNOHOMISH",
+      "phone": "4259229234",
+      "category": "wine"
+    },
+    {
+      "name": "PIQUENIQUE WINES LLC",
+      "city": "FRIDAY HARBOR",
+      "phone": "7072362027",
+      "category": "wine"
+    },
+    {
+      "name": "PIXIE MEAD",
+      "city": "TWISP",
+      "phone": "3607903401",
+      "category": "wine"
+    },
+    {
+      "name": "PLAIN CELLARS",
+      "city": "LEAVENWORTH",
+      "phone": "4259317500",
+      "category": "wine"
+    },
+    {
+      "name": "PLUMB CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095257722",
+      "category": "wine"
+    },
+    {
+      "name": "POBERAJ WINES",
+      "city": "WHITE SALMON",
+      "phone": "3016460619",
+      "category": "wine"
+    },
+    {
+      "name": "POMUM CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2063629203",
+      "category": "wine"
+    },
+    {
+      "name": "PONDERA WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4258253917",
+      "category": "wine"
+    },
+    {
+      "name": "PORT GARDNER BAY WINERY",
+      "city": "EVERETT",
+      "phone": "4253390293",
+      "category": "wine"
+    },
+    {
+      "name": "PORT TOWNSEND VINEYARDS",
+      "city": "PORT TOWNSEND",
+      "phone": "3603856416",
+      "category": "wine"
+    },
+    {
+      "name": "PORTTEUS",
+      "city": "ZILLAH",
+      "phone": "5098296970",
+      "category": "wine"
+    },
+    {
+      "name": "PRATUM WINES",
+      "city": "WALLA WALLA",
+      "phone": "5092405885",
+      "category": "wine"
+    },
+    {
+      "name": "PRIMITIVE ROAD WINERY",
+      "city": "WOODINVILLE",
+      "phone": "3104132556",
+      "category": "wine"
+    },
+    {
+      "name": "PROHIBITION CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "8184310074",
+      "category": "wine"
+    },
+    {
+      "name": "PROHIBITION CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "8184310074",
+      "category": "wine"
+    },
+    {
+      "name": "PROLETARIAT WINE COMPANY",
+      "city": "WALLA WALLA",
+      "phone": "2533125991",
+      "category": "wine"
+    },
+    {
+      "name": "PROSPICE WINES",
+      "city": "WALLA WALLA",
+      "phone": "5092043184",
+      "category": "wine"
+    },
+    {
+      "name": "PROSSER VINEYARD & WINERY",
+      "city": "PROSSER",
+      "phone": "5097782482",
+      "category": "wine"
+    },
+    {
+      "name": "PUGET SOUND CIDER COMPANY",
+      "city": "AUBURN",
+      "phone": "2532498762",
+      "category": "wine"
+    },
+    {
+      "name": "PURSUED BY BEAR",
+      "city": "WALLA WALLA",
+      "phone": "3109268444",
+      "category": "wine"
+    },
+    {
+      "name": "QUARKY WINES",
+      "city": "WALLA WALLA",
+      "phone": "5028190627",
+      "category": "wine"
+    },
+    {
+      "name": "QUIDDITY WINES",
+      "city": "WOODINVILLE",
+      "phone": "4258948003",
+      "category": "wine"
+    },
+    {
+      "name": "QUILCEDA CREEK VINTNERS",
+      "city": "SNOHOMISH",
+      "phone": "3605682389",
+      "category": "wine"
+    },
+    {
+      "name": "QUILCEDA CREEK VINTNERS",
+      "city": "SNOHOMISH",
+      "phone": "3605682389",
+      "category": "wine"
+    },
+    {
+      "name": "QUILCEDA CREEK VINTNERS",
+      "city": "SNOHOMISH",
+      "phone": "3605682389",
+      "category": "wine"
+    },
+    {
+      "name": "QUIMICA WINERY",
+      "city": "BATTLE GROUND",
+      "phone": "3609772745",
+      "category": "wine"
+    },
+    {
+      "name": "R.R. POET",
+      "city": "WALLA WALLA",
+      "phone": "5096196922",
+      "category": "wine"
+    },
+    {
+      "name": "RADIANCE WINERY",
+      "city": "MANSON",
+      "phone": "5098343270",
+      "category": "wine"
+    },
+    {
+      "name": "RADIX WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5092211699",
+      "category": "wine"
+    },
+    {
+      "name": "RAGAIRE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2067191396",
+      "category": "wine"
+    },
+    {
+      "name": "RAIN SHADOW CELLARS",
+      "city": "COUPEVILLE",
+      "phone": "3606785464",
+      "category": "wine"
+    },
+    {
+      "name": "RAINBREW",
+      "city": "WOODINVILLE",
+      "phone": "4257498023",
+      "category": "wine"
+    },
+    {
+      "name": "RAINCOAST FARMS LLC",
+      "city": "PORT TOWNSEND",
+      "phone": "5096703275",
+      "category": "wine"
+    },
+    {
+      "name": "RAINIER VIEW WINERY AND NURSERY",
+      "city": "GRAHAM",
+      "phone": "3608933107",
+      "category": "wine"
+    },
+    {
+      "name": "RAISING CANE RANCH",
+      "city": "SNOHOMISH",
+      "phone": "2066174094",
+      "category": "wine"
+    },
+    {
+      "name": "RANDOLPH CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "4258798612",
+      "category": "wine"
+    },
+    {
+      "name": "RASA VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "9735375545",
+      "category": "wine"
+    },
+    {
+      "name": "RATTLESNAKE HILLS CIDERY",
+      "city": "ZILLAH",
+      "phone": "5099694639",
+      "category": "wine"
+    },
+    {
+      "name": "REALI FAMILY VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "9015810995",
+      "category": "wine"
+    },
+    {
+      "name": "RECUSANT CELLARS",
+      "city": "PASCO",
+      "phone": "5095394397",
+      "category": "wine"
+    },
+    {
+      "name": "RED BAND CELLARS",
+      "city": "DAYTON",
+      "phone": "5098518840",
+      "category": "wine"
+    },
+    {
+      "name": "RED MOUNTAIN VITICULTURE INC",
+      "city": "WALLA WALLA",
+      "phone": "4259498322",
+      "category": "wine"
+    },
+    {
+      "name": "RED MOUNTAIN VITICULTURE INC",
+      "city": "WOODINVILLE",
+      "phone": "4259498322",
+      "category": "wine"
+    },
+    {
+      "name": "REDIVIVA",
+      "city": "WASHOUGAL",
+      "phone": "3608189362",
+      "category": "wine"
+    },
+    {
+      "name": "REEDS SWEET WINE",
+      "city": "TACOMA",
+      "phone": "2533275220",
+      "category": "wine"
+    },
+    {
+      "name": "REININGER WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095221994",
+      "category": "wine"
+    },
+    {
+      "name": "REMLINGER FARMS",
+      "city": "CARNATION",
+      "phone": "4257322775",
+      "category": "wine"
+    },
+    {
+      "name": "RENAISSANCE ORCHARDS",
+      "city": "FERNDALE",
+      "phone": "3603055242",
+      "category": "wine"
+    },
+    {
+      "name": "REPUBLIC OF CIDER",
+      "city": "SEATTLE",
+      "phone": "2065046604",
+      "category": "wine"
+    },
+    {
+      "name": "RESULT OF A CRUSH",
+      "city": "WALLA WALLA",
+      "phone": "2069105712",
+      "category": "wine"
+    },
+    {
+      "name": "REVELRY VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5095405761",
+      "category": "wine"
+    },
+    {
+      "name": "REYNVAAN FAMILY VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "2063598469",
+      "category": "wine"
+    },
+    {
+      "name": "REZABEK VINEYARDS",
+      "city": "BATTLE GROUND",
+      "phone": "3608960218",
+      "category": "wine"
+    },
+    {
+      "name": "RIBBON CLIFF VINEYARDS",
+      "city": "ORONDO",
+      "phone": "4258309415",
+      "category": "wine"
+    },
+    {
+      "name": "RIDER CELLARS",
+      "city": "SELAH",
+      "phone": "2063711885",
+      "category": "wine"
+    },
+    {
+      "name": "RILEY SEXTON VINTNERS",
+      "city": "WOODINVILLE",
+      "phone": "2062296007",
+      "category": "wine"
+    },
+    {
+      "name": "RIO VISTA WINERY",
+      "city": "CHELAN",
+      "phone": "5096871179",
+      "category": "wine"
+    },
+    {
+      "name": "RIVER'S EDGE WINERY",
+      "city": "MATTAWA",
+      "phone": "2068161454",
+      "category": "wine"
+    },
+    {
+      "name": "ROBERT KARL CELLARS",
+      "city": "SPOKANE",
+      "phone": "5093631353",
+      "category": "wine"
+    },
+    {
+      "name": "ROCK WALL CELLARS",
+      "city": "OMAK",
+      "phone": "5098260201",
+      "category": "wine"
+    },
+    {
+      "name": "ROCKRIDGE ORCHARDS",
+      "city": "ENUMCLAW",
+      "phone": "3608026800",
+      "category": "wine"
+    },
+    {
+      "name": "ROCKY POND WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4259499044",
+      "category": "wine"
+    },
+    {
+      "name": "ROLLING BAY WINERY",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2064193355",
+      "category": "wine"
+    },
+    {
+      "name": "ROOTED SOULS WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4257659222",
+      "category": "wine"
+    },
+    {
+      "name": "ROOTWOOD CIDER",
+      "city": "MANSON",
+      "phone": "5096879314",
+      "category": "wine"
+    },
+    {
+      "name": "ROS WINE COMPANY",
+      "city": "PROSSER",
+      "phone": "5093010627",
+      "category": "wine"
+    },
+    {
+      "name": "ROTIE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2533125991",
+      "category": "wine"
+    },
+    {
+      "name": "ROXBORO VINEYARDS LLC",
+      "city": "PROSSER",
+      "phone": "5097601808",
+      "category": "wine"
+    },
+    {
+      "name": "ROYAL SLOPE VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5092403090",
+      "category": "wine"
+    },
+    {
+      "name": "RS WINERY",
+      "city": "CENTRALIA",
+      "phone": "3602802727",
+      "category": "wine"
+    },
+    {
+      "name": "RUBY MAGDALENA VINEYARDS",
+      "city": "ZILLAH",
+      "phone": "5099306799",
+      "category": "wine"
+    },
+    {
+      "name": "RUJAYA WINERY",
+      "city": "WOODINVILLE",
+      "phone": "7074904873",
+      "category": "wine"
+    },
+    {
+      "name": "RULO WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5095263130",
+      "category": "wine"
+    },
+    {
+      "name": "RUSH LATTIN CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "4255510658",
+      "category": "wine"
+    },
+    {
+      "name": "RUSH LATTIN CELLARS",
+      "city": "SNOHOMISH",
+      "phone": "4255510658",
+      "category": "wine"
+    },
+    {
+      "name": "RUSSELL CREEK",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "RYZO WINES",
+      "city": "CHELAN",
+      "phone": "5098608705",
+      "category": "wine"
+    },
+    {
+      "name": "S&T WINES, LLC",
+      "city": "WALLA WALLA",
+      "phone": "2062805859",
+      "category": "wine"
+    },
+    {
+      "name": "SAANJ WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4253190222",
+      "category": "wine"
+    },
+    {
+      "name": "SAGECLIFFE RESORT & SPA",
+      "city": "QUINCY",
+      "phone": "2066041731",
+      "category": "wine"
+    },
+    {
+      "name": "SAILOR VINEYARD",
+      "city": "PORT TOWNSEND",
+      "phone": "3603855342",
+      "category": "wine"
+    },
+    {
+      "name": "SALTAIRE VINEYARDS",
+      "city": "FRIDAY HARBOR",
+      "phone": "3602984840",
+      "category": "wine"
+    },
+    {
+      "name": "SAMA CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4259858649",
+      "category": "wine"
+    },
+    {
+      "name": "SAMEX LLC",
+      "city": "LAKEBAY",
+      "phone": "4254207335",
+      "category": "wine"
+    },
+    {
+      "name": "SAMSON ESTATES WINERY",
+      "city": "EVERSON",
+      "phone": "7782291918",
+      "category": "wine"
+    },
+    {
+      "name": "SAN JUAN VINEYARD",
+      "city": "FRIDAY HARBOR",
+      "phone": "2538636200",
+      "category": "wine"
+    },
+    {
+      "name": "SAPPHIRE MOUNTAIN CELLARS",
+      "city": "DIXIE",
+      "phone": "5095220961",
+      "category": "wine"
+    },
+    {
+      "name": "SATYRDAY FARMS",
+      "city": "LYNDEN",
+      "phone": "3603548599",
+      "category": "wine"
+    },
+    {
+      "name": "SAVAGE GRACE WINES",
+      "city": "UNDERWOOD",
+      "phone": "2069204206",
+      "category": "wine"
+    },
+    {
+      "name": "SAVAGE GRACE WINES",
+      "city": "WOODINVILLE",
+      "phone": "2069204206",
+      "category": "wine"
+    },
+    {
+      "name": "SAVIAH CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095229440",
+      "category": "wine"
+    },
+    {
+      "name": "SAVVY VINEYARD",
+      "city": "WALLA WALLA",
+      "phone": "5095935139",
+      "category": "wine"
+    },
+    {
+      "name": "SCHILLING CIDER",
+      "city": "AUBURN",
+      "phone": "2066415623",
+      "category": "wine"
+    },
+    {
+      "name": "SCHOOLER NOLAN WINERY",
+      "city": "WALLA WALLA",
+      "phone": "5098764126",
+      "category": "wine"
+    },
+    {
+      "name": "SEABECK CELLARS",
+      "city": "SEABECK",
+      "phone": "3606202872",
+      "category": "wine"
+    },
+    {
+      "name": "SEATTLE CIDER TAPROOM",
+      "city": "SEATTLE",
+      "phone": "2062297308",
+      "category": "wine"
+    },
+    {
+      "name": "SEATTLE MEAD COMPANY",
+      "city": "WOODINVILLE",
+      "phone": "2063216567",
+      "category": "wine"
+    },
+    {
+      "name": "SECOND POUR",
+      "city": "WALLA WALLA",
+      "phone": "5093040310",
+      "category": "wine"
+    },
+    {
+      "name": "SECRET SQUIRREL",
+      "city": "WALLA WALLA",
+      "phone": "2538265372",
+      "category": "wine"
+    },
+    {
+      "name": "SEVEN HILLS WINERY",
+      "city": "WALLA WALLA",
+      "phone": "7072600922",
+      "category": "wine"
+    },
+    {
+      "name": "SHANNON FAYE WINERY",
+      "city": "COLBERT",
+      "phone": "5099982093",
+      "category": "wine"
+    },
+    {
+      "name": "SHARED DREAM CELLARS",
+      "city": "KINGSTON",
+      "phone": "4252561150",
+      "category": "wine"
+    },
+    {
+      "name": "SHAWNEE HILL FARM",
+      "city": "VASHON",
+      "phone": "2069416353",
+      "category": "wine"
+    },
+    {
+      "name": "SHERIDAN VINEYARD",
+      "city": "ZILLAH",
+      "phone": "4254010167",
+      "category": "wine"
+    },
+    {
+      "name": "SHERIDAN VINEYARD",
+      "city": "ZILLAH",
+      "phone": "4254010167",
+      "category": "wine"
+    },
+    {
+      "name": "SHILOH ESTATE CELLARS",
+      "city": "SUMNER",
+      "phone": "4257571704",
+      "category": "wine"
+    },
+    {
+      "name": "SHIRAFUJI BREWERY",
+      "city": "WOODINVILLE",
+      "phone": "4252191631",
+      "category": "wine"
+    },
+    {
+      "name": "SIGHTGLASS CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4255033779",
+      "category": "wine"
+    },
+    {
+      "name": "SIGILLO CELLARS",
+      "city": "CHELAN",
+      "phone": "2069192326",
+      "category": "wine"
+    },
+    {
+      "name": "SIGILLO CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2069192326",
+      "category": "wine"
+    },
+    {
+      "name": "SILENT OWL WINERY",
+      "city": "OTHELLO",
+      "phone": "2065237210",
+      "category": "wine"
+    },
+    {
+      "name": "SILVARA CELLARS",
+      "city": "LEAVENWORTH",
+      "phone": "5095481000",
+      "category": "wine"
+    },
+    {
+      "name": "SILVER BELL WINERY, LLC",
+      "city": "MANSON",
+      "phone": "3606107863",
+      "category": "wine"
+    },
+    {
+      "name": "SILVER CAT FARMS",
+      "city": "CHEHALIS",
+      "phone": "4253448058",
+      "category": "wine"
+    },
+    {
+      "name": "SILVER LAKE WINERY",
+      "city": "ZILLAH",
+      "phone": "4254852437",
+      "category": "wine"
+    },
+    {
+      "name": "SIMPATICO CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4255031645",
+      "category": "wine"
+    },
+    {
+      "name": "SIN BANDERAS WINE",
+      "city": "NINE MILE FALLS",
+      "phone": "5099914389",
+      "category": "wine"
+    },
+    {
+      "name": "SIREN SONG WINES",
+      "city": "CHELAN",
+      "phone": "2064651047",
+      "category": "wine"
+    },
+    {
+      "name": "SISTERS' CIDER HOUSE LLC",
+      "city": "BAINBRIDGE ISLAND",
+      "phone": "2069200951",
+      "category": "wine"
+    },
+    {
+      "name": "SKAGIT CELLARS LLC",
+      "city": "MOUNT VERNON",
+      "phone": "3607082801",
+      "category": "wine"
+    },
+    {
+      "name": "SKAGIT CREST VINEYARD & WINERY",
+      "city": "SEDRO WOOLLEY",
+      "phone": "2066796992",
+      "category": "wine"
+    },
+    {
+      "name": "SKY RIVER MEAD",
+      "city": "WOODINVILLE",
+      "phone": "4253275274",
+      "category": "wine"
+    },
+    {
+      "name": "SLEEPING DOG WINES",
+      "city": "BENTON CITY",
+      "phone": "5094602886",
+      "category": "wine"
+    },
+    {
+      "name": "SLEEPING GIANT MEAD",
+      "city": "PUYALLUP",
+      "phone": "2064097879",
+      "category": "wine"
+    },
+    {
+      "name": "SLEIGHT OF HAND CELLARS",
+      "city": "SEATTLE",
+      "phone": "5095253661",
+      "category": "wine"
+    },
+    {
+      "name": "SLEIGHT OF HAND CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093866566",
+      "category": "wine"
+    },
+    {
+      "name": "SLIGHTLY FURRY",
+      "city": "SEATTLE",
+      "phone": "2064940294",
+      "category": "wine"
+    },
+    {
+      "name": "SMAK WINES",
+      "city": "WALLA WALLA",
+      "phone": "6466433806",
+      "category": "wine"
+    },
+    {
+      "name": "SMOKY ROSE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "6149173954",
+      "category": "wine"
+    },
+    {
+      "name": "SNOWBIRD FARM & CIDERY",
+      "city": "MONTESANO",
+      "phone": "9073881888",
+      "category": "wine"
+    },
+    {
+      "name": "SNOWDRIFT CIDER COMPANY",
+      "city": "EAST WENATCHEE",
+      "phone": "5096303507",
+      "category": "wine"
+    },
+    {
+      "name": "SNOWDRIFT CIDER COMPANY",
+      "city": "EAST WENATCHEE",
+      "phone": "5098848649",
+      "category": "wine"
+    },
+    {
+      "name": "SOLERA BRAVO WINES",
+      "city": "SEATTLE",
+      "phone": "2067956201",
+      "category": "wine"
+    },
+    {
+      "name": "SOMME DES PARTIES",
+      "city": "WALLA WALLA",
+      "phone": "5093017299",
+      "category": "wine"
+    },
+    {
+      "name": "SONDER WINES",
+      "city": "GRANDVIEW",
+      "phone": "3605846025",
+      "category": "wine"
+    },
+    {
+      "name": "SOOS CREEK WINE CELLARS",
+      "city": "KENT",
+      "phone": "2533355724",
+      "category": "wine"
+    },
+    {
+      "name": "SOUNDBITE CIDER",
+      "city": "EVERETT",
+      "phone": "2159629230",
+      "category": "wine"
+    },
+    {
+      "name": "SOUTH SEATTLE COLLEGE WINERY",
+      "city": "SEATTLE",
+      "phone": "2069346846",
+      "category": "wine"
+    },
+    {
+      "name": "SOUTHARD WINERY",
+      "city": "SELAH",
+      "phone": "2064090139",
+      "category": "wine"
+    },
+    {
+      "name": "SOUTHERN CROSS WINERY",
+      "city": "PASCO",
+      "phone": "5097130070",
+      "category": "wine"
+    },
+    {
+      "name": "SOVEREIGN CELLARS",
+      "city": "OLYMPIA",
+      "phone": "3608667991",
+      "category": "wine"
+    },
+    {
+      "name": "SOZO, LLC",
+      "city": "KENT",
+      "phone": "2065511811",
+      "category": "wine"
+    },
+    {
+      "name": "SPARKMAN CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4254158465",
+      "category": "wine"
+    },
+    {
+      "name": "SPIRAL WINE SELECTION",
+      "city": "WALLA WALLA",
+      "phone": "5095256502",
+      "category": "wine"
+    },
+    {
+      "name": "SPOILED DOG WINERY",
+      "city": "LANGLEY",
+      "phone": "3603216226",
+      "category": "wine"
+    },
+    {
+      "name": "SPRING VALLEY VINEYARD",
+      "city": "WALLA WALLA",
+      "phone": "2068161454",
+      "category": "wine"
+    },
+    {
+      "name": "SPRUCE HILL WINERY",
+      "city": "SEATTLE",
+      "phone": "2069921319",
+      "category": "wine"
+    },
+    {
+      "name": "SQUILCHUCK WINERY, SQUILCHUCK VINEYARD",
+      "city": "WENATCHEE",
+      "phone": "5098606597",
+      "category": "wine"
+    },
+    {
+      "name": "STAR BABY WINES",
+      "city": "GREENBANK",
+      "phone": "9084583701",
+      "category": "wine"
+    },
+    {
+      "name": "STATE 42 WINES",
+      "city": "BREMERTON",
+      "phone": "2067995864",
+      "category": "wine"
+    },
+    {
+      "name": "STAVALAURA VINEYARDS AND WINERY",
+      "city": "RIDGEFIELD",
+      "phone": "3608871476",
+      "category": "wine"
+    },
+    {
+      "name": "STE. MICHELLE WINE ESTATES",
+      "city": "GRANDVIEW",
+      "phone": "4254881133",
+      "category": "wine"
+    },
+    {
+      "name": "STE. MICHELLE WINE ESTATES LTD.",
+      "city": "GRANDVIEW",
+      "phone": "5096638421",
+      "category": "wine"
+    },
+    {
+      "name": "STE. MICHELLE WINE ESTATES LTD.",
+      "city": "PATERSON",
+      "phone": "2064881133",
+      "category": "wine"
+    },
+    {
+      "name": "STEELHEAD CIDER",
+      "city": "MANSON",
+      "phone": "5096702354",
+      "category": "wine"
+    },
+    {
+      "name": "STEMILT CREEK WINERY",
+      "city": "WENATCHEE",
+      "phone": "5096623613",
+      "category": "wine"
+    },
+    {
+      "name": "STEVENS WINERY",
+      "city": "WOODINVILLE",
+      "phone": "4254249463",
+      "category": "wine"
+    },
+    {
+      "name": "STEWART FAMILY WINES",
+      "city": "QUINCY",
+      "phone": "5097602622",
+      "category": "wine"
+    },
+    {
+      "name": "STINA'S CELLARS",
+      "city": "FIRCREST",
+      "phone": "2532279748",
+      "category": "wine"
+    },
+    {
+      "name": "STOTTLE WINERY",
+      "city": "LACEY",
+      "phone": "4084790993",
+      "category": "wine"
+    },
+    {
+      "name": "STRATA VARIA",
+      "city": "WOODINVILLE",
+      "phone": "5036217424",
+      "category": "wine"
+    },
+    {
+      "name": "STRATTON BROS. CIDER CO.",
+      "city": "LA CENTER",
+      "phone": "3602634626",
+      "category": "wine"
+    },
+    {
+      "name": "STRINGTOWN CELLARS",
+      "city": "EATONVILLE",
+      "phone": "3608324743",
+      "category": "wine"
+    },
+    {
+      "name": "STRIX VARIA MEAD",
+      "city": "CLINTON",
+      "phone": "3603413331",
+      "category": "wine"
+    },
+    {
+      "name": "STRUCTURE CELLARS",
+      "city": "SEATTLE",
+      "phone": "2063346828",
+      "category": "wine"
+    },
+    {
+      "name": "SUCCESSION WINES",
+      "city": "MANSON",
+      "phone": "5098887611",
+      "category": "wine"
+    },
+    {
+      "name": "SULEI CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095252668",
+      "category": "wine"
+    },
+    {
+      "name": "SUN RIVER VINTNERS",
+      "city": "KENNEWICK",
+      "phone": "5096275400",
+      "category": "wine"
+    },
+    {
+      "name": "SUNLIT CANYON CELLARS",
+      "city": "BELFAIR",
+      "phone": "3602750502",
+      "category": "wine"
+    },
+    {
+      "name": "SUPER COLLIDER PRODUCTIONS INC",
+      "city": "PROSSER",
+      "phone": "3605549430",
+      "category": "wine"
+    },
+    {
+      "name": "SUPERMASSIVE CELLARS",
+      "city": "SEATTLE",
+      "phone": "2064063441",
+      "category": "wine"
+    },
+    {
+      "name": "SWIFTWATER CELLARS",
+      "city": "CLE ELUM",
+      "phone": "5096746555",
+      "category": "wine"
+    },
+    {
+      "name": "SYNCLINE WINE CELLARS",
+      "city": "LYLE",
+      "phone": "5419127961",
+      "category": "wine"
+    },
+    {
+      "name": "SYNNE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2068512048",
+      "category": "wine"
+    },
+    {
+      "name": "SYZYGY",
+      "city": "WALLA WALLA",
+      "phone": "5095220484",
+      "category": "wine"
+    },
+    {
+      "name": "T2 CELLAR",
+      "city": "SEATTLE",
+      "phone": "2063838248",
+      "category": "wine"
+    },
+    {
+      "name": "TAGARIS WINERY",
+      "city": "RICHLAND",
+      "phone": "5096281619",
+      "category": "wine"
+    },
+    {
+      "name": "TAHOMA FUJI SAKE BREWING COMPANY",
+      "city": "SEATTLE",
+      "phone": "2065183185",
+      "category": "wine"
+    },
+    {
+      "name": "TANJULI",
+      "city": "ZILLAH",
+      "phone": "5097314829",
+      "category": "wine"
+    },
+    {
+      "name": "TAPTEIL VINEYARD",
+      "city": "BENTON CITY",
+      "phone": "5095884460",
+      "category": "wine"
+    },
+    {
+      "name": "TAUREAN CELLARS",
+      "city": "RENTON",
+      "phone": "2067472498",
+      "category": "wine"
+    },
+    {
+      "name": "TECOLOTE VINEYARDS",
+      "city": "MANSON",
+      "phone": "2062342374",
+      "category": "wine"
+    },
+    {
+      "name": "TELVE DI SOPRA VINEYARD",
+      "city": "HANSVILLE",
+      "phone": "2064982386",
+      "category": "wine"
+    },
+    {
+      "name": "TEMPUS CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5092700298",
+      "category": "wine"
+    },
+    {
+      "name": "TENOR",
+      "city": "WOODINVILLE",
+      "phone": "4259874810",
+      "category": "wine"
+    },
+    {
+      "name": "TERRA BLANCA VINTNERS, INC.",
+      "city": "BENTON CITY",
+      "phone": "5095886082",
+      "category": "wine"
+    },
+    {
+      "name": "TERRA VINUM",
+      "city": "BENTON CITY",
+      "phone": "5095510854",
+      "category": "wine"
+    },
+    {
+      "name": "TERRAMAR",
+      "city": "BOW",
+      "phone": "3605106757",
+      "category": "wine"
+    },
+    {
+      "name": "TETRAHEDRON WINES",
+      "city": "LYLE",
+      "phone": "5097748323",
+      "category": "wine"
+    },
+    {
+      "name": "THE BIRDS AND THE BEES",
+      "city": "BELLEVUE",
+      "phone": "4256816396",
+      "category": "wine"
+    },
+    {
+      "name": "THE BUNNELL FAMILY CELLAR",
+      "city": "PROSSER",
+      "phone": "5099732855",
+      "category": "wine"
+    },
+    {
+      "name": "THE BUNNELL FAMILY CELLAR",
+      "city": "WOODINVILLE",
+      "phone": "5099732855",
+      "category": "wine"
+    },
+    {
+      "name": "THE BUNNELL FAMILY CELLAR",
+      "city": "PROSSER",
+      "phone": "5099732855",
+      "category": "wine"
+    },
+    {
+      "name": "THE COLOR COLLECTOR",
+      "city": "WHITE SALMON",
+      "phone": "8282601368",
+      "category": "wine"
+    },
+    {
+      "name": "THE DRAUGHT SMITHS MEADERY",
+      "city": "PORT ORCHARD",
+      "phone": "4045025329",
+      "category": "wine"
+    },
+    {
+      "name": "THE FARMHOUSE ON GREEN BLUFF",
+      "city": "COLBERT",
+      "phone": "5093428928",
+      "category": "wine"
+    },
+    {
+      "name": "THE MEADWERKS AT WILDERBEE FARM",
+      "city": "PORT TOWNSEND",
+      "phone": "2067242391",
+      "category": "wine"
+    },
+    {
+      "name": "THE MELODY LYNNE VINEYARD AND WINERY",
+      "city": "KIRKLAND",
+      "phone": "4258228300",
+      "category": "wine"
+    },
+    {
+      "name": "THE NARROWS",
+      "city": "DALLESPORT",
+      "phone": "7145950223",
+      "category": "wine"
+    },
+    {
+      "name": "THE WALLS",
+      "city": "WALLA WALLA",
+      "phone": "4258304543",
+      "category": "wine"
+    },
+    {
+      "name": "THE WEAVER FAMILY WINERY",
+      "city": "TOUCHET",
+      "phone": "5093868019",
+      "category": "wine"
+    },
+    {
+      "name": "THOMAS CLARE CELLARS",
+      "city": "SPOKANE",
+      "phone": "5099812795",
+      "category": "wine"
+    },
+    {
+      "name": "THOR'S HAMMERED",
+      "city": "BELLINGHAM",
+      "phone": "2069538498",
+      "category": "wine"
+    },
+    {
+      "name": "THORNTAIL",
+      "city": "SEATTLE",
+      "phone": "2064911439",
+      "category": "wine"
+    },
+    {
+      "name": "THRALL & DODGE WINERY",
+      "city": "ELLENSBURG",
+      "phone": "5099254110",
+      "category": "wine"
+    },
+    {
+      "name": "THREE RIVERS WINERY",
+      "city": "WALLA WALLA",
+      "phone": "8052394502",
+      "category": "wine"
+    },
+    {
+      "name": "THURSTON WOLFE",
+      "city": "PROSSER",
+      "phone": "5098322920",
+      "category": "wine"
+    },
+    {
+      "name": "THURSTON WOLFE",
+      "city": "PROSSER",
+      "phone": "5097861764",
+      "category": "wine"
+    },
+    {
+      "name": "TIERRA DE LOBOS WINERY",
+      "city": "DALLESPORT",
+      "phone": "3605133724",
+      "category": "wine"
+    },
+    {
+      "name": "TIETON CIDER WORKS",
+      "city": "YAKIMA",
+      "phone": "5095711430",
+      "category": "wine"
+    },
+    {
+      "name": "TILDIO WINERY",
+      "city": "MANSON",
+      "phone": "5096878463",
+      "category": "wine"
+    },
+    {
+      "name": "TILLIE WINES",
+      "city": "SNOHOMISH",
+      "phone": "4252205586",
+      "category": "wine"
+    },
+    {
+      "name": "TILTON RIVER CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "2069542996",
+      "category": "wine"
+    },
+    {
+      "name": "TIME & DIRECTION",
+      "city": "WALLA WALLA",
+      "phone": "9176934749",
+      "category": "wine"
+    },
+    {
+      "name": "TINTE CELLARS",
+      "city": "WOODINVILLE",
+      "phone": "4256599463",
+      "category": "wine"
+    },
+    {
+      "name": "TINTE CELLARS",
+      "city": "SEATTLE",
+      "phone": "4256599463",
+      "category": "wine"
+    },
+    {
+      "name": "TIPSY CANYON WINERY",
+      "city": "MANSON",
+      "phone": "4253064844",
+      "category": "wine"
+    },
+    {
+      "name": "TIRRIDDIS SPARKLING WINES",
+      "city": "PROSSER",
+      "phone": "5095543440",
+      "category": "wine"
+    },
+    {
+      "name": "TOWNSHEND CELLAR",
+      "city": "SPOKANE",
+      "phone": "5092381400",
+      "category": "wine"
+    },
+    {
+      "name": "TRAILBREAKER CIDER",
+      "city": "LIBERTY LAKE",
+      "phone": "5095928219",
+      "category": "wine"
+    },
+    {
+      "name": "TRANCHE CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "2538265372",
+      "category": "wine"
+    },
+    {
+      "name": "TREASURE COVE WINERY",
+      "city": "WESTPORT",
+      "phone": "2538811239",
+      "category": "wine"
+    },
+    {
+      "name": "TREVERI CELLARS",
+      "city": "WAPATO",
+      "phone": "5098771131",
+      "category": "wine"
+    },
+    {
+      "name": "TREZZI FARM",
+      "city": "COLBERT",
+      "phone": "5092382276",
+      "category": "wine"
+    },
+    {
+      "name": "TRIPWIRE",
+      "city": "WALLA WALLA",
+      "phone": "2064744250",
+      "category": "wine"
+    },
+    {
+      "name": "TRUST CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093015847",
+      "category": "wine"
+    },
+    {
+      "name": "TRUTHTELLER",
+      "city": "WALLA WALLA",
+      "phone": "4257859217",
+      "category": "wine"
+    },
+    {
+      "name": "TSILLAN CELLARS",
+      "city": "CHELAN",
+      "phone": "5096829463",
+      "category": "wine"
+    },
+    {
+      "name": "TUCANNON CELLARS",
+      "city": "BENTON CITY",
+      "phone": "5095510804",
+      "category": "wine"
+    },
+    {
+      "name": "TULIP VALLEY VINEYARD AND ORCHARD",
+      "city": "MOUNT VERNON",
+      "phone": "3604286894",
+      "category": "wine"
+    },
+    {
+      "name": "TULPEN CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5419387425",
+      "category": "wine"
+    },
+    {
+      "name": "TUNNEL HILL WINERY",
+      "city": "CHELAN",
+      "phone": "5096823243",
+      "category": "wine"
+    },
+    {
+      "name": "TURTLE WINE",
+      "city": "WALLA WALLA",
+      "phone": "5098766328",
+      "category": "wine"
+    },
+    {
+      "name": "TWENTY TWO CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5095293235",
+      "category": "wine"
+    },
+    {
+      "name": "TWILIGHT CIDER WORKS",
+      "city": "MEAD",
+      "phone": "5095708748",
+      "category": "wine"
+    },
+    {
+      "name": "TWO FOX WINERY",
+      "city": "LAKEBAY",
+      "phone": "6203825123",
+      "category": "wine"
+    },
+    {
+      "name": "TWO LOONS WINERY",
+      "city": "GIG HARBOR",
+      "phone": "2532244797",
+      "category": "wine"
+    },
+    {
+      "name": "TWO MOUNTAIN WINERY",
+      "city": "ZILLAH",
+      "phone": "5098293900",
+      "category": "wine"
+    },
+    {
+      "name": "TWO WINEY BITCHES",
+      "city": "FORD",
+      "phone": "5097963601",
+      "category": "wine"
+    },
+    {
+      "name": "UNDERGROUND WINE PROJECT",
+      "city": "RICHLAND",
+      "phone": "5098764577",
+      "category": "wine"
+    },
+    {
+      "name": "UNION HILL CIDER CO.",
+      "city": "EAST WENATCHEE",
+      "phone": "5096797192",
+      "category": "wine"
+    },
+    {
+      "name": "UPCHURCH VINEYARD",
+      "city": "BENTON CITY",
+      "phone": "4252984923",
+      "category": "wine"
+    },
+    {
+      "name": "UPSIDEDOWN WINE",
+      "city": "BENTON CITY",
+      "phone": "5095318474",
+      "category": "wine"
+    },
+    {
+      "name": "UPWIND WINES",
+      "city": "PROSSER",
+      "phone": "9204559914",
+      "category": "wine"
+    },
+    {
+      "name": "USURIOUS WINES",
+      "city": "LEAVENWORTH",
+      "phone": "4254173396",
+      "category": "wine"
+    },
+    {
+      "name": "UVA FUREM",
+      "city": "MAPLE VALLEY",
+      "phone": "9104472737",
+      "category": "wine"
+    },
+    {
+      "name": "V DU V",
+      "city": "SPOKANE",
+      "phone": "5094559900",
+      "category": "wine"
+    },
+    {
+      "name": "V75, LLC",
+      "city": "WOODINVILLE",
+      "phone": "2064064572",
+      "category": "wine"
+    },
+    {
+      "name": "VA PIANO VINEYARDS",
+      "city": "WALLA WALLA",
+      "phone": "5095267643",
+      "category": "wine"
+    },
+    {
+      "name": "VAGABOND WINE COMPANY",
+      "city": "WOODINVILLE",
+      "phone": "2069669182",
+      "category": "wine"
+    },
+    {
+      "name": "VALDEMAR ESTATES",
+      "city": "WALLA WALLA",
+      "phone": "2098766762",
+      "category": "wine"
+    },
+    {
+      "name": "VALHALLA MEAD",
+      "city": "LAKEWOOD",
+      "phone": "2533657973",
+      "category": "wine"
+    },
+    {
+      "name": "VALICOFF FAMILY FARM",
+      "city": "PROSSER",
+      "phone": "5098773995",
+      "category": "wine"
+    },
+    {
+      "name": "VALO",
+      "city": "PROSSER",
+      "phone": "4063819386",
+      "category": "wine"
+    },
+    {
+      "name": "VAN VINO VINEYARDS",
+      "city": "BLAINE",
+      "phone": "3603541977",
+      "category": "wine"
+    },
+    {
+      "name": "VANARNAM VINEYARDS",
+      "city": "ZILLAH",
+      "phone": "5099527361",
+      "category": "wine"
+    },
+    {
+      "name": "VARTANYAN ESTATE WINERY",
+      "city": "BELLINGHAM",
+      "phone": "3603937633",
+      "category": "wine"
+    },
+    {
+      "name": "VEILED MAIDEN",
+      "city": "UNDERWOOD",
+      "phone": "4157134118",
+      "category": "wine"
+    },
+    {
+      "name": "VELEN WINERY",
+      "city": "ZILLAH",
+      "phone": "5098541120",
+      "category": "wine"
+    },
+    {
+      "name": "VENTIMIGLIA CELLARS",
+      "city": "CHELAN",
+      "phone": "4254662788",
+      "category": "wine"
+    },
+    {
+      "name": "VIA CANGIAMILLA VINEYARDS",
+      "city": "LYLE",
+      "phone": "4084550468",
+      "category": "wine"
+    },
+    {
+      "name": "VIBE CELLARS",
+      "city": "MANSON",
+      "phone": "2062901548",
+      "category": "wine"
+    },
+    {
+      "name": "VIN DU LAC",
+      "city": "CHELAN",
+      "phone": "5096822882",
+      "category": "wine"
+    },
+    {
+      "name": "VIN DU LAC",
+      "city": "CHELAN",
+      "phone": "5096822882",
+      "category": "wine"
+    },
+    {
+      "name": "VINACEUS",
+      "city": "RICHLAND",
+      "phone": "5095211553",
+      "category": "wine"
+    },
+    {
+      "name": "VINMOTION WINES",
+      "city": "WEST RICHLAND",
+      "phone": "5037785268",
+      "category": "wine"
+    },
+    {
+      "name": "VINTNERS LOGISTICS",
+      "city": "KENNEWICK",
+      "phone": "5097835544",
+      "category": "wine"
+    },
+    {
+      "name": "VIRTUE CELLARS",
+      "city": "SHORELINE",
+      "phone": "2069308038",
+      "category": "wine"
+    },
+    {
+      "name": "VISCON CELLARS",
+      "city": "SEATTLE",
+      "phone": "2064190468",
+      "category": "wine"
+    },
+    {
+      "name": "VITAL WINES",
+      "city": "WALLA WALLA",
+      "phone": "5095207601",
+      "category": "wine"
+    },
+    {
+      "name": "W WINE PROJECT",
+      "city": "WALLA WALLA",
+      "phone": "4258023373",
+      "category": "wine"
+    },
+    {
+      "name": "WAHLUKE WINE COMPANY",
+      "city": "MATTAWA",
+      "phone": "5099320030",
+      "category": "wine"
+    },
+    {
+      "name": "WALLA WALLA VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "5095254724",
+      "category": "wine"
+    },
+    {
+      "name": "WALLA WALLA WINE SERVICES",
+      "city": "WALLA WALLA",
+      "phone": "5095264400",
+      "category": "wine"
+    },
+    {
+      "name": "WALLASQUARED",
+      "city": "WALLA WALLA",
+      "phone": "8169161095",
+      "category": "wine"
+    },
+    {
+      "name": "WALLULA GAP",
+      "city": "WALLA WALLA",
+      "phone": "9712358647",
+      "category": "wine"
+    },
+    {
+      "name": "WALTER DACON WINES",
+      "city": "SHELTON",
+      "phone": "3604265913",
+      "category": "wine"
+    },
+    {
+      "name": "WANDERING WOLF CELLARS",
+      "city": "SHORELINE",
+      "phone": "2064063162",
+      "category": "wine"
+    },
+    {
+      "name": "WANNAMAKER VINEYARDS",
+      "city": "UNDERWOOD",
+      "phone": "5032845119",
+      "category": "wine"
+    },
+    {
+      "name": "WAPATO POINT CELLARS",
+      "city": "MANSON",
+      "phone": "5096874000",
+      "category": "wine"
+    },
+    {
+      "name": "WARM SPRINGS INN & WINERY",
+      "city": "WENATCHEE",
+      "phone": "5096625683",
+      "category": "wine"
+    },
+    {
+      "name": "WARREN'S CIDER",
+      "city": "SEATTLE",
+      "phone": "2067842859",
+      "category": "wine"
+    },
+    {
+      "name": "WASHINGTON STATE COMMUNITY COLLEGE DIST #20",
+      "city": "WALLA WALLA",
+      "phone": "5095244792",
+      "category": "wine"
+    },
+    {
+      "name": "WASHINGTON STATE UNIVERSITY",
+      "city": "RICHLAND",
+      "phone": "5093358633",
+      "category": "wine"
+    },
+    {
+      "name": "WATER FROM WINE",
+      "city": "PATERSON",
+      "phone": "5098752211",
+      "category": "wine"
+    },
+    {
+      "name": "WATERBROOK WINERY",
+      "city": "WALLA WALLA",
+      "phone": "2062675252",
+      "category": "wine"
+    },
+    {
+      "name": "WATERCORE CIDER",
+      "city": "WENATCHEE",
+      "phone": "5098607410",
+      "category": "wine"
+    },
+    {
+      "name": "WATERMILL ON THE AVE",
+      "city": "WENATCHEE",
+      "phone": "5096702729",
+      "category": "wine"
+    },
+    {
+      "name": "WAUTOMA SPRINGS",
+      "city": "PROSSER",
+      "phone": "5093781163",
+      "category": "wine"
+    },
+    {
+      "name": "WAUTOMA SPRINGS WINERY",
+      "city": "PROSSER",
+      "phone": "5093781163",
+      "category": "wine"
+    },
+    {
+      "name": "WAVING TREE",
+      "city": "GOLDENDALE",
+      "phone": "5097734605",
+      "category": "wine"
+    },
+    {
+      "name": "WAWAWAI CANYON",
+      "city": "UNIONTOWN",
+      "phone": "5093327313",
+      "category": "wine"
+    },
+    {
+      "name": "WAWAWAI CANYON",
+      "city": "COLTON",
+      "phone": "5093327313",
+      "category": "wine"
+    },
+    {
+      "name": "WELCOME ROAD WINERY",
+      "city": "SEATTLE",
+      "phone": "2067783028",
+      "category": "wine"
+    },
+    {
+      "name": "WEST COAST WINES",
+      "city": "WALLA WALLA",
+      "phone": "6175155336",
+      "category": "wine"
+    },
+    {
+      "name": "WESTCOTT BAY CIDER",
+      "city": "FRIDAY HARBOR",
+      "phone": "3603782606",
+      "category": "wine"
+    },
+    {
+      "name": "WESTPORT WINERY",
+      "city": "ABERDEEN",
+      "phone": "3605898382",
+      "category": "wine"
+    },
+    {
+      "name": "WFS WINES",
+      "city": "WALLA WALLA",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "WHEEL LINE CIDER",
+      "city": "ELLENSBURG",
+      "phone": "5095482158",
+      "category": "wine"
+    },
+    {
+      "name": "WHIDBEY ISLAND CIDER",
+      "city": "COUPEVILLE",
+      "phone": "4258306904",
+      "category": "wine"
+    },
+    {
+      "name": "WHITE HERON CELLARS",
+      "city": "QUINCY",
+      "phone": "5097979463",
+      "category": "wine"
+    },
+    {
+      "name": "WHITE SALMON VINEYARDS",
+      "city": "UNDERWOOD",
+      "phone": "5105273675",
+      "category": "wine"
+    },
+    {
+      "name": "WHITE SHED MEADERY",
+      "city": "CHEHALIS",
+      "phone": "3038479990",
+      "category": "wine"
+    },
+    {
+      "name": "WHITEWOOD CIDER",
+      "city": "TENINO",
+      "phone": "3603385795",
+      "category": "wine"
+    },
+    {
+      "name": "WHITMAN HILL WINERY",
+      "city": "ZILLAH",
+      "phone": "3607349482",
+      "category": "wine"
+    },
+    {
+      "name": "WHITMAN HILL WINERY",
+      "city": "ZILLAH",
+      "phone": "3607349482",
+      "category": "wine"
+    },
+    {
+      "name": "WILD MAN BREWING COMPANY",
+      "city": "RAYMOND",
+      "phone": "3605911563",
+      "category": "wine"
+    },
+    {
+      "name": "WILD ROSE VINEYARDS",
+      "city": "MANSON",
+      "phone": "4253168272",
+      "category": "wine"
+    },
+    {
+      "name": "WILDCAT CREEK CIDER",
+      "city": "MCCLEARY",
+      "phone": "3607894068",
+      "category": "wine"
+    },
+    {
+      "name": "WILDLAND COOPERATIVE",
+      "city": "COLBERT",
+      "phone": "5099989967",
+      "category": "wine"
+    },
+    {
+      "name": "WILLIAM GRASSIE WINE ESTATES",
+      "city": "WOODINVILLE",
+      "phone": "9134614601",
+      "category": "wine"
+    },
+    {
+      "name": "WILLIAM WEAVER WINE LLC",
+      "city": "WALLA WALLA",
+      "phone": "4068303296",
+      "category": "wine"
+    },
+    {
+      "name": "WILLIS HALL",
+      "city": "MARYSVILLE",
+      "phone": "4252664195",
+      "category": "wine"
+    },
+    {
+      "name": "WILLOW CREST WINERY",
+      "city": "PROSSER",
+      "phone": "2062675252",
+      "category": "wine"
+    },
+    {
+      "name": "WILLOW RUN VINEYARD",
+      "city": "BENTON CITY",
+      "phone": "5098762461",
+      "category": "wine"
+    },
+    {
+      "name": "WILLOW WINE CELLARS",
+      "city": "UNDERWOOD",
+      "phone": "5414008613",
+      "category": "wine"
+    },
+    {
+      "name": "WILRIDGE WINERY",
+      "city": "SEATTLE",
+      "phone": "2069792569",
+      "category": "wine"
+    },
+    {
+      "name": "WILRIDGE WINERY",
+      "city": "YAKIMA",
+      "phone": "2069792569",
+      "category": "wine"
+    },
+    {
+      "name": "WILRIDGE WINERY & VINEYARD",
+      "city": "YAKIMA",
+      "phone": "2069792569",
+      "category": "wine"
+    },
+    {
+      "name": "WINCHESTER ESTATE WINERY",
+      "city": "EPHRATA",
+      "phone": "4253910413",
+      "category": "wine"
+    },
+    {
+      "name": "WIND ROSE CELLARS",
+      "city": "SEQUIM",
+      "phone": "5095541087",
+      "category": "wine"
+    },
+    {
+      "name": "WINDY HILLS WINERY",
+      "city": "RIDGEFIELD",
+      "phone": "3607272200",
+      "category": "wine"
+    },
+    {
+      "name": "WINE SCRIBES LLC",
+      "city": "WHITE SALMON",
+      "phone": "5628107213",
+      "category": "wine"
+    },
+    {
+      "name": "WINEGIRL WINES",
+      "city": "MANSON",
+      "phone": "2067991059",
+      "category": "wine"
+    },
+    {
+      "name": "WINEGIRL WINES",
+      "city": "WOODINVILLE",
+      "phone": "5093934125",
+      "category": "wine"
+    },
+    {
+      "name": "WINES OF SAGEMOOR, LLC",
+      "city": "WALLA WALLA",
+      "phone": "5096532625",
+      "category": "wine"
+    },
+    {
+      "name": "WINESCAPE",
+      "city": "SPOKANE",
+      "phone": "5099940382",
+      "category": "wine"
+    },
+    {
+      "name": "WINSOME CIDERWORKS",
+      "city": "WOODINVILLE",
+      "phone": "2063100964",
+      "category": "wine"
+    },
+    {
+      "name": "WIT CELLARS",
+      "city": "PROSSER",
+      "phone": "5097861311",
+      "category": "wine"
+    },
+    {
+      "name": "WIT CELLARS",
+      "city": "PROSSER",
+      "phone": "5097861311",
+      "category": "wine"
+    },
+    {
+      "name": "WOLFKIN CIDER",
+      "city": "SEATTLE",
+      "phone": "2063811279",
+      "category": "wine"
+    },
+    {
+      "name": "WOLFPACK CELLARS",
+      "city": "BURIEN",
+      "phone": "2067144426",
+      "category": "wine"
+    },
+    {
+      "name": "WOODINVILLE CUSTOM CRUSH",
+      "city": "WOODINVILLE",
+      "phone": "2062953195",
+      "category": "wine"
+    },
+    {
+      "name": "WOODINVILLE WINERY SERVICES",
+      "city": "WOODINVILLE",
+      "phone": "2539066420",
+      "category": "wine"
+    },
+    {
+      "name": "WOODLAND MEADOW FARMS",
+      "city": "SNOHOMISH",
+      "phone": "4253678827",
+      "category": "wine"
+    },
+    {
+      "name": "WOODWARD CANYON WINERY",
+      "city": "LOWDEN",
+      "phone": "5095254129",
+      "category": "wine"
+    },
+    {
+      "name": "WOOHOO WINERY",
+      "city": "RAYMOND",
+      "phone": "5098815022",
+      "category": "wine"
+    },
+    {
+      "name": "WT VINTNERS",
+      "city": "WOODINVILLE",
+      "phone": "4256109463",
+      "category": "wine"
+    },
+    {
+      "name": "WTF CIDER WORKS",
+      "city": "OROVILLE",
+      "phone": "5095600111",
+      "category": "wine"
+    },
+    {
+      "name": "WYNOOCHEE RIVER WINERY AND GARDENS",
+      "city": "MONTESANO",
+      "phone": "3605804452",
+      "category": "wine"
+    },
+    {
+      "name": "XOBC CELLARS",
+      "city": "WALLA WALLA",
+      "phone": "5093019074",
+      "category": "wine"
+    },
+    {
+      "name": "YAKIMA VALLEY VINTNERS",
+      "city": "GRANDVIEW",
+      "phone": "5095744651",
+      "category": "wine"
+    },
+    {
+      "name": "YONDER CIDER",
+      "city": "SEATTLE",
+      "phone": "2066606007",
+      "category": "wine"
+    },
+    {
+      "name": "YONDER CIDER",
+      "city": "WENATCHEE",
+      "phone": "2066606007",
+      "category": "wine"
+    },
+    {
+      "name": "YORK FARM VINEYARD",
+      "city": "BATTLE GROUND",
+      "phone": "3609040929",
+      "category": "wine"
+    },
+    {
+      "name": "ZERO ONE VINTNERS",
+      "city": "WALLA WALLA",
+      "phone": "2066183683",
+      "category": "wine"
+    },
+    {
+      "name": "ZERON WINERY",
+      "city": "BENTON CITY",
+      "phone": "4255311092",
+      "category": "wine"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "source": "Beauchamp Imports",
+  "source_url": "https://frenchcider.com/pages/discover",
+  "extracted_date": "2026-04-07",
+  "distributor": "Beauchamp Imports",
+  "notes": "Extracted from frenchcider.com meta descriptions and /collections page slugs. Beauchamp trades as 'French Cider, Inc.' and specializes in French cider, Calvados, Cognac, Armagnac, Whisky, and Gin.",
+  "brands": [
+    { "name": "Pierre Huet", "category": "calvados" },
+    { "name": "Marquis de Saint Loup", "category": "calvados" },
+    { "name": "Deau", "category": "cognac" },
+    { "name": "Maison Royale", "category": "brandy" },
+    { "name": "Nelcius", "category": "whisky" },
+    { "name": "Labiette Castille", "category": "armagnac" },
+    { "name": "Bear Brother's", "category": "gin" },
+    { "name": "Herout", "category": "cider" },
+    { "name": "Kystin", "category": "cider" },
+    { "name": "Wignac", "category": "cider" },
+    { "name": "Bolee", "category": "cider" },
+    { "name": "DSC (Distillerie et Domaines de Provence)", "category": "cider" },
+    { "name": "Prince de Didonne", "category": "cider" },
+    { "name": "Distillerie des Moisans", "category": "spirits" },
+    { "name": "Distillerie des Pyrenees", "category": "armagnac" }
+  ]
+}

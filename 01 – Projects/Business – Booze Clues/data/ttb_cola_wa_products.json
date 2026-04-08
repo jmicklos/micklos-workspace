@@ -1,0 +1,9 @@
+{
+  "source": "TTB COLA Registry",
+  "source_url": "https://www.ttbonline.gov/colasonline/publicSearchColasAdvanced.do",
+  "extracted_date": "2026-04-07",
+  "note": "Products approved under WA importer permits. First 50 permits queried.",
+  "permits_queried": 50,
+  "total_products": 0,
+  "products": []
+}

@@ -1,0 +1,3992 @@
+{
+  "source": "WA Breweries (Open Brewery DB)",
+  "extracted_date": "2026-04-07",
+  "type": "WA Breweries",
+  "total": 498,
+  "entries": [
+    {
+      "name": "122 West Brewing Co",
+      "city": "Bellingham",
+      "phone": "3603063285",
+      "website": "https://www.122westbrew.com/",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "192 Brewing",
+      "city": "Kenmore",
+      "phone": "4254242337",
+      "website": "http://www.192brewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "20 Corners Brewing LLC",
+      "city": "Woodinville",
+      "phone": "4253755223",
+      "website": "http://www.20cornersbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "210 Brewing Co",
+      "city": "Arlington",
+      "phone": "3604749740",
+      "website": "http://www.angelofthewind.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "238 Brewing Company",
+      "city": "Mead",
+      "phone": "5092382739",
+      "website": "http://www.238brewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "23rd Ave Brewery",
+      "city": "Seattle",
+      "phone": "2066792048",
+      "website": "https://23rd-ave-brewery.square.site",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "4 Stitch Brewing Co - Brewery & Taproom",
+      "city": "Mill Creek",
+      "phone": "4252247583",
+      "website": "https://www.4stitchbrewing.com",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "4 Stitch Brewing Co - Taproom & Kitchen",
+      "city": "Woodinville",
+      "phone": "4252866004",
+      "website": "https://www.4stitchbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "45 Degree Brewhouse",
+      "city": "Spokane Valley",
+      "phone": "5092413281",
+      "website": "http://45degreebrewhouse.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "5 North Brewing Company",
+      "city": "Spokane",
+      "phone": "5093217818",
+      "website": "http://5northbrewingcompany.com/",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "5 Rights Brewing Co",
+      "city": "Marysville",
+      "phone": "4253341026",
+      "website": "http://www.5rightsbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "54-40 Brewing Company",
+      "city": "Washougal",
+      "phone": "3609077062",
+      "website": "http://www.54-40brewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "5th Line Brewing Co",
+      "city": "Yakima",
+      "phone": "5093676300",
+      "website": "https://5thlinebrewing.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "7 Seas Brewing Co",
+      "city": "Tacoma",
+      "phone": "2535727771",
+      "website": "http://www.7seasbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "7 Seas Brewing Co - Gig Harbor",
+      "city": "Gig Harbor",
+      "phone": "2535148129",
+      "website": "https://www.7seasbrewing.com/gig-harbor",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Acorn Brewing",
+      "city": "Edgewood",
+      "phone": "2535178899",
+      "website": "https://www.acornbeer.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Adam's Northwest Bistro / Twin Rivers Brewing",
+      "city": "Monroe",
+      "phone": "3607944056",
+      "website": "http://www.adamsnwbistro.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Airways Brewing Co",
+      "city": "Kent",
+      "phone": "2532001707",
+      "website": "http://www.airwaysbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Airways Brewing Co. Bistro & Beer Garden",
+      "city": "Kent",
+      "phone": "2532368632",
+      "website": "http://airwaysbrewing.com/bistro-beer-garden/",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Ale Spike",
+      "city": "Stanwood",
+      "phone": null,
+      "website": "http://www.alespike.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Ale Spike Brewery",
+      "city": "Camano Island",
+      "phone": "3609392434",
+      "website": "http://www.alespike.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Alpine Brewing Co",
+      "city": "Oroville",
+      "phone": "5094769662",
+      "website": "http://www.alpine-brewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "American Brewing Company",
+      "city": "Edmonds",
+      "phone": "4257741717",
+      "website": "http://www.americanbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Anacortes Brewery/Rockfish Grill",
+      "city": "Anacortes",
+      "phone": "3605881720",
+      "website": "http://www.anacortesrockfish.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Another Round Brewing Co",
+      "city": "Pullman",
+      "phone": "9164757580",
+      "website": "https://anotherroundbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Ashtown Brewing Co",
+      "city": "Longview",
+      "phone": "3602187519",
+      "website": "http://www.ashtownbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Aslan Brewing Company",
+      "city": "Bellingham",
+      "phone": "3603934106",
+      "website": "http://aslanbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Aslan Brewing Seattle",
+      "city": "Seattle",
+      "phone": "3603934106",
+      "website": "https://aslanbrewing.com/seattle",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "At Large Brewing",
+      "city": "Everett",
+      "phone": "4253240039",
+      "website": "http://www.atlargebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Atomic Ale Brewpub and Eatery",
+      "city": "Richland",
+      "phone": "5099465465",
+      "website": "http://www.atomicalebrewpub.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Atwood Ales",
+      "city": "Blaine",
+      "phone": "3603996239",
+      "website": "http://www.atwoodales.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Audacity Brewing",
+      "city": "Snohomish",
+      "phone": "3602948742",
+      "website": "http://www.audacitybrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Backwoods Brewing Company - Production Only",
+      "city": "Carson",
+      "phone": "5094273412",
+      "website": "http://www.backwoodsbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Backwoods in the Gorge",
+      "city": "Carson",
+      "phone": "5094273412",
+      "website": "http://www.backwoodsbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bad Bulldogs Brewery",
+      "city": "Bremerton",
+      "phone": "3606278079",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bad Jimmy's Brewing Co",
+      "city": "Seattle",
+      "phone": "2067891548",
+      "website": "http://www.badjimmysbrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Badass Backyard Brewing",
+      "city": "Spokane Valley",
+      "phone": "5092423225",
+      "website": "http://badassbackyardbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Badger Mountain Brewing",
+      "city": "Wenatchee",
+      "phone": "5098882234",
+      "website": "http://www.badgermountainbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bainbridge Brewing",
+      "city": "Bainbridge Island",
+      "phone": "2064514646",
+      "website": "http://www.bainbridgebeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bainbridge Brewing Alehouse",
+      "city": "Bainbridge Island",
+      "phone": "2063176986",
+      "website": "http://www.bainbridgebeer.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Bale Breaker & Yonder Cider Taproom",
+      "city": "Seattle",
+      "phone": "5095577668",
+      "website": "https://www.bbycballard.com/",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Bale Breaker Brewing Company",
+      "city": "Yakima",
+      "phone": "5094244000",
+      "website": "http://www.balebreaker.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Bardic Brewing and Cider",
+      "city": "Spokane Valley",
+      "phone": "5097236105",
+      "website": "https://bardicbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Barhop Brewing",
+      "city": "Port Angeles",
+      "phone": "3604605155",
+      "website": "http://www.barhopbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Barhop Sequim",
+      "city": "Sequim",
+      "phone": "3604774257",
+      "website": "https://barhopbrewing.com/barhop-sequim",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Barley POP! Brewing",
+      "city": "Snohomish",
+      "phone": "3606106843",
+      "website": "https://www.barleypopbeer.com",
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Barlows Brewery",
+      "city": "Vancouver",
+      "phone": "3608593795",
+      "website": "https://www.barlowsbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Barrel Mountain Brewing",
+      "city": "Battle Ground",
+      "phone": "3603428111",
+      "website": "http://www.barrelmountainbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bastion Brewing Company",
+      "city": "Anacortes",
+      "phone": "3603991614",
+      "website": "http://www.bastionbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Beach Cat Brewing",
+      "city": "Blaine",
+      "phone": "3603668065",
+      "website": "https://beachcatbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Beardslee Public House",
+      "city": "Bothell",
+      "phone": "4252861001",
+      "website": "https://beardsleeph.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Beerded Brothers Brewing",
+      "city": "Vancouver",
+      "phone": "3606065806",
+      "website": "http://www.beerdedbrothers.net",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bellevue Brewing Spring District Brewpub",
+      "city": "Bellevue",
+      "phone": "4254978686",
+      "website": "http://www.bellevuebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Belltown Brewery",
+      "city": "Seattle",
+      "phone": "2064857233",
+      "website": "http://www.belltownbrewingseattle.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bellwether Brewing Co",
+      "city": "Spokane",
+      "phone": "5092808345",
+      "website": "http://www.bellwetherbrewing.net",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bennidito's Brewpub",
+      "city": "Spokane",
+      "phone": "5092905018",
+      "website": "http://www.benniditosbrewpub.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Bent Bine Brew Co. LLC",
+      "city": "Belfair",
+      "phone": "8142739379",
+      "website": "http://www.bentbine.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Berchman's Brewing Company",
+      "city": "Yakima",
+      "phone": "5099521058",
+      "website": "http://berchmansbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Best of Hands Barrelhouse",
+      "city": "Seattle",
+      "phone": "2067081166",
+      "website": "https://www.bestofhandsbarrelhouse.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bickerson's Brewhouse",
+      "city": "Renton",
+      "phone": "4254422347",
+      "website": "https://www.bickersonsbrewhouse.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Big Barn Brewing Co / Bodacious Berries Fruits and Brews",
+      "city": "Mead",
+      "phone": "5097102961",
+      "website": "http://www.bigbarnbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Big Block Brewing",
+      "city": "Sammamish",
+      "phone": "4254570515",
+      "website": "https://www.bigblockbrewery.com/sammamish-taproom",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Big Block Brewing - Carnation Taproom",
+      "city": "Carnation",
+      "phone": "4255490018",
+      "website": "https://www.bigblockbrewery.com/carnation-taproom",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Big Block Brewing - Redmond Taproom",
+      "city": "Redmond",
+      "phone": "4256583644",
+      "website": "https://www.bigblockbrewery.com/redmond-taproom",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Big House Brew Pub",
+      "city": "Walla Walla",
+      "phone": "5095222440",
+      "website": "https://www.bighousebrewpub.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Big Time Brewery",
+      "city": "Seattle",
+      "phone": "2065454509",
+      "website": "http://www.bigtimebrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "BirdsView Brewing Co",
+      "city": "Concrete",
+      "phone": "3608263406",
+      "website": "http://www.birdsviewbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bizarre Brewing",
+      "city": "Seattle",
+      "phone": null,
+      "website": "https://bizarrebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "BJs Restauraunt & Brewhouse",
+      "city": "Tacoma",
+      "phone": "2534721220",
+      "website": "https://www.bjsrestaurants.com/locations/wa/tacoma",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Black Fleet Brewing",
+      "city": "Tacoma",
+      "phone": "2533271641",
+      "website": "http://www.blackfleetbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Black Label Brewing Company",
+      "city": "Spokane",
+      "phone": "5098227436",
+      "website": "http://www.blacklabelbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Black Raven Brewing Co",
+      "city": "Redmond",
+      "phone": "4258813020",
+      "website": "http://www.blackravenbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Black Raven Brewing Co Woodinville",
+      "city": "Woodinville",
+      "phone": "4258813020",
+      "website": "http://www.blackravenbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Blackbeard's Brewing Company",
+      "city": "Westport",
+      "phone": "3602687662",
+      "website": "http://www.blackbeardsbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Blackwater Brewing Company",
+      "city": "North Bend",
+      "phone": "4252929122",
+      "website": "https://blackwaterbrewing.com/",
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Blewett Brewing Company",
+      "city": "Leavenworth",
+      "phone": "5098888809",
+      "website": "http://www.blewettbrew.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Bluebird Microcreamery and Brewery",
+      "city": "Seattle",
+      "phone": "2066598154",
+      "website": "https://www.facebook.com/bluebirdicecrm",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bombing Range Brewing Company",
+      "city": "Richland",
+      "phone": "5093923377",
+      "website": "http://www.bombingrangebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Bosk Brew Works",
+      "city": "Woodinville",
+      "phone": "4254194782",
+      "website": "https://boskbrewworks.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Bottle Bay Brewing Co",
+      "city": "Spokane",
+      "phone": "5099608049",
+      "website": "https://www.bottlebaybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Boundary Bay Brewery & Bistro",
+      "city": "Bellingham",
+      "phone": "3606475593",
+      "website": "http://www.bbaybrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Breaking Waves Brewing",
+      "city": "Silverdale",
+      "phone": "3602862670",
+      "website": "https://breakingwavesbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "BrewBakers Brewery",
+      "city": "Lake Stevens",
+      "phone": "3606919025",
+      "website": "http://www.brewbakersbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Brewvado Taproom",
+      "city": "Lopez Island",
+      "phone": "3602288214",
+      "website": "https://www.facebook.com/Lopez-Island-Brewing-Company-and-Brewvado-Tap-Room-1507961149443612",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Brick West Brewing Co",
+      "city": "Spokane",
+      "phone": "5092792982",
+      "website": "https://www.brickwestbrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Bron Yr Aur Brewing",
+      "city": "Naches",
+      "phone": "5096531109",
+      "website": "https://bronyraurbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Brother Ass Brewing",
+      "city": "Vancouver",
+      "phone": "3606073275",
+      "website": "http://www.brotherassbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Brothers Cascadia Brewing",
+      "city": "Vancouver",
+      "phone": "3607188927",
+      "website": "http://www.brotherscascadiabrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Brouwerij Les Deplorables",
+      "city": "Woodinville",
+      "phone": "2067902496",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Buckwheat Brewing",
+      "city": "Dayton",
+      "phone": "5093824677",
+      "website": "https://buckwheatbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Buffalo Brewing Co",
+      "city": "Toppenish",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Bugu Brewing Company",
+      "city": "Monroe",
+      "phone": "3602433364",
+      "website": "https://www.bugubrewing.com",
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Burdick Brewery",
+      "city": "Seattle",
+      "phone": "2069099632",
+      "website": "http://www.burdickbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Burke-Gilman Brewing",
+      "city": "Seattle",
+      "phone": "2062680220",
+      "website": "http://www.burkegilmanbrewing.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Burwood Brewing Company",
+      "city": "Walla Walla",
+      "phone": "5098766220",
+      "website": "http://www.burwoodbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Cairn Brewing",
+      "city": "Kenmore",
+      "phone": "4259495295",
+      "website": "http://www.cairnbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Camp Colvos Brewing",
+      "city": "Vashon",
+      "phone": "2069473527",
+      "website": "http://www.campcolvos.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Camp Colvos Brewing - Tacoma",
+      "city": "Tacoma",
+      "phone": "2533145704",
+      "website": "https://campcolvos.com",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Cardinal Craft Brewing Academy/ Skagit Valley College",
+      "city": "Burlington",
+      "phone": "3604162537",
+      "website": "http://www.skagit.edu",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Cascadia Brewing Co.",
+      "city": "Olympia",
+      "phone": "3609432337",
+      "website": "http://www.cascadiahomebrew.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Cash Brewing Company",
+      "city": "Silverdale",
+      "phone": "3606337852",
+      "website": "http://www.cashbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Chainline Brewing Company",
+      "city": "Kirkland",
+      "phone": "4252420923",
+      "website": "http://www.chainlinebrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Chainline Brewing Company - Chainline Station",
+      "city": "Kirkland",
+      "phone": "4255424550",
+      "website": "https://chainlinebrewing.com",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Chainline Brewing Company Taproom at Urban",
+      "city": "Kirkland",
+      "phone": "4252420923",
+      "website": "http://www.chainlinebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Chaos Bay Brewing Co",
+      "city": "Bremerton",
+      "phone": "3603772344",
+      "website": "https://www.chaosbaybrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Chuckanut - South Nut",
+      "city": "Burlington",
+      "phone": "3607523377",
+      "website": "https://chuckanutbrewery.com/south-nut/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Chuckanut Brewery - North Nut",
+      "city": "Bellingham",
+      "phone": "3607523377",
+      "website": "https://chuckanutbrewery.com/north-nut/",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Circle 7 Brew Works",
+      "city": "Monroe",
+      "phone": "2067470269",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Cloudburst Brewing",
+      "city": "Seattle",
+      "phone": "2066026061",
+      "website": "http://www.cloudburstbrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Cloudburst Brewing on Shilshole",
+      "city": "Seattle",
+      "phone": null,
+      "website": "http://www.cloudburstbrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Cold Crash Brewing",
+      "city": "Seattle",
+      "phone": "2064864644",
+      "website": "https://www.coldcrashbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Cole Street Brewery",
+      "city": "Enumclaw",
+      "phone": "2539516656",
+      "website": "https://www.beercolestreetbrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Columbia Valley Brewing",
+      "city": "Wenatchee",
+      "phone": "5098889993",
+      "website": "http://www.columbiavalleybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Conversations Brewing",
+      "city": "Battle Ground",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Counterbalance Brewing Company",
+      "city": "Seattle",
+      "phone": "2064533615",
+      "website": "http://www.counterbalancebeer.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Cowiche Creek Brewing Company",
+      "city": "Cowiche",
+      "phone": "5096780324",
+      "website": "http://www.cowichecreekbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Crane's Castle Brewing",
+      "city": "Bremerton",
+      "phone": "3607282926",
+      "website": "https://cranescastlebeer.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Crooked Label Brewing Company",
+      "city": "Monroe",
+      "phone": "3602178741",
+      "website": "https://www.facebook.com/Crooked-Label-Brewing-Company-873921246124558/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Crossed Arrows Brewery",
+      "city": "Oak Harbor",
+      "phone": null,
+      "website": "https://www.crossedarrowsbrewery.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Crucible Brewing - Everett Foundry",
+      "city": "Everett",
+      "phone": "4253747293",
+      "website": "http://www.cruciblebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Crucible Brewing - Woodinville Forge",
+      "city": "Woodinville",
+      "phone": "4254839855",
+      "website": "http://www.cruciblebrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Decibel Brewing Co",
+      "city": "Bothell",
+      "phone": "4254081946",
+      "website": "http://www.decibelbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Deep Draft Brewing",
+      "city": "Bremerton",
+      "phone": "3605504438",
+      "website": "https://www.deepdraftbrew.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Der Blokken Brewery",
+      "city": "Bremerton",
+      "phone": "3603772344",
+      "website": "http://www.derblokken.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Diamond Knot Brewery B2 Brewery & Taproom",
+      "city": "Mukilteo",
+      "phone": "4253554488",
+      "website": "http://www.diamondknot.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Diamond Knot Craft Brewery - Brewpub @ MLT",
+      "city": "Mountlake Terrace",
+      "phone": "4253554488",
+      "website": "http://www.diamondknot.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Diamond Knot Craft Brewing - Brewery & Alehouse",
+      "city": "Mukilteo",
+      "phone": "4253554488",
+      "website": "http://www.diamondknot.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Dicks Brewing Co",
+      "city": "Centralia",
+      "phone": "3607367760",
+      "website": "http://www.dicksbeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dirty Bucket Brewery",
+      "city": "Woodinville",
+      "phone": "2068191570",
+      "website": "http://www.dirtybucketbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Dirty Couch Brewing",
+      "city": "Seattle",
+      "phone": "2063959414",
+      "website": "http://www.dirtycouchbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Discovery Bay Brewing",
+      "city": "Port Townsend",
+      "phone": "3603442999",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "District Brewing",
+      "city": "Mount Vernon",
+      "phone": "3608736714",
+      "website": "https://districtbrewco.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "District Brewing - Ferndale",
+      "city": "Ferndale",
+      "phone": "3603920808",
+      "website": "https://www.districtbrewco.com/ferndale",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Dog & Pony Alehouse and Grill",
+      "city": "Renton",
+      "phone": "4252548080",
+      "website": "http://www.thedogandpony.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Dog and Pony Brewing Company",
+      "city": "Cashmere",
+      "phone": "5092640800",
+      "website": "https://www.facebook.com/DogAndPonybrewing",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Dog Days Brewing",
+      "city": "Bremerton",
+      "phone": "3606279925",
+      "website": "https://www.dogdaysbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Doghaus Brewery",
+      "city": "Leavenworth",
+      "phone": "5098601446",
+      "website": "http://www.doghausbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Doomsday Brewing Company and Pizza - Washougal",
+      "city": "Washougal",
+      "phone": "3603359909",
+      "website": "http://www.doomsdaybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Doomsday Brewing Pub and Pizza - Vancouver",
+      "city": "Vancouver",
+      "phone": "3605598241",
+      "website": "http://www.doomsdaybrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Doomsday Brewing Safe House",
+      "city": "Vancouver",
+      "phone": "3605037649",
+      "website": "http://www.doomsdaybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Double Bluff Brewing",
+      "city": "Langley",
+      "phone": "3603339113",
+      "website": "http://www.dblfbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Downpour Brewing LLC",
+      "city": "Kingston",
+      "phone": "3608810452",
+      "website": "http://www.downpourbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dreadnought Brewing LLC",
+      "city": "Monroe",
+      "phone": "3608632479",
+      "website": "http://www.dreadnoughtbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Dru Bru - Cle Elum",
+      "city": "Cle Elum",
+      "phone": "4254340700",
+      "website": "http://www.drubru.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dru Bru - Snoqualmie Pass",
+      "city": "Snoqualmie Pass",
+      "phone": "4254340700",
+      "website": "http://www.drubru.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dubtown Brewing Company",
+      "city": "Renton",
+      "phone": "4252078707",
+      "website": "https://dubtownbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dunagan Irish Pub & Brewery",
+      "city": "Gig Harbor",
+      "phone": null,
+      "website": "http://www.dunaganbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Dungeness Brewing Company",
+      "city": "Port Angeles",
+      "phone": "3607751877",
+      "website": "http://www.dungenessbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dwinell Country Ales",
+      "city": "Goldendale",
+      "phone": "5097733138",
+      "website": "http://www.countryales.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Dystopian State Brewing",
+      "city": "Tacoma",
+      "phone": "2533023466",
+      "website": "http://www.dystopianstate.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "E2W Brewing",
+      "city": "Olalla",
+      "phone": "2532147463",
+      "website": "https://www.facebook.com/E2WBrewing",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "E9 Brewing Company",
+      "city": "Tacoma",
+      "phone": "2533837707",
+      "website": "https://e9brewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Echoes Brewing Company",
+      "city": "Poulsbo",
+      "phone": "3609308152",
+      "website": "https://www.echoesbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Elk Head Brewing Co",
+      "city": "Buckley",
+      "phone": "3608292739",
+      "website": "https://www.facebook.com/pages/Elk-Head-Brewing-Company-Inc/115852391770175",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ellersick Brewing / Big E Ales",
+      "city": "Lynnwood",
+      "phone": "4256727051",
+      "website": "http://www.bigeales.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Elliott Bay Brewery and Pub - West Seattle",
+      "city": "Seattle",
+      "phone": "2069328695",
+      "website": "http://www.elliottbaybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Elliott Bay Brewhouse & Pub - Burien",
+      "city": "Burien",
+      "phone": "2062464211",
+      "website": "http://www.elliottbaybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Elliott Bay Public House & Brewery - Lake City",
+      "city": "Seattle",
+      "phone": "2063652337",
+      "website": "http://www.elliottbaybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Elysian Brewing Co",
+      "city": "Seattle",
+      "phone": "2068601920",
+      "website": "http://www.elysianbrewing.com",
+      "category": "beer",
+      "brewery_type": "large"
+    },
+    {
+      "name": "Elysian Brewing Co",
+      "city": "Seattle",
+      "phone": "2068601920",
+      "website": "http://www.elysianbrewing.com",
+      "category": "beer",
+      "brewery_type": "large"
+    },
+    {
+      "name": "Elysian Brewing Co - Elysian Fields",
+      "city": "Seattle",
+      "phone": "2063824498",
+      "website": "http://www.elysianbrewing.com",
+      "category": "beer",
+      "brewery_type": "large"
+    },
+    {
+      "name": "Elysian Brewing Co -Tangletown",
+      "city": "Seattle",
+      "phone": "2065475929",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "English Setter Brewing Company",
+      "city": "Spokane",
+      "phone": "5094133663",
+      "website": "http://www.englishsetterbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Enso Brewing Company",
+      "city": "Vashon",
+      "phone": "2067072437",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Enumclaw Brewing Company @ Rockridge Orchards & Cidery",
+      "city": "Enumclaw",
+      "phone": "3608026800",
+      "website": "http://www.rockridgeorchards.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Everybody's Brewing Co",
+      "city": "White Salmon",
+      "phone": "5096372774",
+      "website": "http://www.everybodysbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Explorer Brewing Company",
+      "city": "Kelso",
+      "phone": "3602328337",
+      "website": "https://www.facebook.com/discoverourcraft",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fair Isle Brewing",
+      "city": "Seattle",
+      "phone": "2064283434",
+      "website": "http://www.fairislebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Farm Shed Wines & Brews",
+      "city": "Buckley",
+      "phone": "8444379786",
+      "website": "http://www.farmshedwines.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Farmstrong Brewing Co",
+      "city": "Mount Vernon",
+      "phone": "3608738852",
+      "website": "http://www.farmstrongbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fast Fashion Brewing",
+      "city": "Seattle",
+      "phone": "2064202569",
+      "website": "https://themasonryseattle.com/fast-fashion",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fast Fashion Brewing - Lower Queen Anne",
+      "city": "Seattle",
+      "phone": "2064202569",
+      "website": "https://themasonryseattle.com/fast-fashion-lqa-tasting-room",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Fathom & League Hop Yard Brewery",
+      "city": "Sequim",
+      "phone": "3602860278",
+      "website": "http://www.fathomandleaguebrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Feral Public House",
+      "city": "Vancouver",
+      "phone": "3608365255",
+      "website": "http://www.heathenbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Figurehead Brewing Company",
+      "city": "Seattle",
+      "phone": "2064927981",
+      "website": "http://www.figureheadbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fired Up Brewing",
+      "city": "Colville",
+      "phone": "5096843328",
+      "website": "http://www.facebook.com/firedupbrewing",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Fish Brewing Co",
+      "city": "Olympia",
+      "phone": "3609436480",
+      "website": "http://www.fishbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Fish Brewing Pub & Eatery",
+      "city": "Ruston",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Five Dollar Ranch Brewing",
+      "city": "Walla Walla",
+      "phone": "5095403989",
+      "website": "https://fivedollarranchbeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Five Dons Brewing Co",
+      "city": "Longview",
+      "phone": "3604306440",
+      "website": "http://www.fivedonsbeer.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Floating Bridge Brewing",
+      "city": "Seattle",
+      "phone": "2064664784",
+      "website": "http://www.floatingbridgebrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Floodland Brewing",
+      "city": "Seattle",
+      "phone": "2064862854",
+      "website": "http://www.floodlandbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Flycaster Brewing Co.",
+      "city": "Kirkland",
+      "phone": "2069636626",
+      "website": "https://flycasterbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Flyers Restaurant and Brewery",
+      "city": "Oak Harbor",
+      "phone": "3606755858",
+      "website": "http://www.eatatflyers.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Flying Bike Cooperative Brewery",
+      "city": "Seattle",
+      "phone": "2064287709",
+      "website": "http://www.flyingbike.coop",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Flying Lion Brewing",
+      "city": "Seattle",
+      "phone": "2066599912",
+      "website": "http://www.flyinglionbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Foggy Noggin Brewing",
+      "city": "Bothell",
+      "phone": "2065539223",
+      "website": "http://www.foggynogginbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Foothills Brewing and Beverage Co",
+      "city": "Black Diamond",
+      "phone": "3608862215",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "For the Love of God Brewing",
+      "city": "Spokane",
+      "phone": "5095988601",
+      "website": "https://www.fortheloveofgodbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fortside Brewing Company",
+      "city": "Vancouver",
+      "phone": "3605244692",
+      "website": "http://www.fortsidebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Forward Operating Base Brewing Company / FOB Brewing",
+      "city": "Dupont",
+      "phone": "2535074667",
+      "website": "http://www.fobbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Four Eyed Guys Brewing",
+      "city": "Spokane",
+      "phone": "5097959648",
+      "website": "http://foureyedguysbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Four Generals Brewing",
+      "city": "Renton",
+      "phone": "4252824360",
+      "website": "http://www.fourgenerals.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Four Horsemen Brewery",
+      "city": "Kent",
+      "phone": "2539814258",
+      "website": "http://www.fourhorsemen.beer",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Fox Island Brewing",
+      "city": "Gig Harbor",
+      "phone": null,
+      "website": "http://www.foxislandbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Fremont Brewing Co",
+      "city": "Seattle",
+      "phone": "2064202407",
+      "website": "http://www.fremontbrewing.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Fremont Brewing Co - Columbia City Urban Beer Garden",
+      "city": "Seattle",
+      "phone": "2064202407",
+      "website": "https://www.fremontbrewing.com/columbia-city-urban-beer-garden",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Fremont Brewing Co - Fremont Urban Beer Garden",
+      "city": "Seattle",
+      "phone": "2064202407",
+      "website": "https://www.fremontbrewing.com/fremont-urban-beer-garden",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Friday Harbor Brewing",
+      "city": "Friday Harbor",
+      "phone": "3603786205",
+      "website": "http://www.fridayharborbrewhouse.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "FrinGe Brewing",
+      "city": "Ferndale",
+      "phone": "3603986071",
+      "website": "https://fringebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Future Primitive Brewing Company - Alki Beach Bar",
+      "city": "Seattle",
+      "phone": null,
+      "website": "https://www.futureprimitivebeer.com",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Future Primitive Brewing Company - White Center",
+      "city": "Seattle",
+      "phone": "2068192241",
+      "website": "https://www.futureprimitivebeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Gallaghers' Where U Brew",
+      "city": "Edmonds",
+      "phone": "4257764209",
+      "website": "http://www.whereubrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Garden Path Fermentation",
+      "city": "Burlington",
+      "phone": "3605038956",
+      "website": "http://www.gardenpathwa.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Garland Brew Werks",
+      "city": "Spokane",
+      "phone": "5098639419",
+      "website": "https://garlandbrewwerks.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Geaux Brewing LLC",
+      "city": "Auburn",
+      "phone": "2533973939",
+      "website": "http://www.geauxbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Genus Brewing and Supply",
+      "city": "Spokane Valley",
+      "phone": "5098082395",
+      "website": "https://www.genusbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Georgetown Brewing Co",
+      "city": "Seattle",
+      "phone": "2067668055",
+      "website": "http://www.georgetownbeer.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Ghost Runners Brewery",
+      "city": "Vancouver",
+      "phone": "3609893912",
+      "website": "https://ghostrunnersbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ghostfish Brewing Company",
+      "city": "Seattle",
+      "phone": "2532494650",
+      "website": "http://www.ghostfishbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Gig Harbor Brewing",
+      "city": "Tacoma",
+      "phone": "2538304653",
+      "website": "http://www.gigharborbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Golden Handle Project",
+      "city": "Spokane",
+      "phone": "5098680264",
+      "website": "https://www.goldenhandle.org",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Good Brewing Company - Sultan",
+      "city": "Sultan",
+      "phone": "3602433159",
+      "website": "https://goodbrewingco.com/sultan-1",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Good Brewing Company - Woodinville",
+      "city": "Woodinville",
+      "phone": "4252473245",
+      "website": "https://goodbrewingco.com/brewpub-1",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Gordon Biersch Brewery Restaurant - Seattle",
+      "city": "Seattle",
+      "phone": "2064054205",
+      "website": "http://www.craftworksrestaurants.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Grains of Wrath Brewing",
+      "city": "Camas",
+      "phone": "3602105717",
+      "website": "http://www.gowbeer.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Green Oak Brewing",
+      "city": "Prosser",
+      "phone": "5097864922",
+      "website": "http://www.whitstranbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Gruff Brewing Company",
+      "city": "Bellingham",
+      "phone": "3607340115",
+      "website": "http://www.gruff-brewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "GSP Craft Brewing",
+      "city": "Gig Harbor",
+      "phone": "2533281121",
+      "website": "http://www.facebook.com/gspcraftbrewing",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Haas Innovations Brewing LLC",
+      "city": "Yakima",
+      "phone": "5094694000",
+      "website": "https://www.johnihaas.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hale's Ales Brewery and Pub",
+      "city": "Seattle",
+      "phone": "2069632118",
+      "website": "http://www.halesbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Half Lion Brewing Company",
+      "city": "Sumner",
+      "phone": "2537504479",
+      "website": "http://www.halflion.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Half Lion Public House",
+      "city": "Kent",
+      "phone": "2532770685",
+      "website": "https://www.halflion.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Harmon Brewing Company",
+      "city": "Tacoma",
+      "phone": "253212725",
+      "website": "http://www.harmonbrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Haywire Brewing Company",
+      "city": "Snohomish",
+      "phone": "3605682739",
+      "website": "https://www.haywirebrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Headless Mumby Brewing",
+      "city": "Olympia",
+      "phone": "3607423880",
+      "website": "https://www.headlessmumbybrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Headworks Brewing",
+      "city": "Enumclaw",
+      "phone": "2532635318",
+      "website": "http://www.headworksbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Heathen Brewing",
+      "city": "Vancouver",
+      "phone": "3607265239",
+      "website": "https://heathenbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hellbent Brewing Company",
+      "city": "Seattle",
+      "phone": "2063613707",
+      "website": "http://www.hellbentbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hemlock State Brewing Company",
+      "city": "Lake Forest Park",
+      "phone": "4259672062",
+      "website": "http://www.hemlockstate.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Herbert B. Friendly Brewing",
+      "city": "Renton",
+      "phone": "4252434372",
+      "website": "http://www.drinkhbf.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Hideaway Brewing Co",
+      "city": "Auburn",
+      "phone": "2536319393",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hillbilly Brewing Company",
+      "city": "Ridgefield",
+      "phone": null,
+      "website": "http://www.hillbillybrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hoh River Brewery",
+      "city": "Tumwater",
+      "phone": "3607054000",
+      "website": "http://www.hohriverbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Holy Mountain Brewing Co",
+      "city": "Seattle",
+      "phone": "2064988435",
+      "website": "http://holymountainbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Hood Canal Brewery",
+      "city": "Kingston",
+      "phone": "3602978316",
+      "website": "http://www.hoodcanalbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Hop Nation Brewing Company",
+      "city": "Yakima",
+      "phone": "5099856449",
+      "website": "http://www.hopnation.us",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Hopped Up Brewing Company",
+      "city": "Spokane",
+      "phone": "5094132488",
+      "website": "http://www.hoppedupbrew.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Hopworks Urban Brewery - Vancouver",
+      "city": "Vancouver",
+      "phone": "5032324677",
+      "website": "https://www.hopworksbeer.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Hoquiam Brewing Company",
+      "city": "Hoquiam",
+      "phone": "3606378252",
+      "website": "http://www.hoquiambrews.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Horse Heaven Hills Brewery",
+      "city": "Prosser",
+      "phone": "5097816400",
+      "website": "http://www.horseheavenhillsbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Humble Abode Brewery",
+      "city": "Spokane",
+      "phone": "5093815055",
+      "website": "https://www.humbleabodebeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ice Harbor Brewing Company",
+      "city": "Kennewick",
+      "phone": "5095825340",
+      "website": "http://www.iceharbor.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Ice Harbor Brewing Company at the Marina",
+      "city": "Kennewick",
+      "phone": "5095863181",
+      "website": "http://www.iceharbor.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Icicle Brewing Co",
+      "city": "Leavenworth",
+      "phone": "5095482739",
+      "website": "http://www.iciclebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Illuminati Brewing Company",
+      "city": "Bellingham",
+      "phone": "3602207072",
+      "website": "http://www.illuminatibrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "In the Shadow Brewing",
+      "city": "Arlington",
+      "phone": "4258769253",
+      "website": "https://www.itsbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Inland Ale Works Brewing Co",
+      "city": "Cheney",
+      "phone": "5092352037",
+      "website": "https://inlandaleworksbrewing.square.site",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Iron Goat Brewing",
+      "city": "Spokane",
+      "phone": "5094740722",
+      "website": "http://www.irongoatbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Iron Horse Brewery",
+      "city": "Ellensburg",
+      "phone": "5099333134",
+      "website": "http://www.ironhorsebrewery.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Island Hoppin' Brewery",
+      "city": "Eastsound",
+      "phone": "3603769253",
+      "website": "http://www.islandhoppinbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "JC Brewhouse",
+      "city": "Issaquah",
+      "phone": "4252816502",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Jellyfish Brewing Company",
+      "city": "Seattle",
+      "phone": "2063974999",
+      "website": "http://www.jellyfishbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Jones Creek Brewing",
+      "city": "Chehalis",
+      "phone": "3602453429",
+      "website": "http://www.jonescreekbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Keyhole Valley Brewing",
+      "city": "Shelton",
+      "phone": null,
+      "website": "http://www.keyholevalleybrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Kulshan Brewing Co - K2",
+      "city": "Bellingham",
+      "phone": "3603895348",
+      "website": "http://www.kulshanbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Kulshan Brewing Co - Sunnyland",
+      "city": "Bellingham",
+      "phone": "3603895348",
+      "website": "http://www.kulshanbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Kulshan Brewing Co - Trackside",
+      "city": "Bellingham",
+      "phone": "3603895348",
+      "website": "https://kulshanbrewing.com/trackside",
+      "category": "beer",
+      "brewery_type": "location"
+    },
+    {
+      "name": "La Conner Brewing Co",
+      "city": "La Conner",
+      "phone": "3604661415",
+      "website": "https://www.laconnerbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Ladd & Lass Brewing",
+      "city": "Seattle",
+      "phone": null,
+      "website": "http://www.laddandlassbrewing.com",
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Lagunitas Seattle Taproom and Beer Sanctuary",
+      "city": "Seattle",
+      "phone": "2067842230",
+      "website": "https://lagunitas.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Laht Neppur Brewing",
+      "city": "Waitsburg",
+      "phone": "5093376261",
+      "website": "http://lahtneppur.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Lake Chelan Brewing Co",
+      "city": "Manson",
+      "phone": "5096874444",
+      "website": "https://lakechelanbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lake Stevens Brewing Company",
+      "city": "Lake Stevens",
+      "phone": "3605243678",
+      "website": "https://www.lakestevensbrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lantern Brewing",
+      "city": "Seattle",
+      "phone": "2067295350",
+      "website": "http://www.lanternbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Larrabee Lager Co",
+      "city": "Bellingham",
+      "phone": "3606565768",
+      "website": "https://www.larrabeelagerco.com/",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Laurelwood Public House and Brewery - NE",
+      "city": "Woodinville",
+      "phone": "4254833232",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Lazy Boy Brewing",
+      "city": "Everett",
+      "phone": "4254237700",
+      "website": "http://www.lazyboybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Little Spokane Brewing Company",
+      "city": "Spokane",
+      "phone": null,
+      "website": "http://www.littlespokanebrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Locust Cider & Brewing Co",
+      "city": "Woodinville",
+      "phone": "4258922075",
+      "website": "https://www.locustcider.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Logan Brewing Company",
+      "city": "Burien",
+      "phone": "2064866569",
+      "website": "https://www.logan.beer",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Loowit Brewing",
+      "city": "Vancouver",
+      "phone": "3605662323",
+      "website": "http://www.loowitbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lopez Island Brewing Co",
+      "city": "Lopez Island",
+      "phone": "3604682646",
+      "website": "http://www.lopezislandbrewingco.rocks",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Lost Canoe Brewing Co",
+      "city": "Snohomish",
+      "phone": "3605683984",
+      "website": "http://www.facebook.com/lostcanoebrew",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "LoveCraft Brewing Co",
+      "city": "Bremerton",
+      "phone": "2067174707",
+      "website": "https://www.lovecraftbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lowercase Brewing",
+      "city": "Seattle",
+      "phone": "2062584987",
+      "website": "http://www.lowercasebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Lucky Envelope Brewing",
+      "city": "Seattle",
+      "phone": "2062890425",
+      "website": "http://www.luckyenvelopebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lumber House Brewing Company",
+      "city": "Black Diamond",
+      "phone": "4254320121",
+      "website": "https://lumberhousebrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Lumberbeard Brewing",
+      "city": "Spokane",
+      "phone": "5093815142",
+      "website": "https://lumberbeardbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Mac and Jacks Brewery Inc",
+      "city": "Redmond",
+      "phone": "4255589697",
+      "website": "https://www.macandjacks.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Machine House Brewery",
+      "city": "Seattle",
+      "phone": "2064026025",
+      "website": "https://www.machinehousebrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Maelstrom Brewing Company",
+      "city": "Kirkland",
+      "phone": "2068416071",
+      "website": "http://www.maelstrombrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Magnuson Cafe and Brewery",
+      "city": "Seattle",
+      "phone": "2065250669",
+      "website": "https://magnusonbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Manfish Brewing",
+      "city": "Issaquah",
+      "phone": "4255847264",
+      "website": "http://www.manfishbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Maritime Pacific Brewing Co",
+      "city": "Seattle",
+      "phone": "2067826181",
+      "website": "http://www.maritimebrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Masters BrewHouse",
+      "city": "Deer Park",
+      "phone": "5096353508",
+      "website": "https://deerparkcraftbeer.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Matchless Brewing",
+      "city": "Tumwater",
+      "phone": "5033173284",
+      "website": "http://www.matchlessbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "McMenamins Anderson School Brewery",
+      "city": "Bothell",
+      "phone": "4253980122",
+      "website": "http://www.mcmenamins.com/anderson-school",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins East Vancouver Brewery",
+      "city": "Vancouver",
+      "phone": "3606959033",
+      "website": "https://www.mcmenamins.com/east-vancouver",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Elks Temple",
+      "city": "Tacoma",
+      "phone": null,
+      "website": "https://www.mcmenamins.com/elks-temple",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Kalama Harbor Lodge",
+      "city": "Kalama",
+      "phone": "3606739210",
+      "website": "https://www.mcmenamins.com/kalama-harbor-lodge",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Mill Creek Brewery",
+      "city": "Mill Creek",
+      "phone": "4253169817",
+      "website": "https://www.mcmenamins.com/mill-creek",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Olympic Club Brewery",
+      "city": "Centralia",
+      "phone": "3607365164",
+      "website": "https://www.mcmenamins.com/olympic-club",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins On the Columbia Brewery",
+      "city": "Vancouver",
+      "phone": "3606691521",
+      "website": "https://www.mcmenamins.com/mcmenamins-on-the-columbia",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Queen Anne Brewery",
+      "city": "Seattle",
+      "phone": "2062854722",
+      "website": "https://www.mcmenamins.com/queen-anne",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Six Arms Brewery",
+      "city": "Seattle",
+      "phone": "2062231698",
+      "website": "https://www.mcmenamins.com/six-arms",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "McMenamins Spar Cafe Brewery",
+      "city": "Olympia",
+      "phone": "3603576444",
+      "website": "https://www.mcmenamins.com/spar-cafe",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Melvin Brewing Bellingham",
+      "city": "Bellingham",
+      "phone": "3603063285",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Menace Brewing",
+      "city": "Bellingham",
+      "phone": "3605954059",
+      "website": "https://www.menacebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Metier Brewing Company",
+      "city": "Woodinville",
+      "phone": "4254158466",
+      "website": "http://www.metierbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Middleton Brewing Co",
+      "city": "Everett",
+      "phone": "4252809178",
+      "website": "https://www.facebook.com/MiddletonBrews",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Mile Post 111 Brewing",
+      "city": "Cashmere",
+      "phone": "5098880222",
+      "website": "http://www.milepost111brewingcompany.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Mill City Brew Werks",
+      "city": "Camas",
+      "phone": "3602104761",
+      "website": "http://www.mcbwbeer.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Mill Creek Brewpub",
+      "city": "Walla Walla",
+      "phone": "5095222440",
+      "website": "http://www.millcreek-brewpub.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Millwood Brewing Company",
+      "city": "Spokane",
+      "phone": "5093689538",
+      "website": "http://www.millwoodbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Mirage Beer Co",
+      "city": "Seattle",
+      "phone": null,
+      "website": "http://miragebeer.com",
+      "category": "beer",
+      "brewery_type": "proprietor"
+    },
+    {
+      "name": "Mollusk Brewing",
+      "city": "Seattle",
+      "phone": "2064031228",
+      "website": "http://www.molluskseattle.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Monka Brewing Co",
+      "city": "Shoreline",
+      "phone": null,
+      "website": "http://www.monkabeer.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Moonshot Brewing",
+      "city": "Kennewick",
+      "phone": "5094911058",
+      "website": "https://moonshotbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Mountain Lakes Brewing Company",
+      "city": "Spokane",
+      "phone": "5033481733",
+      "website": "https://mountainlakesbrewco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "MT Head Brewing Co",
+      "city": "Graham",
+      "phone": "2532088999",
+      "website": "http://www.mtheadbrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Mt Index Brewery",
+      "city": "index",
+      "phone": "3607936584",
+      "website": "https://www.facebook.com/mt.index.brewery.and.distillery",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Mule & Elk Brewing Co",
+      "city": "Cle Elum",
+      "phone": "2063211911",
+      "website": "http://www.muleandelk.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Naked City Brewing Co",
+      "city": "Seattle",
+      "phone": "2068386299",
+      "website": "http://www.nakedcitybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Narrows Brewing Company",
+      "city": "Tacoma",
+      "phone": "2533271400",
+      "website": "http://www.narrowsbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Nine Yards Brewing",
+      "city": "Kenmore",
+      "phone": "2066932333",
+      "website": "http://www.nineyardsbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Nisqually Valley Brewing",
+      "city": "Yelm",
+      "phone": "4252328191",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "No Boat Brewing Company",
+      "city": "Snoqualmie",
+      "phone": "2063995626",
+      "website": "http://www.noboatbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "No Drought Brewing Co",
+      "city": "Spokane Valley",
+      "phone": "4257735309",
+      "website": "https://nodroughtbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "No-Li Brewhouse",
+      "city": "Spokane",
+      "phone": "5093154061",
+      "website": "http://www.nolibrewhouse.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "North 47 Brewing Co",
+      "city": "Tacoma",
+      "phone": "2535179865",
+      "website": "http://www.north47brewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "North Fork Brewing Co",
+      "city": "Deming",
+      "phone": "3605992337",
+      "website": "http://www.northforkbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "North Jetty Brewing",
+      "city": "Seaview",
+      "phone": "3606424234",
+      "website": "http://www.northjettybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "North Sound Brewing Co.",
+      "city": "Mount Vernon",
+      "phone": "3609822057",
+      "website": "http://northsoundbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Northern Ales",
+      "city": "Kettle Falls",
+      "phone": "5097387382",
+      "website": "http://northernales.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Northish Beer Company",
+      "city": "Tacoma",
+      "phone": "2537786106",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Northwest Brewing Company",
+      "city": "Pacific",
+      "phone": "2539875680",
+      "website": "http://www.nwbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Northwest Passage Craft Brewery",
+      "city": "Vancouver",
+      "phone": "3605212417",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Northwest Peaks Brewery",
+      "city": "Seattle",
+      "phone": "2067252337",
+      "website": "http://www.nwpeaksbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Northwood Public House & Brewery",
+      "city": "Battle Ground",
+      "phone": "3607230937",
+      "website": "http://www.northwoodpublichouse.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Nosdunk Brewing Company",
+      "city": "Walla Walla",
+      "phone": "5095408784",
+      "website": "http://www.nosdunkbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Nun Chuck's Brewing Co",
+      "city": "Lynnwood",
+      "phone": "2066361105",
+      "website": "https://nunchucksbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Obec Brewing",
+      "city": "Seattle",
+      "phone": "2066590082",
+      "website": "http://www.obecbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Odd Otter Brewing Company",
+      "city": "Tacoma",
+      "phone": "2532794871",
+      "website": "http://www.oddotterbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Odin Brewing Co",
+      "city": "Tukwila",
+      "phone": "2062432363",
+      "website": "http://www.odinbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Off Camber Brewing",
+      "city": "Puyallup",
+      "phone": "2533128796",
+      "website": "https://www.offcamberbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ogres Brewing",
+      "city": "Clinton",
+      "phone": "4254189005",
+      "website": "http://www.ogresbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Old Ivy Brewery and Taproom",
+      "city": "Vancouver",
+      "phone": "3609931827",
+      "website": "http://www.oldivybrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Old Schoolhouse Brewery",
+      "city": "Winthrop",
+      "phone": "5099963183",
+      "website": "http://www.oldschoolhousebrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Old Stove Brewing Company",
+      "city": "Seattle",
+      "phone": "2066602682",
+      "website": "http://www.oldstove.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "One Brewing / Harmony Meadows Center",
+      "city": "Manson",
+      "phone": "5098882344",
+      "website": "http://www.harmonymeadowscenter.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Optimism Brewing Company",
+      "city": "Seattle",
+      "phone": "2062289227",
+      "website": "http://www.optimismbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Orlison Brewing Company",
+      "city": "Airway Heights",
+      "phone": "5093896253",
+      "website": "http://www.orlisonbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Outer Planet Craft Brewing",
+      "city": "Seattle",
+      "phone": "2067637000",
+      "website": "http://www.outerplanetbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Outlander Brewery & Pub",
+      "city": "Seattle",
+      "phone": "2064864088",
+      "website": "http://www.outlanderbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Pacific Brewing and Malting",
+      "city": "Tacoma",
+      "phone": "2533832337",
+      "website": "http://www.pacificbrewingandmalting.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Pacific Northwest Brewing Center, LLC",
+      "city": "Everett",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Paper Street Brewing Company",
+      "city": "Richland",
+      "phone": "5097137088",
+      "website": "http://www.paperstbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Paradise Creek Brewery",
+      "city": "Pullman",
+      "phone": "5095920114",
+      "website": "http://www.paradisecreekbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Parker's Steakhouse and Brewery",
+      "city": "Castle Rock",
+      "phone": "3609672333",
+      "website": "http://www.parkerssteakhouse.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Pastime Brewery Bar and Grill",
+      "city": "Oroville",
+      "phone": "5094763007",
+      "website": "http://www.pastimebarandgrill.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Peddler Brewing",
+      "city": "Seattle",
+      "phone": "3603620002",
+      "website": "http://www.peddlerbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Perihelion Brewery",
+      "city": "Seattle",
+      "phone": "2062003935",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Perry Street Brewing Co.",
+      "city": "Spokane",
+      "phone": "5092792820",
+      "website": "http://www.perrystreetbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Pike Brewing Co",
+      "city": "Seattle",
+      "phone": "2066223373",
+      "website": "http://www.pikebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Populuxe Brewing",
+      "city": "Seattle",
+      "phone": "2067063400",
+      "website": "http://www.populuxebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Port Townsend Brewing Co",
+      "city": "Port Townsend",
+      "phone": "3603859967",
+      "website": "http://www.porttownsendbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Postdoc Brewing - Kenmore",
+      "city": "Kenmore",
+      "phone": "4259495295",
+      "website": "https://www.postdocbrewing.com",
+      "category": "beer",
+      "brewery_type": "taproom"
+    },
+    {
+      "name": "Postdoc Brewing - Redmond",
+      "city": "Redmond",
+      "phone": "4256584963",
+      "website": "http://www.postdocbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Powerhouse Restaurant and Brewery",
+      "city": "Puyallup",
+      "phone": "2538451370",
+      "website": "http://www.powerhousebrewpub.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Propolis Brewing LLC",
+      "city": "Port Townsend",
+      "phone": "7652155850",
+      "website": "http://www.propolisbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Puyallup River Brewing Co",
+      "city": "Puyallup",
+      "phone": "2535908219",
+      "website": "http://www.puyallupriverbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Pyramid Breweries / North American Breweries",
+      "city": "Seattle",
+      "phone": "2066823377",
+      "website": "http://www.pyramidbrew.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Quartzite Brewing Company",
+      "city": "Chewelah",
+      "phone": "5099363686",
+      "website": "https://quartzitebrewco.business.site",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Quilbilly's Restaurant and Taproom",
+      "city": "Quilcene",
+      "phone": "3607656485",
+      "website": "https://www.quilbillys.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Quirk Brewing",
+      "city": "Walla Walla",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Rail Hop'n Brewing Co",
+      "city": "Auburn",
+      "phone": "2532176800",
+      "website": "http://www.railhopn.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Railside Brewing",
+      "city": "Vancouver",
+      "phone": "3609078582",
+      "website": "http://www.railsidebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Rainy Daze Brewing",
+      "city": "Poulsbo",
+      "phone": "3606921858",
+      "website": "http://www.rainydazebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "RAM Restaurant and Brewery - Lakewood",
+      "city": "Lakewood",
+      "phone": "2535843191",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "RAM Restaurant and Brewery - Production",
+      "city": "Tacoma",
+      "phone": "2534747465",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "RAM Restaurant and Brewery - Puyallup South Hill",
+      "city": "Puyallup",
+      "phone": "2538413317",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "RAM Restaurant and Brewery - Seattle",
+      "city": "Seattle",
+      "phone": "2065253565",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "RAM Restaurant and Brewery - Tacoma",
+      "city": "Tacoma",
+      "phone": "2537567886",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "RAM Restaurant and Brewery- Northgate",
+      "city": "Seattle",
+      "phone": "2063648000",
+      "website": "http://www.theram.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Rattlesnake Mountain Brewery / Kimo's Restaurant",
+      "city": "Richland",
+      "phone": "5097835747",
+      "website": "http://www.rattlesnakemountainbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Ravenna Brewing Company",
+      "city": "Seattle",
+      "phone": "2067438450",
+      "website": "http://www.ravennabrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Redhook Brewery",
+      "city": "Seattle",
+      "phone": "4254833232",
+      "website": "http://www.redhook.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Redifer Brewing Co",
+      "city": "Yakima",
+      "phone": "5094243400",
+      "website": "http://www.rediferbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Republic Brewing Co",
+      "city": "Republic",
+      "phone": "5097752700",
+      "website": "https://www.republicbrew.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Resonate Brewery + Pizzeria",
+      "city": "Bellevue",
+      "phone": "4256443164",
+      "website": "http://www.resonatebrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Reuben's Brews",
+      "city": "Seattle",
+      "phone": "2067842859",
+      "website": "http://www.reubensbrews.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Reuben's Brews Taproom",
+      "city": "Seattle",
+      "phone": "2067842859",
+      "website": "http://www.reubensbrews.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ridgefield Craft Brewing Co Taphouse",
+      "city": "Ridgefield",
+      "phone": "3607273046",
+      "website": "https://ridgefieldcraftbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "River City Brewing",
+      "city": "Spokane",
+      "phone": "9043982299",
+      "website": "http://www.rivercitybrew.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "River Mile 38 Brewing Co",
+      "city": "Cathlamet",
+      "phone": "3603554662",
+      "website": "http://www.rivermile38.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "River Time Brewing",
+      "city": "Darrington",
+      "phone": "2674837411",
+      "website": "http://www.rivertimebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Riverport Brewing Co",
+      "city": "Clarkston",
+      "phone": "5097588889",
+      "website": "http://www.riverportbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Rock Wood Fired Pizza / Keep Rockin' LLC",
+      "city": "Sumner",
+      "phone": "2539875479",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "contract"
+    },
+    {
+      "name": "Rock Wood Fired Pizza & Brewery - Auburn",
+      "city": "Auburn",
+      "phone": "2538337887",
+      "website": "http://www.therockwfp.com",
+      "category": "beer",
+      "brewery_type": "contract"
+    },
+    {
+      "name": "Rock Wood Fired Pizza and Brewery - Lynnwood",
+      "city": "Lynnwood",
+      "phone": "4256976007",
+      "website": "http://www.therockwfp.com",
+      "category": "beer",
+      "brewery_type": "contract"
+    },
+    {
+      "name": "Rock Wood Fired Pizza and Brewery - Tacoma",
+      "city": "Tacoma",
+      "phone": "2532721221",
+      "website": "http://www.therockwfp.com",
+      "category": "beer",
+      "brewery_type": "contract"
+    },
+    {
+      "name": "Rocky Coulee Brewing",
+      "city": "Odessa",
+      "phone": "5093452216",
+      "website": "http://www.rockycouleebrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Rogue Ales Issaquah Brewhouse",
+      "city": "Issaquah",
+      "phone": "4255571911",
+      "website": "http://www.rogue.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Rooftop Brewing Co",
+      "city": "Seattle",
+      "phone": "2064578598",
+      "website": "http://www.rooftopbrewco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Roslyn Brewing Co",
+      "city": "Roslyn",
+      "phone": "5096492232",
+      "website": "http://www.roslynbrewng.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Saddle Rock Pub & Brewery",
+      "city": "Wenatchee",
+      "phone": "5098884790",
+      "website": "http://www.saddlerockbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Salish Sea Brewing Company",
+      "city": "Edmonds",
+      "phone": "2062953116",
+      "website": "http://www.salishbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "San Juan Island Brewing Company",
+      "city": "Friday Harbor",
+      "phone": "3603782017",
+      "website": "http://www.sanjuanbrew.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Savage Brewing Company.",
+      "city": "Kirkland",
+      "phone": "4252859761",
+      "website": "https://www.savagebrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Scamp Brewing Co",
+      "city": "Auburn",
+      "phone": null,
+      "website": "http://www.scampbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Scatter Creek Brewing",
+      "city": "Tenino",
+      "phone": "3602649463",
+      "website": "http://www.facebook.com/ScatterCreekBrewing/",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Schooner Exact Brewing Co",
+      "city": "Seattle",
+      "phone": "2064329734",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Scrappy Punk Brewing",
+      "city": "Snohomish",
+      "phone": "5038101655",
+      "website": "http://www.facebook.com/scrappypunkbrew",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Scuttlebutt Brewing Co",
+      "city": "Everett",
+      "phone": "4252579316",
+      "website": "http://www.scuttlebuttbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Seapine Brewing Company",
+      "city": "Seattle",
+      "phone": "5309028110",
+      "website": "http://www.seapinebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Shoug Brewing Company",
+      "city": "Washougal",
+      "phone": "3604870172",
+      "website": "http://www.shougbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Shrub Steppe Smokehouse Brewery",
+      "city": "Richland",
+      "phone": "5093759092",
+      "website": "http://www.shrubsteppebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Sig Brewing Co.",
+      "city": "Tacoma",
+      "phone": "2535036446",
+      "website": "https://www.sigbrewingco.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Silver City Brewery",
+      "city": "Bremerton",
+      "phone": "3608131487",
+      "website": "http://www.silvercitybrewery.com",
+      "category": "beer",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Single Hill Brewing Company",
+      "city": "Yakima",
+      "phone": "5033511197",
+      "website": "http://www.singlehillbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Skagit River Brewery",
+      "city": "Mount Vernon",
+      "phone": "3603362884",
+      "website": "http://www.skagitbrew.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Skagit Valley Malting",
+      "city": "Burlington",
+      "phone": "3609821262",
+      "website": "https://www.skagitvalleymalting.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Skookum Brewery",
+      "city": "Arlington",
+      "phone": "3604037094",
+      "website": "http://www.skookumbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Slaughter County Brewing",
+      "city": "Port Orchard",
+      "phone": "3603292340",
+      "website": "http://www.slaughtercountybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Slippery Pig Brewery",
+      "city": "Poulsbo",
+      "phone": "3603941686",
+      "website": "http://www.slipperypigbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Sluggo Brewing",
+      "city": "Tacoma",
+      "phone": "2533271894",
+      "website": "http://www.halfpintpizzapub.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Smitty's Brewing",
+      "city": "Bremerton",
+      "phone": "3607108921",
+      "website": "http://smittysbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Snipes Mountain Brewing Co",
+      "city": "Sunnyside",
+      "phone": "5098372739",
+      "website": "http://www.snipesmountain.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Snoqualmie Falls Brewing Co",
+      "city": "Snoqualmie",
+      "phone": null,
+      "website": null,
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "SnoTown Brewery",
+      "city": "Snohomish",
+      "phone": "4252318113",
+      "website": "http://www.facebook.com/SnoTownBrewery/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Sound Brewery",
+      "city": "Poulsbo",
+      "phone": "3609308696",
+      "website": "http://www.soundbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Sound To Summit",
+      "city": "Snohomish",
+      "phone": "3602948127",
+      "website": "http://www.sound2summit.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Spada Farmhouse Brewery",
+      "city": "Snohomish",
+      "phone": "4253306938",
+      "website": "http://www.spadafarmhousebrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Square Wheel Brewing Co",
+      "city": "Spokane",
+      "phone": "5099942600",
+      "website": "http://www.squarewheelbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "St Brigid's Brewery",
+      "city": "Moses Lake",
+      "phone": "5097508357",
+      "website": "http://www.stbrigidsbrewery.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Standard Brewing",
+      "city": "Seattle",
+      "phone": "2065351584",
+      "website": "http://www.standardbrew.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Steam Donkey Brewing Co",
+      "city": "Aberdeen",
+      "phone": "3606379431",
+      "website": "http://Steamdonkeybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Steam Plant Grill",
+      "city": "Spokane",
+      "phone": "5097773900",
+      "website": "http://www.steamplantspokane.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Stemma Brewing Co",
+      "city": "Bellingham",
+      "phone": "3607468385",
+      "website": "https://www.stemmabrewing.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Stones Throw Brewery",
+      "city": "Bellingham",
+      "phone": "3603625058",
+      "website": "http://www.stonesthrowbrewco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Stormy Mountain Brewing Company",
+      "city": "Chelan",
+      "phone": "5098885665",
+      "website": "http://www.stormymountainbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Stoup Brewing",
+      "city": "Seattle",
+      "phone": "2064575524",
+      "website": "http://www.stoupbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Structures Brewing",
+      "city": "Bellingham",
+      "phone": "3605827475",
+      "website": "http://www.structuresbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Sumerian Brewing Company",
+      "city": "Woodinville",
+      "phone": "4254865330",
+      "website": "http://www.sumerianbrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Swinnerton Brewery",
+      "city": "Marysville",
+      "phone": "4253877045",
+      "website": "http://www.swinnertonbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Tacoma Brewing Co.",
+      "city": "Tacoma",
+      "phone": "2532423370",
+      "website": "http://www.tacomabrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Taneum Creek Brewing",
+      "city": "Cle Elum",
+      "phone": "9709039414",
+      "website": "https://www.taneumcreekbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "TangleTown Public House",
+      "city": "Seattle",
+      "phone": "2064666340",
+      "website": "https://www.tangletownpublichouse.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Temperate Habits Brewing Company",
+      "city": "Mount Vernon",
+      "phone": "3603997740",
+      "website": "https://temperatehabitsbrewing.com/",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Ten Pin Brewing - Production Facility",
+      "city": "Moses Lake",
+      "phone": "5097662739",
+      "website": "http://www.tenpinbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Ten Pin Brewing Co",
+      "city": "Moses Lake",
+      "phone": "5097651265",
+      "website": "http://www.tenpinbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Terramar Brewstillery",
+      "city": "Bow",
+      "phone": "3603996222",
+      "website": "http://terramarcraft.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "The Best Of Hands Barrelhouse",
+      "city": "Seattle",
+      "phone": "2067081166",
+      "website": "http://www.bestofhandsbarrelhouse.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "The Good Society",
+      "city": "Seattle",
+      "phone": "2064203528",
+      "website": "https://www.goodsocietybeer.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "The Grain Shed",
+      "city": "Spokane",
+      "phone": "5092413853",
+      "website": "http://www.thegrainshed.coop",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "The Heavy Metal Brewing Co.",
+      "city": "Vancouver",
+      "phone": "3602581691",
+      "website": "http://www.theheavymetalbrewingco.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "The Hidden Mother Brewery",
+      "city": "Spokane",
+      "phone": "5099193595",
+      "website": "https://thehiddenmotherbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "The Station U Brew",
+      "city": "Puyallup",
+      "phone": "2534663721",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Three Bull Brewing Co",
+      "city": "Snohomish",
+      "phone": "2065505244",
+      "website": "http://www.threebullbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Three Magnets Brewing",
+      "city": "Olympia",
+      "phone": "3609722481",
+      "website": "http://www.threemagnetsbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Timber Monster Brewing Company",
+      "city": "Sultan",
+      "phone": "4257500814",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Tin Dog Brewing",
+      "city": "Seattle",
+      "phone": "2064384257",
+      "website": "http://www.tindogbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Top Frog Brewery",
+      "city": "Newport",
+      "phone": "5096712884",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Top Rung Brewing Company",
+      "city": "Lacey",
+      "phone": "3609158766",
+      "website": "http://www.toprungbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Trap Door Brewing",
+      "city": "Vancouver",
+      "phone": "5037582569",
+      "website": "http://www.trapdoorbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Triceratops Brewing",
+      "city": "Tumwater",
+      "phone": "3604805626",
+      "website": "http://www.triceratopsbrewing.com",
+      "category": "beer",
+      "brewery_type": "proprietor"
+    },
+    {
+      "name": "Triple R Brewing",
+      "city": "Seattle",
+      "phone": "2065793370",
+      "website": "http://triplerbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Triplehorn Brewing Co",
+      "city": "Woodinville",
+      "phone": "4252427979",
+      "website": "http://www.triplehornbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Triune Brewing Company",
+      "city": "Leavenworth",
+      "phone": "5095483300",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Trusty Brewing Co.",
+      "city": "Vancouver",
+      "phone": "3602580413",
+      "website": "http://www.trustybrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "TTs Old Iron Brewery",
+      "city": "Spokane",
+      "phone": null,
+      "website": "http://www.ttsoldironbrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Twelve String Brewing Co",
+      "city": "Spokane",
+      "phone": "5092413697",
+      "website": "http://www.twelvestringbrewingco.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Twin Sisters Brewing Company",
+      "city": "Bellingham",
+      "phone": "3609226700",
+      "website": "https://www.twinsistersbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Underground Brewing",
+      "city": "Woodinville",
+      "phone": null,
+      "website": "http://www.underground-brewing.com",
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Urban Family Brewing",
+      "city": "Seattle",
+      "phone": "2069468533",
+      "website": "http://www.urbanfamilybrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "V Twin Brewing Company",
+      "city": "Spokane",
+      "phone": "5098680182",
+      "website": "http://www.facebook.com/vtwinbrewingco",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Valholl Brewing Company",
+      "city": "Poulsbo",
+      "phone": "3609300172",
+      "website": "http://www.valhollbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Valley Brewing Co",
+      "city": "Yakima",
+      "phone": "5099495944",
+      "website": "http://www.valleybrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Valley House Brewing",
+      "city": "Duvall",
+      "phone": "4253186363",
+      "website": "http://www.valleyhousebrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Varietal Beer Company",
+      "city": "Sunnyside",
+      "phone": "5093074622",
+      "website": "http://www.varietalbeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Vashon Brewing Co",
+      "city": "Vashon",
+      "phone": null,
+      "website": "http://www.vashonbrewingco.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Vessel Ales & Taphouse",
+      "city": "Woodinville",
+      "phone": "2066295024",
+      "website": "http://www.vesselwines.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Victor 23 Craft Brewery",
+      "city": "Vancouver",
+      "phone": "3609845413",
+      "website": "http://www.Victor23.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Waddell's Brewing Co.",
+      "city": "Spokane",
+      "phone": "5093217818",
+      "website": "http://www.waddellsbrewery.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Walking Man Brewing Co",
+      "city": "Stevenson",
+      "phone": "5094275520",
+      "website": "http://www.walkingmanbeer.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Wander Brewing",
+      "city": "Bellingham",
+      "phone": "3606476152",
+      "website": "http://www.wanderbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Wandering Hop Brewery",
+      "city": "Yakima",
+      "phone": "5099018011",
+      "website": "http://www.wanderinghop.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Water Buffalo Brewery",
+      "city": "Walla Walla",
+      "phone": "5092407139",
+      "website": "http://www.waterbuffalobrewery.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Watts Brewing Company",
+      "city": "Woodinville",
+      "phone": "2066583646",
+      "website": "http://www.wattsbrewingcompany.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Well 80 Brewing Company",
+      "city": "Olympia",
+      "phone": "3609156653",
+      "website": "http://www.well80.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Wenatchee Valley Brewing Co.",
+      "city": "Wenatchee",
+      "phone": "5098888088",
+      "website": "http://wenatcheevalleybrewing.com/",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "West Seattle Brewing Co",
+      "city": "Seattle",
+      "phone": "2064050972",
+      "website": "http://www.westseattlebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "West Seattle Brewing Co (TapShack)",
+      "city": "Seattle",
+      "phone": "2064204523",
+      "website": "http://www.westseattlebrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Western Red Brewing",
+      "city": "Poulsbo",
+      "phone": "3606261280",
+      "website": "http://westernredbrewing.com",
+      "category": "beer",
+      "brewery_type": "brewpub"
+    },
+    {
+      "name": "Wet Coast Brewing Co.",
+      "city": "Gig Harbor",
+      "phone": "2534324966",
+      "website": "http://www.wetcoastbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Whipsaw Brewing LLC",
+      "city": "Ellensburg",
+      "phone": "5099685111",
+      "website": "http://www.whipsawbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Whistle Punk Brewing Company",
+      "city": "Spokane",
+      "phone": "5093154465",
+      "website": "http://www.whistlepunkbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "White Bluffs Brewing",
+      "city": "Richland",
+      "phone": "5095547059",
+      "website": "http://www.whitebluffsbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Whitewall Brewing Company",
+      "city": "Marysville",
+      "phone": "3604540464",
+      "website": "http://www.whitewallbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Wicked Teuton Brewing",
+      "city": "Oak Harbor",
+      "phone": "3608625011",
+      "website": "http://wickedteutonbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Wild Oak Project",
+      "city": "Everett",
+      "phone": "2069724505",
+      "website": "https://wildoakproject.com",
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Willapa Brewing Co",
+      "city": "South Bend",
+      "phone": "3608758398",
+      "website": "https://www.willapabrewingco.com",
+      "category": "beer",
+      "brewery_type": "nano"
+    },
+    {
+      "name": "Wingman Brewers",
+      "city": "Tacoma",
+      "phone": "2532565240",
+      "website": "http://www.wingmanbrewers.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    },
+    {
+      "name": "Woods Cabin Brewery",
+      "city": "Yarrow Point",
+      "phone": "4258945483",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "planning"
+    },
+    {
+      "name": "Yakima Craft Brewing Co",
+      "city": "Yakima",
+      "phone": "5096547357",
+      "website": "http://www.yakimacraftbrewing.com",
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Yakima Valley Hops",
+      "city": "Yakima",
+      "phone": "2086494677",
+      "website": null,
+      "category": "beer",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Young Buck Brewing",
+      "city": "Spokane",
+      "phone": "5092703306",
+      "website": "http://www.youngbuckbrewing.com",
+      "category": "beer",
+      "brewery_type": "closed"
+    }
+  ]
+}

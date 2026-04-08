@@ -1,0 +1,1201 @@
+{
+  "source": "WA Liquor and Cannabis Board - Craft Distillery, Distiller/Rectifier, and Fruit Distiller Lists",
+  "source_url": "https://lcb.wa.gov/records/frequently-requested-lists",
+  "extracted_date": "2026-04-07",
+  "type": "distillery",
+  "count": 149,
+  "entries": [
+    {
+      "name": "2 Bar",
+      "city": "Seattle",
+      "license_number": "409357",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "2 Loons Distillery",
+      "city": "Loon Lake",
+      "license_number": "410812",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "509 Spirits Llc",
+      "city": "Centralia",
+      "license_number": "437383",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Admiralty Distillers",
+      "city": "Port Townsend",
+      "license_number": "411552",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Adrift Distillers",
+      "city": "Long Beach",
+      "license_number": "423398",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Alphabet Vodka",
+      "city": "Seattle",
+      "license_number": "418370",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Anderson Creek Farm Llc",
+      "city": "Gold Bar",
+      "license_number": "436101",
+      "license_type": "Craft Distillery",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Backbeat Distillery",
+      "city": "Battle Ground",
+      "license_number": "406322",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Bainbridge Organic Distillers",
+      "city": "Bainbridge Island",
+      "license_number": "404539",
+      "license_type": "Craft Distillery",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Battle Crest Distillary",
+      "city": "Battle Ground",
+      "license_number": "411762",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Bellewood Distilling",
+      "city": "Lynden",
+      "license_number": "408920",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Bellwether Yard",
+      "city": "Hoquiam",
+      "license_number": "409230",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Black Heron Spirits",
+      "city": "West Richland",
+      "license_number": "406302",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Black Moon Bitters Llc",
+      "city": "Seattle",
+      "license_number": "433172",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Black Ring Spirits",
+      "city": "Port Orchard",
+      "license_number": "427162",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Blackfish Spirits Distillery",
+      "city": "Auburn",
+      "license_number": "411918",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Blue Spirits Distilling",
+      "city": "Leavenworth",
+      "license_number": "409297",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Bluewater Distilling",
+      "city": "Everett",
+      "license_number": "418936",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Bowman Orchards",
+      "city": "Moses Lake",
+      "license_number": "404499",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Brovo Spirits",
+      "city": "Woodinville",
+      "license_number": "411139",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Brown Family Spirits",
+      "city": "Walla Walla",
+      "license_number": "435407",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Browne Family Spirits",
+      "city": "Spokane",
+      "license_number": "422892",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Canoe Ridge",
+      "city": "Paterson",
+      "license_number": "401887",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Captain Kenn'S High Spirits",
+      "city": "Spangle",
+      "license_number": "436611",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Captive Spirits",
+      "city": "Seattle",
+      "license_number": "424728",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Cash Butte Distillery",
+      "city": "Royal City",
+      "license_number": "425201",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Caudill Distillery",
+      "city": "Port Angeles",
+      "license_number": "423947",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Cedar Rain Spirits",
+      "city": "Dayton",
+      "license_number": "429142",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Centennial Spirits",
+      "city": "Snohomish",
+      "license_number": "419925",
+      "license_type": "Craft Distillery",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Chambers Bay Distillery",
+      "city": "University Place",
+      "license_number": "411779",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Chateau Ste. Michelle",
+      "city": "Woodinville",
+      "license_number": "401892",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Chuckanut Bay Distillery",
+      "city": "Bellingham",
+      "license_number": "428828",
+      "license_type": "Distiller/Rectifier",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Col Solare Winery",
+      "city": "Benton City",
+      "license_number": "402727",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Columbia Crest",
+      "city": "Paterson",
+      "license_number": "401891",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Copper Cat Distillery",
+      "city": "Woodinville",
+      "license_number": "410652",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Copperworks Distilling Company",
+      "city": "Seattle",
+      "license_number": "410888",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Crooked Neck Spirits",
+      "city": "Woodinville",
+      "license_number": "404505",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Cultus Bay Distillery",
+      "city": "Clinton",
+      "license_number": "419863",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Curtson Distillery",
+      "city": "Sultan",
+      "license_number": "434246",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Distillers Way",
+      "city": "Ferndale",
+      "license_number": "420276",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Dominion Distillery, Llc",
+      "city": "Kettle Falls",
+      "license_number": "407253",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Dry Fly Distilling Inc",
+      "city": "Spokane",
+      "license_number": "432347",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Duvall Distillery",
+      "city": "Duvall",
+      "license_number": "424744",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Dw Distilling",
+      "city": "Walla Walla",
+      "license_number": "403191",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Dwinell Country Ale",
+      "city": "Goldendale",
+      "license_number": "431819",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Elk Heights Distillery",
+      "city": "Ellensburg",
+      "license_number": "431694",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Ellensburg Distillery",
+      "city": "Ellensburg",
+      "license_number": "425422",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "F.Lli Centanni Distillery Inc",
+      "city": "Seattle",
+      "license_number": "437421",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Fast Penny Spirits",
+      "city": "Seattle",
+      "license_number": "424508",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Firewater Distillery, Llc",
+      "city": "Maple Valley",
+      "license_number": "435507",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Four Feathers Wine Estates",
+      "city": "Prosser",
+      "license_number": "431278",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Fremont Mischief",
+      "city": "Seattle",
+      "license_number": "406234",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Gabrielli Distillers",
+      "city": "Vancouver",
+      "license_number": "423732",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Ginkgo Distillery",
+      "city": "Mattawa",
+      "license_number": "407050",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Glacier Peak Spirits",
+      "city": "Rockport",
+      "license_number": "409874",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Glendale Shepherd",
+      "city": "Clinton",
+      "license_number": "437743",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Goat Valley Shine",
+      "city": "Graham",
+      "license_number": "437894",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Gr Distillery",
+      "city": "Benton City",
+      "license_number": "429380",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Grapeworks Distilling",
+      "city": "Zillah",
+      "license_number": "429605",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Hell'S Canyon Distillery",
+      "city": "Anatone",
+      "license_number": "436248",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Heritage Distilling Company",
+      "city": "Gig Harbor",
+      "license_number": "418676",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Heritage Distilling Company, Inc.",
+      "city": "Tumwater",
+      "license_number": "430528",
+      "license_type": "Distiller/Rectifier",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Hetterley'S Xxx Distilled Spirits",
+      "city": "Walla Walla",
+      "license_number": "083314",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Highside Distilling",
+      "city": "Bainbridge Island",
+      "license_number": "425627",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Huney",
+      "city": "Peshastin",
+      "license_number": "435426",
+      "license_type": "Distiller/Rectifier",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "James Bay Distillers",
+      "city": "Everett",
+      "license_number": "426335",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Jp Trodden",
+      "city": "Snohomish",
+      "license_number": "429181",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Karma Distillery",
+      "city": "Entiat",
+      "license_number": "407131",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "King Cider Distillery",
+      "city": "Vashon",
+      "license_number": "437206",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "King Distillery",
+      "city": "Centralia",
+      "license_number": "429427",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Lachselian Wine & Spirits",
+      "city": "Seattle",
+      "license_number": "408664",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Lajoye Cellars",
+      "city": "Auburn",
+      "license_number": "411726",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Last Chance Distilling",
+      "city": "Twisp",
+      "license_number": "436393",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Letterpress Distilling",
+      "city": "Seattle",
+      "license_number": "403003",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Lineage Distillery, Llc",
+      "city": "Bainbridge Island",
+      "license_number": "433953",
+      "license_type": "Distiller/Rectifier",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Lodgepole Distilling",
+      "city": "Seattle",
+      "license_number": "427126",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Madrona Distillery",
+      "city": "Redmond",
+      "license_number": "436060",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Manson Distillery",
+      "city": "Manson",
+      "license_number": "430108",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Mastrogiannis Distillery",
+      "city": "Lakewood",
+      "license_number": "421233",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Maury Island Whiskey",
+      "city": "Vashon",
+      "license_number": "433399",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Moses Lake Distillery",
+      "city": "Moses Lake",
+      "license_number": "431445",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Mountain Meadow Distillery",
+      "city": "Chattaroy",
+      "license_number": "428016",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Mr. E'S",
+      "city": "Moses Lake",
+      "license_number": "434329",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Nevermind Distillery",
+      "city": "Eastsound",
+      "license_number": "429208",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Nightside Distillery",
+      "city": "Edgewood",
+      "license_number": "410642",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Northstar",
+      "city": "Walla Walla",
+      "license_number": "401893",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Northwest Spirits",
+      "city": "Woodinville",
+      "license_number": "419234",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Oak Creek Brewstillery",
+      "city": "Naches",
+      "license_number": "429007",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Odelo Spirits",
+      "city": "Lopez Island",
+      "license_number": "435156",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Old Log Cabin Distillery",
+      "city": "Seattle",
+      "license_number": "408445",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Old Soldier Distillery",
+      "city": "Tacoma",
+      "license_number": "418667",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Olde Tyme Spirits",
+      "city": "Clayton",
+      "license_number": "426867",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Olympia Distilling Co",
+      "city": "Tumwater",
+      "license_number": "429120",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Oola Distillery",
+      "city": "Seattle",
+      "license_number": "431425",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Oomrang",
+      "city": "Stanwood",
+      "license_number": "427055",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Orcas Island Distillery",
+      "city": "Orcas",
+      "license_number": "418026",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Pacific Distillery",
+      "city": "Woodinville",
+      "license_number": "403552",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Paddock",
+      "city": "Pullman",
+      "license_number": "437424",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Pasayten Whiskey",
+      "city": "Mazama",
+      "license_number": "437377",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Phillippi Fruit Company",
+      "city": "Wenatchee",
+      "license_number": "408103",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Pleasant Hill Distillery",
+      "city": "Kelso",
+      "license_number": "432639",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Port Angeles Distilling Company",
+      "city": "Port Angeles",
+      "license_number": "418968",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Port Townsend Distillery",
+      "city": "Port Townsend",
+      "license_number": "436763",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Probably Shouldn'T Distillery",
+      "city": "Everson",
+      "license_number": "418539",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Puget Sound Rum Company",
+      "city": "Woodinville",
+      "license_number": "419294",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Pursuit Distilling Company",
+      "city": "Enumclaw",
+      "license_number": "422242",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Quartz Mountain Distillers",
+      "city": "Vancouver",
+      "license_number": "407527",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Rare Cane Ltd",
+      "city": "University Place",
+      "license_number": "431699",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Red Barn Farm",
+      "city": "Redmond",
+      "license_number": "426841",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Red Bridge Distillery Llc",
+      "city": "Cle Elum",
+      "license_number": "430146",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Rediviva Distilling",
+      "city": "Washougal",
+      "license_number": "429017",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Rustic Distillery",
+      "city": "College Place",
+      "license_number": "434612",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Sahalee Liquor Company",
+      "city": "Centralia",
+      "license_number": "434944",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "San Juan Island Distillery",
+      "city": "Friday Harbor",
+      "license_number": "408008",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Sandstone Distillery",
+      "city": "Tenino",
+      "license_number": "411011",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Scratch Distillery",
+      "city": "Edmonds",
+      "license_number": "418499",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Second Chance Spirits",
+      "city": "Prosser",
+      "license_number": "425531",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Sennzafinne",
+      "city": "Seattle",
+      "license_number": "434943",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Shawnee Hill Farm",
+      "city": "Vashon",
+      "license_number": "430869",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Sidetrack Distillery",
+      "city": "Kent",
+      "license_number": "406155",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Silver Spur Spirits",
+      "city": "Monroe",
+      "license_number": "423059",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Skybound Spirits",
+      "city": "Seattle",
+      "license_number": "418687",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Snowbridge Importing",
+      "city": "Seattle",
+      "license_number": "421747",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Solar Spirits Distillery",
+      "city": "Richland",
+      "license_number": "418143",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Speed Shift Distillery",
+      "city": "Ferndale",
+      "license_number": "431636",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Spirit Of The Hive",
+      "city": "Twisp",
+      "license_number": "433855",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Spring Valley Vineyard",
+      "city": "Walla Walla",
+      "license_number": "401895",
+      "license_type": "Fruit/Wine Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Spurgeon Creek Distillery",
+      "city": "Olympia",
+      "license_number": "411172",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Stock Twenty-One Distillery",
+      "city": "East Wenatchee",
+      "license_number": "423376",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Swede Hill Distillery",
+      "city": "Yakima",
+      "license_number": "409787",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Temple Distilling Company",
+      "city": "Lynnwood",
+      "license_number": "419060",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Terramar",
+      "city": "Bow",
+      "license_number": "429885",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "The Distillarium",
+      "city": "Yakima",
+      "license_number": "423502",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "The Hardware Distillery Co.",
+      "city": "Hoodsport",
+      "license_number": "407749",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Tradesmen Distillery",
+      "city": "Auburn",
+      "license_number": "429445",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Washington Creek Distillery",
+      "city": "Woodinville",
+      "license_number": "436191",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Westland",
+      "city": "Seattle",
+      "license_number": "409231",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Whidbey Island Distillery",
+      "city": "Langley",
+      "license_number": "405292",
+      "license_type": "Distiller/Rectifier",
+      "status": "EXPIRED",
+      "website": ""
+    },
+    {
+      "name": "Whiskey Tree Distilling",
+      "city": "Carson",
+      "license_number": "421357",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wild Spirits Distilling",
+      "city": "Prosser",
+      "license_number": "433966",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wildwood Spirits Co.",
+      "city": "Seattle",
+      "license_number": "434750",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wilridge",
+      "city": "Yakima",
+      "license_number": "425645",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wilridge Winery",
+      "city": "Yakima",
+      "license_number": "425652",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wise Fool Spirits",
+      "city": "Seattle",
+      "license_number": "431825",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Wohlfert Craft Distilling",
+      "city": "Snohomish",
+      "license_number": "431286",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Woodborne Spirits",
+      "city": "Tumwater",
+      "license_number": "436604",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Woodinville Whiskey Company",
+      "city": "Woodinville",
+      "license_number": "417474",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Woodland Meadow Farms",
+      "city": "Snohomish",
+      "license_number": "435546",
+      "license_type": "Craft Distillery",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    },
+    {
+      "name": "Zzaphoria Spirits",
+      "city": "Burlington",
+      "license_number": "429189",
+      "license_type": "Distiller/Rectifier",
+      "status": "ACTIVE (ISSUED)",
+      "website": ""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "Northwest Wine & Spirits",
+  "source_url": "https://nwwinespirits.com/",
+  "extracted_date": "2026-04-06",
+  "distributor": "Northwest Wine & Spirits",
+  "brands": [
+    {
+      "name": "All Star Wine Imports",
+      "category": "wine",
+      "notes": "Specialty wine importer"
+    },
+    {
+      "name": "Anderson Family Vineyard",
+      "category": "wine",
+      "notes": "Dundee Hills, Oregon. Pinot Noir, Pinot Gris, Dijon Chardonnay. Steep rocky slopes, organic farming."
+    },
+    {
+      "name": "Cedar Lane Vineyard",
+      "category": "wine",
+      "notes": "Carmel Valley Village, CA (Arroyo Seco AVA). Albariño (91 pts Wine Enthusiast). Grapes supplied to wineries since 2001; new label under Chesebro Wines."
+    },
+    {
+      "name": "Liberty House Wine Company",
+      "category": "wine",
+      "notes": "Specialty wine company"
+    },
+    {
+      "name": "Mongata Estate Winery",
+      "category": "wine",
+      "notes": "Milton Freewater, WA. Cabernet Sauvignon, Syrah, Rosé of Syrah. 92 pts (Sean Sullivan), 2022 Best Brick and Mortar Project."
+    },
+    {
+      "name": "Rain Shadows Winery",
+      "category": "wine",
+      "notes": "Rattlesnake Hills AVA, WA. Cabernet Sauvignon, Red Blend (Merlot, Syrah, Cabernet). Estate-grown, 100% Washington State."
+    },
+    {
+      "name": "StraItalian Winemakers",
+      "category": "wine",
+      "notes": "Castellina/Friuli, Italy. Pinot Grigio (92 pts Luca Maroni). 60 hectares of vineyards."
+    },
+    {
+      "name": "Amroth LLC",
+      "category": "spirits",
+      "notes": "Luxury & artist collaboration spirits. Brands include KISS Premium Rum & Gin, Def Leppard Animal & Rocket Gin, ROCK'N Vodka."
+    },
+    {
+      "name": "California Cowboy Whiskey",
+      "category": "spirits",
+      "notes": "Straight bourbon, higher corn content. Flavors: chocolate, vanilla, fruit, smoke."
+    },
+    {
+      "name": "King Distillery Vodka",
+      "category": "spirits",
+      "notes": "Made in Washington from 100% corn. 6X distilled. Gold Medal winner."
+    },
+    {
+      "name": "Luca Mariano",
+      "category": "spirits",
+      "notes": "Kentucky bourbon and rye aged in charred new oak. Family recipe, 100+ years, Danville, KY. 2022 John Barleycorn Awards: Double Gold, Best Rye."
+    },
+    {
+      "name": "Mezcal Popul Vuh",
+      "category": "spirits",
+      "notes": "Mezcal. Exclusive Washington state distributor agreement."
+    },
+    {
+      "name": "Tequila Leyenda",
+      "category": "spirits",
+      "notes": "100% handmade tequila from Mexico. Adobe ovens, natural fermentation."
+    },
+    {
+      "name": "Three Chord",
+      "category": "spirits",
+      "notes": "Bourbon and Bourbon Cream liqueur. Created by Neil Giraldo. Gold medal winner; Bourbon Cream won Best Liqueur Fall 2022 John Barleycorn Awards."
+    }
+  ]
+}

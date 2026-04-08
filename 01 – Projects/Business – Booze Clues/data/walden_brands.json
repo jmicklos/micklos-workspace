@@ -1,0 +1,24 @@
+{
+  "source": "Walden Selections",
+  "source_url": "https://www.waldenselections.com",
+  "extracted_date": "2026-04-07",
+  "distributor": "Walden Selections",
+  "brands": [
+    {
+      "name": "Walden Selections",
+      "category": "wine"
+    },
+    {
+      "name": "Distributor & Importer of wine, beer, cider & saké",
+      "category": "wine"
+    },
+    {
+      "name": "Newsletter signup",
+      "category": "wine"
+    },
+    {
+      "name": "New Account Setup form (TRADE ONLY)",
+      "category": "wine"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "source": "Maletis Beverage",
+  "source_url": "https://www.maletis.com/products/",
+  "extracted_date": "2026-04-07",
+  "distributor": "Maletis Beverage",
+  "brands": [
+    {
+      "name": "Maletis Beverage",
+      "category": "beer"
+    },
+    {
+      "name": "Oregon",
+      "category": "beer"
+    },
+    {
+      "name": "Washington",
+      "category": "beer"
+    },
+    {
+      "name": "OR BEER/NA",
+      "category": "beer"
+    },
+    {
+      "name": "OR WINE",
+      "category": "beer"
+    },
+    {
+      "name": "WA BEER/NA",
+      "category": "beer"
+    },
+    {
+      "name": "WA WINE",
+      "category": "beer"
+    },
+    {
+      "name": "EFT Setup",
+      "category": "beer"
+    },
+    {
+      "name": "Fintech (OR)",
+      "category": "beer"
+    },
+    {
+      "name": "Fintech (WA)",
+      "category": "beer"
+    },
+    {
+      "name": "Order Online",
+      "category": "beer"
+    },
+    {
+      "name": "DSD Link",
+      "category": "beer"
+    },
+    {
+      "name": "Sign Up for DSD Link",
+      "category": "beer"
+    },
+    {
+      "name": "CAREERS",
+      "category": "beer"
+    },
+    {
+      "name": "COMMUNITY",
+      "category": "beer"
+    },
+    {
+      "name": "MALETIS STORY",
+      "category": "beer"
+    },
+    {
+      "name": "DOCK SALES",
+      "category": "beer"
+    },
+    {
+      "name": "PRODUCTS",
+      "category": "beer"
+    },
+    {
+      "name": "ORDER ONLINE",
+      "category": "beer"
+    },
+    {
+      "name": "EFT SETUP",
+      "category": "beer"
+    },
+    {
+      "name": "PRICE BOOK",
+      "category": "beer"
+    },
+    {
+      "name": "OUR FACILITY",
+      "category": "beer"
+    },
+    {
+      "name": "PHOTO GALLERY",
+      "category": "beer"
+    },
+    {
+      "name": "MARKET COVERAGE",
+      "category": "beer"
+    },
+    {
+      "name": "SMS TERMS & CONDITIONS",
+      "category": "beer"
+    },
+    {
+      "name": "PORTLAND WEB DESIGN",
+      "category": "beer"
+    },
+    {
+      "name": "GRAVITATE",
+      "category": "beer"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source": "Fort George Distribution",
+  "source_url": "https://fortgeorgedistribution.com/brands/",
+  "extracted_date": "2026-04-07",
+  "distributor": "Fort George Distribution",
+  "brands": [
+    {
+      "name": "Fort George Distribution",
+      "category": "beer"
+    },
+    {
+      "name": "Craft Beer",
+      "category": "beer"
+    },
+    {
+      "name": "Cider",
+      "category": "beer"
+    },
+    {
+      "name": "Wine",
+      "category": "beer"
+    },
+    {
+      "name": "Ready to Drink Cocktails, Hard Seltzer, Hard Kombucha & Sake",
+      "category": "beer"
+    }
+  ]
+}

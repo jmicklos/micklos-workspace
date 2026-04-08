@@ -1,0 +1,786 @@
+{
+  "source": "Dickerson Distributors",
+  "source_url": "https://www.dickersondistributors.com/",
+  "extracted_date": "2026-04-06",
+  "distributor": "Dickerson Distributors",
+  "coverage": "Whatcom, Skagit, Island, San Juan counties",
+  "total_brands": 194,
+  "brands": [
+    {
+      "name": "top of page",
+      "category": "spirits"
+    },
+    {
+      "name": "Our Hours",
+      "category": "spirits"
+    },
+    {
+      "name": "M-F 8am-4pm",
+      "category": "spirits"
+    },
+    {
+      "name": "US Beer",
+      "category": "spirits"
+    },
+    {
+      "name": "Import Beer",
+      "category": "spirits"
+    },
+    {
+      "name": "Northwest Wines",
+      "category": "spirits"
+    },
+    {
+      "name": "California Wines",
+      "category": "spirits"
+    },
+    {
+      "name": "Import Wines",
+      "category": "spirits"
+    },
+    {
+      "name": "Non Alcoholic",
+      "category": "spirits"
+    },
+    {
+      "name": "NA Beer, Wine, & Spirits",
+      "category": "spirits"
+    },
+    {
+      "name": "Energy Drinks",
+      "category": "spirits"
+    },
+    {
+      "name": "Water, Juice/Lemonade, Kombucha, & Soda",
+      "category": "spirits"
+    },
+    {
+      "name": "CatalogsOff Premise CatalogsOn Premise Catalogs",
+      "category": "spirits"
+    },
+    {
+      "name": "Catalogs",
+      "category": "spirits"
+    },
+    {
+      "name": "Off Premise Catalogs",
+      "category": "spirits"
+    },
+    {
+      "name": "On Premise Catalogs",
+      "category": "spirits"
+    },
+    {
+      "name": "Events",
+      "category": "spirits"
+    },
+    {
+      "name": "New Customer Form",
+      "category": "spirits"
+    },
+    {
+      "name": "EFT",
+      "category": "spirits"
+    },
+    {
+      "name": "Customer Login",
+      "category": "spirits"
+    },
+    {
+      "name": "Northwest - Washington",
+      "category": "spirits"
+    },
+    {
+      "name": "Bellewood",
+      "category": "spirits"
+    },
+    {
+      "name": "Distillery",
+      "category": "spirits"
+    },
+    {
+      "name": "Copperworks",
+      "category": "spirits"
+    },
+    {
+      "name": "Bad Dog",
+      "category": "spirits"
+    },
+    {
+      "name": "Bainbridge",
+      "category": "spirits"
+    },
+    {
+      "name": "Organic Distillers",
+      "category": "spirits"
+    },
+    {
+      "name": "3 Howls",
+      "category": "spirits"
+    },
+    {
+      "name": "Fremont Mischief",
+      "category": "spirits"
+    },
+    {
+      "name": "Feather & Folly",
+      "category": "spirits"
+    },
+    {
+      "name": "Glass Distillery",
+      "category": "spirits"
+    },
+    {
+      "name": "JP Trodden",
+      "category": "spirits"
+    },
+    {
+      "name": "Distillers Way",
+      "category": "spirits"
+    },
+    {
+      "name": "Doc Swinson's & Outfitters",
+      "category": "spirits"
+    },
+    {
+      "name": "Terramar",
+      "category": "spirits"
+    },
+    {
+      "name": "Temple Distillery",
+      "category": "spirits"
+    },
+    {
+      "name": "Probably Shouldn't",
+      "category": "spirits"
+    },
+    {
+      "name": "Skip Rock",
+      "category": "spirits"
+    },
+    {
+      "name": "OOLA Distillery",
+      "category": "spirits"
+    },
+    {
+      "name": "Vido Distillery",
+      "category": "spirits"
+    },
+    {
+      "name": "Valley Shine",
+      "category": "spirits"
+    },
+    {
+      "name": "Northwest - Oregon",
+      "category": "spirits"
+    },
+    {
+      "name": "Rose City",
+      "category": "spirits"
+    },
+    {
+      "name": "Pilot House",
+      "category": "spirits"
+    },
+    {
+      "name": "Walter Collective",
+      "category": "spirits"
+    },
+    {
+      "name": "United States",
+      "category": "spirits"
+    },
+    {
+      "name": "Buck Bourbon",
+      "category": "spirits"
+    },
+    {
+      "name": "Frank-Lin Distilling",
+      "category": "spirits"
+    },
+    {
+      "name": "Beyond Vodka",
+      "category": "spirits"
+    },
+    {
+      "name": "Black Saddle",
+      "category": "spirits"
+    },
+    {
+      "name": "Frank-Lin Dis",
+      "category": "spirits"
+    },
+    {
+      "name": "tilling",
+      "category": "spirits"
+    },
+    {
+      "name": "Cream of",
+      "category": "spirits"
+    },
+    {
+      "name": "Kentucky",
+      "category": "spirits"
+    },
+    {
+      "name": "Crown Czar Vodka",
+      "category": "spirits"
+    },
+    {
+      "name": "Flaming Bull",
+      "category": "spirits"
+    },
+    {
+      "name": "Defrost Schnapps",
+      "category": "spirits"
+    },
+    {
+      "name": "Diamond Head",
+      "category": "spirits"
+    },
+    {
+      "name": "Gran Berri",
+      "category": "spirits"
+    },
+    {
+      "name": "Glacier Bay",
+      "category": "spirits"
+    },
+    {
+      "name": "J Seeds",
+      "category": "spirits"
+    },
+    {
+      "name": "Gran Citron",
+      "category": "spirits"
+    },
+    {
+      "name": "Infuse Spirits",
+      "category": "spirits"
+    },
+    {
+      "name": "Koenig Distilling",
+      "category": "spirits"
+    },
+    {
+      "name": "Lejon Brandy",
+      "category": "spirits"
+    },
+    {
+      "name": "Prohibition Pops",
+      "category": "spirits"
+    },
+    {
+      "name": "Midnight Moon",
+      "category": "spirits"
+    },
+    {
+      "name": "Moonshine",
+      "category": "spirits"
+    },
+    {
+      "name": "Potters Premium",
+      "category": "spirits"
+    },
+    {
+      "name": "Potters",
+      "category": "spirits"
+    },
+    {
+      "name": "Premium",
+      "category": "spirits"
+    },
+    {
+      "name": "Puerto Vallarta",
+      "category": "spirits"
+    },
+    {
+      "name": "Yellow Bird",
+      "category": "spirits"
+    },
+    {
+      "name": "Imports",
+      "category": "spirits"
+    },
+    {
+      "name": "Austria",
+      "category": "spirits"
+    },
+    {
+      "name": "Green Fairy",
+      "category": "spirits"
+    },
+    {
+      "name": "Stroh",
+      "category": "spirits"
+    },
+    {
+      "name": "Belgium",
+      "category": "spirits"
+    },
+    {
+      "name": "Biercee Gin",
+      "category": "spirits"
+    },
+    {
+      "name": "Canada",
+      "category": "spirits"
+    },
+    {
+      "name": "8 Seconds",
+      "category": "spirits"
+    },
+    {
+      "name": "Campbell & Cooper",
+      "category": "spirits"
+    },
+    {
+      "name": "CEO",
+      "category": "spirits"
+    },
+    {
+      "name": "Snake River",
+      "category": "spirits"
+    },
+    {
+      "name": "Western Canadian",
+      "category": "spirits"
+    },
+    {
+      "name": "Columbia",
+      "category": "spirits"
+    },
+    {
+      "name": "Parce",
+      "category": "spirits"
+    },
+    {
+      "name": "Croatia",
+      "category": "spirits"
+    },
+    {
+      "name": "Maraska",
+      "category": "spirits"
+    },
+    {
+      "name": "Dominican Rep.",
+      "category": "spirits"
+    },
+    {
+      "name": "Bacoo",
+      "category": "spirits"
+    },
+    {
+      "name": "France",
+      "category": "spirits"
+    },
+    {
+      "name": "Merlet",
+      "category": "spirits"
+    },
+    {
+      "name": "Sempe",
+      "category": "spirits"
+    },
+    {
+      "name": "Germany",
+      "category": "spirits"
+    },
+    {
+      "name": "Barenjager",
+      "category": "spirits"
+    },
+    {
+      "name": "Der Lachs Danziger",
+      "category": "spirits"
+    },
+    {
+      "name": "Kammer Williams",
+      "category": "spirits"
+    },
+    {
+      "name": "Par-D-Schatz",
+      "category": "spirits"
+    },
+    {
+      "name": "Schladerer",
+      "category": "spirits"
+    },
+    {
+      "name": "Schlichte Steinhaeger",
+      "category": "spirits"
+    },
+    {
+      "name": "Schoenauer",
+      "category": "spirits"
+    },
+    {
+      "name": "Silent Pool",
+      "category": "spirits"
+    },
+    {
+      "name": "Uerige",
+      "category": "spirits"
+    },
+    {
+      "name": "India",
+      "category": "spirits"
+    },
+    {
+      "name": "Antiquity",
+      "category": "spirits"
+    },
+    {
+      "name": "Old Monk XXX",
+      "category": "spirits"
+    },
+    {
+      "name": "Rampur",
+      "category": "spirits"
+    },
+    {
+      "name": "Royal Challenge",
+      "category": "spirits"
+    },
+    {
+      "name": "Signature",
+      "category": "spirits"
+    },
+    {
+      "name": "Ireland",
+      "category": "spirits"
+    },
+    {
+      "name": "Ballyhoo",
+      "category": "spirits"
+    },
+    {
+      "name": "Bertha's Revenge",
+      "category": "spirits"
+    },
+    {
+      "name": "Connacht",
+      "category": "spirits"
+    },
+    {
+      "name": "Duggan's",
+      "category": "spirits"
+    },
+    {
+      "name": "Irish Manor",
+      "category": "spirits"
+    },
+    {
+      "name": "Kinahan's",
+      "category": "spirits"
+    },
+    {
+      "name": "Italy",
+      "category": "spirits"
+    },
+    {
+      "name": "Costa Del Sole",
+      "category": "spirits"
+    },
+    {
+      "name": "Molinari",
+      "category": "spirits"
+    },
+    {
+      "name": "Tosolini",
+      "category": "spirits"
+    },
+    {
+      "name": "Vecchio",
+      "category": "spirits"
+    },
+    {
+      "name": "Japan",
+      "category": "spirits"
+    },
+    {
+      "name": "Hatozaki",
+      "category": "spirits"
+    },
+    {
+      "name": "Mexico",
+      "category": "spirits"
+    },
+    {
+      "name": "Coa Tequila",
+      "category": "spirits"
+    },
+    {
+      "name": "Craneo",
+      "category": "spirits"
+    },
+    {
+      "name": "Curado",
+      "category": "spirits"
+    },
+    {
+      "name": "Don Fulano",
+      "category": "spirits"
+    },
+    {
+      "name": "El Luchador",
+      "category": "spirits"
+    },
+    {
+      "name": "El Mezcalito",
+      "category": "spirits"
+    },
+    {
+      "name": "Gran Orendain",
+      "category": "spirits"
+    },
+    {
+      "name": "Granja Nomada",
+      "category": "spirits"
+    },
+    {
+      "name": "Magave",
+      "category": "spirits"
+    },
+    {
+      "name": "Orendain Ollitas",
+      "category": "spirits"
+    },
+    {
+      "name": "Puerta Vallarta",
+      "category": "spirits"
+    },
+    {
+      "name": "Rancho Alegre",
+      "category": "spirits"
+    },
+    {
+      "name": "Santa Clara",
+      "category": "spirits"
+    },
+    {
+      "name": "Tequila Arette",
+      "category": "spirits"
+    },
+    {
+      "name": "Tequila Orendain",
+      "category": "spirits"
+    },
+    {
+      "name": "Tesoro Mio",
+      "category": "spirits"
+    },
+    {
+      "name": "Netherlands",
+      "category": "spirits"
+    },
+    {
+      "name": "Verpoorten",
+      "category": "spirits"
+    },
+    {
+      "name": "Panama",
+      "category": "spirits"
+    },
+    {
+      "name": "Ron Abuelo",
+      "category": "spirits"
+    },
+    {
+      "name": "Ron Cortez",
+      "category": "spirits"
+    },
+    {
+      "name": "Mezan",
+      "category": "spirits"
+    },
+    {
+      "name": "Poland",
+      "category": "spirits"
+    },
+    {
+      "name": "Pravda",
+      "category": "spirits"
+    },
+    {
+      "name": "Stanislav",
+      "category": "spirits"
+    },
+    {
+      "name": "Russia",
+      "category": "spirits"
+    },
+    {
+      "name": "Mamont",
+      "category": "spirits"
+    },
+    {
+      "name": "Scotland",
+      "category": "spirits"
+    },
+    {
+      "name": "Signatory",
+      "category": "spirits"
+    },
+    {
+      "name": "Duggan's Dew",
+      "category": "spirits"
+    },
+    {
+      "name": "Edradour",
+      "category": "spirits"
+    },
+    {
+      "name": "Friar Cor",
+      "category": "spirits"
+    },
+    {
+      "name": "Lismore",
+      "category": "spirits"
+    },
+    {
+      "name": "McIvor",
+      "category": "spirits"
+    },
+    {
+      "name": "Miltonduff",
+      "category": "spirits"
+    },
+    {
+      "name": "Mossburn",
+      "category": "spirits"
+    },
+    {
+      "name": "Muirheads",
+      "category": "spirits"
+    },
+    {
+      "name": "Torabhaig",
+      "category": "spirits"
+    },
+    {
+      "name": "Serbia",
+      "category": "spirits"
+    },
+    {
+      "name": "Bistra",
+      "category": "spirits"
+    },
+    {
+      "name": "West Indies",
+      "category": "spirits"
+    },
+    {
+      "name": "Jolly Rogers",
+      "category": "spirits"
+    },
+    {
+      "name": "Redrum",
+      "category": "spirits"
+    },
+    {
+      "name": "Jamaica",
+      "category": "spirits"
+    },
+    {
+      "name": "bottom of page",
+      "category": "spirits"
+    },
+    {
+      "name": "top of page",
+      "category": "wine"
+    },
+    {
+      "name": "Our Hours",
+      "category": "wine"
+    },
+    {
+      "name": "M-F 8am-4pm",
+      "category": "wine"
+    },
+    {
+      "name": "US Beer",
+      "category": "wine"
+    },
+    {
+      "name": "Import Beer",
+      "category": "wine"
+    },
+    {
+      "name": "Northwest Wines",
+      "category": "wine"
+    },
+    {
+      "name": "California Wines",
+      "category": "wine"
+    },
+    {
+      "name": "Import Wines",
+      "category": "wine"
+    },
+    {
+      "name": "Non Alcoholic",
+      "category": "wine"
+    },
+    {
+      "name": "NA Beer, Wine, & Spirits",
+      "category": "wine"
+    },
+    {
+      "name": "Energy Drinks",
+      "category": "wine"
+    },
+    {
+      "name": "Water, Juice/Lemonade, Kombucha, & Soda",
+      "category": "wine"
+    },
+    {
+      "name": "CatalogsOff Premise CatalogsOn Premise Catalogs",
+      "category": "wine"
+    },
+    {
+      "name": "Catalogs",
+      "category": "wine"
+    },
+    {
+      "name": "Off Premise Catalogs",
+      "category": "wine"
+    },
+    {
+      "name": "On Premise Catalogs",
+      "category": "wine"
+    },
+    {
+      "name": "Events",
+      "category": "wine"
+    },
+    {
+      "name": "New Customer Form",
+      "category": "wine"
+    },
+    {
+      "name": "EFT",
+      "category": "wine"
+    },
+    {
+      "name": "Customer Login",
+      "category": "wine"
+    },
+    {
+      "name": "Footer",
+      "category": "wine"
+    },
+    {
+      "name": "bottom of page",
+      "category": "wine"
+    },
+    {
+      "name": "ERROR: PAGE NOT FOUND",
+      "category": "beer"
+    },
+    {
+      "name": "Go to Homepage",
+      "category": "beer"
+    }
+  ]
+}

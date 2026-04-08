@@ -1,0 +1,40 @@
+{
+  "source": "Alluvial Beverage Company",
+  "source_url": "http://www.alluvialbeveragecompany.com/our-winery-brands.html",
+  "extracted_date": "2026-04-07",
+  "distributor": "Alluvial Beverage Company",
+  "brands": [
+    {
+      "name": "Alluvial Beverage Company",
+      "category": "wine"
+    },
+    {
+      "name": "Picture",
+      "category": "wine"
+    },
+    {
+      "name": "Italy. Spain. France. Oregon. Washington. California. Argentina. Hawaii.",
+      "category": "wine"
+    },
+    {
+      "name": "Our Winery Brands",
+      "category": "wine"
+    },
+    {
+      "name": "Grape Vines",
+      "category": "wine"
+    },
+    {
+      "name": "Growler Pal",
+      "category": "wine"
+    },
+    {
+      "name": "Joel Simon",
+      "category": "wine"
+    },
+    {
+      "name": "Contact Us",
+      "category": "wine"
+    }
+  ]
+}

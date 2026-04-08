@@ -1,0 +1,405 @@
+{
+  "researched_date": "2026-04-07",
+  "distributors": [
+    {
+      "name": "ALLUVIAL BEVERAGE COMPANY",
+      "website": "http://www.alluvialbeveragecompany.com/",
+      "has_public_catalog": true,
+      "catalog_url": "http://www.alluvialbeveragecompany.com/our-winery-brands.html",
+      "order_platform": "SevenFifty (via Alluvial Wines)",
+      "size": "small",
+      "notes": "Full-service beverage platform for producers. Related entity Alluvial Wines (alluvialwine.com) is a broker/wholesale company. Imports from Italy, France, Argentina, California, Hawaii. Primarily Oregon-focused but listed as WA distributor in Sumner.",
+      "scrapeable": true
+    },
+    {
+      "name": "BIANCO-ROSSO IMPORTS",
+      "website": "https://biancorossoimports.com/",
+      "has_public_catalog": true,
+      "catalog_url": "http://www.biancorossoimports.com/Producers.html",
+      "order_platform": null,
+      "size": "small",
+      "notes": "Oldest existing wine importer-distributor in WA (founded 1978). Premium wine, beer, spirits. Focus on sustainable/terroir wines. Also represents Louis/Dressner, Portovino, Wine Traditions portfolios. Covers greater Puget Sound area.",
+      "scrapeable": true
+    },
+    {
+      "name": "BLOCK 15 DISTRIBUTION",
+      "website": "https://www.block15distribution.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://www.block15distribution.com/brands",
+      "order_platform": null,
+      "size": "small",
+      "notes": "Craft-only distributor est. 2020 from Block 15 Brewing (Corvallis, OR). Brands: Block 15 Brewing, ColdFire, de Garde, Ferment, Helvetia Cider, Level Beer, Wayfinder. 400+ retail accounts in Oregon and SW Washington.",
+      "scrapeable": true
+    },
+    {
+      "name": "CHATEAU STE. MICHELLE",
+      "website": "https://www.ste-michelle.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "large",
+      "notes": "WA's founding winery, not a traditional distributor. Self-distributes their own wines (Riesling, Cab, Chard, Merlot, Rose). Woodinville HQ. Owned portfolio only - no third-party brands. Major producer, not a multi-brand distributor.",
+      "scrapeable": false
+    },
+    {
+      "name": "CHERRY HILL WINE & SPIRITS",
+      "website": "https://www.cherryhillwine.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://www.cherryhillwine.com/suppliers",
+      "order_platform": null,
+      "size": "small",
+      "notes": "Boutique wine and spirits distributor serving restaurants and retailers throughout WA. Portfolio includes Beauchamp Imports, Denning's Point Distillery, Daughters and Sons, Bordeaux Wine Locators, Chateau Carignan, House of Burgundy, Hanzell Vineyards. 10-50 employees. Seattle-based.",
+      "scrapeable": true
+    },
+    {
+      "name": "CLATSOP DISTRIBUTING COMPANY",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Beer-focused distributor in Chinook, WA. Distributes Anheuser-Busch, Widmer, Red Hook in southern Pacific County and Wahkiakum County. ~26 employees. Very regional/rural coverage.",
+      "scrapeable": false
+    },
+    {
+      "name": "CO-HO IMPORTS",
+      "website": "https://cohoimports.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://cohoimports.com/collections",
+      "order_platform": "eCOHO (proprietary B2B platform)",
+      "size": "medium",
+      "notes": "Asian beverage specialist since 2004. Premium imported beer, wine, sake, spirits. Key brands: Jinro, Hite, HWAYO, Kweichow Moutai, various Japanese sakes/shochu. Serves WA, OR, ID, AK. Everett HQ. Strong ethnic/Asian market focus.",
+      "scrapeable": true
+    },
+    {
+      "name": "FORT GEORGE DISTRIBUTION",
+      "website": "https://fortgeorgedistribution.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://fortgeorgedistribution.com/brands/",
+      "order_platform": null,
+      "size": "small",
+      "notes": "Craft-only distributor in Ilwaco, WA. 100+ beer, wine, cider, kombucha brands from the Northwest. Covers Northern Oregon and SW Washington coast. Affiliated with Fort George Brewery. Very regional.",
+      "scrapeable": true
+    },
+    {
+      "name": "GLOBAL IMPORTING GROUP",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "medium",
+      "notes": "Largest importer/distributor of Eastern European foods in OR and WA. 1500+ imported food and beverage products. Warehouses in Portland and Renton. Primarily a food distributor with beverages as secondary. Not a traditional alcohol distributor.",
+      "scrapeable": false
+    },
+    {
+      "name": "GRAPE AND GRAIN",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "No web presence found for a Walla Walla WA distributor by this name. The only 'Grape and Grain' found is an Australian company. May be very small, defunct, or operating under a different name.",
+      "scrapeable": false
+    },
+    {
+      "name": "H WINES",
+      "website": "https://hwines.us/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Wine importer and distributor in WA focused on terroir-driven wines. Minimal web presence - just a landing page. Contact: contact@hwines.us.",
+      "scrapeable": false
+    },
+    {
+      "name": "HANMI",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Hanmi Inc. located at 8040 S 192nd St, Kent, WA 98032. Listed as WA distributor but no website or public catalog found. Likely Asian market focused based on name and Kent location.",
+      "scrapeable": false
+    },
+    {
+      "name": "HARBOR PACIFIC BOTTLING",
+      "website": "https://harborpacific.us/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "medium",
+      "notes": "Independent Pepsi-Cola franchisee since 1957. Distributes soft drinks, sports drinks, teas, coffee, water, energy drinks, snacks. NOT an alcohol distributor - purely non-alcoholic beverages. Serves Grays Harbor and Pacific counties.",
+      "scrapeable": false
+    },
+    {
+      "name": "HUA REN",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Hua Ren LLC registered in Seattle (601 1st Ave Ste 102). Established Jan 2024. No website or public info about product portfolio. Likely very new/small operation.",
+      "scrapeable": false
+    },
+    {
+      "name": "KING BEVERAGE",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "large",
+      "notes": "Major Anheuser-Busch wholesale distributor. Facilities in Union Gap, Benton City, Centralia, and Spokane Valley (HQ). Building new West Plains distribution center. Primarily macro beer distributor. Large operation but focused on AB InBev portfolio.",
+      "scrapeable": false
+    },
+    {
+      "name": "LATITUDE WINES",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "medium",
+      "notes": "Based in Danville, CALIFORNIA - not Washington. Connects retailers with 250+ suppliers, imports 1.5M+ bottles monthly. Founded 2004, 11-50 employees. Operates as a sourcing liaison between retailers and suppliers rather than a traditional distributor. Not WA-local.",
+      "scrapeable": false
+    },
+    {
+      "name": "LILAC IMPORTS",
+      "website": "https://www.lilacimports.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Wine and spirits importer focused on the west coast. Started with Spanish wines. Minimal web presence. Seattle-based.",
+      "scrapeable": false
+    },
+    {
+      "name": "MACH FLYNT",
+      "website": "https://www.dcflyntmw.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "medium",
+      "notes": "MACH Flynt Inc./DC Flynt MW Selections. HQ in Lake Charles, Louisiana. National distributor licensed in 38+ states. 34 brands. Imports/exports/brokers wine and spirits. WA wines from Columbia Valley. Not a WA-local company despite Kent listing; national broker model.",
+      "scrapeable": false
+    },
+    {
+      "name": "MAGIC SPIRITS",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Magic Spirits Corporation at 11631 82nd Ave NE, Kirkland, WA 98034. Founded 2001. President: Leonid Kogan. ~10 employees. Import-focused, no website found. Likely Eastern European or specialty spirits importer.",
+      "scrapeable": false
+    },
+    {
+      "name": "MALETIS BEVERAGE",
+      "website": "https://www.maletis.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://www.maletis.com/products/",
+      "order_platform": null,
+      "size": "large",
+      "notes": "Major regional distributor founded 1935. ~400 employees. Portland HQ + Vancouver WA facility. Domestic/craft/import beer, cider, wine, champagne, sake, non-alcoholic. Brands include Breakside, Buoy, de Garde, Echigo, Bartles & Jaymes, etc. Covers SW WA and NW OR.",
+      "scrapeable": true
+    },
+    {
+      "name": "MALLARD LIBATIONS",
+      "website": "https://mallardlibations.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Boutique wine distributor bridging out-of-state wineries to WA market. Focus on lesser-known, smaller producers. Website exists but no public portfolio listing visible from search results.",
+      "scrapeable": false
+    },
+    {
+      "name": "MCLANE BEVERAGE DISTRIBUTION",
+      "website": "https://www.mclaneco.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "large",
+      "notes": "Berkshire Hathaway subsidiary. Massive national supply chain company. Lakewood WA is their Northwest distribution center (9611 45th Ave SW). Serves WA, OR, ID, MT, WY, AK. Grocery/convenience/foodservice distributor with alcohol division (Empire Distributors, Horizon Wine & Spirits). 20,000+ employees nationally.",
+      "scrapeable": false
+    },
+    {
+      "name": "MISA WASHINGTON",
+      "website": "https://www.misaimports.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://www.misaimports.com/spirits",
+      "order_platform": null,
+      "size": "medium",
+      "notes": "MISA Imports Inc. HQ in Dallas, TX. Global wine and spirits importer/distributor. Founded 1998. 7 US locations, serves 50 states, imports from 19 countries. Wines from France, Italy, South America + whiskey, cognac, gin, rum, tequila, mezcal, vodka, arak, liqueurs. Sumner WA location not confirmed but likely a warehouse.",
+      "scrapeable": true
+    },
+    {
+      "name": "MJ CASA TEQUILA",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Located at 2024 Farman St N, Enumclaw, WA. Instagram presence (@mjcasatequila) but no website. Appears to be a small tequila brand/distributor. Very limited online presence.",
+      "scrapeable": false
+    },
+    {
+      "name": "MODA BEVERAGE",
+      "website": "https://modabeverage.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Founded May 2017 in Kent, WA. Distributes wine and spirits throughout Western WA, emphasis on metro King County. Fine wines from WA, OR, CA, Austria, Argentina, France, Germany, Italy. Joint venture with Pacific Edge Wine and Spirits for specialty spirits. Partners: Scott Carroll, Becky Loeb, Steve Loeb.",
+      "scrapeable": false
+    },
+    {
+      "name": "OWEN KOTLER SELECTIONS",
+      "website": "http://www.drinkokwines.com/",
+      "has_public_catalog": true,
+      "catalog_url": "http://www.drinkokwines.com/about",
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Natural wine importer. Owner Owen Kotler based in Seattle (11310 35th Ave NE, not Sumner). Focus on organic/natural wines without lab yeasts or additives. Listed on RAW WINE. Divides time between Seattle and New York. Small artisan importer.",
+      "scrapeable": true
+    },
+    {
+      "name": "OUT OF THE BOX DISTRIBUTING",
+      "website": "https://www.outoftheboxdistributing.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Craft spirits and wine distributor for WA State. Founded 2015 in Kingston, WA (8941 NE Eglon Rd). Supports small craft producers. Has distribution request form on website. Active status. Connected to Crabtree Brands.",
+      "scrapeable": false
+    },
+    {
+      "name": "POT O' GOLD",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Only finding for this name in Bellevue is 'Pot O Gold Coffee Service' at 13205 SE 30th St Suite 104. May be a coffee/beverage service rather than alcohol distributor, or may have alcohol distribution as secondary business. Unclear if this is actually an alcohol distributor.",
+      "scrapeable": false
+    },
+    {
+      "name": "PREMIUM BEVERAGES",
+      "website": "https://premiumbeveragesllc.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Importer and wholesale distributor of beers, wines, spirits, and non-alcoholic beverages specializing in ethnic market. Founded 2016 in Lynnwood, WA (6125 202nd St SW #2). ~6 employees. ~$350K annual revenue. Contact: Rupendhar Kanuri.",
+      "scrapeable": false
+    },
+    {
+      "name": "RADIO WINE CO.",
+      "website": "https://www.radiowineco.com",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Seattle-based natural wine importer, formerly Vin2U Wine Group. Focus on minimal intervention wines with native yeast. Website exists but portfolio details not publicly searchable from external search. Importer rather than traditional distributor.",
+      "scrapeable": false
+    },
+    {
+      "name": "SANDOVAL IMPORTS",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Listed in D&B business directory as located in Peshastin, WA. No website or public information found about products or operations. Very small/obscure operation.",
+      "scrapeable": false
+    },
+    {
+      "name": "SHO F&B",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "No website or meaningful public information found for 'SHO F&B' as a distributor in Tukwila, WA. May be very small or operating under a different public-facing name.",
+      "scrapeable": false
+    },
+    {
+      "name": "SOARING EAGLE DISTRIBUTION",
+      "website": "https://soaringeagledist.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Operated by Chehalis Tribal Enterprises. Very new - incorporated Aug 2024. Located at 11509 W 21st Ave Ste 700, Airway Heights, WA. Mailing: 420 Howanut Rd, Oakville, WA. Tribal enterprise distributor serving Eastern Washington counties. Website exists but catalog details unclear.",
+      "scrapeable": false
+    },
+    {
+      "name": "SOUTHBOUND DISTRIBUTING",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Craft beer distributor based in Vancouver, WA (3905 NW Grant St), not Longview as listed. Covers SW Washington from Vancouver to Olympia. Partners with craft breweries including StormBreaker, Caldera. Facebook and Instagram presence but no website. Contact: Chris@sbwholesales.com.",
+      "scrapeable": false
+    },
+    {
+      "name": "STEAMWORKS BREWING CO.",
+      "website": "https://steamworks.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "CANADIAN brewery based in Burnaby, BC (not Bellingham, WA). Founded 1995, originally in Vancouver BC Gastown. Self-distributes their own beer. Listed as WA distributor likely for cross-border distribution of their own products only.",
+      "scrapeable": false
+    },
+    {
+      "name": "TEQUILAS USA",
+      "website": "https://tequilasusa.com/",
+      "has_public_catalog": true,
+      "catalog_url": "https://tequilasusa.com/tequilas/",
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Vancouver, WA based tequila brand/distributor. Offers white/silver, rested, and aged tequilas. Serves Vancouver WA and Portland metro area. Website has product pages with tequila varieties and production process info.",
+      "scrapeable": true
+    },
+    {
+      "name": "THARRA COMPANY",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "LinkedIn and Facebook presence (listed as Bellevue WA, not Tukwila). Connected to Tharra Paani Vodka brand (flavored vodka). Appears to be a brand-owner/distributor for their own product line rather than multi-brand distributor.",
+      "scrapeable": false
+    },
+    {
+      "name": "THE WINE TRUST / TWT VINTNERS",
+      "website": "https://www.thewinetrust.com",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "The Wine Trust finds, imports and sells wines of distinction to restaurants, retailers and hospitality groups. Note: W.T. Vintners (wtvintners.com) is a SEPARATE company - a Woodinville winery, not a distributor. The Wine Trust is the actual distributor entity. Seattle-based importer.",
+      "scrapeable": false
+    },
+    {
+      "name": "UPTOWN WINE AND SPIRITS",
+      "website": "https://uptownwineandspirits.com/",
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "small",
+      "notes": "Website exists. Offers wine with hand-chosen selections at all price points. Can help with bar setup, wine menu selection, signature cocktail design. May function more as a retail/consulting operation than a pure wholesale distributor. Woodinville-based.",
+      "scrapeable": false
+    },
+    {
+      "name": "WONDERFUL LIFE DISTRIBUTION",
+      "website": null,
+      "has_public_catalog": false,
+      "catalog_url": null,
+      "order_platform": null,
+      "size": "tiny",
+      "notes": "Vancouver, WA (3001 SE Columbia Way). Also registered in Happy Valley, OR. WA business status is DELINQUENT. Officer: Gregory Thomas. Categorized as advertising supply/service distributor - may not be an active alcohol distributor. Likely defunct or non-alcohol.",
+      "scrapeable": false
+    }
+  ]
+}
