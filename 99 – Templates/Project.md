@@ -1,11 +1,14 @@
-<%* 
+<%*
 const title = await tp.system.prompt("Project name");
-await tp.file.rename(title);
+// Create project folder and move the note into it
+const folder = "01 – Projects/" + title;
+await app.vault.createFolder(folder);
+await tp.file.move(folder + "/" + title);
 %>---
 type: project
 area:
-status:
-next-review: 
+status: active
+next-review: <% tp.date.now("YYYY-MM-DD", 14) %>
 due:
 energy:
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -17,9 +20,9 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 (What must be true for this to be archived?)
 
 ## Next Actions
-- [ ] 
+- [ ]
 
 ## Waiting On
-- [ ] 
+- [ ]
 
 ## Notes

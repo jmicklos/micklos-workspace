@@ -31,6 +31,7 @@ export interface BrandResult {
   source_date: string | null;
   last_verified: string;
   product_count: number;
+  distributor_count: number;
 }
 
 export interface ProductResult {
@@ -66,6 +67,18 @@ export type SearchResult = BrandResult | ProductResult;
 // Search
 // ============================================================
 
+// Rank wa_availability: lower number = higher trust
+const WA_RANK = `CASE bd.wa_availability
+  WHEN 'community_verified' THEN 1
+  WHEN 'wa_confirmed' THEN 2
+  WHEN 'wa_self_distributed' THEN 3
+  WHEN 'wa_likely' THEN 4
+  WHEN 'wa_historical' THEN 5
+  WHEN 'wa_unknown' THEN 6
+  ELSE 7 END`;
+
+const WA_RANK_PD = WA_RANK.replace(/bd\./g, 'pd.');
+
 export function searchProducts(query: string, limit = 50, includeUnconfirmed = false): SearchResult[] {
   const db = getDb();
   const results: SearchResult[] = [];
@@ -74,19 +87,26 @@ export function searchProducts(query: string, limit = 50, includeUnconfirmed = f
   const waFilterPd = includeUnconfirmed ? '' : "AND pd.wa_availability != 'wa_unknown'";
 
   if (!query.trim()) {
-    // No query — return all brands
+    // No query — return best mapping per brand (deduplicated)
     const brands = db.prepare(`
       SELECT
         b.id as brand_id, b.name as brand_name, b.category,
         d.id as distributor_id, d.name as distributor_name, d.website as distributor_website, d.order_url as distributor_order_url, d.phone as distributor_phone,
         bd.wa_availability, bd.source, bd.source_date, bd.last_verified,
-        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count
+        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count,
+        (SELECT COUNT(DISTINCT distributor_id) FROM brand_distributor WHERE brand_id = b.id AND ended_at IS NULL ${waFilter}) as distributor_count
       FROM brand b
       JOIN brand_distributor bd ON bd.brand_id = b.id AND bd.ended_at IS NULL ${waFilter}
+        AND bd.id = (
+          SELECT bd2.id FROM brand_distributor bd2
+          WHERE bd2.brand_id = b.id AND bd2.ended_at IS NULL ${waFilter.replace(/bd\./g, 'bd2.')}
+          ORDER BY ${WA_RANK.replace(/bd\./g, 'bd2.')}, bd2.source_date DESC
+          LIMIT 1
+        )
       JOIN distributor d ON d.id = bd.distributor_id
       ORDER BY b.name
       LIMIT ?
-    `).all(limit) as (Omit<BrandResult, 'type'>)[];
+    `).all(limit) as (Omit<BrandResult, 'type'> & { distributor_count: number })[];
 
     return brands.map(b => ({ ...b, type: 'brand' as const }));
   }
@@ -94,21 +114,28 @@ export function searchProducts(query: string, limit = 50, includeUnconfirmed = f
   // Build FTS query
   const ftsQuery = query.replace(/['"]/g, '').split(/\s+/).filter(Boolean).map(t => `"${t}"*`).join(' ');
 
-  // Search brands via FTS
+  // Search brands via FTS — deduplicated to best mapping per brand
   try {
     const brandResults = db.prepare(`
       SELECT
         b.id as brand_id, b.name as brand_name, b.category,
         d.id as distributor_id, d.name as distributor_name, d.website as distributor_website, d.order_url as distributor_order_url, d.phone as distributor_phone,
         bd.wa_availability, bd.source, bd.source_date, bd.last_verified,
-        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count
+        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count,
+        (SELECT COUNT(DISTINCT distributor_id) FROM brand_distributor WHERE brand_id = b.id AND ended_at IS NULL ${waFilter}) as distributor_count
       FROM brand_fts fts
       JOIN brand b ON b.id = fts.rowid
       JOIN brand_distributor bd ON bd.brand_id = b.id AND bd.ended_at IS NULL ${waFilter}
+        AND bd.id = (
+          SELECT bd2.id FROM brand_distributor bd2
+          WHERE bd2.brand_id = b.id AND bd2.ended_at IS NULL ${waFilter.replace(/bd\./g, 'bd2.')}
+          ORDER BY ${WA_RANK.replace(/bd\./g, 'bd2.')}, bd2.source_date DESC
+          LIMIT 1
+        )
       JOIN distributor d ON d.id = bd.distributor_id
       ORDER BY fts.rank
       LIMIT ?
-    `).all(ftsQuery, limit) as (Omit<BrandResult, 'type'>)[];
+    `).all(ftsQuery, limit) as (Omit<BrandResult, 'type'> & { distributor_count: number })[];
 
     results.push(...brandResults.map(b => ({ ...b, type: 'brand' as const })));
   } catch {
@@ -119,14 +146,21 @@ export function searchProducts(query: string, limit = 50, includeUnconfirmed = f
         b.id as brand_id, b.name as brand_name, b.category,
         d.id as distributor_id, d.name as distributor_name, d.website as distributor_website, d.order_url as distributor_order_url, d.phone as distributor_phone,
         bd.wa_availability, bd.source, bd.source_date, bd.last_verified,
-        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count
+        (SELECT COUNT(*) FROM product WHERE brand_id = b.id) as product_count,
+        (SELECT COUNT(DISTINCT distributor_id) FROM brand_distributor WHERE brand_id = b.id AND ended_at IS NULL ${waFilter}) as distributor_count
       FROM brand b
       JOIN brand_distributor bd ON bd.brand_id = b.id AND bd.ended_at IS NULL ${waFilter}
+        AND bd.id = (
+          SELECT bd2.id FROM brand_distributor bd2
+          WHERE bd2.brand_id = b.id AND bd2.ended_at IS NULL ${waFilter.replace(/bd\./g, 'bd2.')}
+          ORDER BY ${WA_RANK.replace(/bd\./g, 'bd2.')}, bd2.source_date DESC
+          LIMIT 1
+        )
       JOIN distributor d ON d.id = bd.distributor_id
       WHERE b.name LIKE ?
       ORDER BY b.name
       LIMIT ?
-    `).all(likeQuery, limit) as (Omit<BrandResult, 'type'>)[];
+    `).all(likeQuery, limit) as (Omit<BrandResult, 'type'> & { distributor_count: number })[];
 
     results.push(...brandResults.map(b => ({ ...b, type: 'brand' as const })));
   }

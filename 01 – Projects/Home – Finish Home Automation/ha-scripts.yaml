@@ -1,0 +1,120 @@
+# Home Assistant Scripts
+# Paste each script into HA: Settings → Automations & Scenes → Scripts → Add → Edit in YAML
+# These are NOT auto-loaded — they must be created manually in HA.
+
+# ─────────────────────────────────────────
+# ADU Nighttime
+# ─────────────────────────────────────────
+# Turns off all interior lights except ADU bedroom, turns off all HVAC.
+# Leaves outdoor lights on (front yard, portico, deck).
+# Triggered via: script.adu_nighttime
+
+alias: ADU Nighttime
+description: Turn off all interior lights except ADU bedroom, turn off all HVAC
+icon: mdi:weather-night
+mode: single
+sequence:
+  - action: light.turn_off
+    target:
+      entity_id:
+        # ADU (except bedroom)
+        - light.overhead_dimmer_adu_office
+        - light.overhead_dimmer_adu_livingroom
+        - light.overhead_dimmer_adu_kitchen
+        - light.adu_kitchen_under_cabinet_light_group
+        - light.chandelier_adu_dining_room
+        - light.overhead_dimmer_adu_bathroom
+        - light.vanity_sconce_adu_bathroom
+        - light.wc_light_adu_bathroom
+        - light.sconce_dimmer_adu_stairwell
+        # Main floor
+        - light.foyer_overhead_switch
+        - light.study_canned_light_dimmer
+        - light.can_lights_kitchen
+        - light.overhead_lights_a
+        - light.overhead_lights_b
+        - light.under_cabinet_lights
+        - light.dining_room_chandelier_dimmer
+        - light.living_room_chandalier_dimmer
+        - light.stairwell_sconce_dimmer
+        # Top floor
+        - light.primary_bedroom_cans_dimmer
+        - light.primary_bedroom_sconces_dimmer
+        - light.kids_bedroom_overhead_dimmer
+        - light.kids_bathroom_dimmer
+  - action: climate.turn_off
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+        - climate.adu_bedroom_hvac_controller
+        - climate.kitchen_hvac_controller
+        - climate.study_hvac_controller
+        - climate.dining_room_hvac_controller
+        - climate.living_room_hvac_controller
+
+# ─────────────────────────────────────────
+# ADU Morning
+# ─────────────────────────────────────────
+# Turns on under-cabinet lights in ADU kitchen and main kitchen,
+# starts ADU living room HVAC at 21°C heat.
+# Triggered via: script.adu_morning
+
+alias: ADU Morning
+description: Under-cabinet lights on (ADU + main kitchen), ADU living room HVAC to 21°C
+icon: mdi:weather-sunny
+mode: single
+sequence:
+  - action: light.turn_on
+    target:
+      entity_id:
+        - light.adu_kitchen_under_cabinet_light_group
+        - light.under_cabinet_lights
+  - action: climate.set_temperature
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+    data:
+      hvac_mode: heat
+      temperature: 21
+
+# ─────────────────────────────────────────
+# All Lights Off
+# ─────────────────────────────────────────
+# Turns off all interior lights. Leaves outdoor lights on
+# (front yard, portico, deck entry lights).
+# Triggered via: script.all_lights_off
+
+alias: All Lights Off
+description: Turn off all interior lights (outdoor lights stay on)
+icon: mdi:lightbulb-off
+mode: single
+sequence:
+  - action: light.turn_off
+    target:
+      entity_id:
+        # ADU
+        - light.overhead_dimmer_adu_office
+        - light.overhead_dimmer_adu_livingroom
+        - light.overhead_dimmer_adu_kitchen
+        - light.adu_kitchen_under_cabinet_light_group
+        - light.overhead_dimmer_adu_bedroom
+        - light.chandelier_adu_dining_room
+        - light.overhead_dimmer_adu_bathroom
+        - light.vanity_sconce_adu_bathroom
+        - light.wc_light_adu_bathroom
+        - light.sconce_dimmer_adu_stairwell
+        # Main floor
+        - light.foyer_overhead_switch
+        - light.study_canned_light_dimmer
+        - light.can_lights_kitchen
+        - light.overhead_lights_a
+        - light.overhead_lights_b
+        - light.under_cabinet_lights
+        - light.dining_room_chandelier_dimmer
+        - light.living_room_chandalier_dimmer
+        - light.stairwell_sconce_dimmer
+        # Top floor
+        - light.primary_bedroom_cans_dimmer
+        - light.primary_bedroom_sconces_dimmer
+        - light.kids_bedroom_overhead_dimmer
+        - light.kids_bathroom_dimmer

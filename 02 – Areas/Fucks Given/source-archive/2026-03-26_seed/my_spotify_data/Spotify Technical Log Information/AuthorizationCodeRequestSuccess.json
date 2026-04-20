@@ -1,0 +1,461 @@
+[
+  {
+    "context_time": 1767139722661,
+    "message_event_id": "e9324c09-6deb-4594-b7e9-11a5a4defc09",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2025-12-31T00:08:42.661Z"
+  },
+  {
+    "context_time": 1767584328797,
+    "message_event_id": "30d0050a-d28a-48d1-a45c-36c00722f7bf",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-01-05T03:38:48.797Z"
+  },
+  {
+    "context_time": 1767200353209,
+    "message_event_id": "5e813ce0-8ed1-4e64-afca-94a57cf20f29",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2025-12-31T16:59:13.209Z"
+  },
+  {
+    "context_time": 1768110334021,
+    "message_event_id": "2d407634-7583-492a-95e9-4859dea53dde",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-01-11T05:45:34.021Z"
+  },
+  {
+    "context_time": 1768193440782,
+    "message_event_id": "f85350ea-e8f1-4bf6-ba97-7cd693ac67f0",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-01-12T04:50:40.782Z"
+  },
+  {
+    "context_time": 1767720253800,
+    "message_event_id": "f40ce714-71e8-4172-a402-795be9bc697b",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-01-06T17:24:13.800Z"
+  },
+  {
+    "context_time": 1766967540626,
+    "message_event_id": "e01cbaf4-4c79-4d08-9dc1-3917c2e4f3f3",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2025-12-29T00:19:00.626Z"
+  },
+  {
+    "context_time": 1774561354005,
+    "message_event_id": "a1c17d63-ac07-498e-8cf6-b7077a1c57c2",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:34.005Z"
+  },
+  {
+    "context_time": 1772687616200,
+    "message_event_id": "6a949089-4225-42fb-a767-8db81f9afb22",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-05T05:13:36.200Z"
+  },
+  {
+    "context_time": 1774561367793,
+    "message_event_id": "b1baaec7-067f-4b74-b189-6d41592f5d35",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:47.793Z"
+  },
+  {
+    "context_time": 1774561323980,
+    "message_event_id": "9a8bd3e5-3644-4540-a2fc-5f24100f1d74",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:03.980Z"
+  },
+  {
+    "context_time": 1774561371094,
+    "message_event_id": "5c58b136-0696-45ba-bc5c-e68bd2f21928",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:51.094Z"
+  },
+  {
+    "context_time": 1774561371056,
+    "message_event_id": "2d62cc3e-0229-4708-a3f7-e4b1de041c46",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:51.056Z"
+  },
+  {
+    "context_time": 1774566331614,
+    "message_event_id": "8365ddb0-0232-4921-a98b-7314c00c21fc",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T23:05:31.614Z"
+  },
+  {
+    "context_time": 1774561367804,
+    "message_event_id": "07965bfc-b716-4d23-a8fa-7d524c53d9db",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:47.804Z"
+  },
+  {
+    "context_time": 1774566331616,
+    "message_event_id": "c433458c-8aad-4f04-b32d-9ae0ded85de5",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T23:05:31.616Z"
+  },
+  {
+    "context_time": 1774561383049,
+    "message_event_id": "e8bd1ea7-e88e-4610-a496-56f2049083dd",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:43:03.049Z"
+  },
+  {
+    "context_time": 1774561367771,
+    "message_event_id": "dcbf1074-a0a4-4dad-93f5-92a8e248a9e0",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:47.771Z"
+  },
+  {
+    "context_time": 1773362892992,
+    "message_event_id": "29d3ad2b-4243-4c7c-8108-d770aca6a865",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-13T00:48:12.992Z"
+  },
+  {
+    "context_time": 1774561323989,
+    "message_event_id": "ee9989e5-66ea-42ad-9654-037bf45cabdc",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:03.989Z"
+  },
+  {
+    "context_time": 1771974015382,
+    "message_event_id": "",
+    "message_client_id": "1318e687d338481f9c58c868f9f871f0",
+    "message_scope": "user-follow-modify,user-library-read,user-library-modify,playlist-modify-public,user-read-email,user-read-recently-played,user-top-read",
+    "message_redirect_uri": "https://laylo.com/api/auth/spotify/callback",
+    "message_device_id": null,
+    "timestamp_utc": "2026-02-24T23:00:15.382Z"
+  },
+  {
+    "context_time": 1774561323995,
+    "message_event_id": "04ab76eb-c922-40b6-8e15-41badd3390b7",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:03.995Z"
+  },
+  {
+    "context_time": 1771973980474,
+    "message_event_id": "",
+    "message_client_id": "1318e687d338481f9c58c868f9f871f0",
+    "message_scope": "user-follow-modify,user-library-read,user-library-modify,playlist-modify-public,user-read-email,user-read-recently-played,user-top-read",
+    "message_redirect_uri": "https://laylo.com/api/auth/spotify/callback",
+    "message_device_id": null,
+    "timestamp_utc": "2026-02-24T22:59:40.474Z"
+  },
+  {
+    "context_time": 1774202517333,
+    "message_event_id": "0547b84a-f967-4ca2-891f-2197c0d7531e",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-22T18:01:57.333Z"
+  },
+  {
+    "context_time": 1774148400457,
+    "message_event_id": "a28ee7db-e920-4e2a-84b2-7153db489b40",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-22T03:00:00.457Z"
+  },
+  {
+    "context_time": 1771986728529,
+    "message_event_id": "6f8cb32e-af8b-452f-96b1-54e672f4077d",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-02-25T02:32:08.529Z"
+  },
+  {
+    "context_time": 1774561378381,
+    "message_event_id": "99e1ea86-313d-4d3d-8856-79640e4b4f86",
+    "message_client_id": "6cf79a93be894c2086b8cbf737e0796b",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://artists.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:58.381Z"
+  },
+  {
+    "context_time": 1770499038745,
+    "message_event_id": "d4d007e0-4e3a-4e5c-bf05-59d43ec1d20c",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-02-07T21:17:18.745Z"
+  },
+  {
+    "context_time": 1774232399493,
+    "message_event_id": "5ff72bb4-88a6-4e15-b9e7-326334ddc531",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-23T02:19:59.493Z"
+  },
+  {
+    "context_time": 1774566331607,
+    "message_event_id": "54d63ac4-1018-459a-bc39-0d2288ba837b",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T23:05:31.607Z"
+  },
+  {
+    "context_time": 1774561323993,
+    "message_event_id": "363ac98b-70f6-4517-8854-761a556c406f",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:03.993Z"
+  },
+  {
+    "context_time": 1774201004368,
+    "message_event_id": "36be91a5-5b94-4c41-86af-0801f3861d23",
+    "message_client_id": "9b377073ea334637b1406f329ce005de",
+    "message_scope": "streaming",
+    "message_redirect_uri": null,
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-22T17:36:44.368Z"
+  },
+  {
+    "context_time": 1774561354008,
+    "message_event_id": "425a8ff9-f77e-44a1-be71-0d6ce1eb2dfa",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:34.008Z"
+  },
+  {
+    "context_time": 1774561371073,
+    "message_event_id": "011233eb-0085-4fff-b78b-db2b1901b08f",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:51.073Z"
+  },
+  {
+    "context_time": 1774408756566,
+    "message_event_id": "d39c2477-2513-427f-8f96-656466f9a627",
+    "message_client_id": "5542c3e498034b63b9f35c044e186018",
+    "message_scope": "user-library-read,user-follow-read,user-top-read",
+    "message_redirect_uri": "shotgun://spotify",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-25T03:19:16.566Z"
+  },
+  {
+    "context_time": 1774561353964,
+    "message_event_id": "b4b48bfb-ccff-4d19-bb50-f00935559b49",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:33.964Z"
+  },
+  {
+    "context_time": 1774561367820,
+    "message_event_id": "9b45019e-aa6c-4c95-bba3-1bb7a6ea526f",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:47.820Z"
+  },
+  {
+    "context_time": 1774561354009,
+    "message_event_id": "9ffe26b6-1114-4d0e-b5ff-cd6db047e716",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:34.009Z"
+  },
+  {
+    "context_time": 1772403955395,
+    "message_event_id": "98ce005d-8cdf-4ed6-93d2-09ff0eb6ce85",
+    "message_client_id": "805f2916c4d64f3cb684aa991527168e",
+    "message_scope": "playlist-read-private,playlist-read-collaborative,streaming,user-follow-modify,user-library-read,user-personalized,user-follow-read,user-library-modify,radio-read,radio-modify,user-read-private,user-top-read",
+    "message_redirect_uri": "https://oauth-redirect.googleusercontent.com/r/account-linking-65ff0",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-01T22:25:55.395Z"
+  },
+  {
+    "context_time": 1774561371091,
+    "message_event_id": "70467c65-f42c-41d0-8420-04ab400335d5",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:51.091Z"
+  },
+  {
+    "context_time": 1774561383037,
+    "message_event_id": "169adb5c-48d5-4e10-a9c1-b1ac524a10e8",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:43:03.037Z"
+  },
+  {
+    "context_time": 1769804570868,
+    "message_event_id": "4504d2b5-6196-47f8-9903-99135d805cd7",
+    "message_client_id": "f87c03896d274ecf9d80f86e942202e1",
+    "message_scope": "playlist-read-private,streaming,playlist-modify-private,playlist-modify-public,user-read-private",
+    "message_redirect_uri": "shazam-spotifyoauth://spotifylogincallback/free",
+    "message_device_id": null,
+    "timestamp_utc": "2026-01-30T20:22:50.868Z"
+  },
+  {
+    "context_time": 1774561367790,
+    "message_event_id": "f8bef353-877b-4aef-832c-c42c625fe8f1",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:47.790Z"
+  },
+  {
+    "context_time": 1774561378352,
+    "message_event_id": "5454ce6d-755f-4c11-9715-98e122d69645",
+    "message_client_id": "6cf79a93be894c2086b8cbf737e0796b",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://artists.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:58.352Z"
+  },
+  {
+    "context_time": 1774561383088,
+    "message_event_id": "b4771e21-b0bd-4e1e-9ca1-91a8ba592d08",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:43:03.088Z"
+  },
+  {
+    "context_time": 1774561383055,
+    "message_event_id": "93e35dbc-1938-4f17-8e21-18f9da2755d9",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:43:03.055Z"
+  },
+  {
+    "context_time": 1774561323990,
+    "message_event_id": "77c6a8d2-f886-4c43-839f-7847face832b",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:03.990Z"
+  },
+  {
+    "context_time": 1774561383002,
+    "message_event_id": "76e91bd2-60f0-4a6b-9610-deb0e4f9f88f",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:43:03.002Z"
+  },
+  {
+    "context_time": 1774566331611,
+    "message_event_id": "ffd2a6f4-1639-4dea-884b-2c5c37382133",
+    "message_client_id": "e9d1d50fa1664f9390a6acf86aa3c46c",
+    "message_scope": "transfer-auth-session",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T23:05:31.611Z"
+  },
+  {
+    "context_time": 1774561353949,
+    "message_event_id": "d887e074-f2c9-48bf-a1a2-4e352cde9abf",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "ugc-image-upload,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:33.949Z"
+  },
+  {
+    "context_time": 1774561371090,
+    "message_event_id": "9f3ea9b4-3638-4830-bacb-891e6dc9d720",
+    "message_client_id": "31a0b2b20718446799a0f6adef1f2892",
+    "message_scope": "user-close-account,user-read-email,user-read-private",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_device_id": null,
+    "timestamp_utc": "2026-03-26T21:42:51.090Z"
+  }
+]

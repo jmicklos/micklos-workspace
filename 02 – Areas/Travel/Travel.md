@@ -11,7 +11,8 @@ created: 2026-02-23
 -
 
 ## Recurring Responsibilities
--
+- Plan winter getaway | cadence: annual | on: 09-01 | last-done:
+	- Start planning in September for winter travel
 
 ## 🟢 Active Projects
 

@@ -1,0 +1,630 @@
+# Home Automation Dashboard
+# Paste into HA: Settings → Dashboards → Add → Edit → Raw Configuration Editor
+#
+# Prerequisites:
+#   HVAC: Daikin integration via Faikin (6/7 live — top floor ducted pending)
+#   Lights: Smart switches via Zigbee (Zigbee2MQTT)
+#   Cameras: UniFi Protect integration
+#   Velux: VELUX Active KIX 300 gateway
+#   Media: Sonos + Samsung SmartThings
+#   Appliances: Home Connect (Miele)
+
+title: Home
+views:
+  # ═══════════════════════════════════════
+  # VIEW 0: QUICK ACTIONS
+  # ═══════════════════════════════════════
+  # Scripts must be created separately in HA:
+  # Settings → Automations & Scenes → Scripts → Add → Edit in YAML
+  # See ha-scripts.yaml in this folder for script definitions.
+  - title: Home
+    path: home
+    icon: mdi:home
+    type: sections
+    sections:
+      - type: grid
+        title: Modes
+        cards:
+          - type: tile
+            entity: input_boolean.vacation_mode
+            name: Vacation Mode
+            icon: mdi:airplane
+            color: orange
+
+      - type: grid
+        title: Quick Actions
+        cards:
+          - type: button
+            entity: script.adu_nighttime
+            name: ADU Nighttime
+            icon: mdi:weather-night
+            tap_action:
+              action: perform-action
+              perform_action: script.turn_on
+              target:
+                entity_id: script.adu_nighttime
+            show_state: false
+          - type: button
+            entity: script.adu_morning
+            name: ADU Morning
+            icon: mdi:weather-sunny
+            tap_action:
+              action: perform-action
+              perform_action: script.turn_on
+              target:
+                entity_id: script.adu_morning
+            show_state: false
+          - type: button
+            entity: script.all_lights_off
+            name: All Lights Off
+            icon: mdi:lightbulb-off
+            tap_action:
+              action: perform-action
+              perform_action: script.turn_on
+              target:
+                entity_id: script.all_lights_off
+            show_state: false
+
+  # ═══════════════════════════════════════
+  # VIEW 1: HVAC
+  # ═══════════════════════════════════════
+  - title: HVAC
+    path: hvac
+    icon: mdi:hvac
+    type: sections
+    sections:
+      # ── ADU ──
+      - type: grid
+        title: ADU
+        cards:
+          - type: thermostat
+            entity: climate.adu_living_room_hvac_controller
+            name: ADU Living Room
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+          - type: thermostat
+            entity: climate.adu_bedroom_hvac_controller
+            name: ADU Bedroom
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+
+      # ── Main Floor ──
+      - type: grid
+        title: Main Floor
+        cards:
+          - type: thermostat
+            entity: climate.kitchen_hvac_controller
+            name: Kitchen
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+          - type: thermostat
+            entity: climate.study_hvac_controller
+            name: Study
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+          - type: thermostat
+            entity: climate.dining_room_hvac_controller
+            name: Dining Room
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+          - type: thermostat
+            entity: climate.living_room_hvac_controller
+            name: Living Room
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+
+      # ── Top Floor ──
+      - type: grid
+        title: Top Floor
+        cards:
+          # TODO: Update entity ID once Faikin adapter is installed on FDMQ18
+          - type: thermostat
+            entity: climate.top_floor_hvac_controller
+            name: Top Floor (Ducted)
+            features:
+              - type: climate-hvac-modes
+                hvac_modes:
+                  - "off"
+                  - cool
+                  - heat
+                  - heat_cool
+                  - fan_only
+
+      # ── At a Glance ──
+      - type: grid
+        title: All Zones
+        cards:
+          - type: glance
+            title: Inside Temps
+            show_name: true
+            show_state: true
+            entities:
+              - entity: sensor.adu_living_room_hvac_controller_inside_temperature
+                name: ADU Living
+              - entity: sensor.adu_bedroom_hvac_controller_inside_temperature
+                name: ADU Bed
+              - entity: sensor.kitchen_hvac_controller_inside_temperature
+                name: Kitchen
+              - entity: sensor.study_hvac_controller_inside_temperature
+                name: Study
+              - entity: sensor.dining_room_hvac_controller_inside_temperature
+                name: Dining
+              - entity: sensor.living_room_hvac_controller_inside_temperature
+                name: Living
+          - type: glance
+            title: Outside Temp
+            show_name: true
+            show_state: true
+            entities:
+              - entity: sensor.kitchen_hvac_controller_outside_temperature
+                name: Outside
+
+  # ═══════════════════════════════════════
+  # VIEW 2: LIGHTS
+  # ═══════════════════════════════════════
+  - title: Lights
+    path: lights
+    icon: mdi:lightbulb-group
+    type: sections
+    sections:
+      # ── ADU ──
+      - type: grid
+        title: ADU
+        cards:
+          - type: light
+            entity: light.overhead_dimmer_adu_office
+            name: Office
+          - type: light
+            entity: light.overhead_dimmer_adu_livingroom
+            name: Living Room
+          - type: light
+            entity: light.overhead_dimmer_adu_kitchen
+            name: Kitchen Overhead
+          - type: light
+            entity: light.adu_kitchen_under_cabinet_light_group
+            name: Kitchen Under Cabinet
+          - type: light
+            entity: light.overhead_dimmer_adu_bedroom
+            name: Bedroom
+          - type: light
+            entity: light.chandelier_adu_dining_room
+            name: Dining Room
+          - type: light
+            entity: light.overhead_dimmer_adu_bathroom
+            name: Bathroom Overhead
+          - type: light
+            entity: light.vanity_sconce_adu_bathroom
+            name: Bathroom Vanity
+          - type: light
+            entity: light.wc_light_adu_bathroom
+            name: Bathroom WC
+          - type: light
+            entity: light.sconce_dimmer_adu_stairwell
+            name: Stairwell
+
+      # ── Main Floor ──
+      - type: grid
+        title: Main Floor
+        cards:
+          - type: light
+            entity: light.foyer_overhead_switch
+            name: Foyer
+          - type: light
+            entity: light.study_canned_light_dimmer
+            name: Study
+          - type: light
+            entity: light.can_lights_kitchen
+            name: Kitchen Cans
+          - type: light
+            entity: light.overhead_lights_a
+            name: Kitchen Overhead A
+          - type: light
+            entity: light.overhead_lights_b
+            name: Kitchen Overhead B
+          - type: light
+            entity: light.under_cabinet_lights
+            name: Kitchen Under Cabinet
+          - type: light
+            entity: light.dining_room_chandelier_dimmer
+            name: Dining Room
+          - type: light
+            entity: light.living_room_chandalier_dimmer
+            name: Living Room
+          - type: light
+            entity: light.stairwell_sconce_dimmer
+            name: Stairwell
+
+      # ── Top Floor ──
+      - type: grid
+        title: Top Floor
+        cards:
+          - type: light
+            entity: light.primary_bedroom_cans_dimmer
+            name: Primary Bedroom Cans
+          - type: light
+            entity: light.primary_bedroom_sconces_dimmer
+            name: Primary Bedroom Sconces
+          - type: light
+            entity: light.kids_bedroom_overhead_dimmer
+            name: Kids' Bedroom
+          - type: light
+            entity: light.kids_bathroom_dimmer
+            name: Kids' Bathroom
+
+      # ── Exterior ──
+      - type: grid
+        title: Exterior
+        cards:
+          - type: light
+            entity: light.portico_overhead_switch
+            name: Portico
+          - type: light
+            entity: light.outside_front_lights_plug_in
+            name: Front Yard
+          - type: light
+            entity: light.adu_entry_light
+            name: ADU Entry (Deck)
+          - type: light
+            entity: light.kitchen_entry_light
+            name: Kitchen Entry (Deck)
+          - type: light
+            entity: light.study_entry_light
+            name: Study Entry (Deck)
+
+  # ═══════════════════════════════════════
+  # VIEW 3: CAMERAS
+  # ═══════════════════════════════════════
+  - title: Cameras
+    path: cameras
+    icon: mdi:cctv
+    type: sections
+    sections:
+      # ── Doorbells ──
+      - type: grid
+        title: Doorbells
+        cards:
+          - type: picture-entity
+            entity: camera.front_doorbell_high_resolution_channel
+            name: Front Doorbell (Portico)
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.front_doorbell_package_camera
+            name: Front Package (Portico)
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.adu_doorbell_high_resolution_channel
+            name: ADU Doorbell (Deck)
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.adu_doorbell_package_camera
+            name: ADU Package (Deck)
+            show_state: false
+            show_name: true
+            camera_view: live
+
+      # ── Exterior Main Floor ──
+      - type: grid
+        title: Exterior Main Floor
+        cards:
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_8
+            name: NE Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.eastern_main_camera
+            name: E Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_3
+            name: SE Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_2
+            name: SW Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel
+            name: W Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_6
+            name: NW Main Floor
+            show_state: false
+            show_name: true
+            camera_view: live
+
+      # ── Exterior Top Floor ──
+      - type: grid
+        title: Exterior Top Floor
+        cards:
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_7
+            name: NE Upstairs
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_4
+            name: E Upstairs
+            show_state: false
+            show_name: true
+            camera_view: live
+          - type: picture-entity
+            entity: camera.g6_pro_bullet_high_resolution_channel_5
+            name: W Upstairs
+            show_state: false
+            show_name: true
+            camera_view: live
+
+
+  # ═══════════════════════════════════════
+  # VIEW 4: SKYLIGHTS
+  # ═══════════════════════════════════════
+  - title: Skylights
+    path: skylights
+    icon: mdi:window-open-variant
+    type: sections
+    sections:
+      - type: grid
+        title: Windows
+        cards:
+          - type: tile
+            entity: cover.velux_window_roof_window
+            name: Kids' Bedroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_window_roof_window_2
+            name: Primary Bedroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_window_roof_window_3
+            name: Main Stairwell
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_window_roof_window_4
+            name: Kids' Bathroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_window_roof_window_5
+            name: Kids' Closet 1
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_window_roof_window_6
+            name: Kids' Closet 2
+            features:
+              - type: cover-open-close
+              - type: cover-position
+
+      - type: grid
+        title: Blinds
+        cards:
+          - type: tile
+            entity: cover.velux_internal_cover_blinds
+            name: Kids' Closet
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_internal_cover_blinds_2
+            name: Kids' Bedroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_internal_cover_blinds_3
+            name: Primary Bedroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+          - type: tile
+            entity: cover.velux_internal_cover_blinds_4
+            name: Kids' Bathroom
+            features:
+              - type: cover-open-close
+              - type: cover-position
+
+  # ═══════════════════════════════════════
+  # VIEW 5: MEDIA
+  # ═══════════════════════════════════════
+  - title: Media
+    path: media
+    icon: mdi:speaker-multiple
+    type: sections
+    sections:
+      - type: grid
+        title: Sonos
+        cards:
+          - type: media-control
+            entity: media_player.living_room
+          - type: media-control
+            entity: media_player.kitchen
+          - type: media-control
+            entity: media_player.office
+          - type: media-control
+            entity: media_player.bedroom
+          - type: media-control
+            entity: media_player.bathroom
+
+      - type: grid
+        title: TV & Music
+        cards:
+          - type: media-control
+            entity: media_player.tv_samsung_the_frame_55
+          - type: media-control
+            entity: media_player.volumio
+
+  # ═══════════════════════════════════════
+  # VIEW 6: APPLIANCES
+  # ═══════════════════════════════════════
+  - title: Appliances
+    path: appliances
+    icon: mdi:washing-machine
+    type: sections
+    sections:
+      - type: grid
+        title: ADU Laundry
+        cards:
+          - type: entities
+            title: Washing Machine
+            entities:
+              - entity: sensor.adu_washing_machine
+                name: Status
+              - entity: sensor.adu_washing_machine_program
+                name: Program
+              - entity: sensor.adu_washing_machine_program_phase
+                name: Phase
+              - entity: sensor.adu_washing_machine_remaining_time
+                name: Time Remaining
+          - type: entities
+            title: Dryer
+            entities:
+              - entity: sensor.adu_dryer
+                name: Status
+              - entity: sensor.adu_dryer_program
+                name: Program
+              - entity: sensor.adu_dryer_program_phase
+                name: Phase
+              - entity: sensor.adu_dryer_remaining_time
+                name: Time Remaining
+
+      - type: grid
+        title: Dishwashers
+        cards:
+          - type: entities
+            title: ADU Dishwasher
+            entities:
+              - entity: sensor.adu_dishwasher_operation_state
+                name: Status
+              - entity: sensor.adu_dishwasher_door
+                name: Door
+              - entity: sensor.adu_dishwasher_program_progress
+                name: Progress
+              - entity: sensor.adu_dishwasher_program_finish_time
+                name: Finish Time
+          - type: entities
+            title: Kitchen Dishwasher West
+            entities:
+              - entity: sensor.dishwasher_operation_state
+                name: Status
+              - entity: sensor.dishwasher_door
+                name: Door
+              - entity: sensor.dishwasher_program_progress
+                name: Progress
+              - entity: sensor.dishwasher_program_finish_time
+                name: Finish Time
+          - type: entities
+            title: Kitchen Dishwasher East
+            entities:
+              - entity: sensor.dishwasher_operation_state_2
+                name: Status
+              - entity: sensor.dishwasher_door_2
+                name: Door
+              - entity: sensor.dishwasher_program_progress_2
+                name: Progress
+              - entity: sensor.dishwasher_program_finish_time_2
+                name: Finish Time
+
+  # ═══════════════════════════════════════
+  # VIEW 7: ENERGY
+  # ═══════════════════════════════════════
+  # Currently appliance-level only (Miele Home Connect).
+  # For whole-home monitoring, consider adding an Emporia Vue or Sense
+  # energy monitor, then use HA's built-in Energy Dashboard for cost tracking.
+  - title: Energy
+    path: energy
+    icon: mdi:lightning-bolt
+    type: sections
+    sections:
+      - type: grid
+        title: Washing Machine
+        cards:
+          - type: sensor
+            entity: sensor.adu_washing_machine_energy_consumption
+            name: Energy Used
+            graph: line
+          - type: sensor
+            entity: sensor.adu_washing_machine_water_consumption
+            name: Water Used
+            graph: line
+          - type: entities
+            title: Forecasts
+            entities:
+              - entity: sensor.adu_washing_machine_energy_forecast
+                name: Energy Forecast
+              - entity: sensor.adu_washing_machine_water_forecast
+                name: Water Forecast
+
+      - type: grid
+        title: Dryer
+        cards:
+          - type: sensor
+            entity: sensor.adu_dryer_energy_consumption
+            name: Energy Used
+            graph: line
+          - type: entities
+            title: Forecast
+            entities:
+              - entity: sensor.adu_dryer_energy_forecast
+                name: Energy Forecast

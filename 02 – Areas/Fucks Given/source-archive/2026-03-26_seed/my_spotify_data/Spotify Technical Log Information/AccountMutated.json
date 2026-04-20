@@ -1,0 +1,22 @@
+[
+  {
+    "context_time": 1771943985819,
+    "message_mutated_fields": [
+      "reporting_tag",
+      "product_period_id"
+    ],
+    "message_country": "US",
+    "message_password": false,
+    "message_deleted": false,
+    "message_disabled": false,
+    "message_employee": "\u0000",
+    "message_email_verified": null,
+    "message_is_email_verified": null,
+    "message_products": [
+      "premium"
+    ],
+    "message_new_user": false,
+    "message_password_invalidated": false,
+    "timestamp_utc": "2026-02-24T14:39:45.819Z"
+  }
+]

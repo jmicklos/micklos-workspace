@@ -11,7 +11,10 @@ created: 2026-02-14
 -
 
 ## Recurring Responsibilities
--
+- Dermatology checkup | cadence: annual | last-done: 2025-10-01
+	- Dermatology Arts, ~6 month intervals
+- Call in prescription | cadence: monthly | last-done:
+- Botox appointment | cadence: quarterly | last-done:
 
 ## 🟢 Active Projects
 

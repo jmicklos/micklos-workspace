@@ -12,8 +12,14 @@ created: 2026-02-14
 - Preventive maintenance over reactive fixes
 - Automation should reduce cognitive load
 
-## Recurring
-- Quarterly HVAC filter
+## Recurring Responsibilities
+- HVAC filter change | cadence: quarterly | on: first-week | last-done: 2026-03-31
+- Pay bills + financial check | cadence: monthly | on: last-weekend | last-done:
+	- Seattle Utilities
+	- Puget Sound Energy
+	- Credit card bill
+- Seattle RRIO permit check | cadence: monthly | on: last-weekend | last-done: 2026-04-06
+	- https://cosaccela.seattle.gov/portal/
 
 
 ## 🟢 Active Projects

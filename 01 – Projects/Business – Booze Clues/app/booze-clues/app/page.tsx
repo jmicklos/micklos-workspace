@@ -21,6 +21,7 @@ interface BrandResult {
   source_date: string | null;
   last_verified: string;
   product_count: number;
+  distributor_count: number;
 }
 
 interface ProductResult {
@@ -155,10 +156,23 @@ function DistributorLinks({ website, orderUrl, phone }: {
   );
 }
 
+interface AltDistributor {
+  distributor_id: number;
+  distributor_name: string;
+  distributor_website: string | null;
+  distributor_order_url: string | null;
+  distributor_phone: string | null;
+  wa_availability: string;
+  source: string;
+  source_date: string | null;
+}
+
 function BrandCard({ brand }: { brand: BrandResult }) {
   const [expanded, setExpanded] = useState(false);
   const [products, setProducts] = useState<ProductResult[]>([]);
   const [loadingProducts, setLoadingProducts] = useState(false);
+  const [showAltDists, setShowAltDists] = useState(false);
+  const [altDists, setAltDists] = useState<AltDistributor[]>([]);
   const conf = availabilityBadge(brand.wa_availability);
 
   const loadProducts = async () => {
@@ -201,6 +215,42 @@ function BrandCard({ brand }: { brand: BrandResult }) {
             </div>
           </div>
           <DistributorLinks website={brand.distributor_website} orderUrl={brand.distributor_order_url} phone={brand.distributor_phone} />
+          {brand.distributor_count > 1 && (
+            <button
+              onClick={async () => {
+                if (altDists.length > 0) { setShowAltDists(!showAltDists); return; }
+                const res = await fetch(`/api/brands/${brand.brand_id}/distributors`);
+                const data = await res.json();
+                setAltDists(data.distributors.filter((d: AltDistributor) => d.distributor_id !== brand.distributor_id));
+                setShowAltDists(true);
+              }}
+              className="mt-2 text-xs text-gray-500 hover:text-gray-700"
+            >
+              {showAltDists ? "Hide" : `Also carried by ${brand.distributor_count - 1} other distributor${brand.distributor_count - 1 !== 1 ? "s" : ""}`}
+            </button>
+          )}
+          {showAltDists && altDists.length > 0 && (
+            <div className="mt-2 space-y-2">
+              {altDists.map((d) => {
+                const altConf = availabilityBadge(d.wa_availability);
+                const altFresh = freshnessLabel(d.source_date);
+                return (
+                  <div key={d.distributor_id} className="pl-3 border-l-2 border-gray-200">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm font-medium text-gray-700">{d.distributor_name}</p>
+                        <div className="flex items-center gap-2">
+                          <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${altConf.color}`}>{altConf.text}</span>
+                          {altFresh && <span className={`text-xs ${altFresh.color}`}>{altFresh.text}</span>}
+                        </div>
+                      </div>
+                    </div>
+                    <DistributorLinks website={d.distributor_website} orderUrl={d.distributor_order_url} phone={d.distributor_phone} />
+                  </div>
+                );
+              })}
+            </div>
+          )}
         </div>
         {brand.product_count > 0 && (
           <button onClick={loadProducts} className="mt-3 text-sm text-blue-600 hover:text-blue-800 font-medium">

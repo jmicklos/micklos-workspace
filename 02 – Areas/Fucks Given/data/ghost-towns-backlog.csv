@@ -1,0 +1,40 @@
+location,region,type,access,priority,status,date_added,notes
+Satsop Nuclear Plant WA,PNW,abandoned_industrial,drive,immediate,not_visited,2026-03-26,"~90 min from Seattle. Two massive cooling towers abandoned mid-construction. Open and accessible. Brutalist scale in forest clearing. Do this soon."
+Melmont WA,PNW,ghost_town,drive,high,not_visited,2026-03-26,Coal mining ghost town - accessible
+Chesaw WA,PNW,ghost_town,drive,high,not_visited,2026-03-26,Small ghost town - SE Washington
+Govan WA,PNW,ghost_town,drive,high,not_visited,2026-03-26,Accessible
+Monte Cristo WA,PNW,ghost_town,drive,high,not_visited,2026-03-26,Former mining town - trail access
+Silver City ID,PNW,ghost_town,drive,high,not_visited,2026-03-26,Flight-or-drive
+Elkhorn MT,PNW,ghost_town,drive,medium,not_visited,2026-03-26,
+Granite Ghost Town MT,PNW,ghost_town,drive,medium,not_visited,2026-03-26,
+Ludlow CA,Mojave/Southwest,ghost_town,drive,high,not_visited,2026-03-26,"Classic Route 66 ghost town. Railroad water stop to motor court to bypassed by I-40. Crumbling motel old garage rusting cars small cemetery. Easy access."
+Newberry Springs CA,Mojave/Southwest,ghost_town,drive,high,not_visited,2026-03-26,Route 66 remnant - accessible
+Halloran Springs CA,Mojave/Southwest,ghost_town,drive,high,not_visited,2026-03-26,Route 66 remnant - accessible
+Desert Center CA,Mojave/Southwest,ghost_town,drive,high,not_visited,2026-03-26,Small desert town near Eagle Mountain
+Goldome Mill CA,Mojave/Southwest,mine_ruins,drive,medium,not_visited,2026-03-26,Mine ruins - accessible
+Eagle Mountain CA,Mojave/Southwest,abandoned_town,restricted,high,not_visited,2026-03-26,"Kaiser Steel company town ~4000 residents abandoned 1983. Complete suburban world. Used as film location for Tenet and The Island. Ceiling of this cluster. GATED/PRIVATE - active security. Pursue via Palm Springs Film Office for legitimate access."
+Dolores Lake AZ,Mojave/Southwest,unknown,drive,medium,not_visited,2026-03-26,Verify details
+Unnamed GPS AZ (33.2434N 111.9159W),Mojave/Southwest,unknown,drive,medium,not_visited,2026-03-26,East of Phoenix near South Mountains - verify what this is
+Three Kids Mine NV,Mojave/Southwest,mine_ruins,restricted,medium,not_visited,2026-03-26,"Henderson NV near Las Vegas. Manganese mine graffiti/industrial ruin. Likely off-limits - environmental remediation underway since May 2024. Planned 3000-home residential development. Verify status before planning."
+Atlas E Missile Site CO,US,abandoned_military,drive,medium,not_visited,2026-03-26,
+Experimental Breeder Reactor-I ID,US,abandoned_industrial,drive,medium,not_visited,2026-03-26,
+Mountain Home Titan Missile Silo ID,US,abandoned_military,drive,medium,not_visited,2026-03-26,
+Titan Missile Museum AZ,US,abandoned_military,drive,medium,not_visited,2026-03-26,
+Hanford Site WA,PNW,abandoned_industrial,restricted,high,not_visited,2026-03-26,Most contaminated nuclear site in Western hemisphere. Some portions accessible via tour.
+Pyramiden Svalbard,International,abandoned_town,flight,bucket_list,not_visited,2026-03-26,"Soviet mining town abandoned 1998 preserved at 78N. Lenin statue swimming pool intact Soviet interiors. Accessible only by boat or snowmobile from Longyearbyen. Crown jewel of the category - earns a dedicated trip."
+Oradour-Sur-Glane France,International,preserved_town,flight,bucket_list,not_visited,2026-03-26,"Entire town preserved as-is after 1944 Nazi massacre. Nothing touched. Frozen horror. Ceiling of the pilgrimage-tier sites."
+Chernobyl Exclusion Zone Ukraine,International,abandoned_zone,flight,bucket_list,not_visited,2026-03-26,Tour required. Guided access has expanded. Still the canonical abandonment photography destination.
+Six Flags New Orleans LA,US,abandoned_theme_park,flight,high,not_visited,2026-03-26,Abandoned theme park
+Bodie Ghost Town CA,US,ghost_town,drive,high,not_visited,2026-03-26,Best-preserved ghost town in the US
+Salton Sea CA,US,environmental_collapse,drive,high,not_visited,2026-03-26,Ongoing environmental collapse - surreal scale
+Craco Italy,International,ghost_town,flight,high,not_visited,2026-03-26,Medieval hilltop ghost town
+Varosha Cyprus,International,ghost_town,flight,high,not_visited,2026-03-26,Frozen since 1974 Turkish invasion. Resort ghost town. Slowly opening.
+Kayakoy Turkey,International,ghost_town,flight,medium,not_visited,2026-03-26,Greek ghost village
+Akarmara Abkhazia,International,ghost_town,flight,medium,not_visited,2026-03-26,Soviet resort town
+Kirovsky Kamchatka,International,ghost_town,flight,medium,not_visited,2026-03-26,
+Plymouth Montserrat,International,buried_town,flight,high,not_visited,2026-03-26,Buried by volcano 1995-1997
+Semipalatinsk Test Site Kazakhstan,International,abandoned_military,flight,medium,not_visited,2026-03-26,Soviet nuclear test site
+Aralsk-7 Kazakhstan,International,abandoned_military,flight,medium,not_visited,2026-03-26,Former Soviet bioweapons island in the Aral Sea
+R504 Kolyma Highway Russia,International,abandoned_infrastructure,flight,medium,not_visited,2026-03-26,"Road of Bones - Soviet Gulag construction"
+Chittagong / Alang Ship Breaking Yards Bangladesh,International,industrial,flight,medium,not_visited,2026-03-26,Industrial scale - atmospheric
+Runit Island Marshall Islands,International,abandoned_military,flight,medium,not_visited,2026-03-26,US nuclear test radioactive dome

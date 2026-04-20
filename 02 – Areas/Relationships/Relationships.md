@@ -11,7 +11,7 @@ created: 2026-02-14
 -
 
 ## Recurring Responsibilities
--
+- Weekly outing with Wan Ting | cadence: weekly | on: saturday | last-done:
 
 ## 🟢 Active Projects
 

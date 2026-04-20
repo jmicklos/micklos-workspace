@@ -11,7 +11,9 @@ created: 2026-02-14
 -
 
 ## Recurring Responsibilities
--
+- Tend to reading backlog | cadence: monthly | last-done:
+- Tend to restaurants backlog | cadence: monthly | last-done:
+- Tend to music backlog | cadence: monthly | last-done:
 
 
 ## 🟢 Active Projects

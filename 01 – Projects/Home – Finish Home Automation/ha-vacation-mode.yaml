@@ -1,0 +1,378 @@
+# Vacation Mode
+#
+# Four automations + one helper:
+#
+# Setup required in HA:
+# 1. Create input_boolean: Settings → Devices → Helpers → Add → Toggle
+#    Name: Vacation Mode
+#    Entity ID: input_boolean.vacation_mode
+#
+# 2. Create ALL FOUR automations below in HA:
+#    Settings → Automations → Add → Edit in YAML
+#    (split at each --- divider)
+#
+# 3. Dashboard toggle already in ha-dashboard.yaml
+#
+# How it works:
+# - Automation 1: Setup/teardown (skylights + HVAC baseline on toggle)
+# - Automation 2: Cold guard (any zone < 12°C → heat to 15°C)
+# - Automation 3: Hot guard (any zone > 30°C → cool to 27°C)
+# - Automation 4: Daily occupancy simulation (randomized lights)
+
+# ═════════════════════════════════════════
+# AUTOMATION 1: Vacation Mode Setup/Teardown
+# ═════════════════════════════════════════
+# On: closes skylights, sets all HVAC to heat at 12°C as baseline
+# Off: turns off all HVAC
+
+alias: Vacation Mode Setup
+description: Close skylights and set HVAC guard temperatures when vacation mode changes
+mode: single
+
+trigger:
+  - trigger: state
+    entity_id: input_boolean.vacation_mode
+
+action:
+  - choose:
+      # ── VACATION ON ──
+      - conditions:
+          - condition: state
+            entity_id: input_boolean.vacation_mode
+            state: "on"
+        sequence:
+          # Close all skylight windows
+          - action: cover.close_cover
+            target:
+              entity_id:
+                - cover.velux_window_roof_window
+                - cover.velux_window_roof_window_2
+                - cover.velux_window_roof_window_3
+                - cover.velux_window_roof_window_4
+                - cover.velux_window_roof_window_5
+                - cover.velux_window_roof_window_6
+
+          # Set all HVAC to heat at 12°C as default guard
+          - action: climate.set_hvac_mode
+            target:
+              entity_id:
+                - climate.adu_living_room_hvac_controller
+                - climate.adu_bedroom_hvac_controller
+                - climate.kitchen_hvac_controller
+                - climate.study_hvac_controller
+                - climate.dining_room_hvac_controller
+                - climate.living_room_hvac_controller
+            data:
+              hvac_mode: heat
+          - action: climate.set_temperature
+            target:
+              entity_id:
+                - climate.adu_living_room_hvac_controller
+                - climate.adu_bedroom_hvac_controller
+                - climate.kitchen_hvac_controller
+                - climate.study_hvac_controller
+                - climate.dining_room_hvac_controller
+                - climate.living_room_hvac_controller
+            data:
+              temperature: 12
+
+      # ── VACATION OFF ──
+      - conditions:
+          - condition: state
+            entity_id: input_boolean.vacation_mode
+            state: "off"
+        sequence:
+          - action: climate.turn_off
+            target:
+              entity_id:
+                - climate.adu_living_room_hvac_controller
+                - climate.adu_bedroom_hvac_controller
+                - climate.kitchen_hvac_controller
+                - climate.study_hvac_controller
+                - climate.dining_room_hvac_controller
+                - climate.living_room_hvac_controller
+
+---
+
+# ═════════════════════════════════════════
+# AUTOMATION 2: Cold Guard (always on)
+# ═════════════════════════════════════════
+# If any zone drops below 12°C, switch all zones to heat at 15°C.
+# Runs regardless of vacation mode — protects pipes year-round.
+
+alias: Cold Guard
+description: Heat all zones to 15°C if any zone drops below 12°C
+mode: single
+
+trigger:
+  - trigger: numeric_state
+    entity_id: sensor.adu_living_room_hvac_controller_inside_temperature
+    below: 12
+  - trigger: numeric_state
+    entity_id: sensor.adu_bedroom_hvac_controller_inside_temperature
+    below: 12
+  - trigger: numeric_state
+    entity_id: sensor.kitchen_hvac_controller_inside_temperature
+    below: 12
+  - trigger: numeric_state
+    entity_id: sensor.study_hvac_controller_inside_temperature
+    below: 12
+  - trigger: numeric_state
+    entity_id: sensor.dining_room_hvac_controller_inside_temperature
+    below: 12
+  - trigger: numeric_state
+    entity_id: sensor.living_room_hvac_controller_inside_temperature
+    below: 12
+
+condition: []
+
+action:
+  - action: climate.set_hvac_mode
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+        - climate.adu_bedroom_hvac_controller
+        - climate.kitchen_hvac_controller
+        - climate.study_hvac_controller
+        - climate.dining_room_hvac_controller
+        - climate.living_room_hvac_controller
+    data:
+      hvac_mode: heat
+  - action: climate.set_temperature
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+        - climate.adu_bedroom_hvac_controller
+        - climate.kitchen_hvac_controller
+        - climate.study_hvac_controller
+        - climate.dining_room_hvac_controller
+        - climate.living_room_hvac_controller
+    data:
+      temperature: 15
+
+---
+
+# ═════════════════════════════════════════
+# AUTOMATION 3: Hot Guard (always on)
+# ═════════════════════════════════════════
+# If any zone rises above 30°C, switch all zones to cool at 27°C.
+# Runs regardless of vacation mode — protects house year-round.
+
+alias: Hot Guard
+description: Cool all zones to 27°C if any zone rises above 30°C
+mode: single
+
+trigger:
+  - trigger: numeric_state
+    entity_id: sensor.adu_living_room_hvac_controller_inside_temperature
+    above: 30
+  - trigger: numeric_state
+    entity_id: sensor.adu_bedroom_hvac_controller_inside_temperature
+    above: 30
+  - trigger: numeric_state
+    entity_id: sensor.kitchen_hvac_controller_inside_temperature
+    above: 30
+  - trigger: numeric_state
+    entity_id: sensor.study_hvac_controller_inside_temperature
+    above: 30
+  - trigger: numeric_state
+    entity_id: sensor.dining_room_hvac_controller_inside_temperature
+    above: 30
+  - trigger: numeric_state
+    entity_id: sensor.living_room_hvac_controller_inside_temperature
+    above: 30
+
+condition:
+  - condition: state
+    entity_id: input_boolean.vacation_mode
+    state: "on"
+
+action:
+  - action: climate.set_hvac_mode
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+        - climate.adu_bedroom_hvac_controller
+        - climate.kitchen_hvac_controller
+        - climate.study_hvac_controller
+        - climate.dining_room_hvac_controller
+        - climate.living_room_hvac_controller
+    data:
+      hvac_mode: cool
+  - action: climate.set_temperature
+    target:
+      entity_id:
+        - climate.adu_living_room_hvac_controller
+        - climate.adu_bedroom_hvac_controller
+        - climate.kitchen_hvac_controller
+        - climate.study_hvac_controller
+        - climate.dining_room_hvac_controller
+        - climate.living_room_hvac_controller
+    data:
+      temperature: 27
+
+---
+
+# ═════════════════════════════════════════
+# AUTOMATION 4: Vacation Occupancy Simulation
+# ═════════════════════════════════════════
+# Runs daily at 5:00 AM when vacation mode is on.
+# Simulates a realistic day of light usage with randomized timing.
+# Pattern is different every day.
+
+alias: Vacation Occupancy Simulation
+description: Simulate realistic daily light patterns when on vacation
+mode: single
+
+trigger:
+  - trigger: time
+    at: "05:00:00"
+
+condition:
+  - condition: state
+    entity_id: input_boolean.vacation_mode
+    state: "on"
+
+action:
+  # ── Morning: Wake up (5:30–8:00) ──
+  - delay:
+      minutes: "{{ range(30, 180) | random }}"
+
+  - action: light.turn_on
+    target:
+      entity_id: light.overhead_dimmer_adu_bedroom
+
+  - delay:
+      minutes: "{{ range(5, 15) | random }}"
+  - action: light.turn_on
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_bathroom
+        - light.vanity_sconce_adu_bathroom
+
+  - delay:
+      minutes: "{{ range(20, 45) | random }}"
+  - action: light.turn_off
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_bedroom
+        - light.overhead_dimmer_adu_bathroom
+        - light.vanity_sconce_adu_bathroom
+
+  # ── Morning: Kitchen + living room ──
+  - action: light.turn_on
+    target:
+      entity_id:
+        - light.adu_kitchen_under_cabinet_light_group
+        - light.overhead_dimmer_adu_livingroom
+
+  # ~50% chance: also main house living/dining (WFH days)
+  - choose:
+      - conditions:
+          - condition: template
+            value_template: "{{ range(0, 2) | random == 1 }}"
+        sequence:
+          - delay:
+              minutes: "{{ range(10, 30) | random }}"
+          - action: light.turn_on
+            target:
+              entity_id:
+                - light.living_room_chandalier_dimmer
+                - light.dining_room_chandelier_dimmer
+
+  # ── Midday: Lights off ──
+  - delay:
+      minutes: "{{ range(120, 240) | random }}"
+  - action: light.turn_off
+    target:
+      entity_id:
+        - light.adu_kitchen_under_cabinet_light_group
+        - light.overhead_dimmer_adu_livingroom
+        - light.living_room_chandalier_dimmer
+        - light.dining_room_chandelier_dimmer
+
+  # ── Evening: Lights on before sunset ──
+  - wait_for_trigger:
+      - trigger: numeric_state
+        entity_id: sun.sun
+        attribute: elevation
+        below: 10
+    timeout: "18:00:00"
+    continue_on_timeout: true
+
+  - delay:
+      minutes: "{{ range(0, 20) | random }}"
+
+  - action: light.turn_on
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_livingroom
+        - light.adu_kitchen_under_cabinet_light_group
+
+  # ~40% chance: upstairs lights
+  - choose:
+      - conditions:
+          - condition: template
+            value_template: "{{ range(0, 5) | random < 2 }}"
+        sequence:
+          - delay:
+              minutes: "{{ range(15, 45) | random }}"
+          - action: light.turn_on
+            target:
+              entity_id:
+                - light.kids_bedroom_overhead_dimmer
+          - delay:
+              minutes: "{{ range(30, 90) | random }}"
+          - action: light.turn_off
+            target:
+              entity_id:
+                - light.kids_bedroom_overhead_dimmer
+
+  # ~30% chance: main floor lights
+  - choose:
+      - conditions:
+          - condition: template
+            value_template: "{{ range(0, 10) | random < 3 }}"
+        sequence:
+          - delay:
+              minutes: "{{ range(10, 30) | random }}"
+          - action: light.turn_on
+            target:
+              entity_id:
+                - light.living_room_chandalier_dimmer
+                - light.stairwell_sconce_dimmer
+          - delay:
+              minutes: "{{ range(45, 120) | random }}"
+          - action: light.turn_off
+            target:
+              entity_id:
+                - light.living_room_chandalier_dimmer
+                - light.stairwell_sconce_dimmer
+
+  # ── Bedtime (10 PM–midnight) ──
+  - wait_for_trigger:
+      - trigger: template
+        value_template: "{{ now().hour >= 22 }}"
+    timeout: "06:00:00"
+    continue_on_timeout: true
+
+  - delay:
+      minutes: "{{ range(0, 120) | random }}"
+
+  - action: light.turn_off
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_livingroom
+        - light.adu_kitchen_under_cabinet_light_group
+  - action: light.turn_on
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_bedroom
+
+  - delay:
+      minutes: "{{ range(20, 40) | random }}"
+
+  - action: light.turn_off
+    target:
+      entity_id:
+        - light.overhead_dimmer_adu_bedroom

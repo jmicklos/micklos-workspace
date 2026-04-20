@@ -1,0 +1,218 @@
+city,name,type,google_rating,status,source,source_date,notes
+NYC,Kinjo,fine_dining,4.9,open,google_maps_export,2026-03-26,"Japanese, $100+"
+NYC,Sushi Ouji,fine_dining,4.8,open,google_maps_export,2026-03-26,"Japanese, $100+"
+NYC,Sixty Three Clinton,fine_dining,4.7,open,google_maps_export,2026-03-26,"New American, $100+"
+NYC,Rosella,fine_dining,4.7,open,google_maps_export,2026-03-26,"Sushi, $100+"
+NYC,TOWA,fine_dining,4.6,open,google_maps_export,2026-03-26,"Japanese, $100+"
+NYC,Thirteen Water,fine_dining,4.6,open,google_maps_export,2026-03-26,"Sushi, $100+"
+NYC,Jungsik,fine_dining,4.6,open,google_maps_export,2026-03-26,"Korean tasting menu, $100+"
+NYC,Oiji Mi,fine_dining,4.6,open,google_maps_export,2026-03-26,"Korean, $100+"
+NYC,Torishin,fine_dining,4.5,open,google_maps_export,2026-03-26,"Yakitori, $100+"
+NYC,icca,fine_dining,4.5,open,google_maps_export,2026-03-26,"Japanese, $100+"
+NYC,Genesis House,fine_dining,4.5,open,google_maps_export,2026-03-26,"Korean, $100+"
+NYC,Malii Gramercy,casual,4.8,open,google_maps_export,2026-03-26,"Thai, $20-30"
+NYC,Chalong Southern Thai,casual,4.8,open,google_maps_export,2026-03-26,"Thai, $30-50"
+NYC,Osteria Nonnino,casual,4.8,open,google_maps_export,2026-03-26,"Italian, $50-100"
+NYC,Untable,casual,4.8,open,google_maps_export,2026-03-26,"Thai, $50-100"
+NYC,Saint Urban,fine_dining,4.8,open,google_maps_export,2026-03-26,"$100+"
+NYC,Nudibranch,casual,4.7,open,google_maps_export,2026-03-26,"Korean, $50-100"
+NYC,Narkara,fine_dining,4.7,open,google_maps_export,2026-03-26,"Thai, $100+"
+NYC,Misirizzi,casual,4.7,open,google_maps_export,2026-03-26,"Italian, $50-100"
+NYC,ACRE,casual,4.7,open,google_maps_export,2026-03-26,"Japanese, $20-30"
+NYC,Uncle Ray's Chicken Rice,casual,4.7,open,google_maps_export,2026-03-26,"Singaporean, $20-30 (Singapore signal)"
+NYC,Wenwen,casual,4.5,open,google_maps_export,2026-03-26,Taiwanese
+NYC,Win Son,casual,4.5,open,google_maps_export,2026-03-26,"Taiwanese, $40-50"
+NYC,Ho Foods,casual,4.3,open,google_maps_export,2026-03-26,"Taiwanese, $30-40"
+NYC,Hainan Chicken House,casual,,open,google_maps_export,2026-03-26,Singaporean
+NYC,Much Obliged,cocktail_bar,4.9,open,google_maps_export,2026-03-26,"Cocktail, $40-50"
+NYC,At Cave,cocktail_bar,4.9,open,google_maps_export,2026-03-26,Cocktail
+NYC,Yawning Cobra,cocktail_bar,4.8,open,google_maps_export,2026-03-26,"$50-100"
+NYC,Elvis,bar,4.8,open,google_maps_export,2026-03-26,"Wine bar, $30-50"
+NYC,BierWax,bar,4.8,open,google_maps_export,2026-03-26,"Bar + records, $10-20 (Jonathan overlap - vinyl)"
+NYC,The Woo Woo,bar,4.8,open,google_maps_export,2026-03-26,"$20-30"
+NYC,Orion Bar,bar,4.8,open,google_maps_export,2026-03-26,
+NYC,Opera House,bar,4.8,open,google_maps_export,2026-03-26,"$40-50"
+NYC,The Cactus Shop,bar,4.8,open,google_maps_export,2026-03-26,"$30-50"
+NYC,Madame George,bar,4.7,open,google_maps_export,2026-03-26,
+NYC,Bar Francis,bar,4.7,open,google_maps_export,2026-03-26,
+NYC,929,bar,4.7,open,google_maps_export,2026-03-26,
+NYC,Dead Letter No. 9,bar,4.6,open,google_maps_export,2026-03-26,
+NYC,Maison Premiere,bar,4.6,open,google_maps_export,2026-03-26,"Oyster bar, $100+ (joint hit - oysters + cocktails)"
+NYC,Dutch Kills,bar,4.4,open,google_maps_export,2026-03-26,"Bar, $20-30"
+NYC,Masquerade,experience,4.8,open,google_maps_export,2026-03-26,Performing arts theater
+NYC,WORLD SPA,experience,4.3,open,google_maps_export,2026-03-26,Day spa
+NYC,Elsewhere,experience,4.4,open,google_maps_export,2026-03-26,Live music venue
+NYC,Tokyo Record Bar,experience,4.1,open,google_maps_export,2026-03-26,Japanese + records (Jonathan overlap)
+NYC,Honeycomb Hi-Fi Lounge,experience,4.2,open,google_maps_export,2026-03-26,Hi-fi bar (Jonathan overlap)
+NYC,Bohemien Bar,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Sam Sunny,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,NURA,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Getaway,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Upright Coffee,cafe,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Sama Street,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Stella & Fly,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,WAU,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,gertrude,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Napoli Bakery,bakery,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Five & Dime,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Handcraft Coffee,cafe,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Vestry,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+NYC,Mama Lee Williamsburg,casual,,closed,google_maps_export,2026-03-26,Temporarily closed
+NYC,The Leroy House,casual,,closed,google_maps_export,2026-03-26,Temporarily closed
+NYC,Cheeky Sandwiches,casual,,closed,google_maps_export,2026-03-26,Temporarily closed
+NYC,Pizza Secret,casual,,closed,google_maps_export,2026-03-26,Temporarily closed
+NYC,Mercer Museum,culture,,open,google_maps_export,2026-03-26,Non-food
+Singapore,Odette,fine_dining,4.7,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Ce Soir,fine_dining,4.7,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Cloudstreet,fine_dining,4.7,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Appetite,fine_dining,4.7,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Whitegrass,fine_dining,4.7,open,google_maps_export,2026-03-26,Modern French
+Singapore,Buko Nero,fine_dining,4.7,open,google_maps_export,2026-03-26,
+Singapore,NAEUM,fine_dining,4.6,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Nouri,fine_dining,4.6,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,JAAN by Kirk Westaway,fine_dining,4.6,open,google_maps_export,2026-03-26,Fine Dining
+Singapore,Mustard Seed,fine_dining,4.6,open,google_maps_export,2026-03-26,Singaporean
+Singapore,Belimbing,fine_dining,4.6,open,google_maps_export,2026-03-26,Singaporean
+Singapore,Marcy's,fine_dining,4.6,open,google_maps_export,2026-03-26,Seafood
+Singapore,Bottega di Carna,fine_dining,4.6,open,google_maps_export,2026-03-26,Italian
+Singapore,Zen,fine_dining,4.5,open,google_maps_export,2026-03-26,"3-star Michelin, Nordic-Singaporean - ceiling option"
+Singapore,Les Amis,fine_dining,4.5,open,google_maps_export,2026-03-26,Haute French
+Singapore,Lerouy,fine_dining,4.5,open,google_maps_export,2026-03-26,Modern French
+Singapore,Restaurant Labyrinth,fine_dining,4.5,open,google_maps_export,2026-03-26,Singaporean
+Singapore,Odem,fine_dining,4.5,open,google_maps_export,2026-03-26,Korean
+Singapore,Altro Zafferano,fine_dining,4.5,open,google_maps_export,2026-03-26,Italian
+Singapore,Le Bon Funk,fine_dining,4.5,open,google_maps_export,2026-03-26,
+Singapore,Claudine,fine_dining,4.5,open,google_maps_export,2026-03-26,
+Singapore,Twelve Flavours,fine_dining,4.4,open,google_maps_export,2026-03-26,Recently added - active SG trip signal
+Singapore,MoboMoga,casual,4.8,open,google_maps_export,2026-03-26,Izakaya
+Singapore,Ushidoki Wagyu Kaiseki,fine_dining,4.8,open,google_maps_export,2026-03-26,Strong joint target
+Singapore,Hiryu,fine_dining,4.5,open,google_maps_export,2026-03-26,Sushi
+Singapore,Waku Ghin,fine_dining,4.2,open,google_maps_export,2026-03-26,
+Singapore,Aoki,fine_dining,4.1,open,google_maps_export,2026-03-26,
+Singapore,Chandu,cocktail_bar,4.9,open,google_maps_export,2026-03-26,
+Singapore,60ml,cocktail_bar,4.9,open,google_maps_export,2026-03-26,
+Singapore,NOST,cocktail_bar,4.9,closed,google_maps_export,2026-03-26,Temporarily closed
+Singapore,The Backdrop,cocktail_bar,4.8,open,google_maps_export,2026-03-26,
+Singapore,Puffy Bois,cocktail_bar,4.8,open,google_maps_export,2026-03-26,
+Singapore,Last Word,cocktail_bar,4.8,open,google_maps_export,2026-03-26,
+Singapore,Offtrack,cocktail_bar,4.7,open,google_maps_export,2026-03-26,
+Singapore,Synthesis,cocktail_bar,4.7,open,google_maps_export,2026-03-26,TCM-inspired
+Singapore,Republic Bar,cocktail_bar,4.7,open,google_maps_export,2026-03-26,
+Singapore,Nutmeg & Clove,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,Stay Gold,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,Club 5,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,Origin Bar,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,Canyon Club,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,Ume San 100,cocktail_bar,4.6,open,google_maps_export,2026-03-26,
+Singapore,SODENG Vintage BBQ,casual,4.9,open,google_maps_export,2026-03-26,Korean BBQ
+Singapore,Sam Leong St Chicken Rice,hawker,4.7,open,google_maps_export,2026-03-26,"2169 reviews - institutional, homecoming anchor"
+Singapore,Spicy Wife Nasi Lemak,hawker,4.6,open,google_maps_export,2026-03-26,"Hawker, SGD 1-10"
+Singapore,Mr & Mrs Mohgan Roti Prata,hawker,4.3,open,google_maps_export,2026-03-26,
+Singapore,Penang Heng Heng Handmade Noodles,hawker,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Straits Club Nasi Lemak,hawker,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,BLACKGOAT,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Anagram,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Eclipse by BDC,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Palm Ave Float Club,experience,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,terra Wine & Sake Bar,bar,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Koji Sushi Bar Pickering,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+Singapore,Ruma,casual,,closed,google_maps_export,2026-03-26,Permanently closed
+CDMX,Fonico,fine_dining,4.5,open,google_maps_export,2026-03-26,
+CDMX,Contramar,fine_dining,4.5,open,google_maps_export,2026-03-26,Seafood
+CDMX,Quintonil,fine_dining,4.4,open,google_maps_export,2026-03-26,
+CDMX,Masala y Maiz,fine_dining,4.3,open,google_maps_export,2026-03-26,Indian-Mexican
+CDMX,Maximo,fine_dining,4.3,open,google_maps_export,2026-03-26,
+CDMX,Botanico,fine_dining,4.1,open,google_maps_export,2026-03-26,
+CDMX,Carinito Tacos,casual,4.7,open,google_maps_export,2026-03-26,
+CDMX,Tetetlan,casual,4.5,open,google_maps_export,2026-03-26,
+CDMX,El Torito Tacos,casual,4.4,open,google_maps_export,2026-03-26,
+CDMX,Xaachila,casual,4.3,open,google_maps_export,2026-03-26,Oaxacan
+CDMX,Cafe Tacobar,cocktail_bar,4.7,open,google_maps_export,2026-03-26,
+CDMX,Parker & Lenox,bar,4.5,open,google_maps_export,2026-03-26,Jazz bar
+CDMX,Bijou Drinkery Room,bar,4.3,open,google_maps_export,2026-03-26,
+CDMX,Mezcal y Mole tour,experience,4.9,open,google_maps_export,2026-03-26,
+CDMX,Museo Nacional de Antropologia,culture,4.8,open,google_maps_export,2026-03-26,
+CDMX,Templo Mayor,culture,4.8,open,google_maps_export,2026-03-26,
+CDMX,National Art Museum,culture,4.8,open,google_maps_export,2026-03-26,
+CDMX,Biblioteca Vasconcelos,culture,4.7,open,google_maps_export,2026-03-26,Architecture landmark
+CDMX,Museo Anahuacalli,culture,4.7,open,google_maps_export,2026-03-26,Diego Rivera
+CDMX,Palacio Postal,culture,4.6,open,google_maps_export,2026-03-26,
+CDMX,Chocolateria La Rifa,cafe,4.6,open,google_maps_export,2026-03-26,Centro Historico - near wedding venue
+CDMX,Frida Kahlo Museum,culture,4.5,open,google_maps_export,2026-03-26,
+CDMX,Balcon del Zocalo,casual,4.4,open,google_maps_export,2026-03-26,Rooftop Mexican - Centro Historico
+CDMX,Teotihuacan,culture,,open,google_maps_export,2026-03-26,
+CDMX,Parque Quetzalcoatl,culture,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Surrell,fine_dining,,open,google_maps_export,2026-03-26,Joint target with Jonathan
+Seattle/PNW,Taneda,fine_dining,,open,google_maps_export,2026-03-26,Joint target with Jonathan
+Seattle/PNW,Copine,fine_dining,,open,google_maps_export,2026-03-26,Joint target with Jonathan
+Seattle/PNW,Spinasse,fine_dining,,open,google_maps_export,2026-03-26,Joint target with Jonathan
+Seattle/PNW,Facing East,casual,,open,google_maps_export,2026-03-26,"Bellevue, Taiwanese. Joint target with Jonathan"
+Seattle/PNW,Theary Cambodian Foods,casual,,open,google_maps_export,2026-03-26,Federal Way. Joint target with Jonathan
+Seattle/PNW,wa'z,fine_dining,,open,google_maps_export,2026-03-26,"Kaiseki, $100+"
+Seattle/PNW,Sushi Kaunta,fine_dining,4.9,open,google_maps_export,2026-03-26,Tock only
+Seattle/PNW,Sushi Suzuki,fine_dining,,open,google_maps_export,2026-03-26,"$100+"
+Seattle/PNW,84 Yesler,fine_dining,,open,google_maps_export,2026-03-26,"New American, $100+"
+Seattle/PNW,L'Oursin,fine_dining,,open,google_maps_export,2026-03-26,"French, $50-100"
+Seattle/PNW,Lark,fine_dining,,open,google_maps_export,2026-03-26,"$100+"
+Seattle/PNW,Kokkaku,fine_dining,,open,google_maps_export,2026-03-26,"Japanese, $50-100"
+Seattle/PNW,Itadaki Yakiniku,fine_dining,,open,google_maps_export,2026-03-26,"Yakiniku, $100+"
+Seattle/PNW,TOMO,fine_dining,,open,google_maps_export,2026-03-26,"$100+"
+Seattle/PNW,Violet,fine_dining,,open,google_maps_export,2026-03-26,"$50-100"
+Seattle/PNW,FlintCreek Cattle Co,fine_dining,,open,google_maps_export,2026-03-26,"$100+"
+Seattle/PNW,Vendemmia,casual,,open,google_maps_export,2026-03-26,"Italian, $50-100"
+Seattle/PNW,Il Terrazzo Carmine,casual,,open,google_maps_export,2026-03-26,Italian
+Seattle/PNW,San Fermo,casual,,open,google_maps_export,2026-03-26,"Italian, $50-100"
+Seattle/PNW,Barrel & Bacon,casual,4.8,open,google_maps_export,2026-03-26,
+Seattle/PNW,Golmok Market Bar,bar,,open,google_maps_export,2026-03-26,Korean
+Seattle/PNW,Harry's Fine Foods,casual,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Noodle/Bar,casual,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Facing East (2nd listing),casual,,open,google_maps_export,2026-03-26,Taiwanese - appears twice in her lists
+Seattle/PNW,Looking for Chai,casual,,open,google_maps_export,2026-03-26,Taiwanese
+Seattle/PNW,Honey Court,casual,,open,google_maps_export,2026-03-26,Cantonese/Chinese
+Seattle/PNW,Tai Tung,casual,,open,google_maps_export,2026-03-26,Cantonese/Chinese
+Seattle/PNW,Dim Sum King,casual,,open,google_maps_export,2026-03-26,Cantonese/Chinese
+Seattle/PNW,Chen's Shanghai,casual,,open,google_maps_export,2026-03-26,Chinese
+Seattle/PNW,A+ HK,casual,,open,google_maps_export,2026-03-26,Cantonese/Chinese
+Seattle/PNW,Maneki,casual,,open,google_maps_export,2026-03-26,Japanese
+Seattle/PNW,Hannyatou,casual,,open,google_maps_export,2026-03-26,Japanese
+Seattle/PNW,Musashi's,casual,,open,google_maps_export,2026-03-26,Japanese
+Seattle/PNW,May Kitchen + Bar,casual,4.7,open,google_maps_export,2026-03-26,Thai
+Seattle/PNW,E-Jae Pak Mor,casual,4.8,open,google_maps_export,2026-03-26,Thai
+Seattle/PNW,Streets of Singapore,casual,,open,google_maps_export,2026-03-26,SE Asian
+Seattle/PNW,A Ma Chicken Rice,casual,,open,google_maps_export,2026-03-26,SE Asian
+Seattle/PNW,Reunion Malaysian,casual,,open,google_maps_export,2026-03-26,SE Asian/Malaysian
+Seattle/PNW,CheBogz,casual,,open,google_maps_export,2026-03-26,Filipino
+Seattle/PNW,Mint & Martini,casual,,open,google_maps_export,2026-03-26,Indian
+Seattle/PNW,Canteen by Meesha,casual,,open,google_maps_export,2026-03-26,Indian
+Seattle/PNW,Kanishka,casual,,open,google_maps_export,2026-03-26,Indian
+Seattle/PNW,TreeHouse Point,experience,,open,google_maps_export,2026-03-26,Weekend getaway
+Seattle/PNW,A-frame cabin near Rainier,experience,,open,google_maps_export,2026-03-26,Weekend getaway
+Seattle/PNW,Fletcher Bay Winery,experience,,open,google_maps_export,2026-03-26,Bainbridge Island winery
+Seattle/PNW,Seven Apart Winery,experience,,open,google_maps_export,2026-03-26,Walla Walla winery
+Seattle/PNW,Antinori Winery,experience,,open,google_maps_export,2026-03-26,Napa winery
+Seattle/PNW,Broadcast Coffee,cafe,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Squirrel Chops,cafe,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Copper Tree Coffee House,cafe,4.9,open,google_maps_export,2026-03-26,
+Seattle/PNW,URL Coffee,cafe,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Fable All Day,cafe,4.9,open,google_maps_export,2026-03-26,
+Seattle/PNW,Day Made Kaffe Bar,cafe,,open,google_maps_export,2026-03-26,
+Seattle/PNW,Konvene Coffee,cafe,4.9,open,google_maps_export,2026-03-26,
+Seattle/PNW,Batch Baking Company,bakery,4.9,open,google_maps_export,2026-03-26,
+Portland,ShoMon Kappo Sushi,fine_dining,4.8,open,google_maps_export,2026-03-26,"$100+"
+Portland,Mucca Osteria,fine_dining,4.9,open,google_maps_export,2026-03-26,Italian
+Portland,AKADI PDX,casual,4.7,open,google_maps_export,2026-03-26,West African
+Portland,Arden Restaurant,fine_dining,4.7,open,google_maps_export,2026-03-26,
+Portland,Han Oak,casual,,open,google_maps_export,2026-03-26,"Korean, $50-100"
+Portland,Canard,casual,,open,google_maps_export,2026-03-26,"French, $50-100"
+Portland,kann,fine_dining,,open,google_maps_export,2026-03-26,"Haitian, $100+"
+Portland,Lechon,casual,,open,google_maps_export,2026-03-26,South American
+Portland,Urdaneta,casual,4.8,open,google_maps_export,2026-03-26,
+Portland,Bible Club PDX,bar,,open,google_maps_export,2026-03-26,
+Portland,Deadshot,cocktail_bar,,open,google_maps_export,2026-03-26,
+Portland,Teardrop Lounge,cocktail_bar,,open,google_maps_export,2026-03-26,
+Portland,Too Soon,bar,,open,google_maps_export,2026-03-26,
+Portland,Bellwether Bar,bar,,open,google_maps_export,2026-03-26,
+Portland,Voysey,bar,,open,google_maps_export,2026-03-26,
+Portland,Grandma's Secret,bar,,open,google_maps_export,2026-03-26,
+Montreal,Automne Boulangerie,bakery,4.5,open,google_maps_export,2026-03-26,
+Iceland,Gullfoss Waterfall,experience,,open,google_maps_export,2026-03-26,

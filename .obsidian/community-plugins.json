@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "dataview",
-  "multi-properties"
+  "multi-properties",
+  "private-ai",
+  "mermaid-tools"
 ]

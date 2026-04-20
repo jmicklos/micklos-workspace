@@ -1,0 +1,58 @@
+[
+  {
+    "context_time": 1767205657885,
+    "message_item_uri": "spotify:playlist:37i9dQZF1E8LfpOUtDTWdP",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2025-12-31T18:27:37.885Z"
+  },
+  {
+    "context_time": 1767210441495,
+    "message_item_uri": "spotify:playlist:37i9dQZF1DX5LYxFep0J7E",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2025-12-31T19:47:21.495Z"
+  },
+  {
+    "context_time": 1772556742350,
+    "message_item_uri": "spotify:playlist:1xVOiCfK7zyoIII5PCGgWe",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2026-03-03T16:52:22.350Z"
+  },
+  {
+    "context_time": 1774021840063,
+    "message_item_uri": "spotify:playlist:37i9dQZF1DX8gDIpdqp1XJ",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 43,
+    "timestamp_utc": "2026-03-20T15:50:40.063Z"
+  },
+  {
+    "context_time": 1770502981075,
+    "message_item_uri": "spotify:playlist:3UqoL2pn0nLAdDp9KiLsuh",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2026-02-07T22:23:01.075Z"
+  },
+  {
+    "context_time": 1770955776284,
+    "message_item_uri": "spotify:playlist:37i9dQZF1DWZhzMp90Opmn",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 43,
+    "timestamp_utc": "2026-02-13T04:09:36.284Z"
+  },
+  {
+    "context_time": 1769702560258,
+    "message_item_uri": "spotify:playlist:37i9dQZF1E8LSfuTXtPqwB",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 43,
+    "timestamp_utc": "2026-01-29T16:02:40.258Z"
+  },
+  {
+    "context_time": 1770782723212,
+    "message_item_uri": "spotify:playlist:37i9dQZF1E8NKZmVuAbDK4",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 43,
+    "timestamp_utc": "2026-02-11T04:05:23.212Z"
+  }
+]
