@@ -11,7 +11,7 @@ created: 2026-02-14
 -
 
 ## Recurring Responsibilities
-- Car tabs renewal | cadence: annual | on: 06-20 | last-done:
+- Car tabs renewal | cadence: annual | on: 06-20 | last-done: 2026-06-06
 	- Due Jun 20 each year — surfaces 30 days before
 - 4Runner maintenance check | cadence: quarterly | on: first-week | last-done: 2026-03-31
 	- Review 4Runner Health Tracker for overdue intervals

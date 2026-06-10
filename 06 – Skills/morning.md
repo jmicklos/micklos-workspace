@@ -143,3 +143,7 @@ Format the output as follows. Be concise — this is a quick brief, not an essay
 ```
 
 Keep the report tight. If there's nothing to flag in a section, say so in one line and move on.
+
+## Step 7 — List active projects
+
+After the morning report, run the `/list-projects` skill to output all active project names. This gives Jonathan a ready-to-paste list for the PARA Session Launcher (Tampermonkey script on claude.ai/code).

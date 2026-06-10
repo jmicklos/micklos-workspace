@@ -11,7 +11,10 @@ created: 2026-02-14
 -
 
 ## Recurring Responsibilities
--
+- Audit monthly subscriptions | cadence: monthly | on: last-weekend | last-done: 2026-06-06
+	- Review all recurring subscriptions, evaluate keep/cancel/downgrade
+- Document goodwill donations | cadence: monthly | on: last-weekend | last-done:
+	- Log any goodwill donations made during the month for tax records
 
 ## 🟢 Active Projects
 

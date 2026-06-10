@@ -28,11 +28,30 @@ curl -s -L --max-time 10 \
 
 If curl returns a non-zero exit code, empty output, a 403/blocking page, or times out, proceed to Attempt 2.
 
-### Attempt 2 — Playwright non-headless browser
+### Attempt 2 — curl_cffi (browser TLS fingerprint impersonation)
 
-If curl fails, use Playwright in **non-headless** mode to fetch the fully-rendered page. This bypasses aggressive bot detection (e.g., Akamai Bot Manager) because headed mode has legitimate `navigator.webdriver`, `window.chrome`, plugins, and WebGL signals.
+Many modern bot-protection systems (Akamai, Cloudflare, PerimeterX) fingerprint the TLS handshake (JA3/JA4), not just headers. Python's `curl_cffi` wraps curl-impersonate to reproduce real Chrome TLS/HTTP2 fingerprints — this defeats most TLS-fingerprinting bot walls without requiring a browser. Fast (~1s), no GUI.
 
-**Prerequisites:** Playwright and Chromium must be installed. If not:
+**Prerequisites:** Python 3 + `curl_cffi` (already installed via `pip3 install curl_cffi`). If missing: `pip3 install --quiet curl_cffi`.
+
+```bash
+python3 -c "
+from curl_cffi import requests
+r = requests.get('$ARGUMENTS', impersonate='chrome120', timeout=15)
+print('status:', r.status_code, 'len:', len(r.text))
+# Write to a temp file so it can be grepped/parsed
+open('/tmp/fetch-url-result.html','w').write(r.text)
+print(r.text[:15000])
+"
+```
+
+If this returns a 403/blocked page or fails, proceed to Attempt 3.
+
+### Attempt 3 — Playwright non-headless browser
+
+If curl and curl_cffi both fail, use Playwright in **non-headless** mode to fetch the fully-rendered page. Reserved for sites that additionally fingerprint the JS runtime (navigator.webdriver, window.chrome, plugins, WebGL). A visible browser window flashes up — confirm with user before running if that's disruptive.
+
+**Prerequisites:** Node.js, Playwright, and Chromium. If Node is missing on macOS: `brew install node`. Then:
 ```bash
 cd /tmp && npm install playwright && npx playwright install chromium
 ```
@@ -73,4 +92,5 @@ Present the extracted information clearly and concisely to the user.
 ## Notes
 - This is a **read-only** utility — it only fetches and reads content, never submits forms or modifies anything.
 - Use this as a fallback when WebFetch returns 403 or similar blocking errors.
-- If both attempts fail, inform the user and suggest they open the URL in their browser.
+- If all attempts fail, inform the user and suggest they open the URL in their browser.
+- curl_cffi is the sweet spot for most bot walls — no GUI, no Node, fast. Try it before Playwright.

@@ -37,6 +37,7 @@ desktop.ini
 .stignore
 .stversions/
 .sttmp*
+*.sync-conflict-*
 
 ########################################
 # Backup / temp files
@@ -59,3 +60,13 @@ desktop.ini
 ########################################
 
 .trash/
+
+########################################
+# Large / sensitive / derived — back up separately, not in git
+########################################
+
+# Amazon job-history archive (sensitive + ~10GB; archived as zip outside the repo)
+amazon_backup/
+
+# private-ai vector index — derived/rebuildable, churns on every note edit
+.obsidian/plugins/private-ai/vector-index/embeddings.db

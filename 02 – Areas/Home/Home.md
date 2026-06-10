@@ -14,11 +14,11 @@ created: 2026-02-14
 
 ## Recurring Responsibilities
 - HVAC filter change | cadence: quarterly | on: first-week | last-done: 2026-03-31
-- Pay bills + financial check | cadence: monthly | on: last-weekend | last-done:
+- Pay bills + financial check | cadence: monthly | on: last-weekend | last-done: 2026-06-06
 	- Seattle Utilities
 	- Puget Sound Energy
 	- Credit card bill
-- Seattle RRIO permit check | cadence: monthly | on: last-weekend | last-done: 2026-04-06
+- Seattle RRIO permit check | cadence: monthly | on: last-weekend | last-done: 2026-06-06
 	- https://cosaccela.seattle.gov/portal/
 
 

@@ -31,6 +31,7 @@ See [[system]] for operational instructions and conversation-type routing.
 | [[photography]] | Gear, style, ghost town philosophy |
 | [[travel]] | Frameworks, seasonal calendar, outdoor preferences |
 | [[experiences]] | Experience philosophy, PNW day trips |
+| [[reading-backlog]] | Running queue of books, essays, long reads |
 | [[system]] | Operational instructions, routing, tools |
 
 ## Data Files
@@ -52,11 +53,15 @@ See [[system]] for operational instructions and conversation-type routing.
 
 ## Recurring Responsibilities
 
-- Beli sync | cadence: monthly | on: first-weekend | last-done:
+- Beli sync | cadence: monthly | on: first-weekend | last-done: 2026-06-06
   - Export latest Beli ratings and append new entries to `data/beli-ratings.csv`
+  - Deferred 2026-04-20 → next surface: Jun 6 first-weekend
 - Music discovery review | cadence: quarterly | on: first-week | last-done:
   - Review Spotify data, update `resources/music.md` with new artists/shifts
 - Travel backlog review | cadence: quarterly | on: first-week | last-done:
   - Review and update `data/travel-backlog.csv` priorities
-- Restaurant backlog review | cadence: monthly | on: last-weekend | last-done:
+- Restaurant backlog review | cadence: monthly | on: last-weekend | last-done: 2026-06-10
   - Review `data/want-to-try.csv`, book or remove stale entries
+  - Deferred 2026-04-20 → next surface: Jun 27 last-weekend
+- Reading backlog review | cadence: monthly | last-done:
+  - Review and update `resources/reading-backlog.md` — move items through queue → reading → finished, add new ones, prune stale

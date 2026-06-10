@@ -120,19 +120,24 @@ author:
 
 | Service | Interval | Last Done | Last Miles | Next Due | Miles Left | Status |
 |---|---|---|---|---|---|---|
-| Steering stops lubrication | 10k mi | 2022-04-13 | 145,290 | 155,290 | -19,210 | 🔴 Overdue |
-| Spark plugs (iridium) | 60k mi | 2018-02-09 | 118,804 | 178,804 | 4,304 | 🔴 Due soon |
+| Spark plugs (iridium) | 90k mi | 2018-02-09 | 118,804 | 208,804 | 34,304 | 🟡 OK (updated from 60k) |
+| O2 sensors (upstream pair) | 100-150k mi | Never | — | Overdue | — | 🔴 **Never replaced — MPG suspect** |
+| Fuel injector service | 75-100k mi | Never | — | Overdue | — | 🔴 **Never done — MPG suspect** |
 | Brake fluid | 30k mi / 24 mo | 2024-01-11 | 153,196 | 183,196 / Jan 2026 | 8,696 | 🔴 Overdue on time |
 | Power steering fluid | 30k mi | 2023-03-04 | 148,503 | 178,503 | 4,003 | 🟠 Due soon |
 | Clean MAF | 10k mi / 12 mo | 2025-07-16 | 169,173 | 179,173 | 4,673 | 🟡 OK |
+| Air filters | 25-30k mi | 2023-03-04 | 148,503 | ~176,000 | ~1,500 | 🟠 Due soon |
 | Engine oil + filter | 5k mi / 9 mo | 2026-02-05 | 174,274 | 179,274 | 4,774 | 🟢 OK |
 | U-joints and zerks | 10k mi | 2026-02-05 | 174,274 | 184,274 | 9,774 | 🟢 OK |
+| Coolant flush | 50k mi | Unknown | — | Unknown | — | 🟠 Likely done with 2017 timing belt job but not recorded — verify |
 | Tires | 40k mi / 60 mo | 2021-11-24 | 141,269 | 181,269 / Nov 2026 | 6,769 | 🟡 Due Nov 2026 |
 | Front diff fluid | 30k mi | 2024-01-11 | 153,196 | 183,196 | 8,696 | 🟡 OK |
 | Rear diff fluid | 30k mi | 2024-01-11 | 153,196 | 183,196 | 8,696 | 🟡 OK |
 | Transfer case fluid | 30k mi | 2024-01-11 | 153,196 | 183,196 | 8,696 | 🟡 OK |
 | Transmission fluid | 30k mi | 2024-01-11 | 153,196 | 183,196 | 8,696 | 🟡 OK |
-| Front brakes (calipers/pads/rotors) | 35k mi | 2024-05-15 | 154,155 | 189,155 | 14,655 | 🟢 OK |
+| Front brake pads | 35k mi | 2024-05-15 | 154,155 | 189,155 | 14,655 | 🟢 OK |
+| Front brake rotors | 55k mi | 2024-05-15 | 154,155 | 209,155 | 34,655 | 🟢 OK |
+| Front brake calipers | 100k mi | 2024-05-15 | 154,155 | 254,155 | 79,655 | 🟢 OK (5th gen swap resolved root cause) |
 | Rear brakes (calipers/pads/rotors) | 50k mi | 2024-01-08 | 153,184 | 203,184 | 28,684 | 🟢 OK |
 | Undercarriage coating | 12 mo | 2025-03-04 | 167,000 | Mar 2026 | N/A | 🔴 Due now |
 | Timing belt + water pump | 90k mi / 120 mo | 2017-07-26 | 115,184 | 205,184 | 30,684 | 🔴 Overdue on time (8.5 yrs) |
@@ -208,8 +213,9 @@ author:
 
 | Issue | Status | Notes |
 |---|---|---|
-| Recurring warped front rotors | 🟡 Active project | Root cause: sticky 4th gen caliper pistons. Fix: 5th gen swap. |
-| Steering stops overdue | 🔴 Overdue | ~19,210 miles overdue. Bundle with any shop visit. |
+| Recurring warped front rotors | ✅ Resolved | Root cause was sticky 4th gen caliper pistons. Fixed with 5th gen caliper swap May 2024. |
+| Steering stops clunking | ✅ Resolved | Likely resolved by Bilstein suspension replacement (Aug 2025). No clunking reported since. Removed from schedule — re-add if symptoms return. |
+| Gradual MPG decline (~3 MPG) | 🔴 Active | See [[4Runner – Improve Fuel Efficiency]]. Top suspects: O2 sensors (never replaced) and fuel injectors (never serviced). |
 | Brake fluid overdue (time) | 🔴 Overdue | Due Jan 2026 on time interval. |
 | Undercarriage coating | 🔴 Due now | Cryomode Dinitrol annual touchup due Mar 2026. |
 | Camshaft seal history | ⬜ Monitor | Prior seal failure caused oil intrusion into alternator at 115k. Replace proactively with timing belt job. |

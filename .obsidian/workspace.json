@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singapore Phrases.md",
+                "file": "01 – Projects/Home – Remodel – Bedroom Reading Lights/context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singapore Phrases"
+              "title": "context"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 499.5026054382324
   },
   "right": {
     "id": "001bca58070211db",
@@ -183,8 +183,8 @@
             "state": {
               "type": "local-llm-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "local-llm-chat-view"
+              "icon": "sparkles",
+              "title": "Private AI"
             }
           }
         ],
@@ -202,57 +202,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "private-ai:Open private AI": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1146c320fa98dd35",
+  "active": "0542a9a777c74bff",
   "lastOpenFiles": [
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/es-abstract/2025/CreateAsyncFromSyncIterator.js",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/styled-jsx/types/css.d.ts",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/zod/v4/classic/from-json-schema.d.cts",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/esm/server/app-render/debug-channel-server.js.map",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/server/route-matcher-providers/pages-api-route-matcher-provider.js",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/eslint-plugin-react/lib/rules/function-component-definition.d.ts",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/compiled/next-server/dist_client_dev_noop-turbopack-hmr_js-turbo-experimental.runtime.dev.js.map",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/es-abstract/2023/floor.js",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@typescript-eslint/scope-manager/dist/lib/es2022.full.js",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/build/webpack/plugins/wellknown-errors-plugin/parseScss.d.ts",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@babel/helper-module-transforms/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/jsx-ast-utils/LICENSE.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/is-typed-array/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/object.fromentries/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/file-uri-to-path/History.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@typescript-eslint/utils/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/eslint-scope/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/eslint-plugin-jsx-a11y/docs/rules/aria-props.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@babel/parser/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/is-typed-array/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/eslint-plugin-jsx-a11y/docs/rules/aria-proptypes.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/has-symbols/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/lightningcss/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/docs/01-app/02-guides/ai-agents.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/call-bound/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/side-channel-weakmap/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/next/dist/docs/02-pages/02-guides/package-bundling.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@humanwhocodes/module-importer/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/side-channel-map/CHANGELOG.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/string.prototype.trim/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/natural-compare/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/eslint-plugin-import/docs/rules/no-commonjs.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/@eslint/eslintrc/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/typescript/README.md",
-    "01 – Projects/Business – Booze Clues/app/booze-clues/node_modules/typescript/SECURITY.md",
-    "01 – Projects/Business – Booze Clues/data/elliott_bay_screenshot.png",
-    "02 – Areas/Fucks Given/source-archive/2026-03-26_seed/photography-screenshots/Screenshot_2026-03-26_at_3_21_18_PM.png",
-    "02 – Areas/Fucks Given/source-archive/2026-03-26_seed/photography-screenshots/Screenshot_2026-03-26_at_3_21_08_PM.png",
-    "02 – Areas/Fucks Given/source-archive/2026-03-26_seed/photography-screenshots/Screenshot_2026-03-26_at_3_21_00_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026/session_dump/Screenshot_2026-03-26_at_3_21_00_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026/session_dump/Screenshot_2026-03-26_at_3_21_08_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026/session_dump/Screenshot_2026-03-26_at_3_21_18_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026-1/session_dump/Screenshot_2026-03-26_at_3_21_18_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026-1/session_dump/Screenshot_2026-03-26_at_3_21_08_PM.png",
-    "02 – Areas/Fucks Given/unpacked/session_dump_april_9_2026-1/session_dump/Screenshot_2026-03-26_at_3_21_00_PM.png",
+    "01 – Projects/4Runner – Improve Fuel Efficiency/4Runner – Improve Fuel Efficiency.md",
+    "01 – Projects/4Runner – Improve Fuel Efficiency/worklog.md",
+    "01 – Projects/4Runner – Improve Fuel Efficiency",
+    "05 – Daily/2026-06-10.md",
+    "01 – Projects/Home – Backyard Cleanup/PXL_20260609_before.jpg",
+    "01 – Projects/Home – Backyard Cleanup/Home – Backyard Cleanup.md",
+    "01 – Projects/Home – Backyard Cleanup/worklog.md",
+    "01 – Projects/Home – Backyard Cleanup",
+    "06 – Skills/list-projects.md",
+    "01 – Projects/Digital Infrastructure – Claude Remote Persistence/para-session-launcher.user.js",
+    "06 – Skills/resume-list.md",
+    "01 – Projects/Digital Infrastructure – Claude Remote Persistence/context.md",
+    "01 – Projects/Digital Infrastructure – Claude Remote Persistence/Digital Infrastructure – Claude Remote Persistence.md",
+    "01 – Projects/Digital Infrastructure – Claude Remote Persistence/worklog.md",
+    "01 – Projects/Digital Infrastructure – Claude Remote Persistence",
+    "01 – Projects/Career – Find Next Role/context.md",
+    "01 – Projects/Stuff – Statuettes/05-pale-warrior/05-pale-warrior.md",
+    "01 – Projects/Stuff – Statuettes/context.md",
+    "01 – Projects/Wedding – Wedding Bands/context.md",
+    "01 – Projects/Wedding – Seattle Civil Ceremony/context.md",
+    "01 – Projects/Home – Remodel – Living Room TV/context.md",
+    "01 – Projects/Vehicles – Fix Android Auto Crash/context.md",
+    "01 – Projects/Stuff – Sell Ampeg Cab/context.md",
+    "01 – Projects/Home – Remodel – Finish/context.md",
+    "01 – Projects/Home – Remodel – Bedroom Reading Lights/context.md",
+    "01 – Projects/Home – Remodel – ADU Readiness/context.md",
+    "01 – Projects/Home – Resolve Block Encampment/context.md",
+    "05 – Daily/2026-06-09.md",
+    "01 – Projects/Stuff – Statuettes/email-photos/4b-pale-warrior-front.jpeg",
+    "01 – Projects/Stuff – Statuettes/email-photos/4a-red-warrior-front.jpeg",
+    "01 – Projects/Stuff – Statuettes/email-photos/3-seated-figure-front.jpeg",
+    "01 – Projects/Stuff – Statuettes/email-photos/2-standing-figure-front.jpeg",
+    "01 – Projects/Stuff – Statuettes/email-photos/1-zhong-kui-front.jpeg",
+    "01 – Projects/Stuff – Statuettes/email-photos",
+    "01 – Projects/Stuff – Statuettes/auction-comparables.md",
+    "01 – Projects/Stuff – Statuettes/05-pale-warrior/photos/past_06_rear_right.jpeg",
+    "01 – Projects/Stuff – Statuettes/05-pale-warrior/photos/past_05_rear_left.jpeg",
+    "01 – Projects/Stuff – Statuettes/05-pale-warrior/photos/past_04_rear.jpeg",
+    "01 – Projects/Stuff – Statuettes/05-pale-warrior/photos/past_03_front_right.jpeg",
+    "01 – Projects/Stuff – Statuettes/04-red-warrior/04-red-warrior.md",
+    "01 – Projects/Stuff – Statuettes/03-seated-figure/03-seated-figure.md",
+    "01 – Projects/Stuff – Statuettes/03-seated-figure/photos",
+    "01 – Projects/Stuff – Statuettes/03-seated-figure",
+    "01 – Projects/Stuff – Statuettes/01-zhong-kui/photos",
+    "01 – Projects/Stuff – Statuettes/01-zhong-kui",
+    "01 – Projects/Stuff – Statuettes/03-zhong-kui/photos",
     "Untitled.canvas"
   ]
 }

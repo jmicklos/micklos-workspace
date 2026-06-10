@@ -158,6 +158,12 @@ Note: Spotify API returns 0 tracks for all playlists — likely a permissions/fo
 
 ---
 
+## Vinyl
+
+Physical music — the records worth owning, not just streaming. See [[Record Wishlist]] for the running list.
+
+---
+
 ## Discovery Tools
 
 - **Spotify:** Extended Streaming History (requested from privacy page — device telemetry export was not the right file). Daylist as secondary signal (reveals listening patterns by time of day).

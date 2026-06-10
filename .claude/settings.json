@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(//Users/jonathanmicklos/repositories/micklos-workspace/**)",
+      "Write(//Users/jonathanmicklos/repositories/micklos-workspace/**)",
+      "MultiEdit(//Users/jonathanmicklos/repositories/micklos-workspace/**)",
+      "NotebookEdit(//Users/jonathanmicklos/repositories/micklos-workspace/**)",
+      "WebFetch(domain:*)",
+      "WebSearch",
+      "Bash(date:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(sort:*)",
+      "Bash(uniq:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ]
+  }
+}

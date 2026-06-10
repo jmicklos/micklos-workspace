@@ -5,7 +5,7 @@ status: active
 due:
 energy:
 created: 2026-02-28
-next-review: 2026-04-13
+next-review: 2026-06-20
 ---
 
 # Relationships – Awesome Year Plan

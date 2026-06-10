@@ -1,6 +1,6 @@
 # CLAUDE.md — Personal PARA Vault
 *AI context file for vault management*
-*Last updated: 2026-04-03*
+*Last updated: 2026-06-06*
 
 ---
 
@@ -163,12 +163,72 @@ Area files track recurring responsibilities using this format under `## Recurrin
 
 ---
 
+## Project worklog — session continuity
+
+Every project folder must contain a `worklog.md` that Claude maintains automatically. The goal: a fresh Claude instance can read this file and continue the work at the same level as the session that wrote it. Think of it as a **session handoff doc**, not a status report.
+
+### Rules
+1. **Create on first touch.** When Claude begins substantive work on a project, create `worklog.md` in the project folder if it doesn't exist.
+2. **Update as you go.** After each meaningful exchange — a decision, a correction, a piece of context, a produced output — append to the worklog immediately. Don't batch. If the session dies mid-conversation, the worklog should reflect everything up to that point.
+3. **Write for a cold reader.** A new Claude instance has zero context. The worklog must contain enough detail that it can understand: what the project is about, what approach was chosen and why, what Jonathan said that shaped the direction, what was produced, what state everything is in, and exactly what to do next.
+4. **Read on resume.** When the user says "pick up where we left off" on a project, read the worklog first. It's the source of truth for session continuity.
+
+### Format
+
+```markdown
+# Worklog — [Project Name]
+
+## YYYY-MM-DD — [brief theme]
+
+### Situation
+- What's going on, why we're working on this, what the user cares about
+- Enough context that a fresh session understands the motivation, not just the task
+
+### Approach & Rationale
+- What plan/strategy was agreed on and WHY
+- Alternatives that were considered and rejected, and why
+- Framing or sequencing decisions (e.g., "LinkedIn before resume because...")
+
+### What Jonathan Said
+- Direct quotes or close paraphrases of key user input — preferences, corrections, opinions, reframings
+- These are the most important things to capture — they shaped every decision
+- Example: "I wasn't convinced that what was being said was actually work that I should take credit for"
+- Example: "I want a playback of what would be necessary to gain the same context to reboot the last session"
+
+### Source Material Used
+- What files were read, what data was gathered
+- Key findings or conclusions drawn from source material
+- Enough detail that the next session doesn't need to re-read everything
+
+### Outputs & State
+- [filename] — what it contains, what state it's in (draft / validated / needs review)
+- What was written vs. what still needs to be written
+
+### Open Threads
+- Unresolved questions or decisions
+- Things we were about to do when the session ended
+- Context that was loaded in working memory (e.g., "had just finished reading all Meta reviews")
+
+### Next Steps
+- Exactly what to do next, in order, with enough detail to act immediately
+- Not just "write Amazon sections" but "go through Era 3 claims one by one, ask Jonathan to confirm/cut/reframe each, starting with the Almanac/routing plane claims"
+
+---
+(repeat for each session/work block)
+```
+
+### Guiding principle
+Capture anything that, if lost, would require the user to repeat themselves or re-explain context. The user's words, preferences, and corrections are the highest-value content. A worklog that only tracks tasks is nearly useless — a worklog that captures *how Jonathan thinks about this project* is what makes session continuity actually work.
+
+---
+
 ## File naming conventions
 
 - **Projects are folders.** Each project is a folder containing:
   - `[Project Name]/[Project Name].md` — the main project note (same name as folder)
+  - `worklog.md` — Claude session continuity log (see above)
   - Supporting files: photos, PDFs, specs, etc. live alongside the main note
-  - Example: `Home – Finish Home Automation/Home – Finish Home Automation.md` + `hvac-spec.md` + `photos/`
+  - Example: `Home – Finish Home Automation/Home – Finish Home Automation.md` + `worklog.md` + `hvac-spec.md` + `photos/`
 - Daily notes: `YYYY-MM-DD.md`
 - Relationships: `[Full Name].md`
 - No emojis in filenames.
@@ -265,7 +325,7 @@ Jean Yang (Jul 15), Corina Peters (Mar 28), Leah Carver (1989-03-19), Michelle L
 
 ## Areas
 
-AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Health, Home, Life's Work, Photography, Relationships, Travel, Vehicles, Wedding, Work, Reading
+AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Fucks Given, Health, Home, Life's Work, Photography, Relationships, Rental Property, Travel, Vehicles, Wedding, Work
 
 ---
 

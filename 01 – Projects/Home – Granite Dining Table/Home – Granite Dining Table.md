@@ -2,7 +2,7 @@
 type: project
 area: Home
 status: active
-next-review: 2026-04-17
+next-review: 2026-06-20
 due:
 energy: medium
 created: 2026-04-03
@@ -26,7 +26,9 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
   - **Black steel legs** — $800: https://www.cb2.com/sydney-95-rectangular-travertine-dining-table-with-black-steel-legs/s475778
 - CB2 confirmed they sell the base separately (visited in-store 2026-04-06)
 - Cut granite slab to fit — dimensions TBD based on available material
-- Waiting on Connie at Granite Marble WA (connie@granitemarblewa.com) to confirm how much material is available
+- Table base purchased
+- Stone people have already templated the granite
+- Working through granite cutting schedule
 
 **Previously considered: CB2 Viggo 84"** — $1,999
 - Solid mango wood (FSC-certified), Janka hardness ~1,070
@@ -43,10 +45,10 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
 
 ## Next Actions
 - [x] Visit CB2 in-person — saw Sydney base, can buy base only (2026-04-06)
-- [ ] Hear back from Connie at Granite Marble WA on available material dimensions
-- [ ] Decide: walnut ($1,600) vs black steel ($800) base
-- [ ] Confirm safe overhang for 1.25" granite on a table (not countertop) with fabricator — 8" vs 10"
-- [ ] Get quote from granite fabricator for cutting slab to final dimensions
+- [ ] Hear back from Connie at Granite Marble WA on available material dimensions — **due today (2026-04-20)**
+- [x] Decide: walnut ($1,600) vs black steel ($800) base
+- [ ] Confirm safe overhang for 1.25" granite on a table (not countertop) with fabricator — 8" vs 10" — **due today (2026-04-20)**
+- [ ] Get quote from granite fabricator for cutting slab to final dimensions — **due today (2026-04-20)**
 
 ## Contacts
 - **Tamara Fynn** (CB2) — 206-462-4400 / tfynn@cb2.com

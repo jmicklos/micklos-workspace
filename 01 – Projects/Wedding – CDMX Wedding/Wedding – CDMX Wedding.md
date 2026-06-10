@@ -5,7 +5,7 @@ status: active
 due: 2026-12-12
 energy: high
 created: 2026-03-31
-next-review: 2026-04-13
+next-review: 2026-04-24
 ---
 
 # Wedding – CDMX Wedding
@@ -28,6 +28,7 @@ Wedding day happens. All vendors booked, logistics planned, guests informed and 
 - [ ] Michael — email re: gift from MX, figure out how to ask
 
 ### Save the Dates (WIP)
+- [ ] Get Wan Ting to send her P2 list — blocks further P1 outreach (check in Fri 2026-04-24)
 - [ ] Decide how to contact P1s digitally
 - [ ] Aggregate digital contact info
 - [ ] Build digital save the date notification with link to website (email?)
