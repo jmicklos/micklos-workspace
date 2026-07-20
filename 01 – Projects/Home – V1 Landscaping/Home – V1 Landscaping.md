@@ -5,6 +5,8 @@ status: active
 due:
 energy:
 created: 2026-02-22
+todoist-project-id: 6c75RX2frVPFrV46
+todoist-section-id: 6h5CPvMQHG23f98c
 next-review: 2026-06-20
 ---
 
@@ -35,7 +37,16 @@ next-review: 2026-06-20
 	- [x] 1-866-SLABJACK — (866) 752-2522 — est. 1995, Lynnwood
 	- [x] Seattle Slab Jack LLC — (206) 460-7522 — Seattle-based, free estimate
 	- Quote came back at $5,000 for slabjack + asphalt removal + concrete section removal — way too high
-- [ ] Get more slabjack estimates (original quote was $5k — way too high)
+- [ ] Get more slabjack estimates (original quote was $5k — way too high). Companies to contact:
+	- [ ] **Robbins & Co. (Robbins Foundation Systems)** — 1-888-344-1023 — Burien, WA. Traditional slab-jacking (organic grout). 73+ yrs, free inspection/estimate, residential+commercial. *Top local pick.*
+	- [ ] **Seattle Concrete** — seattleconcrete.com — Local Seattle. Mudjacking ($3–8/sqft) or poly foam ($5–12/sqft); also does replacement if needed.
+	- [ ] **Robbins & Co.** ↑ and **Seattle Concrete** ↑ are the priority local, independent quotes.
+	- [ ] **Ram Jack West** — (877) 726-5225 — Serves Seattle metro. Poly foam, mudjacking, compaction grouting. 40+ yrs, lifetime transferable warranty (national brand, may price higher).
+	- [ ] **Foamjection** — 866-913-6519 — Polyurethane foam only. Same-day use. National network w/ local crews — verify actual local contractor when calling.
+	- [ ] **Groundworks** — national. NOTE: **PolyLevel** (polylevel.com) is Groundworks-affiliated, so it is NOT an independent second quote.
+	- [ ] Lead-gen aggregators (fine for extra bids, but verify who actually shows up — not direct contractors):
+		- [ ] Kent Concrete Leveling — kentconcreteleveling.com — King/Pierce County. Mudjacking ($3–6/sqft) or poly foam.
+		- [ ] Edmonds Concrete Leveling — edmondsconcreteleveling.com — Seattle-area mudjacking referrals.
 - [ ] Get SDOT permit (Right-of-Way Maintenance if under 100 sq ft)
 - [ ] Push SDOT on root barrier responsibility for their tree
 - [ ] Research local Seattle native plant / landscaping groups for recommendations and estimates
@@ -100,8 +111,20 @@ These are the immediate tasks. One dump run for both.
 	- [ ] Install Planters for Permanent Planters
 - [ ] Fence out back 
 
+### Irrigation — OPEN QUESTION (not decided; reopened 2026-07-18)
+**Do we even need irrigation?** Jonathan is reconsidering — leaning toward "maybe not, if we pick the right plants." Worth resolving BEFORE committing to any system, because the planting palette determines whether a system is needed at all.
+- **The low-water case (likely viable here):** the planned palette (Pachysandra 'Green Carpet', Sword/Deer fern, native/woodland) is low-water once established. PNW winters do most watering; a drought-tolerant/native design typically needs only hand-watering the first summer, then near-zero. Small lot + shade from Hornbeams/Magnolia reduces demand further.
+- **If a system IS eventually wanted:** briefly researched 2026-07-18 —
+  - Drip / 1–2 zones → can run off the side-of-house **hose bib** + hose-bib vacuum breaker; likely no permit.
+  - **Pop-up spray** → needs a **main-line tap** (hose bib can't feed it: ~10 GPM / 2–4 heads max), which brings a **backflow assembly (PVB/DCVA, annual SPU test)** and an **SDCI plumbing permit**. Bigger commitment.
+  - Refs: [SPU Backflow/Cross-Connection](https://www.seattle.gov/utilities/your-services/water/water-quality/backflow-prevention) · [SDCI Do You Need a Permit](https://www.seattle.gov/sdci/permits/do-you-need-a-permit)
+- **Decision hinge:** finalize plant palette first → if it's all low-water/native, skip irrigation entirely (hand-water year 1). Only revisit a system if the design includes thirsty plants or a real lawn.
+
+- [ ] Decide: irrigation needed at all? (gate on final plant palette — favor low-water so answer is "no")
+
 ## Resources
 - [Northwest Meadowscapes](https://northwestmeadowscapes.com/) — native plant landscaping option
+- [[1120 19th Ave E]] — house hub (parcel, zoning, survey, shared facts)
 
 ## Waiting On
 - [ ] 
