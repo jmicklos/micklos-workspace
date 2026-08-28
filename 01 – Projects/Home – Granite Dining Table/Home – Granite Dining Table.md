@@ -6,6 +6,8 @@ next-review: 2026-06-20
 due:
 energy: medium
 created: 2026-04-03
+todoist-project-id: 6c75RX2frVPFrV46
+todoist-section-id: 6h5CPvGqJ9fv24V6
 ---
 
 # Home – Granite Dining Table
@@ -25,10 +27,10 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
   - **Walnut legs** — $1,600: https://www.cb2.com/sydney-95-rectangular-travertine-dining-table-with-walnut-legs/s475749
   - **Black steel legs** — $800: https://www.cb2.com/sydney-95-rectangular-travertine-dining-table-with-black-steel-legs/s475778
 - CB2 confirmed they sell the base separately (visited in-store 2026-04-06)
-- Cut granite slab to fit — dimensions TBD based on available material
-- Table base purchased
-- Stone people have already templated the granite
-- Working through granite cutting schedule
+- Table base purchased ✓
+- Stone people templated and cut the granite ✓
+- **Design evolved:** slab was cut into two halves and mounted on the base with a gap down the center for a **brass support** running between them
+- Remaining: brass center support still needs to be fabricated/installed; awaiting next steps from Sara
 
 **Previously considered: CB2 Viggo 84"** — $1,999
 - Solid mango wood (FSC-certified), Janka hardness ~1,070
@@ -45,17 +47,23 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
 
 ## Next Actions
 - [x] Visit CB2 in-person — saw Sydney base, can buy base only (2026-04-06)
-- [ ] Hear back from Connie at Granite Marble WA on available material dimensions — **due today (2026-04-20)**
+- [x] Hear back from Connie at Granite Marble WA on available material dimensions
 - [x] Decide: walnut ($1,600) vs black steel ($800) base
-- [ ] Confirm safe overhang for 1.25" granite on a table (not countertop) with fabricator — 8" vs 10" — **due today (2026-04-20)**
-- [ ] Get quote from granite fabricator for cutting slab to final dimensions — **due today (2026-04-20)**
+- [x] Confirm safe overhang for 1.25" granite on a table (not countertop) with fabricator — 8" vs 10"
+- [x] Get quote from granite fabricator for cutting slab to final dimensions
+- [x] Purchase table base
+- [x] Cut granite slab in two and mount on base with a center gap for a brass support
+- [ ] Add the brass center support between the two granite halves
+- [ ] Hear back from Sara on next steps
 
 ## Contacts
+- **Sara Wise** (Architect) — planned the center support so the table is structurally sound
 - **Tamara Fynn** (CB2) — 206-462-4400 / tfynn@cb2.com
 - **Connie** (Granite Marble WA) — connie@granitemarblewa.com
 
 ## Waiting On
-- [ ] Connie at Granite Marble WA — email sent 2026-04-06 re: available granite material dimensions
+- [x] Connie at Granite Marble WA — email sent 2026-04-06 re: available granite material dimensions
+- [ ] Sara — next steps (brass center support / final install)
 
 ## Notes
 - Standard dining table height is 28-30". Viggo is likely 30". With 1.25" granite = ~31.25" (fine, or trim base 1").

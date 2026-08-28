@@ -6,6 +6,7 @@ next-review: 2026-06-12
 due:
 energy: high
 created: 2026-05-14
+todoist-project-id: 6h5CQ4qgQ87vgjXG
 ---
 
 # Career – Find Next Role

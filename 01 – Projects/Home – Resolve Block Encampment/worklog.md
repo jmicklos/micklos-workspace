@@ -128,3 +128,38 @@
 4. Talk to neighbors
 5. Monitor for Hollingsworth / Mayor responses
 - 2026-06-09 08:10 -- `Home – Resolve Block Encampment.md` via Edit
+- 2026-07-12 16:30 -- `Home – Resolve Block Encampment.md` via Edit
+
+---
+
+## 2026-08-09 — Paused: police won't act, neighbors not unified
+
+### Situation
+- Jonathan reached out to the police and they came over in person
+- Their position: they will **not** take any action unless the individual is otherwise engaging in criminal activity — sleeping under the awning alone isn't enough
+- Compounding it: neighbor support is **not universal**. Some neighbors think they should just tolerate him being there
+- Individual channels are now exhausted (SPD, Find It Fix It/UCT, CSB, council/mayor emails all played out)
+
+### Approach & Rationale
+- Realistically, the only lever left is **collective pressure**: rally the neighbors who agree into a coordinated, en-masse appeal to the city, rather than continuing scattered individual complaints
+- Jonathan has decided that's more effort than he can spend right now given other priorities
+- Decision: move the project to an **inactive/paused** state to return to later, rather than archive it (still a live concern, just parked)
+
+### What Jonathan Said
+- Police "basically told us they won't do anything unless the dude is otherwise engaging in criminal activity"
+- "We don't universally have support from our neighbors, some think we should just tolerate him being there"
+- "Getting progress here seems like it would require us rallying the neighbors that agree with us to appeal en masse to the city"
+- "That's more effort than I can spend right now given other priorities"
+- Wants it in "an inactive state that I can come back to later"
+
+### Outputs & State
+- `Home – Resolve Block Encampment.md` — status changed `active` → `paused`; next-review pushed to 2026-11-09; added PAUSED banner, "Path Forward When Resuming" section, and dated Notes entry
+- Project is parked, not archived. All contacts, report history, and email drafts remain intact for a future restart.
+
+### Next Steps (when resuming)
+1. Identify which neighbors are aligned on resolving the encampment (support is currently split)
+2. Organize aligned neighbors into a single coordinated appeal
+3. Bring that collective appeal to the city — Councilmember Hollingsworth and Mayor Wilson's offices are the established levers
+- 2026-08-09 14:55 -- `Home – Resolve Block Encampment.md` via Edit
+- 2026-08-09 14:55 -- `Home – Resolve Block Encampment.md` via Edit
+- 2026-08-09 14:55 -- `Home – Resolve Block Encampment.md` via Edit

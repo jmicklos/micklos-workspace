@@ -66,3 +66,24 @@ What are we working on?
 - **Respect the data files.** `data/` is append-only — never delete rows. Add status updates.
 - **Update resource files** when the user shares new preferences, experiences, or ratings.
 - **Beli sync:** If 1+ month since last Beli update, prompt Jonathan.
+
+## Model tiering for Fucks Given research — IMPORTANT
+
+The vault's general rule is "search/gather → cheapest capable tier." **Fucks Given is an exception for candidate generation.**
+
+**Do NOT use a cheap tier to generate candidates.** Cheap models satisfy a restaurant query by scraping Yelp/Google category pages and ranking on "open + highly rated + seats a group." That pipeline structurally produces exactly what Rule Zero rejects: chains, hotel restaurants, buffets, and competent-execution-of-a-formula places. Observed failure (2026-08-25): a Haiku sweep for a South King County lunch returned Torero's, Santa Fe Mexican Grill, and a Southcenter Parkway Indian buffet, while missing the entire Georgetown neighborhood. It also produced factual errors (placed a Bainbridge Island restaurant in Georgetown) and contradicted a second cheap agent on whether two places were open.
+
+**The split to use:**
+
+| Phase | Tier | Why |
+|---|---|---|
+| **Candidate generation** — deciding *which* places are worth considering | Flagship / high-capability, or the main session itself | Requires taste, knowledge of the actual local scene, and Rule Zero judgment. Cheap tiers cannot do this. |
+| **Verification** — hours, phone, address, permanently-closed check, large-party policy, menu specifics | Cheap tier is fine and preferred | Mechanical fact-checking against a named list. This is what cheap fan-out is good at. |
+
+**So: name the candidates yourself (or with a flagship agent), then fan out cheap agents to verify that specific named list.** Never hand a cheap agent an open-ended "find me good restaurants in X."
+
+**Additional guardrails for any restaurant research:**
+- Always cross-check `data/ghost-restaurants.csv` before recommending — and pass that avoid-list into any subagent prompt.
+- Always cross-check `data/want-to-try.csv` — a rec that crosses off a list item is worth more than a fresh one.
+- Require every subagent to cite a source per claim and explicitly flag unverified items.
+- When two agents disagree on a fact (open/closed, cuisine, location), do not average them — surface the conflict and say it needs a phone call.

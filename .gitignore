@@ -70,3 +70,16 @@ amazon_backup/
 
 # private-ai vector index — derived/rebuildable, churns on every note edit
 .obsidian/plugins/private-ai/vector-index/embeddings.db
+
+########################################
+# Wedding invitation print assets — Syncthing, not git
+########################################
+
+# 893 MB of generated print output (90 PDFs): 72 per-guest files at ~4.6 MB each
+# plus two combined imposition files at 333 MB and 198 MB. GitHub hard-rejects any
+# file over 100 MB, which blocked the push on 2026-08-28.
+#
+# These are DERIVED artifacts — regenerable from the invitation source — and they
+# stay on disk, synced between machines by Syncthing. Only git ignores them.
+01 – Projects/Wedding – Invitations/print/
+

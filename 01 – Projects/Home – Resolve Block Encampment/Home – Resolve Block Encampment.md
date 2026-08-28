@@ -1,14 +1,17 @@
 ---
 type: project
 area: Home
-status: active
-next-review: 2026-06-12
+status: paused
+next-review: 2026-11-09
 due: 2026-06-30
 energy: low
 created: 2026-06-07
+todoist-project-id: 6h5CQ4RFqVX4H4j3
 ---
 
 # Home — Resolve Block Encampment
+
+> **⏸️ PAUSED (2026-08-09)** — Every low-effort channel has been exhausted. Police came out and said they won't act unless the individual is separately engaging in criminal activity. Neighbors are not unified — some are content to tolerate him. The only realistic path to progress now is organizing the neighbors who agree into a coordinated, en-masse appeal to the city. That's a bigger lift than Jonathan can take on right now given other priorities. **Parked to resume later. To restart: see "Path Forward When Resuming" below.**
 
 ## Goal
 Get the recurring encampment under the awning on our block resolved through city outreach and/or practical deterrents. Find It Fix It has been ineffective.
@@ -102,5 +105,12 @@ Get the recurring encampment under the awning on our block resolved through city
 - [ ] Explore motion-activated lights or sprinklers
 - [ ] If commercial property, contact the owner about anti-camping measures
 
+## Path Forward When Resuming
+The remaining viable strategy is a **neighbor coalition → coordinated city appeal**:
+1. Identify which neighbors agree the encampment should be resolved (support is currently split — some want to tolerate him).
+2. Rally the aligned neighbors into a single, coordinated appeal rather than scattered individual complaints.
+3. Appeal en masse to the city (Councilmember Hollingsworth's office + Mayor Wilson's office are the levers already contacted — see Escalation Contacts).
+- Rationale: individual channels are exhausted. SPD won't act without separate criminal activity, Find It Fix It closes reports as "resolved," and UCT classified this as acceptable "bed-roll transit." Collective, organized pressure is the only lever left untried.
+
 ## Notes
--
+- **2026-08-09** — Paused. Police responded to outreach and stated they will not take action unless the individual is otherwise engaged in criminal activity. Neighbor support is not universal — some neighbors are content to tolerate him. Meaningful progress would require rallying aligned neighbors to appeal to the city en masse, which is more effort than Jonathan can invest right now. Project set to inactive/paused to return to later.

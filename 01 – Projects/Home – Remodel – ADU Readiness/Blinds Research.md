@@ -75,15 +75,28 @@ Minimalist, cheap, very easy to replace.
 | ADU Bedroom | Main | 29" | 37" |
 
 **6 windows total. 3 sizes:**
-- ~22–22.5" x 23.25" — 4 windows (Living Room x2, Office West, Dining Room)
+- ~22–22.5" x 23.25" — **3 windows** (Living Room x2, Dining Room)
 - ~29" x 37" — 2 windows (Office East, Bedroom)
 - 16.375" x 23.25" — 1 window (Office West)
 
-> ⚠️ The 16.375" wide window is narrow — verify stock sizes fit. Most stock faux wood blinds start at 18". This one may need a custom cut or a narrow roller shade.
+> ⚠️ The 16.375" wide window is narrow — below typical stock minimums (~23"). It's the one that decides the route: in-store cut a stock unit, or order this single window custom.
+
+## Decision (2026-07-02)
+**2" cordless faux wood, white — Home Decorators Collection @ Home Depot (or Levolor @ Lowe's).** Moisture-safe composite (right for a basement), full-privacy slats, cordless (tenant safety), ~$25–50/window, same-day replaceable. Rejected: IKEA (stock-only, no cut service, sizes don't fit — esp. the narrow window), custom-everything (non-returnable, lead time, wrong for a rental), cellular (traps basement humidity).
+
+**Sizing quirk:** nominal width − 0.5" = actual. Order to the inside-mount opening. Tall windows (37"H): buy a taller stock height and remove slats to shorten.
+
+**Route:** call the local store first — *"do you cut faux wood blinds to width in-store?"* (Lowe's more reliable).
+- Cuts in-store → all 6 stock, cut to width. Cheapest, ~$150–270 total.
+- No cut → **5 stock + 1 custom** for the narrow Office West window (HD online "Guaranteed to Fit"). Mixing is fine.
+- Optional upgrade: blackout **roller** (not cellular) for the bedroom if sleep light control matters.
+
+*Status: backlog — execute after the IKEA/BR2 push.*
 
 ## Next Steps
 - [x] Measure all ADU windows (W x H, inside mount)
-- [ ] Check stock sizes against measurements (especially 16.375" width)
-- [ ] Pick finish color (white is safest for rental)
-- [ ] Purchase
+- [x] Check stock sizes against measurements (16.375" is the only problem → cut or custom)
+- [x] Pick finish color → white
+- [ ] Call store re: in-store cut-to-width service
+- [ ] Purchase (all-stock, or 5 stock + 1 custom)
 - [ ] Install

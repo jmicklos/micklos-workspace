@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wedding Invitation — Draft Options</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  @font-face{font-family:'Brand';src:url('assets/brand.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+  @font-face{font-family:'DidotItalic';src:url('assets/didot-italic.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+  :root{
+    --ink:#2b2b2b; --soft:#4a4a4a; --gold:#C9A961; --taupe:#8B8178; --paper:#ffffff; --bg:#f4f1eb;
+    --body:'Didot','Cormorant Garamond',Georgia,serif;
+    --display:'Brand','Didot',serif;
+    --ital:'DidotItalic','Didot',serif;
+    --label:'Jost',sans-serif;
+    --frame:inset 0 0 0 9px var(--paper), inset 0 0 0 10px rgba(201,169,97,0.6), inset 0 0 0 15px var(--paper), inset 0 0 0 16px rgba(201,169,97,0.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.6;-webkit-font-smoothing:antialiased;padding:0 22px 90px;}
+  .wrap{max-width:1040px;margin:0 auto;}
+  a{color:#9a7d33;}
+
+  /* hero */
+  .hero{background:var(--paper);box-shadow:var(--frame);padding:64px 40px 56px;margin:40px 0 48px;text-align:center;}
+  .kicker{font-family:var(--label);font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--taupe);}
+  .hero h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,6vw,60px);letter-spacing:.02em;line-height:1.05;margin:18px 0 6px;}
+  .hero .amp{color:var(--gold);}
+  .hero .sub{font-family:var(--ital);font-style:italic;font-size:22px;color:var(--soft);margin-top:8px;}
+  .hero .meta{font-family:var(--label);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--taupe);margin-top:22px;}
+
+  h2{font-family:var(--display);font-weight:400;font-size:26px;letter-spacing:.08em;text-transform:uppercase;text-align:center;margin:56px 0 6px;}
+  h2 + .lead{text-align:center;color:var(--soft);max-width:680px;margin:0 auto 28px;font-size:17px;}
+  .rule{width:54px;height:1px;background:var(--gold);margin:14px auto 0;}
+
+  p{margin:0 0 14px;}
+  .prose{max-width:720px;margin:0 auto;font-size:16.5px;color:#3a3a3a;}
+  .prose strong{color:var(--ink);}
+
+  /* option grid */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:34px;margin-top:10px;}
+  @media(max-width:720px){.grid{grid-template-columns:1fr;}}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:10px;}
+  @media(max-width:820px){.grid3{grid-template-columns:1fr;}}
+  .opt{background:var(--paper);border:1px solid #e7e2d8;box-shadow:0 6px 26px rgba(0,0,0,.06);display:flex;flex-direction:column;overflow:hidden;}
+  .opt .thumb{display:block;background:#eee;border-bottom:1px solid #eee;}
+  .opt .thumb img{width:100%;display:block;}
+  .opt .body{padding:20px 22px 22px;text-align:center;}
+  .opt .tag{font-family:var(--label);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);}
+  .opt h3{font-family:var(--display);font-weight:400;font-size:24px;letter-spacing:.05em;margin:6px 0 2px;}
+  .opt .spec{font-family:var(--label);font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--taupe);}
+  .opt .desc{font-size:15.5px;color:var(--soft);margin:12px 0 16px;min-height:66px;}
+  .opt .links{display:flex;gap:10px;justify-content:center;}
+  .opt .bwlinks{font-family:var(--label);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--taupe);margin-top:13px;}
+  .opt .bwlinks a{color:#8a6f2c;text-decoration:none;border-bottom:1px solid rgba(201,169,97,.4);}
+  .btn{font-family:var(--label);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;
+       padding:9px 16px;border:1px solid var(--gold);color:#8a6f2c;transition:all .2s;}
+  .btn:hover{background:var(--gold);color:#fff;}
+  .btn.solid{background:var(--gold);color:#fff;}
+  .btn.solid:hover{background:#b9973f;}
+
+  .compare{display:grid;grid-template-columns:1fr;gap:16px;margin-top:8px;}
+  .compare a{display:block;background:var(--paper);border:1px solid #e7e2d8;padding:14px;box-shadow:0 6px 26px rgba(0,0,0,.06);text-align:center;text-decoration:none;color:var(--ink);}
+  .compare img{width:100%;display:block;margin-bottom:10px;}
+  .compare .cap{font-family:var(--label);font-size:12.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--taupe);}
+
+  .decisions{background:var(--paper);box-shadow:var(--frame);padding:40px 40px 34px;margin-top:14px;}
+  .decisions ol{list-style:none;counter-reset:d;max-width:760px;margin:0 auto;}
+  .decisions li{counter-increment:d;position:relative;padding:16px 0 16px 52px;border-bottom:1px solid #eee;}
+  .decisions li:last-child{border-bottom:none;}
+  .decisions li::before{content:counter(d);position:absolute;left:0;top:16px;width:34px;height:34px;border:1px solid var(--gold);
+       color:#8a6f2c;font-family:var(--display);font-size:17px;display:flex;align-items:center;justify-content:center;}
+  .decisions h4{font-family:var(--label);font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:3px;color:var(--ink);}
+  .decisions .d-body{color:var(--soft);font-size:15.5px;}
+
+  .same{max-width:760px;margin:0 auto;}
+  .same ul{list-style:none;margin-top:8px;}
+  .same li{padding:8px 0 8px 26px;position:relative;color:#3a3a3a;}
+  .same li::before{content:"·";position:absolute;left:6px;color:var(--gold);font-size:22px;line-height:1;top:6px;}
+
+  footer{text-align:center;margin-top:64px;color:var(--taupe);font-family:var(--label);font-size:12px;letter-spacing:.12em;text-transform:uppercase;}
+  footer .heart{color:var(--gold);}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="kicker">Our Wedding Invitation</div>
+    <h1>Wan Ting Lee <span class="amp">&amp;</span> Jonathan Micklos</h1>
+    <div class="sub">draft invitation &mdash; four options to choose from</div>
+    <div class="meta">Casino Espa&ntilde;ol &middot; Ciudad de M&eacute;xico &middot; 12 December 2026</div>
+  </div>
+
+  <!-- WHAT WE DID -->
+  <h2>What&rsquo;s new</h2>
+  <div class="rule"></div>
+  <div class="prose" style="margin-top:24px;">
+    <p>These are draft options for our invitation, reworked from the stationer&rsquo;s proof so it matches <strong>our wedding website</strong> &mdash; the same typefaces, the same gold, the same overall feel. What changed from the proof:</p>
+    <p style="margin-top:18px;">
+      &bull;&nbsp; <strong>The website&rsquo;s fonts throughout</strong> &mdash; the display face for the names and headers, the Didot serif for body text, and the small caps labels.<br>
+      &bull;&nbsp; <strong>The &ldquo;and&rdquo; is now the gold ampersand</strong> from the site, in place of the cursive.<br>
+      &bull;&nbsp; <strong>The engraved gold border</strong> that frames each section of the website now frames each card.<br>
+      &bull;&nbsp; <strong>The time is corrected</strong> &mdash; the proof said &ldquo;five o&rsquo;clock in the afternoon,&rdquo; but the ceremony is at <strong>six</strong>, so it now reads &ldquo;at six o&rsquo;clock in the evening.&rdquo;<br>
+      &bull;&nbsp; Kept the <strong>pen-and-ink drawing of Casino Espa&ntilde;ol</strong> and the <strong>map of Centro Hist&oacute;rico</strong>.
+    </p>
+    <p style="margin-top:18px;">The only difference between the four options below is how the <strong>names</strong> are set &mdash; everything else is identical, ranging from ornate to clean. Each option is also shown in a <strong>black-and-white</strong> version, since the final printing may not include the gold.</p>
+  </div>
+
+  <!-- OPTIONS -->
+  <h2>The four options</h2>
+  <div class="rule"></div>
+  <div style="height:26px;"></div>
+  <div class="grid">
+
+    <div class="opt">
+      <a class="thumb" href="invite-A.html"><img src="invite-A.png" alt="Version A"></a>
+      <div class="body">
+        <div class="tag">Option A</div>
+        <h3>Classic &amp; airy</h3>
+        <div class="spec">All caps &middot; wide spacing</div>
+        <div class="desc">The most traditional, formal look. Letters spaced generously apart &mdash; with the font&rsquo;s decorative little swashes showing.</div>
+        <div class="links"><a class="btn solid" href="invite-A.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-A.pdf">PDF</a></div>
+        <div class="bwlinks">Black &amp; white: <a href="invite-A-bw.html">view</a> &middot; <a href="invite-A-bw.pdf">pdf</a></div>
+      </div>
+    </div>
+
+    <div class="opt">
+      <a class="thumb" href="invite-B.html"><img src="invite-B.png" alt="Version B"></a>
+      <div class="body">
+        <div class="tag">Option B</div>
+        <h3>Website-exact</h3>
+        <div class="spec">Title case &middot; tight spacing</div>
+        <div class="desc">Matches the texture of our website&rsquo;s homepage exactly. Swashes on the first letter of each name, tighter overall.</div>
+        <div class="links"><a class="btn solid" href="invite-B.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-B.pdf">PDF</a></div>
+        <div class="bwlinks">Black &amp; white: <a href="invite-B-bw.html">view</a> &middot; <a href="invite-B-bw.pdf">pdf</a></div>
+      </div>
+    </div>
+
+    <div class="opt">
+      <a class="thumb" href="invite-C.html"><img src="invite-C.png" alt="Version C"></a>
+      <div class="body">
+        <div class="tag">Option C</div>
+        <h3>Bold &amp; monumental</h3>
+        <div class="spec">All caps &middot; tight spacing</div>
+        <div class="desc">The most striking &mdash; big capitals packed close together. Full swashes, dense and confident.</div>
+        <div class="links"><a class="btn solid" href="invite-C.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-C.pdf">PDF</a></div>
+        <div class="bwlinks">Black &amp; white: <a href="invite-C-bw.html">view</a> &middot; <a href="invite-C-bw.pdf">pdf</a></div>
+      </div>
+    </div>
+
+    <div class="opt">
+      <a class="thumb" href="invite-D.html"><img src="invite-D.png" alt="Version D"></a>
+      <div class="body">
+        <div class="tag">Option D</div>
+        <h3>Clean &amp; modern</h3>
+        <div class="spec">Lowercase &middot; tight spacing</div>
+        <div class="desc">The most minimal. Same tight spacing as B, but the decorative swashes drop away for a calmer, more contemporary feel.</div>
+        <div class="links"><a class="btn solid" href="invite-D.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-D.pdf">PDF</a></div>
+        <div class="bwlinks">Black &amp; white: <a href="invite-D-bw.html">view</a> &middot; <a href="invite-D-bw.pdf">pdf</a></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- COMPARE -->
+  <h2>See them together</h2>
+  <div class="rule"></div>
+  <div style="height:26px;"></div>
+  <div class="compare">
+    <a href="compare-all.png"><img src="compare-all.png" alt="All four fronts side by side"><span class="cap">All four fronts, side by side &mdash; click to enlarge</span></a>
+    <a href="compare-case.png"><img src="compare-case.png" alt="Close-up of the name styles"><span class="cap">Close-up of the letters &mdash; see the swashes appear and disappear</span></a>
+  </div>
+
+  <!-- NAMED -->
+  <h2>With a guest&rsquo;s name</h2>
+  <div class="rule"></div>
+  <div class="prose" style="margin-top:24px;">
+    <p>We can also print each guest&rsquo;s (or household&rsquo;s) name on their own invitation &mdash; set between &ldquo;request the pleasure of your company&rdquo; and &ldquo;at the celebration of their marriage,&rdquo; in the uppercase display font. These three proofs (shown on <strong>Option B</strong> for now) show how it handles an individual, a couple, and a group.</p>
+  </div>
+  <div style="height:24px;"></div>
+  <div class="grid3">
+
+    <div class="opt">
+      <a class="thumb" href="invite-named-individual.html"><img src="invite-named-individual.png" alt="Individual guest name"></a>
+      <div class="body">
+        <div class="tag">Individual</div>
+        <h3>Adeola Adeosun</h3>
+        <div class="spec">One guest</div>
+        <div class="links"><a class="btn solid" href="invite-named-individual.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-named-individual.pdf">PDF</a></div>
+      </div>
+    </div>
+
+    <div class="opt">
+      <a class="thumb" href="invite-named-couple.html"><img src="invite-named-couple.png" alt="Couple guest names"></a>
+      <div class="body">
+        <div class="tag">Couple</div>
+        <h3>Mar&iacute;a Jos&eacute; &amp; Jaime Israel</h3>
+        <div class="spec">Two names, wraps to two lines</div>
+        <div class="links"><a class="btn solid" href="invite-named-couple.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-named-couple.pdf">PDF</a></div>
+      </div>
+    </div>
+
+    <div class="opt">
+      <a class="thumb" href="invite-named-group.html"><img src="invite-named-group.png" alt="Group guest names"></a>
+      <div class="body">
+        <div class="tag">Group</div>
+        <h3>A household of four</h3>
+        <div class="spec">Comma-separated list</div>
+        <div class="links"><a class="btn solid" href="invite-named-group.html">View full&nbsp;&#8599;</a><a class="btn" href="invite-named-group.pdf">PDF</a></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- SAME -->
+  <h2>The same in all four</h2>
+  <div class="rule"></div>
+  <div class="same" style="margin-top:22px;">
+    <ul>
+      <li>The second card (schedule, dress code, travel, and RSVP with the QR code) &mdash; identical everywhere.</li>
+      <li>The engraved gold frame, the Casino Espa&ntilde;ol drawing, and the Centro Hist&oacute;rico map.</li>
+      <li>Our website&rsquo;s fonts, the gold ampersand, and the &ldquo;evening reception to follow&rdquo; line.</li>
+    </ul>
+  </div>
+
+  <!-- DECISIONS -->
+  <h2>What we&rsquo;ll decide together</h2>
+  <div class="rule"></div>
+  <div style="height:22px;"></div>
+  <div class="decisions">
+    <ol>
+      <li>
+        <h4>Which option &mdash; A, B, C, or D?</h4>
+        <div class="d-body">The only thing that changes is how the names are set, from ornate (A / C) to clean (D). No wrong answer &mdash; it&rsquo;s about the feel we want.</div>
+      </li>
+      <li>
+        <h4>Gold, or black &amp; white?</h4>
+        <div class="d-body">The ampersand and border are gold; true metallic gold means <em>foil stamping</em> (costs more, and not every printer offers it). If we print in standard ink or plain black-and-white, each option&rsquo;s <strong>B&amp;W version</strong> (linked under each one above) is the fallback &mdash; both are ready to compare.</div>
+      </li>
+      <li>
+        <h4>RSVP date &mdash; October 1 or October 31?</h4>
+        <div class="d-body">The draft currently says &ldquo;the first of October,&rdquo; but our planning notes have the deadline as October 31. We should pick one and make the invite, the website, and the RSVP page all agree.</div>
+      </li>
+    </ol>
+  </div>
+
+  <footer>
+    Draft mockups &middot; not final
+  </footer>
+
+</div>
+</body>
+</html>

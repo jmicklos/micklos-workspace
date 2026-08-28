@@ -6,6 +6,7 @@ next-review: 2026-06-20
 due: 2026-10-10
 energy: medium
 created: 2026-06-06
+todoist-project-id: 6h5CQ75X5wrfwMQJ
 ---
 
 # Wedding – Bachelor Party

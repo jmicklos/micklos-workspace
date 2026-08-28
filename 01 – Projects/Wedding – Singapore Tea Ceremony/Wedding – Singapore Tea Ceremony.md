@@ -5,6 +5,8 @@ status: active
 due:
 energy: medium
 created: 2026-03-31
+todoist-project-id: 6fRX8hm4h996v6FH
+todoist-section-id: 6fVP8rPc699793JH
 next-review: 2026-04-13
 ---
 
@@ -24,6 +26,9 @@ Singapore tea ceremony is planned and executed. Venue booked, date set, family i
 
 ## Waiting On
 - [ ]
+
+## Tasks
+- [ ] Book Singapore travel <!-- todoist:6g4m3fM8HmMrf3XH -->
 
 ## Notes
 This is a tea ceremony, not a full wedding. The venue typically handles everything — no need for separate DJ, florist, coordinator, etc.

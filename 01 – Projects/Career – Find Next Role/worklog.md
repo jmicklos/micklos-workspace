@@ -164,3 +164,4 @@
 2. Present claims in themed blocks, ask Jonathan: yours / shared / cut
 3. Capture in `career-narrative-validated.md`
 - 2026-06-09 08:13 -- `Career – Find Next Role.md` via Edit
+- 2026-07-12 16:31 -- `Career – Find Next Role.md` via Edit

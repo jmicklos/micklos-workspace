@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Wedding Invitation — Version A (all-caps) — B&W</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  /* ---- Site fonts ---- */
+  @font-face{font-family:'Brand';src:url('assets/brand.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+  @font-face{font-family:'DidotItalic';src:url('assets/didot-italic.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+
+  :root{
+    --ink:#2b2b2b; --soft:#4a4a4a; --gold:#4a4a4a; --paper:#ffffff;
+    --body-serif:'Didot','Cormorant Garamond','Didot LT STD',Georgia,serif;
+    --display:'Brand','Didot','Cormorant Garamond',serif;
+    --label:'Jost',sans-serif;
+    /* Website's engraved double-gold section frame (inset from the card edge) */
+    --frame:inset 0 0 0 24px var(--paper), inset 0 0 0 25px rgba(75,75,75,0.6), inset 0 0 0 31px var(--paper), inset 0 0 0 32px rgba(75,75,75,0.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:#e9e6e0;color:var(--ink);padding:48px 0;display:flex;flex-direction:column;align-items:center;gap:48px;-webkit-font-smoothing:antialiased;}
+  .card{width:5in;height:7in;background:var(--paper);box-shadow:0 10px 40px rgba(0,0,0,.12), var(--frame);padding:0.55in 0.5in;display:flex;flex-direction:column;align-items:center;text-align:center;}
+
+  /* ============ FRONT ============ */
+  .front{justify-content:center;}
+  .building{width:74%;display:block;margin:0 auto 22px;}
+  .names{font-family:var(--display);font-weight:400;color:var(--ink);line-height:1.05;}
+  .name-line{font-size:33px;letter-spacing:.18em;padding-left:.18em;}   /* Version A: all-caps, wide tracking */
+  .amp{font-family:var(--display);font-size:33px;line-height:.95;font-weight:300;margin:2px 0 4px;color:var(--gold);}
+  .request{font-family:var(--body-serif);font-size:14.5px;letter-spacing:.02em;line-height:1.55;margin-top:22px;color:var(--soft);}
+  .date{font-family:var(--display);font-size:16.5px;letter-spacing:.12em;padding-left:.12em;margin-top:26px;color:var(--ink);}
+  .time{font-family:var(--display);font-size:13px;letter-spacing:.14em;padding-left:.14em;margin-top:5px;color:var(--ink);}
+  .venue{font-family:var(--body-serif);font-size:14px;letter-spacing:.02em;line-height:1.5;margin-top:24px;color:var(--soft);}
+  .venue .v-name{font-size:15px;}
+  .reception{font-family:'DidotItalic','Didot',var(--body-serif);font-style:italic;font-size:22px;letter-spacing:.01em;margin-top:1.15em;color:var(--soft);line-height:1.1;}
+
+  /* ============ BACK / DETAILS ============ */
+  .back{justify-content:center;padding:0.4in 0.5in;}
+  .section-title{font-family:var(--display);font-size:20px;letter-spacing:.16em;padding-left:.16em;margin-top:0;color:var(--ink);}
+  .subhead{font-family:var(--display);font-size:15.5px;letter-spacing:.16em;padding-left:.16em;color:var(--ink);}
+  .timeline{display:flex;justify-content:space-between;align-items:flex-start;width:100%;margin-top:12px;position:relative;}
+  .timeline::before{content:"";position:absolute;top:4px;left:8%;right:8%;height:1px;background:#c9c4bb;}
+  .tl-item{width:33%;position:relative;}
+  .tl-dot{width:6px;height:6px;border-radius:50%;background:var(--ink);margin:0 auto 14px;position:relative;z-index:1;}
+  .tl-time{font-family:var(--label);font-size:11px;font-weight:500;letter-spacing:.13em;padding-left:.13em;color:var(--ink);text-transform:uppercase;min-height:2.4em;}
+  .tl-desc{font-family:var(--body-serif);font-style:italic;font-size:13px;color:var(--soft);margin-top:4px;}
+  .map{width:54%;display:block;margin:12px auto 0;}
+  .block{margin-top:12px;}
+  .block .subhead{margin-bottom:5px;}
+  .block p{font-family:var(--body-serif);font-size:11.5px;line-height:1.55;color:var(--soft);}
+  .qr{width:62px;height:62px;margin:4px auto 0;display:block;}
+  .foot-note{margin-top:9px;}
+  .caption{font-family:var(--label);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#8a857c;margin-bottom:-30px;}
+
+  @media print{
+    @page{size:5in 7in;margin:0;}
+    body{background:#fff;padding:0;gap:0;}
+    .card{box-shadow:var(--frame);page-break-after:always;}
+    .caption{display:none;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="caption">Version A · B&W · Front</div>
+  <div class="card front">
+    <img class="building" src="assets/building.png" alt="Casino Español">
+    <div class="names">
+      <div class="name-line">WAN&nbsp;TING&nbsp;LEE</div>
+      <div class="amp">&amp;</div>
+      <div class="name-line">JONATHAN&nbsp;MICKLOS</div>
+    </div>
+    <div class="request">request the pleasure of your company<br>at the celebration of their marriage</div>
+    <div class="date">SATURDAY,&nbsp;THE&nbsp;TWELFTH&nbsp;OF&nbsp;DECEMBER</div>
+    <div class="time">AT&nbsp;SIX&nbsp;O&rsquo;CLOCK&nbsp;IN&nbsp;THE&nbsp;EVENING</div>
+    <div class="venue"><span class="v-name">Casino Espa&ntilde;ol</span><br>Isabel la Cat&oacute;lica 29, Centro Hist&oacute;rico<br>Ciudad de M&eacute;xico</div>
+    <div class="reception">Evening reception to follow</div>
+  </div>
+
+  <div class="caption">Version A · B&W · Details</div>
+  <div class="card back">
+    <div class="section-title">THE&nbsp;CELEBRATION</div>
+    <div class="timeline">
+      <div class="tl-item"><div class="tl-dot"></div><div class="tl-time">Six O&rsquo;Clock</div><div class="tl-desc">The Ceremony</div></div>
+      <div class="tl-item"><div class="tl-dot"></div><div class="tl-time">Half Past Seven</div><div class="tl-desc">Dinner</div></div>
+      <div class="tl-item"><div class="tl-dot"></div><div class="tl-time">Ten O&rsquo;Clock</div><div class="tl-desc">Dancing</div></div>
+    </div>
+    <img class="map" src="assets/map.png" alt="Map to Casino Español">
+    <div class="block"><div class="subhead">ATTIRE</div><p>Black Tie Optional</p></div>
+    <div class="block"><div class="subhead">TRAVEL&nbsp;&amp;&nbsp;ACCOMMODATION</div><p>Further details and recommendations may be found<br>at officialleemicklos.com</p></div>
+    <div class="block foot-note">
+      <div class="subhead">RSVP</div>
+      <p>Your formal response is requested by the first of October<br>officialleemicklos@gmail.com &nbsp;&middot;&nbsp; +1 206 245 8754</p>
+      <img class="qr" src="assets/qr.png" alt="RSVP QR code">
+    </div>
+  </div>
+
+</body>
+</html>

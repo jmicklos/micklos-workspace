@@ -72,13 +72,36 @@ Jonathan Micklos
 **To:** haicheng@uw.edu
 **Subject:** Identification help — small collection of Chinese carved figures
 **Attachments:** 5 front photos (numbered to match email bullet list)
-**Response:** Awaiting
+**Response:** 2026-06-09 — declined ("I'm afraid I know nothing about this kind of object"), but referred his former China Studies colleague **Prof. Steven Harrell** (retired UW, still reachable at stevehar@uw.edu) as someone knowledgeable in this area. Jonathan replied 2026-06-12 thanking him.
+
+### Prof. Steven Harrell (UW, retired — China Studies) — sent 2026-06-12
+**To:** stevehar@uw.edu
+**Referred by:** Prof. Haicheng Wang
+**Attachments:** 5 front photos
+**Response:** 2026-06-13 — declined direct ID ("I've forgotten much of what I once knew... and I really only ever knew the local Taiwan versions"), but gave three strong referrals to scholars who studied this systematically:
+  - **Prof. P. Steven Sangren** — Cornell (emeritus), pss3@cornell.edu
+  - **Prof. Robert Weller** — Boston University, rpweller@bu.edu
+  - **Prof. Kenneth Dean** — National University of Singapore, aridek@nus.edu.sg
+Note: Harrell studied Taiwanese folk religion and worked at UW's Burke Museum.
+
+Email body sent:
+> Hello Professor Steven Harrell,
+>
+> My name is Jonathan Micklos. One of your previous colleagues, Professor Haicheng Wang, recommended that I reach out to you.
+>
+> I'm a Seattle resident reaching out to ask if you might be able to help identify a small collection of Chinese sculptures I own and/or a good point of contact for someone who might be able to (please see attached).
+>
+> I'm principally interested in knowing what they are so that I can my fiancee and I may make informed decisions about which to keep and which to find a more appropriate home for.
+>
+> Thanks in advance,
+> -Jonathan
 
 ### Dr. Foong Ping (SAM) — sent 2026-06-08
 **To:** pfoong@seattleartmuseum.org
 **Subject:** Identifying a small collection of Chinese carved figures — Capitol Hill neighbor
 **Attachments:** 5 front photos (numbered to match email bullet list)
-**Response:** 2026-06-08 — polite decline, does not provide identification services. Suggested contacting a local gallery or auction house (may require fees).
+**To:** pfoong@seattleartmuseum.org
+**Response:** 2026-06-08 — polite decline, does not provide identification services. Suggested contacting a local gallery or auction house (may require fees). Jonathan replied 2026-06-12 asking if she could recommend a *specific* Seattle gallery or auction house that specializes in this area — awaiting response.
 
 ### Bonhams Seattle — sent 2026-03-09
 

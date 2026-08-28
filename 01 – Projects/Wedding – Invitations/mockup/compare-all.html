@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>All four name treatments — side by side</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  @font-face{font-family:'Brand';src:url('assets/brand.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+  @font-face{font-family:'DidotItalic';src:url('assets/didot-italic.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+  :root{
+    --ink:#2b2b2b; --soft:#4a4a4a; --gold:#C9A961; --taupe:#8B8178; --paper:#ffffff;
+    --body-serif:'Didot','Cormorant Garamond','Didot LT STD',Georgia,serif;
+    --display:'Brand','Didot','Cormorant Garamond',serif;
+    --label:'Jost',sans-serif;
+    --frame:inset 0 0 0 24px var(--paper), inset 0 0 0 25px rgba(201,169,97,0.6), inset 0 0 0 31px var(--paper), inset 0 0 0 32px rgba(201,169,97,0.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:#e9e6e0;padding:40px 30px;display:flex;justify-content:center;align-items:flex-start;gap:26px;-webkit-font-smoothing:antialiased;}
+  .col{display:flex;flex-direction:column;align-items:center;}
+  .hd{font-family:var(--label);text-align:center;margin-bottom:14px;width:5in;}
+  .hd .v{font-size:15px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:var(--ink);}
+  .hd .d{font-size:11px;letter-spacing:.06em;color:var(--taupe);margin-top:5px;text-transform:uppercase;}
+
+  .card{width:5in;height:7in;background:var(--paper);box-shadow:0 10px 40px rgba(0,0,0,.12), var(--frame);
+        padding:0.55in 0.5in;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;}
+  .building{width:74%;display:block;margin:0 auto 22px;}
+  .names{font-family:var(--display);font-weight:400;color:var(--ink);line-height:1.05;}
+  .amp{font-family:var(--display);font-size:33px;line-height:.95;font-weight:300;margin:2px 0 4px;color:var(--gold);}
+  .request{font-family:var(--body-serif);font-size:14.5px;letter-spacing:.02em;line-height:1.55;margin-top:22px;color:var(--soft);}
+  .date{font-family:var(--display);font-size:16.5px;letter-spacing:.12em;padding-left:.12em;margin-top:26px;color:var(--ink);}
+  .time{font-family:var(--display);font-size:13px;letter-spacing:.14em;padding-left:.14em;margin-top:5px;color:var(--ink);}
+  .venue{font-family:var(--body-serif);font-size:14px;letter-spacing:.02em;line-height:1.5;margin-top:24px;color:var(--soft);}
+  .venue .v-name{font-size:15px;}
+  .reception{font-family:'DidotItalic','Didot',var(--body-serif);font-style:italic;font-size:22px;letter-spacing:.01em;margin-top:1.15em;color:var(--soft);line-height:1.1;}
+
+  /* per-variant name treatment */
+  .vA .name-line{font-size:33px;letter-spacing:.18em;padding-left:.18em;}
+  .vB .name-line{font-size:36px;letter-spacing:-0.05em;}
+  .vC .name-line{font-size:35px;letter-spacing:-0.05em;}
+  .vD .name-line{font-size:36px;letter-spacing:-0.05em;}
+</style>
+</head>
+<body>
+
+  <div class="col">
+    <div class="hd"><div class="v">Version A</div><div class="d">All caps · wide +0.18em · ornate</div></div>
+    <div class="card vA">
+      <img class="building" src="assets/building.png" alt="">
+      <div class="names"><div class="name-line">WAN&nbsp;TING&nbsp;LEE</div><div class="amp">&amp;</div><div class="name-line">JONATHAN&nbsp;MICKLOS</div></div>
+      <div class="request">request the pleasure of your company<br>at the celebration of their marriage</div>
+      <div class="date">SATURDAY,&nbsp;THE&nbsp;TWELFTH&nbsp;OF&nbsp;DECEMBER</div>
+      <div class="time">AT&nbsp;SIX&nbsp;O&rsquo;CLOCK&nbsp;IN&nbsp;THE&nbsp;EVENING</div>
+      <div class="venue"><span class="v-name">Casino Espa&ntilde;ol</span><br>Isabel la Cat&oacute;lica 29, Centro Hist&oacute;rico<br>Ciudad de M&eacute;xico</div>
+      <div class="reception">Evening reception to follow</div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="hd"><div class="v">Version B</div><div class="d">Title case · tight −0.05em · hybrid</div></div>
+    <div class="card vB">
+      <img class="building" src="assets/building.png" alt="">
+      <div class="names"><div class="name-line">Wan&nbsp;Ting&nbsp;Lee</div><div class="amp">&amp;</div><div class="name-line">Jonathan&nbsp;Micklos</div></div>
+      <div class="request">request the pleasure of your company<br>at the celebration of their marriage</div>
+      <div class="date">SATURDAY,&nbsp;THE&nbsp;TWELFTH&nbsp;OF&nbsp;DECEMBER</div>
+      <div class="time">AT&nbsp;SIX&nbsp;O&rsquo;CLOCK&nbsp;IN&nbsp;THE&nbsp;EVENING</div>
+      <div class="venue"><span class="v-name">Casino Espa&ntilde;ol</span><br>Isabel la Cat&oacute;lica 29, Centro Hist&oacute;rico<br>Ciudad de M&eacute;xico</div>
+      <div class="reception">Evening reception to follow</div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="hd"><div class="v">Version C</div><div class="d">All caps · tight −0.05em · dense</div></div>
+    <div class="card vC">
+      <img class="building" src="assets/building.png" alt="">
+      <div class="names"><div class="name-line">WAN&nbsp;TING&nbsp;LEE</div><div class="amp">&amp;</div><div class="name-line">JONATHAN&nbsp;MICKLOS</div></div>
+      <div class="request">request the pleasure of your company<br>at the celebration of their marriage</div>
+      <div class="date">SATURDAY,&nbsp;THE&nbsp;TWELFTH&nbsp;OF&nbsp;DECEMBER</div>
+      <div class="time">AT&nbsp;SIX&nbsp;O&rsquo;CLOCK&nbsp;IN&nbsp;THE&nbsp;EVENING</div>
+      <div class="venue"><span class="v-name">Casino Espa&ntilde;ol</span><br>Isabel la Cat&oacute;lica 29, Centro Hist&oacute;rico<br>Ciudad de M&eacute;xico</div>
+      <div class="reception">Evening reception to follow</div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="hd"><div class="v">Version D</div><div class="d">All lowercase · tight −0.05em · clean</div></div>
+    <div class="card vD">
+      <img class="building" src="assets/building.png" alt="">
+      <div class="names"><div class="name-line">wan&nbsp;ting&nbsp;lee</div><div class="amp">&amp;</div><div class="name-line">jonathan&nbsp;micklos</div></div>
+      <div class="request">request the pleasure of your company<br>at the celebration of their marriage</div>
+      <div class="date">SATURDAY,&nbsp;THE&nbsp;TWELFTH&nbsp;OF&nbsp;DECEMBER</div>
+      <div class="time">AT&nbsp;SIX&nbsp;O&rsquo;CLOCK&nbsp;IN&nbsp;THE&nbsp;EVENING</div>
+      <div class="venue"><span class="v-name">Casino Espa&ntilde;ol</span><br>Isabel la Cat&oacute;lica 29, Centro Hist&oacute;rico<br>Ciudad de M&eacute;xico</div>
+      <div class="reception">Evening reception to follow</div>
+    </div>
+  </div>
+
+</body>
+</html>

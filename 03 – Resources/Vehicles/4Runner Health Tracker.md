@@ -29,6 +29,9 @@ author:
 | Trim | Limited |
 | Wheels | Stock 18" (265/60R18) — clears 5th gen brake hardware |
 | Tow capacity | 5,000 lbs |
+| Paint code | 1D4 — Silver Streak Mica |
+| Trim code | LB12 (interior) |
+| Head unit | Kenwood DMX1057XR (current) |
 
 ---
 
@@ -47,32 +50,60 @@ author:
 | Total cost of use | $75,985.04 |
 | Cost of use / mile | $0.99 |
 
+### Commute Cost Analysis
+
+| Metric | Value |
+|---|---|
+| Days in office / month | 17.33 |
+| Toll cost (one way) | $5.00 |
+| Commute distance (one way) | 15.4 mi |
+| MPG (commute) | 12 |
+| Gas cost (one way) | $5.78 |
+| Gas cost / month | $200.20 |
+| Round trip cost | $20.55 |
+| Total commute cost / month | $356.20 |
+| If MPG improved to 14 | saves $28.60/mo |
+
+### Speed vs. MPG Curve
+
+| Speed (MPH) | 50 | 55 | 60 | 65 | 70 | 75 | 80 |
+|---|---|---|---|---|---|---|---|
+| MPG | 22 | 20.6 | 19.2 | 17.8 | 16.4 | 15 | 13.6 |
+
+- Tank size: 20 gal (95% usable = 19 gal)
+- At 50 MPH: 418 mi range
+- At 75 MPH: 285 mi range
+- MPG loss per MPH above 50: **-0.28 MPG/MPH**
+- Driving 75 instead of 65 costs ~$5/hr in extra fuel
+
+*Source: [Google Sheet](https://docs.google.com/spreadsheets/d/1iazjqliWsVlODmyygnmZDirc0b3DIQUBdNpD-nFbit0) — Mileage Calculator and Mileage Tradeoffs tabs*
+
 ---
 
 ## Complete Service History
 
-| Date | Miles | Service | Shop | Cost | Notes |
+| Date | Miles | Service | Shop | Cost | Receipt |
 |---|---|---|---|---|---|
 | 2026-02-05 | 174,274 | Engine oil + filter (5W-30) | Autologic, Bellevue | $176.90 | — |
 | 2026-02-05 | 174,274 | U-joints and zerks lubricated | Autologic, Bellevue | Inc | — |
-| 2025-08-01 | 169,750 | Body mount migration | XO-Fab | $5,446.88 | — |
-| 2025-08-01 | 169,750 | Suspension replacement — Bilstein shocks | XO-Fab | Inc | — |
-| 2025-07-16 | 169,173 | Engine oil + filter (5W-30) | Autologic, Bellevue | $176.90 | — |
-| 2025-07-16 | 169,173 | U-joints and zerks lubricated | Autologic, Bellevue | Inc | — |
-| 2025-07-16 | 169,173 | MAF sensor cleaned | Autologic, Bellevue | $61.50 | — |
-| 2025-03-04 | 167,000 | Undercarriage cryoblasted + coated (Dinitrol) | Cryomode | $3,471.00 | — |
-| 2025-01-16 | 164,442 | Engine oil + filter (5W-30) | Valvoline, Bellevue | $186.67 | — |
+| 2025-08-01 | 169,750 | Body mount migration | XO-Fab | $5,446.88 | [receipt](https://www.dropbox.com/scl/fi/6y2qk0a9nydjcltuar9wf/2025-08-01_xo_fab.jpg?rlkey=eho4tgk77xrz8qvfkb0p729ui&st=89t6f9ce&dl=0) |
+| 2025-08-01 | 169,750 | Suspension replacement — Bilstein shocks | XO-Fab | Inc | ↑ |
+| 2025-07-16 | 169,173 | Engine oil + filter (5W-30) | Autologic, Bellevue | $176.90 | [receipt](https://www.dropbox.com/scl/fi/23lop3pj3zwlv9mdji1sj/2025-07-16_autologic.pdf?rlkey=rhxz5eua9vd5fwkym4sb4m1e0&st=0zsabdr5&dl=0) |
+| 2025-07-16 | 169,173 | U-joints and zerks lubricated | Autologic, Bellevue | Inc | ↑ |
+| 2025-07-16 | 169,173 | MAF sensor cleaned | Autologic, Bellevue | $61.50 | [receipt](https://www.dropbox.com/scl/fi/23lop3pj3zwlv9mdji1sj/2025-07-16_autologic.pdf?rlkey=rhxz5eua9vd5fwkym4sb4m1e0&st=0zsabdr5&dl=0) |
+| 2025-03-04 | 167,000 | Undercarriage cryoblasted + coated (Dinitrol) | Cryomode | $3,471.00 | [receipt](https://www.dropbox.com/scl/fi/2ix2mawni3u80nwhy5ii2/2025-03-04_cryomode.pdf?rlkey=sc0b1tpsri5w4vvjs1p99odvj&st=cov7e35z&dl=0) |
+| 2025-01-16 | 164,442 | Engine oil + filter (5W-30) | Valvoline, Bellevue | $186.67 | [receipt](https://www.dropbox.com/scl/fi/7mvekgxj6nlp2wsy41k5n/2025-01-16_valvoline.pdf?rlkey=r0y70gftzr2lgiaibrx0bpl17&st=lqahuwsf&dl=0) |
 | 2024-06-13 | 159,125 | Engine oil + filter (5W-30) | Jiffy Lube, Coachella | $225.00 | — |
 | 2024-06-11 | 158,127 | Battery replaced | O'Reilly, Kirtland NM | $250.00 | — |
-| 2024-05-15 | 154,155 | Front brake calipers, pads, rotors replaced | Greg's Japanese Auto, Seattle I-5 | $1,921.14 | OEM spec |
-| 2024-01-11 | 153,196 | Rear brake calipers replaced | Greg's Japanese Auto, Seattle I-5 | $1,528.61 | — |
-| 2024-01-11 | 153,196 | Front + rear diff fluid, transmission fluid, transfer case fluid, brake fluid | Greg's Japanese Auto, Seattle I-5 | Inc | — |
-| 2024-01-08 | 153,184 | Engine oil + filter (5W-30) | Greg's Japanese Auto, Seattle I-5 | $785.38 | — |
-| 2024-01-08 | 153,184 | Rear brake pads + rotors replaced | Greg's Japanese Auto, Seattle I-5 | Inc | — |
-| 2024-01-08 | 153,184 | U-joints and zerks lubricated | Greg's Japanese Auto, Seattle I-5 | Inc | — |
-| 2023-12-23 | 149,850 | Subwoofer | Car Toys | $1,571.00 | — |
-| 2023-08-14 | 149,850 | Speakers | Car Toys | $4,096.72 | — |
-| 2023-08-13 | 149,850 | Head unit + cameras | Car Toys | $3,825.82 | — |
+| 2024-05-15 | 154,155 | Front brake calipers, pads, rotors replaced | Greg's Japanese Auto, Seattle I-5 | $1,921.14 | [receipt](https://www.dropbox.com/scl/fi/sxwflbfshpkd7oln1iqlb/2024-05-15_gregs_receipt.pdf?rlkey=6rv56enq3uijsakkr77v3dd3h&st=3bifp3ev&dl=0) |
+| 2024-01-11 | 153,196 | Rear brake calipers replaced | Greg's Japanese Auto, Seattle I-5 | $1,528.61 | [receipt](https://www.dropbox.com/scl/fi/47tq5h9j5bjz7yz6gtvfp/2024-01-11_gregs_receipt.pdf?rlkey=kpc2vyduhhznxgaqezkl1dkgq&dl=0) |
+| 2024-01-11 | 153,196 | Front + rear diff fluid, transmission fluid, transfer case fluid, brake fluid | Greg's Japanese Auto, Seattle I-5 | Inc | ↑ |
+| 2024-01-08 | 153,184 | Engine oil + filter (5W-30) | Greg's Japanese Auto, Seattle I-5 | $785.38 | [receipt](https://www.dropbox.com/scl/fi/0bpwafv4t3d1nup2lhigu/2024-01-08_gregs_receipt.pdf?rlkey=gllad28g1onsdip8zizim3dw2&dl=0) |
+| 2024-01-08 | 153,184 | Rear brake pads + rotors replaced | Greg's Japanese Auto, Seattle I-5 | Inc | ↑ |
+| 2024-01-08 | 153,184 | U-joints and zerks lubricated | Greg's Japanese Auto, Seattle I-5 | Inc | ↑ |
+| 2023-12-23 | 149,850 | Subwoofer | Car Toys | $1,571.00 | [receipt](https://www.dropbox.com/scl/fi/5bl3zzftqdi6y8l4j9zkb/2023-11-24_car_toys.pdf?rlkey=bp232joh60mc6qv2ezr0ovjdn&dl=0) |
+| 2023-08-14 | 149,850 | Speakers | Car Toys | $4,096.72 | [receipt](https://www.dropbox.com/scl/fi/bsq6nfsjbclpsydi3q6al/2023-08-14_car_toys.pdf?rlkey=ufgm6xvlp0gghp9v693r1x1bu&dl=0) |
+| 2023-08-13 | 149,850 | Head unit + cameras | Car Toys | $3,825.82 | [receipt](https://www.dropbox.com/preview/Documents/Vehicles/4Runner/2023-08-13_car_toys.pdf?context=standalone_preview&role=personal) |
 | 2023-03-04 | 148,503 | Battery terminal exchange + service | Greg's Japanese Auto, Seattle I-5 | $42.33 | — |
 | 2023-03-04 | 148,503 | Power steering fluid | Greg's Japanese Auto, Seattle I-5 | $162.91 | — |
 | 2023-03-04 | 148,503 | Brake fluid | Greg's Japanese Auto, Seattle I-5 | $184.91 | — |
@@ -154,12 +185,17 @@ author:
 
 ## Notable Modifications
 
-| Date | Miles | Modification | Shop | Cost |
-|---|---|---|---|---|
-| 2025-08-01 | 169,750 | Bilstein suspension replacement | XO-Fab | Inc (with body mounts) |
-| 2025-08-01 | 169,750 | Body mount migration | XO-Fab | $5,446.88 |
-| 2025-03-04 | 167,000 | Dinitrol undercarriage cryoblast + coat | Cryomode | $3,471.00 |
-| 2023-08-13 | 149,850 | Head unit, cameras, speakers, subwoofer | Car Toys | $9,493.54 |
+| Date | Miles | Modification | Shop | Cost | MPG Impact |
+|---|---|---|---|---|---|
+| 2025-08-01 | 169,750 | 2-3" lift — Bilstein suspension (XREAS delete) | XO-Fab | Inc (with body mounts) | -0.5 to -1.0 |
+| 2025-08-01 | 169,750 | Body mount migration | XO-Fab | $5,446.88 | — |
+| 2025-03-04 | 167,000 | Dinitrol undercarriage cryoblast + coat | Cryomode | $3,471.00 | — |
+| 2023-08-13 | 149,850 | Head unit, cameras, speakers, subwoofer | Car Toys | $9,493.54 | — (weight) |
+| — | — | BFG KO2 tires (Load Range E, 265/70R17) | Discount Tire | — | -1.5 to -2.5 |
+| — | — | Hub spacers (all four) | — | — | -0.2 to -0.5 |
+| — | — | Metal skid plate (replaced plastic splash guard) | — | — | -0.1 to -0.2 |
+
+**Estimated total MPG impact from modifications: -2.3 to -4.2 MPG** — see [[4Runner – Improve Fuel Efficiency]] for full analysis.
 
 ---
 

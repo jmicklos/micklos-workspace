@@ -1,6 +1,6 @@
 # CLAUDE.md — Personal PARA Vault
 *AI context file for vault management*
-*Last updated: 2026-06-06*
+*Last updated: 2026-08-21*
 
 ---
 
@@ -58,6 +58,42 @@ The `06 – Skills/` directory contains reusable Claude utility skills (`.md` fi
 
 ---
 
+## Todoist integration
+
+This vault syncs tasks with Todoist. Todoist is the mobile/shared task interface; Obsidian is the project knowledge layer.
+
+### Architecture
+- **API:** Direct Todoist REST API v1 (`https://api.todoist.com/api/v1/`) via curl. No MCP server.
+- **Auth:** Personal API token at `~/.config/todoist/token`. Tokens don't expire unless revoked.
+- **Linking:** PARA projects have `todoist-project-id` in frontmatter. Some share a Todoist project via sections (`todoist-section-id`).
+- **Task identity:** Synced tasks carry `<!-- todoist:TASK_ID -->` inline comments in the PARA project's `## Tasks` section.
+- **Sync engine:** `/sync` skill reads both systems and reconciles. `/morning` calls `/sync` as a step.
+
+### Todoist structure
+- **3 shared projects** (Wan Ting can see — she's on free plan, 5-project limit):
+  - `[WT&J] Wedding Planning` (ID: `6fRX8hm4h996v6FH`) — sections per wedding PARA project
+  - `[WT&J] House Remodel` (ID: `6c75RX2frVPFrV46`) — sections per home PARA project
+  - `Rental` (ID: `6fR75W7pvJMhwQ3x`)
+- **Personal projects** under `Personal` (ID: `6CrfHx3FWhxR4GWX`) — 1:1 with PARA projects
+- **Inbox** (ID: `6CrfHx3FC87p9Grq`) — maps to `00 – Inbox/`
+
+### Sync rules
+- New Todoist task → create `- [ ] task text <!-- todoist:ID -->` in PARA project's `## Tasks` section
+- Completed Todoist task → mark `- [x]` in PARA
+- New `- [ ]` in PARA `## Tasks` (no todoist comment) → create Todoist task via API, add ID comment
+- Checked `- [x]` in PARA (has todoist comment) → complete task in Todoist via API
+- Todoist Inbox items → surface in `/morning` report for triage
+- **Todoist wins** for task content; **PARA wins** for context
+
+### Shared project → PARA mapping
+When multiple PARA projects share one Todoist project (via sections), the mapping works as:
+- Tasks in a section → mapped to the PARA project with that `todoist-section-id`
+- Tasks with no section → mapped to the **default** PARA project for that Todoist project:
+  - `[WT&J] Wedding Planning` default → `Wedding – CDMX Wedding`
+  - `[WT&J] House Remodel` default → `Home – Remodel – Finish`
+
+---
+
 ## Frontmatter schemas
 
 ### Project
@@ -69,6 +105,8 @@ next-review: YYYY-MM-DD
 due: YYYY-MM-DD
 energy: [low | medium | high]
 created: YYYY-MM-DD
+todoist-project-id: [Todoist project ID — links this PARA project to a Todoist project]
+todoist-section-id: [Todoist section ID — optional, for PARA projects that share a Todoist project via sections (e.g., multiple wedding projects in one shared Todoist project)]
 ```
 
 ### Area
@@ -329,6 +367,42 @@ AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Fucks Give
 
 ---
 
+## Resource backlogs
+
+Several resource files serve as "to-do" backlogs — lists of things to try, watch, read, cook, etc. These are NOT Todoist-synced (they're not actionable tasks, they're wish lists). When triaging Todoist inbox items or closing tasks that are really "things to try someday," move them to the appropriate backlog:
+
+| Backlog | File | What goes here |
+|---|---|---|
+| Recipes to try | `03 – Resources/Food and Drink/Cooking.md` → `## Recipes to Try` | Dishes to cook, recipe ideas |
+| Restaurants to try | `02 – Areas/Fucks Given/data/want-to-try.csv` | Restaurants on the radar |
+| Movies/shows to watch | `03 – Resources/Entertainment/To Watch.md` | Movies, TV shows, documentaries |
+| Reading backlog | `02 – Areas/Fucks Given/resources/reading-backlog.md` | Books, essays, long reads |
+| Travel backlog | `02 – Areas/Fucks Given/data/travel-backlog.csv` | Travel destinations |
+| Ghost towns (photography) | `02 – Areas/Fucks Given/data/ghost-towns-backlog.csv` | Photography/exploration destinations |
+| Music discovery | `02 – Areas/Fucks Given/resources/music.md` | Artists, albums, playlists to explore |
+
+**During `/morning` or Todoist triage:** If an item isn't a concrete task with a deliverable, it probably belongs in a backlog, not in Todoist. Move it to the right resource file and close/delete the Todoist task.
+
+---
+
+## Fucks Given
+
+The `02 – Areas/Fucks Given/` area is Jonathan's personal culture advisor system. It maintains taste profiles, dining intelligence, music DNA, photography backlog, and travel frameworks for Jonathan and Wan Ting.
+
+**Rule Zero:** "Does someone give a fuck?" — this is the filter for every recommendation. No padding, no hedging, no recommending things just because they're highly rated.
+
+**Structure:**
+- `resources/` — Living narrative files (philosophy, style, frameworks). Edit freely.
+- `data/` — Structured CSV data (ratings, lists, backlogs). **Append-only. Never delete rows.**
+- `planning/` — Active plans (anniversary, honeymoon).
+- `source-archive/` — Immutable raw exports.
+
+**Key files:** `resources/identity.md` (Rule Zero), `resources/system.md` (routing), `resources/dining-jonathan.md`, `resources/dining-wan-ting.md`, `resources/music.md`, `resources/travel.md`, `resources/experiences.md`, `resources/photography.md`, `resources/reading-backlog.md`.
+
+Use the `/fucks-given` skill to load full context when working in this domain.
+
+---
+
 ## How to help
 
 - **Creating a project**: Use the Project frontmatter schema. Ask for area, status, due date, and energy if not provided. Check if a backlog entry already exists first.
@@ -337,3 +411,25 @@ AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Fucks Give
 - **Moving to archive**: Always ask before archiving. Move to `04 – Archive/Archived Projects/`.
 - **Adding to Inbox**: Drop to `00 – Inbox/` with a brief title. Do not auto-categorize.
 - **Relationship files**: Always include `birthdate` and `relationship` fields. Use the Relationship frontmatter schema.
+- **Triaging items**: If an item is a "thing to try someday" rather than a concrete task, route it to the appropriate resource backlog (see table above), not Todoist.
+
+---
+
+## Model & Search Economy
+
+- **Search/gather phases → cheapest capable tier.** For research, fact-finding, or file/vault scanning tasks, default to the lowest-cost model tier available that can reliably use tools and follow instructions. Don't default to the flagship/reasoning-tier model for this phase.
+- **Checkpoint at ~10-15 searches.** If a task passes roughly 10-15 web searches without resolving, stop and report back: what's been found so far, what's still open, and why more searches are needed. Wait for confirmation before continuing. Don't self-censor scope — just surface the decision instead of silently running it up.
+- **Synthesis/analysis/architecture phases → highest-capability tier, deliberate opt-in.** Reserve the flagship/reasoning-tier model (and extended thinking) for the step where results actually get reasoned over, not the step where they get collected. Highest-capability ≠ newest/most expensive available — match tier to task difficulty, not novelty.
+- **Two-phase tasks: split explicitly.** If a task involves both gathering and analyzing, treat it as two sub-steps with an explicit tier switch between them, not one continuous flagship-tier session.
+- **Vault reads: targeted, not blanket.** Prefer reading specific files/sections over `view`-ing large directory trees or whole vault chunks when only a subset is relevant.
+- **Re-check tier mapping periodically.** Model names and relative cost/capability tiers change over time — don't assume prior tier mappings still hold. If unsure which currently-available model is cheap vs. flagship tier, ask or check before defaulting.
+
+### Model choice must be surfaced, not silent
+
+Before starting a gather or analyze phase (or switching between them), state:
+
+1. **Which model tier** is proposed and why it fits this phase (gather = cheap/fast; analyze = high-capability).
+2. **Relative cost estimate** — rough order of magnitude vs. the last known session cost (e.g. "similar scope to the $43 session, likely $X-Y" or "small task, <$1").
+3. **Remaining capacity check** — if `/usage` has been checked recently in this session, weigh the proposal against remaining 5-hour/weekly headroom (e.g. "5-hour limit is near 100% — recommend Sonnet-only until reset" or "weekly at 8%, headroom to use Opus here").
+
+If capacity is tight and the proposed model/approach would meaningfully eat into it, flag the cheaper alternative and let me choose, rather than proceeding on the expensive path by default.

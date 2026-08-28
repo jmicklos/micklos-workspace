@@ -58,3 +58,50 @@ Jonathan has five Chinese carved figures bought from a gallery in Thailand in Fe
 4. Examine piece 04 reverse for inscription
 5. Once ID'd, make keep/sell decisions with Wan Ting
 - 2026-06-09 08:11 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-12 18:07 -- `outreach-emails.md` via Edit
+- 2026-06-12 18:07 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-12 18:07 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-12 18:07 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-12 18:07 -- `context.md` via Edit
+- 2026-06-12 18:07 -- `context.md` via Edit
+- 2026-06-12 18:07 -- `context.md` via Edit
+- 2026-06-12 18:07 -- `context.md` via Edit
+- 2026-06-12 18:07 -- `context.md` via Edit
+- 2026-06-12 18:08 -- `context.md` via Edit
+- 2026-06-12 18:08 -- `outreach-emails.md` via Edit
+
+---
+
+## 2026-06-12 — Expert responses in: Wang referral + Foong follow-up
+
+### Situation
+Both UW/SAM outreach emails got responses. Jonathan forwarded the full email chains. Logged correspondence and chased the live leads.
+
+### What happened
+- **Prof. Haicheng Wang (UW)** replied 2026-06-09: "I'm afraid I know nothing about this kind of object." But he referred his former China Studies colleague **Prof. Steven Harrell** (retired UW, stevehar@uw.edu) as knowledgeable in this area. Jonathan replied thanking Wang, then emailed Harrell 2026-06-12 (referencing Wang's referral, 5 front photos attached). Awaiting Harrell — now the **best academic lead**.
+- **Dr. Foong Ping (SAM)** had declined 2026-06-08 (no ID services; try a local gallery/auction house, may charge fees). Jonathan replied 2026-06-12 pushing for a *specific* Seattle gallery/auction-house recommendation that specializes in this material. Awaiting her reply. Kept the door open warmly ("looking forward to my next visit to the museum").
+
+### Outputs & State
+- `outreach-emails.md` — added Harrell entry (full body), Wang response/referral, Foong follow-up; confirmed Foong email = pfoong@seattleartmuseum.org
+- `context.md` — outreach status, open threads, next steps updated; dated 2026-06-12
+- `Stuff – Statuettes.md` — contacts + checklist updated; next-review moved to 2026-06-19
+
+### Open Threads
+- Awaiting Prof. Harrell (follow up by 2026-06-19)
+- Awaiting Foong Ping's specific gallery/auction referral
+- Spirit cavities + piece 04 inscription still unphotographed
+- Thailand gallery provenance still unknown
+
+### Next Steps
+1. Wait for Harrell; follow up Jun 19 if silent.
+2. Pursue whatever gallery/auction house Foong names.
+3. Fallback to paid appraisal (ASA / District Auctions) if academic routes stall.
+4. Photograph spirit cavities + piece 04 reverse.
+- 2026-06-13 22:37 -- `outreach-emails.md` via Edit
+- 2026-06-13 22:37 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-13 22:37 -- `Stuff – Statuettes.md` via Edit
+- 2026-06-13 22:37 -- `context.md` via Edit
+- 2026-06-13 22:37 -- `context.md` via Edit
+- 2026-06-13 22:37 -- `context.md` via Edit
+- 2026-06-13 22:38 -- `context.md` via Edit
+- 2026-07-12 16:30 -- `Stuff – Statuettes.md` via Edit

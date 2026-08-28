@@ -38,7 +38,7 @@ Full room-by-room audit completed Jun 6-7. Every remaining action item is captur
 ## Open threads
 - Ferguson quote for Primary Bath tub filler — specific model fits
 - Tim + Jonathan need to get electric boxes for sconces (Primary Bath)
-- Eurocraft emailed Jun 7 re: floor scratch repair products — follow up Jun 13 if no reply
+- Eurocraft messaged re: floor scratch repair products — NOT a blocker, just touch-up work (per Jonathan Jun 14)
 - Touch-up paint info still needed from Tim (kitchen cabinets + black trim)
 - Entryway light not yet selected from 8 options in project file
 - `Home – TV Above Fireplace` and `Home – Bedroom Reading Lights` are related sub-projects (not yet formally linked)

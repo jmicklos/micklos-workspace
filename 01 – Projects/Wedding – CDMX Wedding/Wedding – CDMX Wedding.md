@@ -5,6 +5,8 @@ status: active
 due: 2026-12-12
 energy: high
 created: 2026-03-31
+todoist-project-id: 6fRX8hm4h996v6FH
+todoist-section-id: 6h5CPv6pcFWH78XH
 next-review: 2026-04-24
 ---
 
@@ -52,14 +54,8 @@ Wedding day happens. All vendors booked, logistics planned, guests informed and 
 - [ ] Get quotes
 - [ ] Book
 
-### Program (WIP, due ~9/01)
-- [ ] Agree with Casino Español on starting time
-- [ ] Lookup and review common wedding agendas
-- [ ] Pick a wedding agenda we like
-- [ ] Agree with Casino Español on events — location / time / design / functional expectations
-	- [ ] Ceremony
-	- [ ] Cocktail hour
-	- [ ] Reception
+### Program
+→ Moved to [[Wedding – CDMX Run-of-Show]]. That project now owns the day-of timeline, ceremony timing, and all schedule coordination with vendors.
 
 ### Our Lodging (WIP, due ~7/01)
 - [ ] Clarify who is staying with us, when, and if we have separate lodging wedding night
@@ -87,8 +83,19 @@ Wedding day happens. All vendors booked, logistics planned, guests informed and 
 ## Waiting On
 - [ ]
 
+## Tasks
+- [ ] Confirm Dan + Janet booked their CDMX wedding lodging <!-- todoist:6h6qQvpRPRJjqxHq -->
+- [ ] Confirm Lauren + Andrew's family booked their CDMX wedding lodging <!-- todoist:6h6qQvmm3xXFC4VH -->
+- [ ] Print invites <!-- todoist:6h2cfQXPRwM7MWhH -->
+- [ ] Wedding Favours <!-- todoist:6gWq77fHhQ59cpvH -->
+- [ ] Design wedding invites <!-- todoist:6gm9f4cVCMCFFH3q -->
+- [ ] Figure out wedding programme <!-- todoist:6g6cp2Xph4VmG9CH -->
+- [ ] Send out invites <!-- todoist:6h2cfQX7GhPH48VH -->
+- [ ] Figure out day before and day after <!-- todoist:6h2cfQfCCWgPmRGH -->
+
 ## Notes
 Guest priority tiers: 1 (must), 2 (priority), 3 (want), 4 (unlimited budget), No (not invited)
 Photographer/videographer: DONE
 Color palette: DONE
 Ask sister to officiate: DONE (Lauren agreed)
+Family lodging (Micklos side): parents and Lauren's family each book their own CDMX lodging separately — we only track that they've booked. (Folded in from the retired "Micklos Family Lodging" project, 2026-08-09.)

@@ -16,6 +16,9 @@ created: 2026-02-14
 - 4Runner maintenance check | cadence: quarterly | on: first-week | last-done: 2026-03-31
 	- Review 4Runner Health Tracker for overdue intervals
 	- Google Sheets maintenance log: see Recurring.md link
+- 4Runner OBD-II rescan | cadence: quarterly | on: first-week | last-done: 2026-06-11
+	- Run OBDLink MX+ diagnostic report, compare Bank 2 catalyst trend (baseline: 0.3032, threshold: 0.2995)
+	- Check fuel trims and misfire counts for any changes
 
 ## 🟢 Active Projects
 

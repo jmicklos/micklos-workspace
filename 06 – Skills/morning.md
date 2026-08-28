@@ -97,6 +97,17 @@ Example area file format:
 - Pay bills + financial check | cadence: monthly | on: last-weekend | last-done: 2026-03-29
 ```
 
+## Step 3.7 — Todoist sync
+
+Run the `/todoist-sync` skill. This will:
+1. Pull all Todoist projects, sections, and tasks via API
+2. Sync new Todoist tasks into PARA project `## Tasks` sections
+3. Sync PARA task completions back to Todoist
+4. Surface Todoist Inbox items for triage
+5. Flag orphan Todoist projects
+
+Capture the sync report output for inclusion in Step 6.
+
 ## Step 4 — Build today's focus stack
 
 Read all `.md` files in `01 – Projects/` (not the backlog subfolder). Extract `status`, `due`, `next-review`, `energy`, and `area` frontmatter fields.
@@ -135,6 +146,9 @@ Format the output as follows. Be concise — this is a quick brief, not an essay
 
 ### Recurring responsibilities
 [List any area recurring responsibilities that are due this period, or "All clear" if none]
+
+### Todoist sync
+[Include the sync report from Step 3.7. Show new tasks synced in each direction, completions, inbox items to triage, and any orphan projects.]
 
 ### PARA health
 - Inbox: [N] items to process

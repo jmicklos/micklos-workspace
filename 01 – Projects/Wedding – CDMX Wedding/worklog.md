@@ -7,3 +7,8 @@
 
 ### Next Steps
 - Review and update project status
+- 2026-07-12 16:30 -- `Wedding – CDMX Wedding.md` via Edit
+- 2026-07-12 17:56 -- `Wedding – CDMX Wedding.md` via Edit
+- 2026-07-15 05:19 -- `Wedding – CDMX Wedding.md` via Edit
+- 2026-08-09 16:46 -- `Wedding – CDMX Wedding.md` via Edit
+- 2026-08-09 16:47 -- `Wedding – CDMX Wedding.md` via Edit

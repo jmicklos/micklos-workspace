@@ -2,10 +2,11 @@
 type: project
 area: Home
 status: active
-next-review: 2026-06-15
+next-review: 2026-06-19
 due:
 energy: low
 created: 2026-06-07
+todoist-project-id: 6h5CQ4hHvFrj9QVx
 ---
 
 # Stuff -- Statuettes
@@ -64,7 +65,11 @@ A large carved and painted panel (flame/cloud motifs) is visible in background o
 
 ### Identification (priority)
 - **Dr. Foong Ping** — Foster Foundation Curator of Chinese Art, Seattle Art Museum (also UW affiliate professor). The dream contact — literally 3 blocks away at Volunteer Park. No direct email found; reach via SAM curatorial office or UW profile.
-- **Prof. Haicheng Wang** — UW Art History, haicheng@uw.edu. Chinese art and archaeology. Direct email available.
+- **Prof. Haicheng Wang** — UW Art History, haicheng@uw.edu. Chinese art and archaeology. Declined 2026-06-09 ("know nothing about this kind of object") but referred Prof. Steven Harrell.
+- **Prof. Steven Harrell** — UW China Studies (retired), stevehar@uw.edu. Studied Taiwanese folk religion, worked at Burke Museum. Replied 2026-06-13: outside his current expertise, referred three specialists below.
+- **Prof. Kenneth Dean** — National University of Singapore, aridek@nus.edu.sg. Studies Chinese popular religion (Fujian/SE Asia diaspora). **Strongest lead** — region likely matches these pieces, and NUS is local to Wan Ting's family. Not yet contacted.
+- **Prof. P. Steven Sangren** — Cornell (emeritus), pss3@cornell.edu. Systematic study of Chinese deity images. Not yet contacted.
+- **Prof. Robert Weller** — Boston University, rpweller@bu.edu. Systematic study of Chinese popular religion. Not yet contacted.
 
 ### Sale (secondary)
 - **District Auctions** — Mike McConnell, mike@districtauction.com (Bonhams referral, SoDo/Georgetown)
@@ -79,7 +84,10 @@ See `outreach-emails.md` for all email drafts and history (including Bonhams exc
 - [x] Contact Bonhams — passed (2026-03-11)
 - [x] Send email to Prof. Haicheng Wang — sent 2026-06-08
 - [x] Send email to Dr. Foong Ping (SAM) — sent 2026-06-08
-- [ ] Follow up if no response by 2026-06-15
+- [x] Prof. Wang declined, referred Prof. Steven Harrell — sent email to Harrell 2026-06-12
+- [x] Prof. Harrell declined, referred Sangren (Cornell), Weller (BU), Dean (NUS) — 2026-06-13
+- [ ] Email Prof. Kenneth Dean (NUS) — strongest regional fit
+- [ ] If no reply from Dean, try Sangren and/or Weller
 - [ ] Photograph spirit cavities close-up
 - [ ] Examine and document possible inscription on piece 04 reverse
 - [ ] Get expert identification
