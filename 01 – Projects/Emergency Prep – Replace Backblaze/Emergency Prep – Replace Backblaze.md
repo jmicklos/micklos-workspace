@@ -42,8 +42,8 @@ GUI via QNAP **Hybrid Backup Sync (HBS 3)** — no command line. One-way **Backu
 - **Gotcha:** Archive has a 365-day minimum storage duration → early-deletion fees on overwrite/delete. Data is mostly-append so low risk; this is why Backup (not Sync).
 
 ## Tasks
-- [ ] GCS: Create Cloud project `nas-backup` + enable billing <!-- todoist:6h9rQqxvchp33rmg -->
-- [ ] GCS: Create Archive bucket `micklos-nas-archive` in us-central1 <!-- todoist:6h9rQr5WQC49rWc8 -->
+- [x] GCS: Create Cloud project `nas-backup` + enable billing <!-- todoist:6h9rQqxvchp33rmg -->  <!-- done 2026-08-01 -->
+- [x] GCS: Create Archive bucket `micklos-nas-archive` in us-central1 <!-- todoist:6h9rQr5WQC49rWc8 -->  <!-- done 2026-08-01 -->
 - [ ] GCS: Create `qnap-hbs` service account + download JSON key <!-- todoist:6h9rQr6wP3wW4HGg -->
 - [ ] QNAP HBS 3: Add Google Cloud Storage space (JSON key auth) <!-- todoist:6h9rQr9Wf968jQjg -->
 - [ ] QNAP HBS 3: Create one-way Backup job (NAS to GCS) + run initial upload <!-- todoist:6h9rQrGH3qmwx8V8 -->

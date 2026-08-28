@@ -6,8 +6,8 @@ next-review: 2026-09-05
 due: 2026-10-01
 energy: medium
 created: 2026-08-20
-todoist-project-id:
-todoist-section-id:
+todoist-project-id: 6X34CC5hFg7X47HF
+todoist-section-id: 6hP87jXPqg7Fqmjm
 ---
 
 # Finances – Joint Bank Accounts
@@ -123,19 +123,18 @@ On a ~$60k joint balance ($10k checking float + $50k earning):
 
 ## Tasks
 
-*Not yet Todoist-synced. This is inherently shared with Wan Ting — likely belongs as a section under `[WT&J] Common` (`6X34CC5hFg7X47HF`) rather than a Personal project. Confirm before creating.*
 
-- [ ] Decide the account structure (gated on research findings)
-- [ ] Confirm name-change sequencing with Wan Ting before opening anything
-- [ ] Agree the monthly contribution amount from each person
-- [ ] Set the honeymoon savings target and back into a monthly number that clears it before deposits are due
-- [ ] Open joint checking; title as joint tenancy with right of survivorship
-- [ ] Open joint savings / travel bucket
-- [ ] Fund initial balances
-- [ ] Set up recurring auto-transfers from both individual accounts
-- [ ] Move shared recurring bills over (Seattle Utilities, PSE, internet, insurance, subscriptions)
-- [ ] Verify both have independent logins and card access
-- [ ] Record account details in the Post-Marriage Setup shared household reference
+- [ ] Decide the account structure (gated on research findings) <!-- todoist:6hP87jp3vCMq6Vqm -->
+- [ ] Confirm name-change sequencing with Wan Ting before opening anything <!-- todoist:6hP87jjvQgcGqGgF -->
+- [ ] Agree the monthly contribution amount from each person <!-- todoist:6hP87jr7G8PCrMvF -->
+- [ ] Set the honeymoon savings target and back into a monthly number that clears it before deposits are due <!-- todoist:6hP87jv76RQjFVrm -->
+- [ ] Open joint checking; title as joint tenancy with right of survivorship <!-- todoist:6hP87jr5h7rHCvgm -->
+- [ ] Open joint savings / travel bucket <!-- todoist:6hP87m24Jj2mwM4m -->
+- [ ] Fund initial balances <!-- todoist:6hP87jvhpVVwc3cF -->
+- [ ] Set up recurring auto-transfers from both individual accounts <!-- todoist:6hP87m34FmVqrw7F -->
+- [ ] Move shared recurring bills over (Seattle Utilities, PSE, internet, insurance, subscriptions) <!-- todoist:6hP87m54CGgX4Rwm -->
+- [ ] Verify both have independent logins and card access <!-- todoist:6hP87m5f2rPXV9Qm -->
+- [ ] Record account details in the Post-Marriage Setup shared household reference <!-- todoist:6hP87m5JmHcV4f3F -->
 
 ## Open Questions
 

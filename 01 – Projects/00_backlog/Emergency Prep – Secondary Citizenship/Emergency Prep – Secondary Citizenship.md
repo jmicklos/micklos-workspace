@@ -14,10 +14,9 @@ next-review: 2026-04-27
 ## Definition of Done
 (What must be true for this to be archived?)
 
-## Next Actions
-
+## Tasks
 ### Croatian Citizenship
-- [ ] Audit where the Croatian citizenship application stands
+- [ ] Audit where the Croatian citizenship application stands <!-- todoist:6g3c9c3hcHQGrW6H -->
 - [ ] Make a Croatian citizenship plan
 
 ### Canadian Citizenship

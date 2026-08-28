@@ -70,12 +70,22 @@ This vault syncs tasks with Todoist. Todoist is the mobile/shared task interface
 - **Sync engine:** `/sync` skill reads both systems and reconciles. `/morning` calls `/sync` as a step.
 
 ### Todoist structure
-- **3 shared projects** (Wan Ting can see — she's on free plan, 5-project limit):
+- **4 shared projects** (Wan Ting can see — she's on free plan, 5-project limit, so **1 slot left**):
   - `[WT&J] Wedding Planning` (ID: `6fRX8hm4h996v6FH`) — sections per wedding PARA project
   - `[WT&J] House Remodel` (ID: `6c75RX2frVPFrV46`) — sections per home PARA project
-  - `Rental` (ID: `6fR75W7pvJMhwQ3x`)
+  - `[WT&J] Common` (ID: `6X34CC5hFg7X47HF`) — sections per cross-cutting joint PARA project (Legal Name Change, Post-Marriage Setup, Honeymoon, Joint Bank Accounts)
+  - `[WT&J] Rental – 1120 19th Unit B` (ID: `6fR75W7pvJMhwQ3x`) — the basement ADU only
 - **Personal projects** under `Personal` (ID: `6CrfHx3FWhxR4GWX`) — 1:1 with PARA projects
 - **Inbox** (ID: `6CrfHx3FC87p9Grq`) — maps to `00 – Inbox/`
+- **`Ops` (ID: `6hP8FRwggqmGmJmf`) — PARA-FREE ZONE.** Jonathan's space for cheap action-item tracking that deliberately gets no PARA planning. Children as of 2026-08-28: `Chores` (`6hMCh6HWC2XGchXc`), `Finance` (`6hMCGRVjgrqPp262`).
+  - **Never sync it. Never flag it as an orphan. Never surface it for triage.** Any current or future child of `Ops` inherits this — match on the parent, not a hardcoded ID list.
+  - Distinct from Inbox: Inbox is a capture queue whose items must be *routed somewhere*, so `/morning` surfaces them. `Ops` **is** the destination — it should be silent.
+
+**Two rental properties — keep distinct** (they were conflated until 2026-08-28):
+| Property | PARA area | Todoist |
+|---|---|---|
+| 1504 Aurora Ave N #404 — established condo, manager-run (Brett Frosaker) | `Rental – 1504 Aurora` | `Rental – 1504 Aurora` (`6hP87J2r2Q9f5vR5`), **personal** |
+| 1120 19th Ave E Unit B — basement ADU at primary residence | `Rental – 1120 19th Unit B` | `[WT&J] Rental – 1120 19th Unit B` (`6fR75W7pvJMhwQ3x`), **shared** |
 
 ### Sync rules
 - New Todoist task → create `- [ ] task text <!-- todoist:ID -->` in PARA project's `## Tasks` section
@@ -88,9 +98,20 @@ This vault syncs tasks with Todoist. Todoist is the mobile/shared task interface
 ### Shared project → PARA mapping
 When multiple PARA projects share one Todoist project (via sections), the mapping works as:
 - Tasks in a section → mapped to the PARA project with that `todoist-section-id`
-- Tasks with no section → mapped to the **default** PARA project for that Todoist project:
+- Tasks with no section → mapped to the **default** PARA target for that Todoist project:
   - `[WT&J] Wedding Planning` default → `Wedding – CDMX Wedding`
   - `[WT&J] House Remodel` default → `Home – Remodel – Finish`
+  - `[WT&J] Common` default → **none** — every task must sit in a section. Flag unsectioned ones for triage.
+  - `[WT&J] Rental – 1120 19th Unit B` default → the **area** `02 – Areas/Rental – 1120 19th Unit B/`
+
+**Areas can be sync targets too, not just projects.** An Area file with `todoist-project-id` participates in sync exactly like a project: `## Tasks`, `<!-- todoist:ID -->` markers, both directions. Use this for ongoing responsibilities that never belong to a project with a done-state. The previous sync only scanned `01 – Projects/`, which is why Area-file tasks silently drifted out of date.
+
+### What does NOT sync
+Not everything in Todoist maps to PARA, and that's intentional. Do not flag these as orphans:
+- **Relationship sub-projects** under `Relationships (Personal)` (`6CrfHx3FQcWfRpv4`) — one Todoist project per person. Jonathan treats these as per-person *areas*, mirroring `03 – Resources/Relationships/`. They hold gift ideas, notes, and recurring nudges.
+- **Recurring Todoist tasks** (`is_recurring: true`) — these are phone-native nudges that roll forward on completion. They have no PARA equivalent and must never be "synced" as one-off tasks. As of 2026-08-28: 3 weekly under `Wan Ting Lee`, 4 annual birthday-prep under Mom/Dad/Lauren/Peter Brown.
+  - **Check the due date, not the completions API** — `tasks/completed/by_completion_date` does *not* log recurring completions. A recurring task whose due date has advanced past today is being kept up with.
+- Container/parent projects: `Shared` (`6h5ChMwW9Rf2X5hX`), `Personal`, `Relationships (Personal)`, `Inbox`
 
 ---
 
@@ -99,7 +120,7 @@ When multiple PARA projects share one Todoist project (via sections), the mappin
 ### Project
 ```yaml
 type: project
-area: [AI | Career | Digital Infrastructure | Emergency Preparedness | Finances | Health | Home | Life's Work | Photography | Relationships | Travel | Vehicles | Wedding | Work]
+area: [AI | Career | Digital Infrastructure | Emergency Preparedness | Finances | Fucks Given | Health | Home | Life's Work | Photography | Relationships | Rental – 1504 Aurora | Rental – 1120 19th Unit B | Travel | Vehicles | Wedding | Work]
 status: [active | waiting | paused | someday | done]
 next-review: YYYY-MM-DD
 due: YYYY-MM-DD
@@ -115,6 +136,7 @@ type: area
 review: [weekly | monthly | quarterly]
 owner: Jonathan D. Micklos
 created: YYYY-MM-DD
+todoist-project-id: [optional — if set, this Area's ## Tasks section participates in Todoist sync just like a project]
 ```
 
 ### Resource (general)
@@ -138,10 +160,28 @@ status: evergreen
 name: [Full Name]
 birthdate: YYYY-MM-DD
 relationship: [fiancé | mother | father | friend | colleague | etc.]
+deceased: true            # optional — suppresses birthday todos, see /morning
 created: YYYY-MM-DD
 author: Jonathan D. Micklos
 tags:
+todoist-project-id: [optional — the person's Todoist project under `Relationships (Personal)`]
 ```
+
+**People are areas in both systems.** A Todoist project under `Relationships (Personal)` (`6CrfHx3FQcWfRpv4`) is the mobile-side mirror of that person's file in `03 – Resources/Relationships/`. Neither is a "project" in the PARA sense — no deadline, no done-state. Linking them via `todoist-project-id` lets the two sides reconcile instead of drift.
+
+Mapping as of 2026-08-28:
+
+| Todoist project | ID | Relationship file |
+|---|---|---|
+| Athul | `6CrfHx3Fr47qGhjg` | Athul Acharya |
+| Evelyn Richter (Evie) | `6CrfHx3G7WfrmCXm` | Evelyn Richter |
+| Gabe | `6CrfHx3G78q9fjgQ` | Gabe Brown |
+| Dad | `6CrfHx3FRFxCJMmv` | Daniel L. Micklos |
+| Lauren | `6CrfHx3FRQhf5x9G` | Lauren Hobe Richter |
+| LJ | `6CrfHx3Fhv8HcHXw` | LJ Micklos ⚠️ *marked `deceased: true`, but the project has an open task — likely genealogy. Verify.* |
+| Mom | `6CrfHx3FvQgcrpP3` | Janet Hobe Micklos |
+| Peter Brown | `6CrfHx3G7GH2mq5j` | Peter Brown ⚠️ *stub created 2026-08-28; `relationship:` still blank* |
+| Wan Ting Lee | `6QQJMXXpHx4Fpvc9` | Wan Ting Lee |
 
 ---
 
@@ -363,7 +403,9 @@ Jean Yang (Jul 15), Corina Peters (Mar 28), Leah Carver (1989-03-19), Michelle L
 
 ## Areas
 
-AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Fucks Given, Health, Home, Life's Work, Photography, Relationships, Rental Property, Travel, Vehicles, Wedding, Work
+AI, Career, Digital Infrastructure, Emergency Preparedness, Finances, Fucks Given, Health, Home, Life's Work, Photography, Relationships, Rental – 1504 Aurora, Rental – 1120 19th Unit B, Travel, Vehicles, Wedding, Work
+
+> `Rental Property` was split into the two `Rental – …` areas on 2026-08-28. Daily notes before that date still reference the old name — that's historical record, leave it.
 
 ---
 
@@ -380,6 +422,10 @@ Several resource files serve as "to-do" backlogs — lists of things to try, wat
 | Travel backlog | `02 – Areas/Fucks Given/data/travel-backlog.csv` | Travel destinations |
 | Ghost towns (photography) | `02 – Areas/Fucks Given/data/ghost-towns-backlog.csv` | Photography/exploration destinations |
 | Music discovery | `02 – Areas/Fucks Given/resources/music.md` | Artists, albums, playlists to explore |
+| **Quotes** | `03 – Resources/Quotes/Recurring/Current.md` | Quotes, aphorisms, operating principles. Surfaced one/day by `/morning` (`06 – Skills/daily-quote.py`); pruned quarterly via the Life's Work area. Retired ones go to `Old.md` — never delete. |
+| **Places / day trips** | `02 – Areas/Fucks Given/data/ghost-towns-backlog.csv` | Photography + exploration destinations. Despite the filename this is NOT only ghost towns — any drive-to place worth shooting (parks, homesteads, abandoned industry). Use the `type` column. |
+
+**Verify before filing a place or restaurant.** Confirm it exists, is open, and is where you think it is — then record the check date in `notes`. If it can't be verified, still file it, but say so in `notes` rather than filing it as fact. Two entries were mis-filed on 2026-08-28 without this: `Hovander Homestead & Tennant Lake` was assumed to be a wedding venue when it is a county park in Ferndale, and `Menco (gelato)` could not be verified at all.
 
 **During `/morning` or Todoist triage:** If an item isn't a concrete task with a deliverable, it probably belongs in a backlog, not in Todoist. Move it to the right resource file and close/delete the Todoist task.
 

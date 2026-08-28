@@ -77,18 +77,18 @@ Automated public sources (LCB, TTB) provide a baseline confidence score. Human c
 ### Competitive Reference
 - **SevenFifty** — existing B2B platform where distributors list portfolios. Not WA-specific, variable coverage. Study as both data reference and competitor.
 
-## Next Actions
-- [ ] Define exact MVP scope with Chris
-- [ ] Decide on tech stack
-- [ ] Research WA LCB public data availability (price lists, distributor licenses)
-- [ ] Research TTB COLA database for importable data
-- [ ] Build Pipeline 1: public data importer (LCB + TTB)
-- [ ] Build Pipeline 2: PDF extractor for distributor portfolio books
-- [ ] Build Pipeline 3: spreadsheet/CSV importer
-- [ ] Build spreadsheet template for Chris to seed initial data
-- [ ] Study SevenFifty for competitive analysis
-- [ ] Build search + product/distributor database (Phase 1)
-- [ ] After MVP launch: approach Total Wine with advertising trade proposal
+## Tasks
+- [ ] Define exact MVP scope with Chris <!-- todoist:6hP8H5QgMXW8x2RX -->
+- [ ] Decide on tech stack <!-- todoist:6hP8H5XfRxrxm5m5 -->
+- [ ] Research WA LCB public data availability (price lists, distributor licenses) <!-- todoist:6hP8H5VXwJG7Q6v5 -->
+- [ ] Research TTB COLA database for importable data <!-- todoist:6hP8H5gXRrjw5m25 -->
+- [ ] Build Pipeline 1: public data importer (LCB + TTB) <!-- todoist:6hP8H5fVC69PhVQX -->
+- [ ] Build Pipeline 2: PDF extractor for distributor portfolio books <!-- todoist:6hP8H5hc9C4PWMf5 -->
+- [ ] Build Pipeline 3: spreadsheet/CSV importer <!-- todoist:6hP8H5hRQ22HQQCX -->
+- [ ] Build spreadsheet template for Chris to seed initial data <!-- todoist:6hP8H5ph79JXFXwX -->
+- [ ] Study SevenFifty for competitive analysis <!-- todoist:6hP8H5rHpQQXcHhX -->
+- [ ] Build search + product/distributor database (Phase 1) <!-- todoist:6hP8H5w5CvM3GxmX -->
+- [ ] After MVP launch: approach Total Wine with advertising trade proposal <!-- todoist:6hP8H5xF7g9xvf75 -->
 
 ## Waiting On
 - [ ]

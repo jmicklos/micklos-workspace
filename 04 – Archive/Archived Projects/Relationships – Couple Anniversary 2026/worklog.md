@@ -123,3 +123,25 @@
 - 2026-08-16 22:42 -- `Relationships – Couple Anniversary 2026.md` via Edit
 - 2026-08-16 22:47 -- `Relationships – Couple Anniversary 2026.md` via Edit
 - 2026-08-16 22:52 -- `Relationships – Couple Anniversary 2026.md` via Edit
+
+## 2026-08-28 — Project closed and archived
+
+### Situation
+Jonathan confirmed the anniversary happened and went well: "We did this and it was awesome." Closed out during a `/morning` session.
+
+### What Jonathan Said
+- "Two things we can complete (mark as complete, close out any todoist tasks, and archive the project) — Relationships – Couple Anniversary 2026 — We did this and it was awesome"
+
+### Outputs & State
+- `status: active` → `status: done`
+- Threads 1 (clear the stress deck) and 2 (Portland + Willamette Valley trip, Aug 21–23) marked complete — 7 tasks.
+- **Thread 3 (framed photo display) was NOT completed.** It had been deliberately decoupled from Aug 25 on 2026-08-16 and re-aimed at Wan Ting's return from her bachelorette party. Rather than bury it, Claude flagged the conflict and Jonathan chose to spin it into a new project: [[Relationships – Framed Photo Display]]. Its 5 tasks are left unchecked here as a record of state at archive time.
+- Todoist project `Relationships – Couple Anniversary 2026` (6h5rJpm6WMRhxfRg, child of the Wan Ting Lee relationship project) had **zero open tasks** — nothing to close via API. Archived in Todoist.
+- The 12 tasks in this project's `## Tasks` section were never synced to Todoist (no `todoist:` IDs). They were flagged as pending-push in the 2026-08-27 morning report; the push was correctly withheld, and the point is now moot.
+- Folder moved to `04 – Archive/Archived Projects/`.
+
+### Open Threads
+- Two Todoist tasks under the **Wan Ting Lee** relationship project may or may not have been anniversary-related and are still open: `Schedule datenight with Wan Ting` (6fq7889gF858Frp9, due 2026-08-24) and `pick a recipe to cook` (6h5rCXm5hp8Jvg99, due 2026-08-24). Left open deliberately — they sit outside this project and Jonathan didn't name them.
+
+### Next Steps
+- None for this project. Continue in [[Relationships – Framed Photo Display]].

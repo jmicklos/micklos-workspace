@@ -49,3 +49,5 @@ Monthly review: move items through the stages, add new ones from whatever you've
 ## Notes
 - Short articles / one-sitting reads don't belong here — they're one-and-done.
 - If something sits in the Queue past 2 monthly reviews without moving, consider dropping it.
+- How support for revolution in the United States went from a minority to a majority opinion — added 2026-08-28 from Todoist inbox
+

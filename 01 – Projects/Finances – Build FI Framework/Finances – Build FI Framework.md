@@ -6,7 +6,7 @@ next-review: 2026-07-24
 due: 2026-07-26
 energy: high
 created: 2026-07-21
-todoist-project-id:
+todoist-project-id: 6hP87jfM35WpQW3x
 ---
 
 # Finances – Build FI Framework
@@ -15,17 +15,17 @@ todoist-project-id:
 A financial-independence framework is defined and written into the Finances area: real annual spend calculated, three staged targets set with tax-aware dollar figures (F-you money → Coast FIRE → Full FIRE), standards codified (savings-rate floor, 100% equity allocation, account-priority waterfall, rebalance cadence), FI recurring responsibilities added, and a baseline snapshot of every account captured. The enhanced Finances area is the primary output.
 
 ## Tasks
-*Not yet Todoist-synced. No `todoist-project-id` assigned — offer to create a Personal Todoist project on request.*
+
 - [x] Invest the backdoor Roth: bought **SWTSX** (Schwab Total Stock Market, 0.03% ER) with the full $7,500 — done 2026-07-21. (Went 100% US; SWISX international split not taken.)
-- [ ] File **Form 8606** at tax time for the nondeductible contribution + conversion.
-- [ ] Calculate **real annual spend** (the input to every target).
-- [ ] Define **F-you money** target — near-term liquid buffer (mostly taxable/accessible), tax-aware.
-- [ ] Define **Coast FIRE** number — assets that compound to retirement with zero future contributions.
-- [ ] Define **Full FIRE** number — tax-aware, backed out from target after-tax spendable income across account mix.
-- [ ] Set a **savings-rate floor** standard (e.g. ≥X% of after-tax income invested).
-- [ ] Write **standards** into the Finances area (mission, allocation, account waterfall, tax-location).
-- [ ] Add **recurring responsibilities** to the Finances area (net-worth check, rebalance, annual max-out).
-- [ ] Capture **baseline snapshot** — where every account sits today.
+- [ ] File **Form 8606** at tax time for the nondeductible contribution + conversion. <!-- todoist:6hP87mCcHcj3XVqx -->
+- [ ] Calculate **real annual spend** (the input to every target). <!-- todoist:6hP87m9mp2rHv9qQ -->
+- [ ] Define **F-you money** target — near-term liquid buffer (mostly taxable/accessible), tax-aware. <!-- todoist:6hP87mG2PVG6JxPx -->
+- [ ] Define **Coast FIRE** number — assets that compound to retirement with zero future contributions. <!-- todoist:6hP87mG3C8G8xPXx -->
+- [ ] Define **Full FIRE** number — tax-aware, backed out from target after-tax spendable income across account mix. <!-- todoist:6hP87mJqwq2VrGjQ -->
+- [ ] Set a **savings-rate floor** standard (e.g. ≥X% of after-tax income invested). <!-- todoist:6hP87mMgxJvhcfgQ -->
+- [ ] Write **standards** into the Finances area (mission, allocation, account waterfall, tax-location). <!-- todoist:6hP87mMMQQFvWgmQ -->
+- [ ] Add **recurring responsibilities** to the Finances area (net-worth check, rebalance, annual max-out). <!-- todoist:6hP87mV5JvGMMx8x -->
+- [ ] Capture **baseline snapshot** — where every account sits today. <!-- todoist:6hP87mVRHPpw5V7Q -->
 
 ## Context
 
@@ -59,7 +59,7 @@ Order dollars get deployed: **401k match → HSA → max IRA (backdoor Roth) →
 
 ## Next Actions
 - [x] Place the SWTSX buy in the Schwab Roth — done 2026-07-21, $7,500 SWTSX.
-- [ ] Pull together the annual-spend number (bank/card statements or existing budget). This is the gate to defining all three targets.
+- [ ] Pull together the annual-spend number (bank/card statements or existing budget). This is the gate to defining all three targets. <!-- todoist:6hP8Rm7WwR82xvMx -->
 
 ## Open Questions
 - [ ] What's the real annual spend? (drives every target)

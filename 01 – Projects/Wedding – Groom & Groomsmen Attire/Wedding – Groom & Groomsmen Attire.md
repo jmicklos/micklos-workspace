@@ -7,7 +7,7 @@ due: 2026-11-15
 energy: medium
 created: 2026-08-14
 todoist-project-id: 6fRX8hm4h996v6FH
-todoist-section-id:
+todoist-section-id: 6hP8QpmHp4xGhhHq
 ---
 
 # Wedding – Groom & Groomsmen Attire
@@ -131,57 +131,54 @@ Two independent reasons, and the second is the stronger one:
 ### Traditions already consciously skipped (per [[Wedding – CDMX Run-of-Show]])
 Bouquet toss, garter toss, staged exit, not-seeing-the-bride (overridden by the first look). All deliberate. No action.
 
-## Next Actions
-
+## Tasks
 ### Decisions (Jonathan + Wan Ting)
 - [x] Confirm: second look = **ivory jacket + black bow tie** ✓ 2026-08-14
 - [x] Color palette recorded — tan/taupe bridesmaids, white florals + greenery, creamy white linens ✓ 2026-08-14
-- [ ] Confirm: groomsmen in **peak lapel, black bow tie**
-- [ ] Decide **buy vs. rent** for groomsmen — sets the whole timeline
-- [ ] Confirm with Wan Ting that she is **not** expecting taupe ties/pocket squares on the men
-- [ ] Decide: drop the reception boutonniere, or commission a greenery-forward second one
-- [ ] Update the archived `Wedding – Color Palette.md` note with the actual colors, or accept this project as the record
+- [ ] Confirm: groomsmen in **peak lapel, black bow tie** <!-- todoist:6hP8Qpgq57pW8h3q -->
+- [ ] Decide **buy vs. rent** for groomsmen — sets the whole timeline <!-- todoist:6hP8QpqHJwRWvh3q -->
+- [ ] Confirm with Wan Ting that she is **not** expecting taupe ties/pocket squares on the men <!-- todoist:6hP8QprMgvWrFVfq -->
+- [ ] Decide: drop the reception boutonniere, or commission a greenery-forward second one <!-- todoist:6hP8Qpv6GGjj3MqH -->
+- [ ] Update the archived `Wedding – Color Palette.md` note with the actual colors, or accept this project as the record <!-- todoist:6hP8QprmgCcR2Hjq -->
 
 ### Groom sourcing
-- [ ] Source black shawl-lapel tuxedo — try on, confirm satin vs. grosgrain facing
-- [ ] Source ivory/white shawl-lapel dinner jacket (traditionally **self-faced** lapels, not silk-faced)
-- [ ] Source marcella/piqué bib-front shirt(s) — decide one shirt for both looks or two
-- [ ] Buy self-tie white bow tie + self-tie black bow tie
-- [ ] Buy black cummerbund, studs + cufflinks, patent oxfords, over-the-calf socks
-- [ ] Ask Dan about wearing his (or grandfather's) cufflinks or watch
-- [ ] **Practice tying a self-tie bow tie** — do not learn this on the day
-- [ ] Book alterations for both jackets
+- [ ] Source black shawl-lapel tuxedo — try on, confirm satin vs. grosgrain facing <!-- todoist:6hP8Qq2RWwvpj9mH -->
+- [ ] Source ivory/white shawl-lapel dinner jacket (traditionally **self-faced** lapels, not silk-faced) <!-- todoist:6hP8Qq4V6wrCr99q -->
+- [ ] Source marcella/piqué bib-front shirt(s) — decide one shirt for both looks or two <!-- todoist:6hP8Qq6FJJfHx6hH -->
+- [ ] Buy self-tie white bow tie + self-tie black bow tie <!-- todoist:6hP8Qq95FWhXXjGH -->
+- [ ] Buy black cummerbund, studs + cufflinks, patent oxfords, over-the-calf socks <!-- todoist:6hP8Qq8hphCcp79q -->
+- [ ] Ask Dan about wearing his (or grandfather's) cufflinks or watch <!-- todoist:6hP8Qq79xMjgxJmq -->
+- [ ] **Practice tying a self-tie bow tie** — do not learn this on the day <!-- todoist:6hP8QqFF3rr4Fc5q -->
+- [ ] Book alterations for both jackets <!-- todoist:6hP8QqCvwhfC9jqq -->
 
 ### Groomsmen coordination
-- [ ] **Buy 6 matching black self-tie bow ties + 6 white linen pocket squares** (couple's expense, ~$200–280 total)
-- [ ] Buy 6 sets of studs + cufflinks as the groomsmen gift (functional — tux shirts require them)
-- [ ] Decide whether to subsidize any of the tuxedo cost, given the destination-travel ask
-- [ ] Write the spec sheet (one page, exact vendor + SKU + link) — Athul, Gabe, Chris, Ian, Andrew, Michael
-- [ ] Spec must include: **working lapel buttonhole** (for boutonnieres) and **no notch lapels**
-- [ ] Confirm Michael's status — still open in [[Wedding – CDMX Wedding]]
-- [ ] Send spec + measurement instructions to all 6
-- [ ] Collect measurements from all 6 (chase weekly)
-- [ ] Place consolidated order
-- [ ] Confirm each has garments in hand + fitted by **Nov 15**
-- [ ] Confirm each knows to carry the tux on as a **garment bag, not checked**
+- [ ] **Buy 6 matching black self-tie bow ties + 6 white linen pocket squares** (couple's expense, ~$200–280 total) <!-- todoist:6hP8QqM8gvHc8vXq -->
+- [ ] Buy 6 sets of studs + cufflinks as the groomsmen gift (functional — tux shirts require them) <!-- todoist:6hP8QqGjRGvcQ8qq -->
+- [ ] Decide whether to subsidize any of the tuxedo cost, given the destination-travel ask <!-- todoist:6hP8QqP5Hh3VmPvH -->
+- [ ] Write the spec sheet (one page, exact vendor + SKU + link) — Athul, Gabe, Chris, Ian, Andrew, Michael <!-- todoist:6hP8QqWMvhFjJxFq -->
+- [ ] Spec must include: **working lapel buttonhole** (for boutonnieres) and **no notch lapels** <!-- todoist:6hP8QqRQ2GCjWC7q -->
+- [ ] Confirm Michael's status — still open in [[Wedding – CDMX Wedding]] <!-- todoist:6hP8QqfhgCQw2r9H -->
+- [ ] Send spec + measurement instructions to all 6 <!-- todoist:6hP8QqcQP7gQhmgH -->
+- [ ] Collect measurements from all 6 (chase weekly) <!-- todoist:6hP8QqhMFmVjCpWq -->
+- [ ] Place consolidated order <!-- todoist:6hP8Qqgq5GRPWpcH -->
+- [ ] Confirm each has garments in hand + fitted by **Nov 15** <!-- todoist:6hP8Qqp57XRGjgWH -->
+- [ ] Confirm each knows to carry the tux on as a **garment bag, not checked** <!-- todoist:6hP8QqmWqpmJhMpq -->
 
 ### Tradition & gifts
-- [ ] Spec boutonnieres with the florist (couple's expense): 6 groomsmen white + greenery, groom's distinct/larger — see florist workstream in [[Wedding – CDMX Wedding]]
-- [ ] Decide on a real gift for **Lauren** — officiating *and* writing the ceremony
-- [ ] Talk to Dan + Janet about the **rehearsal dinner** — traditionally groom's parents host; don't assume at a destination wedding. Links to "figure out day before and day after" in [[Wedding – CDMX Wedding]]
-- [ ] Confirm who covers the **marriage license + officiant costs**
+- [ ] Spec boutonnieres with the florist (couple's expense): 6 groomsmen white + greenery, groom's distinct/larger — see florist workstream in [[Wedding – CDMX Wedding]] <!-- todoist:6hP8Qqr2ChmpPRVq -->
+- [ ] Decide on a real gift for **Lauren** — officiating *and* writing the ceremony <!-- todoist:6hP8Qqw9QHvhCJQH -->
+- [ ] Talk to Dan + Janet about the **rehearsal dinner** — traditionally groom's parents host; don't assume at a destination wedding. Links to "figure out day before and day after" in [[Wedding – CDMX Wedding]] <!-- todoist:6hP8Qr2wg3gp649q -->
+- [ ] Confirm who covers the **marriage license + officiant costs** <!-- todoist:6hP8Qqx5X2P8MvHq -->
 
 ### Day-of
-- [ ] Confirm getting-ready room can hang 7 tuxedos ([[Wedding – CDMX Wedding]] "Our Lodging")
-- [ ] Confirm with coordinator where the groom's second jacket lives during the reception
-- [ ] Steamer/pressing plan on arrival in CDMX
-- [ ] Brief EFEGE (photo/video) on the jacket change so it's covered
+- [ ] Confirm getting-ready room can hang 7 tuxedos ([[Wedding – CDMX Wedding]] "Our Lodging") <!-- todoist:6hP8Qr4c39955h5q -->
+- [ ] Confirm with coordinator where the groom's second jacket lives during the reception <!-- todoist:6hP8Qr6CXXr6QfMq -->
+- [ ] Steamer/pressing plan on arrival in CDMX <!-- todoist:6hP8Qr7fGpHXvJ9H -->
+- [ ] Brief EFEGE (photo/video) on the jacket change so it's covered <!-- todoist:6hP8Qr7v467xr5hq -->
 
 ## Waiting On
-- [ ] Wan Ting — bridesmaid palette + attire direction
-- [ ] Michael — groomsman confirmation
-
-## Tasks
+- [ ] Wan Ting — bridesmaid palette + attire direction <!-- todoist:6hP8Qr97XpWRMJcq -->
+- [ ] Michael — groomsman confirmation <!-- todoist:6hP8QrF4Q5wFFx8q -->
 
 ## Notes
 - Groomsmen (6): Athul Acharya, Gabe Brown, Chris Cvetkovich, Ian Peters, Andrew Richter, Michael Nail

@@ -64,16 +64,11 @@ PHASE 4  Front Wrought Iron Fence (piers the urns staged for)
 
 ### Phase 4 — Front Fence
 - [ ] Read front-setback dimension off survey or tape-measure (property line → front wall) <!-- todoist:6h6rj6Q9Qx3WG5Pc -->
-- [ ] Verify house isn't an individual City Landmark (DON search) <!-- todoist:6h6rj6QXQ6w5J5wc -->
-- [ ] Confirm exact property line vs. public ROW before siting piers <!-- todoist:6h6rj6WCV2Ff4vGc -->
-- [ ] Talk to neighbor about the shared boundary before any footings <!-- todoist:6h6rj6Wc6xHhjHjc -->
 - [ ] Decide build path: full DIY vs hybrid vs CMU-core <!-- todoist:6h6rj6WJh85RVm66 -->
-- [ ] Source wrought iron panels — get 2–3 quotes (custom fab vs stock) <!-- todoist:6h6rj6gHqpPRJM26 -->
-- [ ] Get mason quotes for piers (if hybrid path) <!-- todoist:6h6rj6cqG2JCw5mc -->
 
 ---
 
-## PHASE 1 — Backyard Cleanup (rear prep) · target: ASAP (was due 2026-07-15, OVERDUE)
+## PHASE 1 — Backyard Cleanup (rear prep) · target: EOM October 2026 (was due 2026-07-15)
 Clear the backyard to a blank slate so rear landscaping can begin. Overgrown with invasives + remodel construction debris.
 
 **Keep (flag & protect BEFORE clearing):**
@@ -87,20 +82,20 @@ Clear the backyard to a blank slate so rear landscaping can begin. Overgrown wit
 - General overgrowth — cut hedge/vegetation back to property line to expose the yard footprint.
 
 **Next actions:**
-- [ ] Walk the yard and flag the fig tree + rose bushes so they don't get cut
-- [ ] Identify all plant species in the overgrown area (photo + ID app)
-- [ ] Pull bittersweet nightshade — roots and all, bag for trash
-- [ ] Remove other invasives once identified
-- [ ] Clear construction debris — rent a dump trailer or schedule a junk hauler
-- [ ] Cut back overgrown hedge to property line
-- [ ] Rake and clear ground debris
-- [ ] Assess what's left — bare dirt, usable space, drainage issues
+- [ ] Walk the yard and flag the fig tree + rose bushes so they don't get cut <!-- todoist:6hP8PmhJhGXX5446 -->
+- [ ] Identify all plant species in the overgrown area (photo + ID app) <!-- todoist:6hP8Pmh36pM9cFfc -->
+- [ ] Pull bittersweet nightshade — roots and all, bag for trash <!-- todoist:6hP8Pmp7fjc3gCJc -->
+- [ ] Remove other invasives once identified <!-- todoist:6hP8Pmm8fj3g33q6 -->
+- [ ] Clear construction debris — rent a dump trailer or schedule a junk hauler <!-- todoist:6hP8PmrGJ65FMjrc -->
+- [ ] Cut back overgrown hedge to property line <!-- todoist:6hP8Pmrxrgrgrf76 -->
+- [ ] Rake and clear ground debris <!-- todoist:6hP8Pp2Pqj8C8f8c -->
+- [ ] Assess what's left — bare dirt, usable space, drainage issues <!-- todoist:6hP8PmwF3jqhwVCc -->
 
 *Notes: physical-labor project, likely a full weekend, high energy. Consider hiring help for debris haul if volume is large. Before photo: `PXL_20260609_before.jpg`.*
 
 ---
 
-## PHASE 2 — Front: Sidewalk Repair + Parking Strip / Bed Planting · Sep–Oct 2026
+## PHASE 2 — Front: Sidewalk Repair · DEFERRED to 2027 (Jonathan, 2026-08-28: "next year thing")
 
 ### 2a. Sidewalk Repair (DIY plan — replaces the $5k contractor quote)
 Sunken/damaged sidewalk slab by the Hornbeam (Carpinus betulus 'Fastigiata') street tree; root damage (SDOT ref TRE-46779). Estimated DIY cost **$100–175 vs. $5,000 quoted**.
@@ -108,10 +103,10 @@ Sunken/damaged sidewalk slab by the Hornbeam (Carpinus betulus 'Fastigiata') str
 - [x] Ask city about option space
 - [x] Check SDOT if Hornbeam root damage qualifies for city tree repair (TRE-46779) — SDOT: Hornbeams may have caused it, but fix backlog is long
 - [x] Get slabjack quotes — came back **$5,000** (slabjack + asphalt + section removal) → way too high
-- [ ] Email SDOT requesting reimbursement policy **in writing** ("If I hire a contractor, will the city reimburse for city-tree damage?")
-- [ ] Get more slabjack estimates if going contractor route — priority local independents: **Robbins & Co.** 1-888-344-1023 (Burien); **Seattle Concrete** (seattleconcrete.com). Others: Ram Jack West (877) 726-5225; Foamjection 866-913-6519. NOTE: PolyLevel = Groundworks-affiliated, not an independent 2nd quote.
-- [ ] Get SDOT permit (Right-of-Way Maintenance if under 100 sq ft)
-- [ ] Push SDOT on root-barrier responsibility for their tree
+- [ ] Email SDOT requesting reimbursement policy **in writing** ("If I hire a contractor, will the city reimburse for city-tree damage?") <!-- no-sync: Phase 2 sidewalk deferred to 2027 -->
+- [ ] Get more slabjack estimates if going contractor route — priority local independents: **Robbins & Co.** 1-888-344-1023 (Burien); **Seattle Concrete** (seattleconcrete.com). Others: Ram Jack West (877) 726-5225; Foamjection 866-913-6519. NOTE: PolyLevel = Groundworks-affiliated, not an independent 2nd quote. <!-- no-sync: Phase 2 sidewalk deferred to 2027 -->
+- [ ] Get SDOT permit (Right-of-Way Maintenance if under 100 sq ft) <!-- no-sync: Phase 2 sidewalk deferred to 2027 -->
+- [ ] Push SDOT on root-barrier responsibility for their tree <!-- no-sync: Phase 2 sidewalk deferred to 2027 -->
 
 **DIY steps (equipment: pry/digging bar 24"+, sledge, flat shovel, gloves, glasses, boots, bags; materials: 2× Great Stuff Big Gap Filler red can ~$8 ea, wood shims):**
 1. **Remove asphalt patch** (15–20 min) — thin 1–2" cold-patch, flat shovel under edge + pry, peels in sheets, bag it.
@@ -139,13 +134,25 @@ Sunken/damaged sidewalk slab by the Hornbeam (Carpinus betulus 'Fastigiata') str
 
 ---
 
-## PHASE 3 — Rear Planting (permanent planters) · Fall 2026, after Phase 1
-- [ ] Buy materials for permanent planters
-- [ ] Install materials for permanent planters
-- [ ] Choose plants for permanent planters
-- [ ] Buy plants for permanent planters
-- [ ] Install plants in permanent planters
-- [ ] (later) "Fence out back" — rear fence, distinct from the front wrought-iron fence
+## PHASE 2A — Front: Parking Strip / Bed Planting · target: EOM October 2026
+
+> Split out of the old combined Phase 2 on 2026-08-28. Jonathan: sidewalk repair is "a next year thing"
+> but "the parking strip planting is a by EOM October item as well that I need to start on."
+> The old phase had NO tasks for this — only sidewalk/SDOT items. Needs fleshing out.
+
+- [ ] Decide parking strip planting palette — low-water, SDOT-compliant (height limits near ROW) <!-- todoist:6hP8Pp3HGQrC898c -->
+- [ ] Confirm SDOT planting rules for the parking strip (species/height restrictions, permit needed?) <!-- todoist:6hP8Pp4rQ9wpQGgc -->
+- [ ] Source plants and soil amendment for the parking strip <!-- todoist:6hP8Pp748FVvV6Vc -->
+- [ ] Prep the bed — clear, amend soil <!-- todoist:6hP8Pp6jfv79RPg6 -->
+- [ ] Plant the parking strip <!-- todoist:6hP8Pp9C4frr8Hv6 -->
+
+## PHASE 3 — Rear Planting (permanent planters) · raised-bed BUILD by EOM Oct 2026; PLANTING spring 2027
+- [ ] Buy materials for permanent planters <!-- todoist:6hP8PpHvGv4JwVc6 -->
+- [ ] Install materials for permanent planters <!-- todoist:6hP8PpFRPj4Rh9H6 -->
+- [ ] Choose plants for permanent planters <!-- no-sync: planting is spring 2027 -->
+- [ ] Buy plants for permanent planters <!-- no-sync: planting is spring 2027 -->
+- [ ] Install plants in permanent planters <!-- no-sync: planting is spring 2027 -->
+- [ ] (later) "Fence out back" — rear fence, distinct from the front wrought-iron fence <!-- no-sync: explicitly later -->
 
 ---
 
@@ -176,33 +183,32 @@ Brick piers (columns) every 6–10 ft with wrought iron panels between them, alo
 - **Path 3 — CMU-core cheat:** stack hollow CMU, rebar + grout-fill the cores, brick-veneer the outside. Block does the structural work and keeps it plumb; brick is the pretty face. More forgiving than solid structural brick.
 
 ### Fence next actions
-- [ ] Self-verify building isn't an individual City Landmark — DON search (2 min)
-- [ ] Confirm exact property line vs. public ROW (piers on private side, not ROW)
-- [ ] **Before pouring footings — IF irrigation is happening:** sleeve under the fence line anywhere a future irrigation line would cross (cheap insurance; miserable to retrofit under a finished pier). Reconfirm the irrigation decision first.
-- [ ] Detail pier footings to stay entirely on-parcel (inset or eccentric) — critical near neighbor's line
-- [ ] Talk to neighbor re: boundary (survey shows existing "ON-LINE" fence)
-- [ ] Confirm driveway sight-triangle clearance for the front corner pier
-- [ ] If pier lights wanted: get written SDCI interpretation on whether fixtures count toward 4 ft
-- [ ] Design to the 4 ft cap: pier body ~42–44" + cap ≤4 ft total; brick to match Tudor exterior; panel style; gate?
-- [ ] Measure fence run length + pier count/spacing (coordinate with urn placeholder positions from Phase 2)
-- [ ] Determine footing depth (Seattle frost depth shallow; piers still want stable footings)
-- [ ] Source wrought iron panels — 2–3 quotes (custom fab vs stock)
-- [ ] If hybrid: get mason quotes for piers
+- [ ] Self-verify building isn't an individual City Landmark — DON search (2 min) <!-- todoist:6h6rj6QXQ6w5J5wc -->
+- [ ] Confirm exact property line vs. public ROW (piers on private side, not ROW) <!-- todoist:6h6rj6WCV2Ff4vGc -->
+- [ ] **Before pouring footings — IF irrigation is happening:** sleeve under the fence line anywhere a future irrigation line would cross (cheap insurance; miserable to retrofit under a finished pier). Reconfirm the irrigation decision first. <!-- todoist:6hP8PpJcwgQ879Q6 -->
+- [ ] Detail pier footings to stay entirely on-parcel (inset or eccentric) — critical near neighbor's line <!-- todoist:6hP8PpPQmVqvqqpc -->
+- [ ] Talk to neighbor re: boundary (survey shows existing "ON-LINE" fence) <!-- todoist:6h6rj6Wc6xHhjHjc -->
+- [ ] Confirm driveway sight-triangle clearance for the front corner pier <!-- todoist:6hP8PpVQmG96P5gc -->
+- [ ] If pier lights wanted: get written SDCI interpretation on whether fixtures count toward 4 ft <!-- todoist:6hP8PpRmrP3FXxWc -->
+- [ ] Design to the 4 ft cap: pier body ~42–44" + cap ≤4 ft total; brick to match Tudor exterior; panel style; gate? <!-- todoist:6hP8PpWPwMq83QC6 -->
+- [ ] Measure fence run length + pier count/spacing (coordinate with urn placeholder positions from Phase 2) <!-- todoist:6hP8PpXM29wpCfpc -->
+- [ ] Determine footing depth (Seattle frost depth shallow; piers still want stable footings) <!-- todoist:6hP8PpgjmM7Mr8w6 -->
+- [ ] Source wrought iron panels — 2–3 quotes (custom fab vs stock) <!-- todoist:6h6rj6gHqpPRJM26 -->
+- [ ] If hybrid: get mason quotes for piers <!-- todoist:6h6rj6cqG2JCw5mc -->
 
 ### Open questions (fence)
-- [ ] Gate / pedestrian opening in the run?
-- [ ] Brick match to Tudor exterior
-- [ ] Budget target
+- [ ] Gate / pedestrian opening in the run? <!-- todoist:6hP8PphMxrWhG4c6 -->
+- [ ] Brick match to Tudor exterior <!-- todoist:6hP8PpmjWFcF874c -->
+- [ ] Budget target <!-- todoist:6hP8Ppjq4Wp29Qc6 -->
 - Lot facts (survey): 4,317 sf, ~40' frontage × 107.9' deep; existing front brick/retaining wall + on-line fence; front grade change present.
 
 ---
-
 ## Cross-cutting — Irrigation decision (OPEN; reopened 2026-07-18)
 **Do we even need irrigation?** Leaning **no**, if the palette is right — resolve BEFORE Phase 2 planting and BEFORE Phase 4 footings.
 - **Low-water case (likely viable):** the planned palette (pachysandra, sword/deer fern, native woodland) is low-water once established. PNW winters do most watering; typically only hand-watering the first summer, then near-zero. Small lot + shade from Hornbeams/Magnolia reduces demand further.
 - **If a system is eventually wanted:** drip / 1–2 zones can run off the side hose bib + vacuum breaker (likely no permit). Pop-up spray needs a main-line tap → backflow assembly (annual SPU test) + SDCI plumbing permit (bigger commitment).
 - **Decision hinge:** finalize plant palette → if all low-water/native, skip irrigation (hand-water year 1). Only revisit if the design includes thirsty plants or a real lawn.
-- [ ] Decide: irrigation needed at all? (gate on final plant palette — favor low-water so answer is "no")
+- [ ] Decide: irrigation needed at all? (gate on final plant palette — favor low-water so answer is "no") <!-- no-sync: Jonathan 2026-08-28: use-case specific, undecided -->
 
 ---
 

@@ -160,6 +160,6 @@ tags:
 
 * "If you think that someone's ruined your life, you're right, it's you." -Nietzsche 
 
-* Those that need to be punished with inside of the populace will not openly accept that punishment they will push back. We saw this with Jim Crow after the civil War and we see this today with men following me too. 
+* Those that need to be punished with inside of the populace will not openly accept that punishment they will push back. We saw this with Jim Crow after the civil War and we see this today with men following me too.
 
-
+* "It always seems impossible until it is done." -Nelson Mandela

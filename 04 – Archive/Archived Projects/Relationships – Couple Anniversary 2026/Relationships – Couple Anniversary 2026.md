@@ -1,7 +1,7 @@
 ---
 type: project
 area: Relationships
-status: active
+status: done
 next-review: 2026-07-22
 due: 2026-08-25
 energy: medium
@@ -12,6 +12,11 @@ todoist-project-id: 6h5rJpm6WMRhxfRg
 # Relationships – Couple Anniversary 2026
 
 Celebrate our "officially a couple" anniversary on Aug 25. Three threads: clear the stress deck beforehand, plan a trip/outing with photography like the old days, and create a framed photo display of our selfies over the years.
+
+## Outcome
+
+**Happened — Aug 21–23, 2026, Portland + Willamette Valley. Jonathan: "We did this and it was awesome."**
+Threads 1 (stress deck) and 2 (trip) complete. Thread 3 (framed photo display) was deliberately decoupled from Aug 25 on Aug 16 and is still open — see below.
 
 ## Definition of Done
 Aug 25 arrives and Wan Ting feels genuinely celebrated — stress is lower, we've had a real adventure together, and our home has a physical reminder of our years together.
@@ -31,9 +36,9 @@ Aug 25 arrives and Wan Ting feels genuinely celebrated — stress is lower, we'v
 ## Tasks
 
 ### Thread 1: Clear the Stress Deck
-- [ ] Audit active wedding + house projects with Wan Ting — identify top 3-5 that would reduce her stress most
-- [ ] Create a hit list of "must close before Aug 25" items from those projects
-- [ ] Execute the hit list (tracked in those projects, but monitored here)
+- [x] Audit active wedding + house projects with Wan Ting — identify top 3-5 that would reduce her stress most
+- [x] Create a hit list of "must close before Aug 25" items from those projects
+- [x] Execute the hit list (tracked in those projects, but monitored here)
 
 ### Thread 2: Portland + Willamette Valley Trip (Aug 21–23)
 **Destination:** Portland, OR + Willamette Valley wine country
@@ -43,7 +48,7 @@ Aug 25 arrives and Wan Ting feels genuinely celebrated — stress is lower, we'v
 
 - [x] Pick destination and dates ✓ Portland, Aug 21–23
 - [x] Book hotel ✓ **Dossier Hotel** (downtown, SW Washington St) — Fri + Sat nights booked
-- [ ] Make dinner reservations
+- [x] Make dinner reservations
   - Fri: Mucca Osteria (Italian, WT rating 4.9 — verified open, books via Tock, walkable from Dossier) or Arden (Michelin, but note: upscale VEGAN prix fixe ~$80/pp, 4.7)
   - **DINNER STRATEGY (Aug 16): 2 nights (Fri + Sat) — one Portland/her-list night + one high-end valley finale, matched to location.** (ShoMon Kappo removed — it's in SEATTLE, the 4.8 was a Seattle rating.)
   - **Fri (arrival, Portland): Mucca Osteria** (her 4.9, walkable from Dossier). Alt: Urdaneta / AKADI.
@@ -66,7 +71,7 @@ Aug 25 arrives and Wan Ting feels genuinely celebrated — stress is lower, we'v
     - Branch B — quiet just-us walk-in near Dossier (e.g., Cheryl's on 12th, 1135 SW Washington, walkable).
     - Jonathan to: loop in Wan Ting (her anniversary too) + give friend a soft heads-up ("mostly a couples' trip but not leaving without P's & Q's with you").
     - (Canard Portland/Burnside is dinner-only — ruled out.)
-- [ ] Plan Willamette Valley wine tasting day (Saturday)
+- [x] Plan Willamette Valley wine tasting day (Saturday)
   - ~40–45 min from Dossier to Dundee Hills (closest sub-AVA)
   - **Appointment-only (book ahead):** Bergström, Beaux Frères, Lingua Franca, Domaine Willamette
   - **Walk-in friendly (reserve anyway for peak-season Sat):** Knudsen "The Outlook" (hilltop, photo-friendly), Youngberg Hill (best valley views, golden hour), Archery Summit ($50/pp, 5 estate Pinots)
@@ -102,11 +107,13 @@ Aug 25 arrives and Wan Ting feels genuinely celebrated — stress is lower, we'v
     - ~8:15 — drive back to Dossier (~45 min)
   - **Golden hour resolved:** Sat golden hour (~7–8pm) falls during the Painted Lady dinner — accepted. Portland sunset ~8:03; best golden-hour SHOOT window on the trip is Friday evening near Dossier (optional if not too road-tired). Sat photography = daytime valley light at the tastings.
   - **✅ DRIVING/SAFETY RESOLVED (Aug 16): own car + BOTH SPITTING/PACING all day.** No car service (no headaches, literal or logistical). Either can drive the ~45-min night leg. Same moderation ethos as Friday's shared single pairing. Nudge noted: treat the Painted Lady pairing the same way (share/sip-and-spit) so the finale doesn't undo the day's moderation.
-- [ ] Identify photo spots
+- [x] Identify photo spots
   - Japanese Garden, Alberta Arts District, bridges at golden hour, Willamette Valley vineyards
-- [ ] Pack camera gear — bring the real cameras, not just phones
+- [x] Pack camera gear — bring the real cameras, not just phones
 
 ### Thread 3: Framed Photo Display
+> **⚠️ MOVED OUT 2026-08-28 → [[Relationships – Framed Photo Display]].** This thread was never completed; it lives on as its own project. Tasks below are left unchecked as a record of where it stood at archive time.
+
 > **RE-SCOPED (Aug 16): DECOUPLED from Aug 25.** Won't make the anniversary in time (too tight to curate→print→frame→install in the 2-day post-trip gap). Now a **welcome-home SURPRISE for when Wan Ting returns from her bachelorette party** (date TBD — sets the new deadline). Upside: no rush, time to do the brass-railing idea right, lands as its own dedicated gesture. New workback to be built once bachelorette dates are known.
 - [ ] Go through phone/cloud photos — curate best selfies across our years together
 - [ ] Decide on display format and location

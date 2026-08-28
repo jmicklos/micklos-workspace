@@ -6,9 +6,13 @@ due:
 energy: high
 created: 2026-03-30
 next-review: 2026-04-13
+todoist-project-id: 6hP8Xh5m2Ppxgx7c
 ---
 
 # Home – Finish Home Automation
+
+## Tasks
+- [ ] Pi hole <!-- todoist:6h6p6jpfwH7F35Xq -->
 
 ## Definition of Done
 Home Assistant is running all HVAC zones, floor thermostats, cameras, leak sensors, and skylights with dashboarding and automations. Wire closet is clean and fully terminated. Safe installed. Jellyfin running.

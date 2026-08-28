@@ -1,6 +1,6 @@
 ---
 type: project
-area: Home
+area: Rental – 1120 19th Unit B
 parent: "[[Home – Remodel – Finish]]"
 status: active
 due:
@@ -18,16 +18,15 @@ next-review: 2026-06-12
 ## Definition of Done
 The basement/ADU is physically rentable.
 
-## Next Actions
-
+## Tasks
 ### This Weekend
 - [x] Clear out back room (make usable / photo-ready)
 - [x] Clear clutter from rest of basement
 
 ### Soon
-- [ ] Complete furnishing/inventory audit — answer open questions (rental model, BR1 status, appliances, laundry) then build shopping list ([[Furnishing Inventory Audit]])
+- [ ] Complete furnishing/inventory audit — answer open questions (rental model, BR1 status, appliances, laundry) then build shopping list ([[Furnishing Inventory Audit]]) <!-- todoist:6hP8H6FM28hCQqXQ -->
 - [x] Tim: stain and install basement/ADU railings (code requirement) — do at same time as main stairwell handrail (see [[Home – Remodel – Finish]] › Stairwell)
-- [ ] Get ADU RRIO permit from the city (Sara handling, snail's pace)
+- [ ] Get ADU RRIO permit from the city (Sara handling, snail's pace) <!-- todoist:6hP8H6GxMppvjQRx -->
 - [x] Figure out basement dining chairs (existing chairs going upstairs)
 - [x] Swap art — nice stuff upstairs, less nice stuff downstairs
 - [x] Heated floor thermostats: **DECIDED — keep floors, don't disable.** Bought **2× Schluter DITRA-HEAT-E-WiFi (RS1)** thermostats.
@@ -35,30 +34,30 @@ The basement/ADU is physically rentable.
 	- Zones: bathroom + kitchen, ~250 sq ft total (comfort/supplemental, not primary heat).
 	- Cost analysis (Seattle @ $0.12/kWh, 12 W/sq ft): 80°F cap ≈ **~$35/mo peak winter**, ~$0 in warm months, ~$100–150/yr.
 	- ⚠️ Confirms it's a **Schluter DITRA-HEAT** system → floor sensor should already be run. Verify sensor at each thermostat location during install.
-- [ ] ~~Find a sound bar (+ maybe subwoofer) for basement TV~~ — **dropped, TV has built-in audio**
+- [x] ~~Find a sound bar (+ maybe subwoofer) for basement TV~~ — **dropped 2026-08-28, TV has built-in audio.** Not doing.
 - [x] Move all Sonos gear upstairs to main house
-- [ ] Touch up paint in a few places
+- [ ] Touch up paint in a few places <!-- todoist:6hP8H6RWxQf2QrRx -->
 - [x] Move remaining personal items upstairs
-- [ ] Keep main-bedroom combo in place (gas water heater accessed through bedroom → CO required in-room)
+- [ ] Keep main-bedroom combo in place (gas water heater accessed through bedroom → CO required in-room) <!-- todoist:6hP8H6P9R58FwpwQ -->
 - [x] Buy + install 1 Kidde FireX CUAC10YFEX combo in the common area (gas fireplace + outside sleeping areas)
 - [x] Relocate the displaced common-area smoke unit to the stairwell (no purchase needed)
-- [ ] **Required (diligence):** Buy Airthings View Plus (~$300) — radon test *before listing* (basement = higher risk) + air quality (PM2.5/VOC/CO₂/humidity). If radon >4 pCi/L, plan mitigation
-- [ ] Verify gas water heater in bedroom-access closet meets combustion-air/sealed-closet code (GC). See [[Furnishing Inventory Audit]]
+- [ ] **Required (diligence):** Buy Airthings View Plus (~$300) — radon test *before listing* (basement = higher risk) + air quality (PM2.5/VOC/CO₂/humidity). If radon >4 pCi/L, plan mitigation <!-- todoist:6hP8H6X5pM46C62x -->
+- [ ] Verify gas water heater in bedroom-access closet meets combustion-air/sealed-closet code (GC). See [[Furnishing Inventory Audit]] <!-- todoist:6hP8H6XQm6xFv7vQ -->
 - [x] Install door hardware for top of stairs
 - [x] Add insulation/soundproofing to basement-to-main-floor door
-- [ ] Make key copies for entryway
+- [ ] Make key copies for entryway <!-- todoist:6hP8H6cQfx4Gjjcx -->
 - [x] Buy blinds — 2" cordless white faux wood, HD/Lowe's cut-to-width (5 stock + 1 custom for narrow Office West as fallback). Decided; backlog post-IKEA. See [[Blinds Research]]
-- [ ] Install blinds — **all hung EXCEPT the secondary-bedroom (BR2) window**
-- [ ] Set up digital lock — **rental model is hybrid (short + mid-term) → smart lock REQUIRED.** See "Hybrid Rental Model" note below
-- [ ] Take listing photos
+- [ ] Install blinds — **all hung EXCEPT the secondary-bedroom (BR2) window** <!-- todoist:6hMqF4v9xjWpC53x -->
+- [ ] Set up digital lock — **rental model is hybrid (short + mid-term) → smart lock REQUIRED.** See "Hybrid Rental Model" note below <!-- todoist:6hP8H6gP4W4hgHpQ -->
+- [ ] Take listing photos <!-- todoist:6hP8H6jG22wfmXJx -->
 - [x] IKEA stock-up run — see [[IKEA Run]] (low-analysis "Both" kitchen/linen/bath/utility items)
-- [ ] Water leak sensors — **Third Reality 4-pack PURCHASED, not yet installed.** Place at heater pan, laundry, under vanity/kitchen sink; tie into HA. Low priority
+- [ ] Water leak sensors — **Third Reality 4-pack PURCHASED, not yet installed.** Place at heater pan, laundry, under vanity/kitchen sink; tie into HA. Low priority <!-- todoist:6hMqCvhQPxf8McMQ -->
 	- [ ] **Two threat models, two responses:** (A) supply leaks → Zigbee spot sensors + optional supply auto-shutoff; (B) sewer backflow → the backwater valve + a floor-drain/cleanout float alarm (HA-integrated) as early warning. Supply shutoff does NOT protect against sewer backup.
 	- [ ] **DECIDED — supply sensors: Third Reality Zigbee Leak 4-pack** (B09XDP2LZF, pairs to Zigbee2MQTT). 120 dB onboard siren so a tenant-present hears it AND it reports to HA. Heater pan, laundry, under vanity, kitchen sink. Chose over Aqara (silent, HA-only) and Sonoff SNZB-05P.
 	- [ ] Highest-value single add: Zigbee/WiFi float alarm in the floor drain/cleanout → alerts remotely while tenanted, covers both a valve failure AND the "own wastewater trapped behind a closed valve" case. Options: Blackwater Alert (~$150) or Sump Alarm WiFi septic/sewage float (B0C821SFPX, ~$150).
-- [ ] **Identify backwater valve model** — photo the access cover / read the nameplate. Determines: (1) whether it has a manual gate you can force shut vs. plain passive flapper, (2) what the annual inspection involves. Caveat: forcing it shut also traps the ADU's own wastewater — vacant-unit / no-water-use tool only.
-- [ ] Build a lightweight ADU maintenance schedule — recurring annual items: (1) backwater/backflow valve flapper inspection (contractor says low-maintenance; manufacturers still recommend an annual look); (2) fire extinguisher check — pressure gauge in the green + within shelf life (~10–12 yr disposable). Migrate to the Rental Property area as recurring responsibilities once the unit is live
-- [ ] Security sensors — hybrid model leans **YES on cheap Zigbee window open/close** (vacant-between-guests awareness, easy HA add); **skip glass-break** (niche)
+- [ ] **Identify backwater valve model** — photo the access cover / read the nameplate. Determines: (1) whether it has a manual gate you can force shut vs. plain passive flapper, (2) what the annual inspection involves. Caveat: forcing it shut also traps the ADU's own wastewater — vacant-unit / no-water-use tool only. <!-- todoist:6hP8H6qRqhjG8xWx -->
+- [ ] Build a lightweight ADU maintenance schedule — recurring annual items: (1) backwater/backflow valve flapper inspection (contractor says low-maintenance; manufacturers still recommend an annual look); (2) fire extinguisher check — pressure gauge in the green + within shelf life (~10–12 yr disposable). Migrate to the Rental Property area as recurring responsibilities once the unit is live <!-- todoist:6hP8H6v74PfMR7Wx -->
+- [ ] Security sensors — hybrid model leans **YES on cheap Zigbee window open/close** (vacant-between-guests awareness, easy HA add); **skip glass-break** (niche) <!-- todoist:6hP8H6rr9mjVmwVx -->
 
 ### Furnish Second Bedroom (~$1,600 budget)
 Decision: second bedroom over office — higher rental rate across all models (Airbnb, corporate, travel nurse). Payback: 5 weeks (Airbnb) to 3 months (corporate housing).
@@ -71,11 +70,11 @@ Decision: second bedroom over office — higher rental rate across all models (A
 - [x] Assemble and stage room
 
 ### Install / Setup (bought, needs doing)
-- [ ] Install fire extinguisher (purchased) — mount in kitchen/common area
-- [ ] Install first aid kit (purchased) — mount/place in kitchen
-- [ ] Set up coffee maker (purchased) — place + test
-- [ ] Buy baking sheet + baking dish (~$25) — still needed
-- [ ] ~~2 bedroom wastebaskets + broom/mop~~ — **dropped, not doing**
+- [ ] Install fire extinguisher (purchased) — mount in kitchen/common area <!-- todoist:6hMqCqgfrmWcrhCx -->
+- [ ] Install first aid kit (purchased) — mount/place in kitchen <!-- todoist:6hP8H734MxF6ghqQ -->
+- [ ] Set up coffee maker (purchased) — place + test <!-- todoist:6hP8H6xr44jm9v5Q -->
+- [ ] Buy baking sheet + baking dish (~$25) — still needed <!-- todoist:6hP8H74GFwv2JxCx -->
+- [ ] ~~2 bedroom wastebaskets + broom/mop~~ — **dropped, not doing** <!-- todoist:6hP8H76HXJP3hJrQ -->
 
 ### Completed
 - [x] AC Control (Faikin install)

@@ -1,7 +1,7 @@
 ---
 type: project
 area: Travel
-status: waiting
+status: done
 next-review: 2026-07-01
 due: 2026-08-06
 energy: medium
@@ -10,6 +10,10 @@ todoist-project-id: 6h5CQ4fRcpRvCR4Q
 ---
 
 # Travel – Alaska Fishing
+
+## Outcome
+
+**Trip happened — Aug 6–10, 2026.** Jonathan + Chris Cvetkovich went. Project closed 2026-08-28.
 
 ## Overview
 
@@ -21,8 +25,8 @@ todoist-project-id: 6h5CQ4fRcpRvCR4Q
 
 ## Waiting On
 
-- [ ] Chris to book flights and hotels
-- [ ] Book Turo (once flights confirmed)
+- [x] Chris to book flights and hotels
+- [x] Book Turo (once flights confirmed)
 
 ## Packing Checklist
 

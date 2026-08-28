@@ -31,11 +31,11 @@ Keep it lower-key than the wedding: food + drinks + mingling, no formal program.
 
 ## Tasks
 
-- [ ] Ask Sofia for videos of Casa de la Luz rooftop 30 min before sunset (check light quality) <!-- todoist:6h6rjFqcg4CRF8WH -->
+- [x] Ask Sofia for videos of Casa de la Luz rooftop 30 min before sunset (check light quality) <!-- todoist:6h6rjFqcg4CRF8WH -->  <!-- done 2026-08-04 -->
 - [ ] Choose venue (weigh Casa de la Luz convenience vs. Loose Blues character) <!-- todoist:6h5qpcxh4Jv34Q7q -->
 - [ ] Confirm date/time (evening 2026-12-11) and guest count <!-- todoist:6h5qpf3JhP5j3j8q -->
 - [ ] Get quote / availability / minimum spend <!-- todoist:6h5qpf65xmrcq4hq -->
-- [ ] Decide format: drinks only vs. light dinner <!-- todoist:6h5qpf8xCgVRfjMq -->
+- [x] Decide format: drinks only vs. light dinner <!-- todoist:6h5qpf8xCgVRfjMq -->  <!-- done 2026-07-19 -->
 - [ ] Communicate to guests (ties into Guest Communications project) <!-- todoist:6h5qpfH5Q477GhrH -->
 
 ## Notes

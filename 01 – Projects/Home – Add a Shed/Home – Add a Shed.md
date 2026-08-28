@@ -6,8 +6,8 @@ next-review: 2026-08-31
 due: 2026-12-31
 energy: medium
 created: 2026-08-17
-todoist-project-id:
-todoist-section-id:
+todoist-project-id: 6c75RX2frVPFrV46
+todoist-section-id: 6hP87jhFf8jq667c
 ---
 
 # Home – Add a Shed
@@ -42,14 +42,14 @@ By category:
 - **Seattle permit note:** detached accessory structures **≤ 200 sq ft** are generally exempt from a building permit (still subject to zoning setbacks/lot coverage). Confirm size stays under the threshold and clears rear-yard setbacks before buying.
 
 ## Tasks
-- [ ] Confirm Seattle permit-exempt size (≤200 sq ft) + rear-yard setback / lot-coverage limits
-- [ ] Pick shed location — coordinate with [[Home – Grounds]] plan so it doesn't conflict with rear planting or the future fence line
-- [ ] Select prefab kit (material, footprint, ventilation, floor system)
-- [ ] Prep base — raised/sealed floor over ground vapor barrier
-- [ ] Assemble shed
-- [ ] Fit out interior: open shelving (implements) + gasketed totes/cabinet + desiccant zone (tools/camping)
-- [ ] Load in — batteries + down + leather stay indoors
+- [ ] Confirm Seattle permit-exempt size (≤200 sq ft) + rear-yard setback / lot-coverage limits <!-- todoist:6hP87mXfq3qCwXm6 -->
+- [ ] Pick shed location — coordinate with [[Home – Grounds]] plan so it doesn't conflict with rear planting or the future fence line <!-- todoist:6hP87mWgxhjwP8Q6 -->
+- [ ] Select prefab kit (material, footprint, ventilation, floor system) <!-- todoist:6hP87mcw28fhpRr6 -->
+- [ ] Prep base — raised/sealed floor over ground vapor barrier <!-- todoist:6hP87mcXF78P65mc -->
+- [ ] Assemble shed <!-- todoist:6hP87mjh6w6pw9R6 -->
+- [ ] Fit out interior: open shelving (implements) + gasketed totes/cabinet + desiccant zone (tools/camping) <!-- todoist:6hP87mmRcHpH4g76 -->
+- [ ] Load in — batteries + down + leather stay indoors <!-- todoist:6hP87mmQ4cPGwWQc -->
 
 ## Open Threads
-- **Todoist link not set.** This likely belongs under the shared `[WT&J] House Remodel` project (ID `6c75RX2frVPFrV46`) as its own section — creating a section needs the API. Set `todoist-section-id` on next `/sync`, or leave standalone. Left blank deliberately to avoid tasks defaulting to `Home – Remodel – Finish`.
+- **Todoist: linked 2026-08-28.** Lives under shared `[WT&J] House Remodel` (`6c75RX2frVPFrV46`) in its own **Add a Shed** section (`6hP87jhFf8jq667c`) — the section is what prevents tasks defaulting into `Home – Remodel – Finish`. 7 tasks pushed.
 - Shed footprint/material not yet chosen — drives base prep and cost.

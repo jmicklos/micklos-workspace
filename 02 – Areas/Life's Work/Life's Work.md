@@ -11,7 +11,10 @@ created: 2026-02-16
 -
 
 ## Recurring Responsibilities
--
+- Quote collection review | cadence: quarterly | on: first-week | last-done:
+	- Read through `03 – Resources/Quotes/Recurring/Current.md` (~75 quotes, surfaced one/day by `/morning`)
+	- Retire anything that no longer lands → move to `Old.md` (never delete)
+	- Promote anything from `Old.md` that's become relevant again
 
 ## Notes
 - reach out to Dr. Bret Weinstein about internet management policy

@@ -76,6 +76,7 @@ Chosen 2026-07-17. Ceremony space is separate from restaurant; restaurant patron
 - Dinner shifted 30 min earlier to account for 5:30 cocktail start.
 
 ## Tasks
+- [ ] Cookie table — Pasteleria Ideal - someone to buy it day of/ before wedding (MXN 184/kg) <!-- todoist:6h6rhc4fw3JhXhhH -->
 - [x] Coordinator: confirm whether ceremony space can be separated from restaurant flow before 6 PM ← **BLOCKS PACKAGE CHOICE** <!-- todoist:6h5qpVvqw7wCmG4H -->
 - [x] Choose Package A or B → **Package A chosen** <!-- todoist:6h5qpW4PxfXh6qCq -->
 - [ ] DJ: confirm ceremony sound (speaker + mic, 5 PM, main floor) as add-on vs. separate; confirm when 6-hr block starts (5:30 cocktail vs. 6:30 dinner) <!-- todoist:6h5qpW6CrxJ3xCVH -->
@@ -84,13 +85,13 @@ Chosen 2026-07-17. Ceremony space is separate from restaurant; restaurant patron
 - [x] VERIFY: walking distances — both hotels under 15 min walk to Casino Español ✓ <!-- todoist:6h5qpWF2vHMp7qJH -->
 - [x] Confirm second getting-ready hotel location + drive time → **Círculo Mexicano, Balcony Suite** <!-- todoist:6h5qpWHx3qFCvvJq -->
 - [ ] Plan wedding-party transport day-of (Wan Ting's parents at Airbnb in Centro can walk). Family lodging moved to [[Wedding – Micklos Family Lodging]]. <!-- todoist:6h5qpWR2XPvG4WWq -->
-- [ ] Guest transport: decide what to support from Casa de la Luz guest block; guidance vs. arranged transport <!-- todoist:6h5qpWXjxHJm49Qq -->
+- [x] Guest transport: decide what to support from Casa de la Luz guest block; guidance vs. arranged transport <!-- todoist:6h5qpWXjxHJm49Qq -->  <!-- done 2026-07-19 -->
 - [x] Confirm on-site bridal suite for post-dinner dress change ✓ <!-- todoist:6h5qpWVqF42GgWVH -->
-- [ ] Confirm with Lauren: she's writing ceremony herself, check if she wants input from us on content/vows; confirm venue needs (podium, table, etc.) <!-- todoist:6h5qpWfV2RWVv3wq -->
+- [x] Confirm with Lauren: she's writing ceremony herself, check if she wants input from us on content/vows; confirm venue needs (podium, table, etc.) <!-- todoist:6h5qpWfV2RWVv3wq -->  <!-- done 2026-08-08 -->
 - [ ] Lock toast speakers + running order, map to course breaks (speakers identified; order TBD closer to wedding) <!-- todoist:6h5qpWhPhPMQr2vH -->
 - [x] Ask Dad if he wants to give a toast at the wedding → **Yes** ✓ <!-- todoist:6h6WH936XcQjr99q -->
 - [x] Ask Wan Ting's brother to lead yum seng → **Jin Rui agreed** ✓ <!-- todoist:6h5qpWpq8qHgr2gq -->
-- [ ] Cookie table — CDMX side: get bulk quote from Pastelería Ideal + Roma/Condesa bakery <!-- todoist:6h5qpWpV4JM4VxfH -->
+- [x] Cookie table — CDMX side: get bulk quote from Pastelería Ideal + Roma/Condesa bakery <!-- todoist:6h5qpWpV4JM4VxfH -->  <!-- done 2026-07-19 -->
 - [ ] Cookie table — Pittsburgh side: source commercially packaged cookies (Bethel Bakery, Oakmont Bakery, etc.); pack in luggage (factory-sealed OK for customs) <!-- todoist:6h6QH3CfWc934gWH -->
 - [ ] Cookie table — Singapore side: source commercially packaged cookies/treats; Jestina or family to bring <!-- todoist:6h6QH3MG6cwPmP8q -->
 - [ ] Cookie table — setup: coordinate with Casino Español / coordinator on table, labels, display <!-- todoist:6h6QH3cR2Vc79Qwq -->
@@ -100,10 +101,10 @@ Chosen 2026-07-17. Ceremony space is separate from restaurant; restaurant patron
 
 ## Waiting On
 - [x] Coordinator → venue answer on pre-6PM ceremony space separation (confirmed: space is separate, just shared egress)
-- [ ] DJ → response on ceremony sound add-on + 6-hr block start time
-- [ ] Lauren → response on what she'll do for ceremony content + what she needs from us
+- [ ] DJ → response on ceremony sound add-on + 6-hr block start time <!-- todoist:6hP8Rm2V84hQvvHH -->
+- [ ] Lauren → response on what she'll do for ceremony content + what she needs from us <!-- todoist:6hP8Rm2X2QJ9qMWH -->
 - [x] Coordinator → ceremony furniture confirmed: venue provides ceremony chairs, aisle carpet, and ceremony table
-- [ ] Jestina (Wan Ting's mom) → response on contributing to cookie table
+- [ ] Jestina (Wan Ting's mom) → response on contributing to cookie table <!-- todoist:6hP8Rm4qp2w6w3Mq -->
 
 ## Hotels — Day-of
 

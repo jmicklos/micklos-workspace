@@ -23,5 +23,5 @@ Bachelor party trip is planned, booked, and completed.
 - [Planning Spreadsheet 1](https://docs.google.com/spreadsheets/d/1TTqOeV6x0GgIhMbDuTbYPFYFxEvLnPjUBrE5eLSOTmg/edit?gid=0#gid=0)
 - [Planning Spreadsheet 2](https://docs.google.com/spreadsheets/d/1eZ6HPszhWVFNpH-k6ubjFgW8G7aM8Wiu72bpKhGWq9I/edit?gid=0#gid=0)
 
-## Next Actions
-- [ ] Check in with best men on what details they need help with
+## Tasks
+- [ ] Check in with best men on what details they need help with <!-- todoist:6hP8H6F2Pv3WRrfr -->

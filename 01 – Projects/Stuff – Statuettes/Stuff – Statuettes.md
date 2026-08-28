@@ -78,17 +78,16 @@ A large carved and painted panel (flame/cloud motifs) is visible in background o
 ### Correspondence
 See `outreach-emails.md` for all email drafts and history (including Bonhams exchange from March 2026).
 
-## Next Steps
-
+## Tasks
 - [x] Photograph and catalog all 5 pieces
 - [x] Contact Bonhams — passed (2026-03-11)
 - [x] Send email to Prof. Haicheng Wang — sent 2026-06-08
 - [x] Send email to Dr. Foong Ping (SAM) — sent 2026-06-08
 - [x] Prof. Wang declined, referred Prof. Steven Harrell — sent email to Harrell 2026-06-12
 - [x] Prof. Harrell declined, referred Sangren (Cornell), Weller (BU), Dean (NUS) — 2026-06-13
-- [ ] Email Prof. Kenneth Dean (NUS) — strongest regional fit
-- [ ] If no reply from Dean, try Sangren and/or Weller
-- [ ] Photograph spirit cavities close-up
-- [ ] Examine and document possible inscription on piece 04 reverse
-- [ ] Get expert identification
-- [ ] Decide disposition for each piece based on results
+- [ ] Email Prof. Kenneth Dean (NUS) — strongest regional fit <!-- todoist:6hP8H5xxPFVfxPXx -->
+- [ ] If no reply from Dean, try Sangren and/or Weller <!-- todoist:6hP8H63VVh6gWvpx -->
+- [ ] Photograph spirit cavities close-up <!-- todoist:6hP8H6745HpwmjpQ -->
+- [ ] Examine and document possible inscription on piece 04 reverse <!-- todoist:6hP8H677P9QPC2HQ -->
+- [ ] Get expert identification <!-- todoist:6hP8H69HjXM23CWQ -->
+- [ ] Decide disposition for each piece based on results <!-- todoist:6hP8H6C6RH25V5Mx -->

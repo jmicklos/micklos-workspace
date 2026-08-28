@@ -12,6 +12,10 @@ todoist-section-id: 6h5CPvGqJ9fv24V6
 
 # Home – Granite Dining Table
 
+## Tasks
+- [ ] Decide on TBar plan <!-- todoist:6h9FXpH3X6XW5QQc -->
+- [ ] Get plan from Sara on remaining granite slab/ bar <!-- todoist:6h9FXpP8MgCFc8Wc -->
+
 ## Definition of Done
 Black granite slab is cut, mounted on a table base, and installed in the dining room.
 
@@ -53,8 +57,8 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
 - [x] Get quote from granite fabricator for cutting slab to final dimensions
 - [x] Purchase table base
 - [x] Cut granite slab in two and mount on base with a center gap for a brass support
-- [ ] Add the brass center support between the two granite halves
-- [ ] Hear back from Sara on next steps
+- [ ] Add the brass center support between the two granite halves <!-- todoist:6hP8Rjqgp2j55x76 -->
+- [ ] Hear back from Sara on next steps <!-- todoist:6hP8RjvCrC6wm9m6 -->
 
 ## Contacts
 - **Sara Wise** (Architect) — planned the center support so the table is structurally sound
@@ -63,7 +67,7 @@ Black granite slab is cut, mounted on a table base, and installed in the dining 
 
 ## Waiting On
 - [x] Connie at Granite Marble WA — email sent 2026-04-06 re: available granite material dimensions
-- [ ] Sara — next steps (brass center support / final install)
+- [ ] Sara — next steps (brass center support / final install) <!-- todoist:6hP8Rjw5grmPXxhc -->
 
 ## Notes
 - Standard dining table height is 28-30". Viggo is likely 30". With 1.25" granite = ~31.25" (fine, or trim base 1").

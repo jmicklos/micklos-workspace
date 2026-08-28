@@ -13,6 +13,14 @@ Read every `.md` file recursively under `03 – Resources/Relationships/`. For e
 
 Find all people whose birthday month/day falls within today through today+30 days. For each match, also check for a `deceased: true` frontmatter field and note it separately.
 
+**Also check `todoist-project-id`.** If the person has one AND their Todoist person-project holds a recurring birthday-prep task, Todoist already pings Jonathan on his phone — do **not** add a duplicate todo to the daily note. Instead list them in the report under a "Todoist has these" line, showing the recurring task's next due date.
+
+This is the intended division of labour, not a workaround:
+- **Todoist** covers the handful of people who need real lead time to shop or plan (as of 2026-08-28: Mom, Dad, Lauren, Peter Brown). Phone ping, no vault upkeep.
+- **`/morning`** covers *everyone else* by deriving birthdays from `birthdate` frontmatter — ~30 people, zero maintenance, no drift.
+
+Neither system duplicates the other, and nobody falls through the gap.
+
 ### Relationship anniversaries
 Read `03 – Resources/Relationships/Wan Ting Lee.md`. Extract the `important-dates` list. For each entry with `recurs: annually`, check if the month/day of the `date` field falls within the next 30 days. Note the `label` for each match.
 
@@ -37,12 +45,16 @@ If it doesn't exist, create it using this template:
 ## Recurring
 - [ ] Remember Wan Ting's Number [+13322075154](tel:+13322075154)
 
+## Quote
+>
+
 ## Notes
 -
 ```
 
 For each birthday or anniversary found in Step 2:
 - If the person has `deceased: true` — do NOT add a todo. Instead, collect them for the remembrance section in the report only.
+- If the person is covered by a recurring Todoist birthday task (see Step 2) — do NOT add a todo. Report only.
 - Otherwise, add a todo under `#### Quick Next Steps` if one doesn't already exist:
   - Birthday: `- [ ] Tend to [Name]'s birthday ([Month Day])`
   - Anniversary: `- [ ] Tend to [label] with Wan Ting ([Month Day])`
@@ -97,6 +109,18 @@ Example area file format:
 - Pay bills + financial check | cadence: monthly | on: last-weekend | last-done: 2026-03-29
 ```
 
+## Step 3.6 — Daily quote
+
+Run:
+
+```bash
+python3 "06 – Skills/daily-quote.py"
+```
+
+Insert the result into today's note under a `## Quote` section (create it above `## Notes`). Deterministic per date — re-running `/morning` the same day yields the same quote, so it won't churn the note.
+
+`03 – Resources/Quotes/Recurring/` holds ~75 quotes Jonathan collected as operating principles. The folder was named "Recurring" but nothing ever surfaced them. One a day cycles the whole collection in ~2.5 months. When he reacts to one — wants it gone, or reworded — move it to `Old.md` rather than deleting.
+
 ## Step 3.7 — Todoist sync
 
 Run the `/todoist-sync` skill. This will:
@@ -147,10 +171,15 @@ Format the output as follows. Be concise — this is a quick brief, not an essay
 ### Recurring responsibilities
 [List any area recurring responsibilities that are due this period, or "All clear" if none]
 
+### Quote of the day
+[The quote from Step 3.6]
+
 ### Todoist sync
 [Include the sync report from Step 3.7. Show new tasks synced in each direction, completions, inbox items to triage, and any orphan projects.]
+[ALWAYS include the coverage line. If coverage is under 90%, lead the section with it — a sync summary without coverage overstates how much is actually tracked.]
 
 ### PARA health
+- Sync coverage: [N]/[M] tasks visible to Todoist ([P]%) — flag if under 90%
 - Inbox: [N] items to process
 - [N] projects need review
 - [N] active projects total
